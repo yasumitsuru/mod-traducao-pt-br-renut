@@ -87,3 +87,6 @@ commits automaticamente, ative o gancho com `git config core.hooksPath .githooks
 Este é um projeto comunitário independente e não oficial, sem afiliação com a Rare, a Microsoft ou
 os desenvolvedores do reNut. Banjo-Kazooie e seus personagens pertencem aos seus respectivos
 titulares. O repositório não distribui arquivos do jogo.
+
+O código-fonte das ferramentas e dos testes é distribuído sob a licença MIT. A tradução e o jogo
+têm avisos próprios em `NOTICE.md`.
