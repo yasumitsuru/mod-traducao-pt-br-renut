@@ -1,0 +1,48 @@
+{
+  "arquivo": "11b94b3a",
+  "asset": "aid_loctext_banjox_showdowntown_safehouses",
+  "frases": [
+    {
+      "id": "4f09",
+      "chave": "dialog__safehouses_safehouse1locked",
+      "hash_es": "a89a43c863beb4f4",
+      "texto_ptbr": "Você precisa de uma combinação para abrir esta Torre do Alçapão. Visite a toupeira preferida de todo mundo se quiser uma!",
+      "lote": "505"
+    },
+    {
+      "id": "568c",
+      "chave": "dialog__safehouses_safehouse1unlocked",
+      "hash_es": "df5ceda35cb86685",
+      "texto_ptbr": "Você já tem a combinação! É %s",
+      "lote": "505"
+    },
+    {
+      "id": "8bca",
+      "chave": "dialog__safehouses_safehouse2locked",
+      "hash_es": "3c6394d9fa9e8073",
+      "texto_ptbr": "Esta Torre do Alçapão está trancada. Talvez eu consiga lhe arranjar a combinação, se você conseguir me alcançar!",
+      "lote": "505"
+    },
+    {
+      "id": "c78d",
+      "chave": "dialog__safehouses_safehouse2unlocked",
+      "hash_es": "acc7683976dbc06b",
+      "texto_ptbr": "Agora não esqueça a combinação! É %s",
+      "lote": "505"
+    },
+    {
+      "id": "c88b",
+      "chave": "dialog__safehouses_safehouse3locked",
+      "hash_es": "222c4df332a6dc5b",
+      "texto_ptbr": "Arrr! Esta Torre do Alçapão está trancada a sete chaves! Procure o velho Blubber pela cidade, que ele talvez possa ajudar!",
+      "lote": "505"
+    },
+    {
+      "id": "388e",
+      "chave": "dialog__safehouses_safehouse3unlocked",
+      "hash_es": "15671428dec7519d",
+      "texto_ptbr": "Arrr! Vosmecê vai precisar da combinação. É %s",
+      "lote": "505"
+    }
+  ]
+}

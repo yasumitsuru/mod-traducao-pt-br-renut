@@ -1,0 +1,2064 @@
+{
+  "arquivo": "110f9757",
+  "asset": "aid_loctext_banjox_ui_ingame_main",
+  "frases": [
+    {
+      "id": "6e4d",
+      "chave": "dialog__loadvehicle_mayhaveproblems1",
+      "hash_es": "105a93237181a5c2",
+      "texto_ptbr": "O veículo carregado %s.",
+      "lote": "501"
+    },
+    {
+      "id": "6e4e",
+      "chave": "dialog__loadvehicle_mayhaveproblems2",
+      "hash_es": "ae94729bff8d9eb2",
+      "texto_ptbr": "O veículo carregado %s e %s.",
+      "lote": "501"
+    },
+    {
+      "id": "6e4f",
+      "chave": "dialog__loadvehicle_mayhaveproblems3",
+      "hash_es": "c965f0f8022e9612",
+      "texto_ptbr": "O veículo carregado %s, %s e %s.",
+      "lote": "501"
+    },
+    {
+      "id": "6e50",
+      "chave": "dialog__loadvehicle_mayhaveproblems4",
+      "hash_es": "826b4ba38e59f663",
+      "texto_ptbr": "O veículo carregado %s, %s, %s e %s.",
+      "lote": "501"
+    },
+    {
+      "id": "6e51",
+      "chave": "dialog__loadvehicle_mayhaveproblems5",
+      "hash_es": "4172d84a46c19e07",
+      "texto_ptbr": "O veículo carregado %s, %s, %s, %s e %s.",
+      "lote": "501"
+    },
+    {
+      "id": "bb52",
+      "chave": "dialog__loadvehicle_multiplayervehicleadvise1",
+      "hash_es": "36f454ebb66e7ae6",
+      "texto_ptbr": "Este desafio %s. Mumbo aconselhar urso escolher veículo com %s.",
+      "lote": "501"
+    },
+    {
+      "id": "bb53",
+      "chave": "dialog__loadvehicle_multiplayervehicleadvise2",
+      "hash_es": "491ef2f374ae0b92",
+      "texto_ptbr": "Este desafio %s e %s. Mumbo aconselhar urso escolher veículo com %s e %s.",
+      "lote": "501"
+    },
+    {
+      "id": "bb54",
+      "chave": "dialog__loadvehicle_multiplayervehicleadvise3",
+      "hash_es": "6914122254c7311d",
+      "texto_ptbr": "Este desafio %s, %s e %s. Mumbo aconselhar urso escolher veículo com %s, %s e %s.",
+      "lote": "501"
+    },
+    {
+      "id": "bb55",
+      "chave": "dialog__loadvehicle_multiplayervehicleadvise4",
+      "hash_es": "64fdbca7b9f4444a",
+      "texto_ptbr": "Este desafio %s, %s, %s e %s. Mumbo aconselhar urso escolher veículo com %s, %s, %s e %s.",
+      "lote": "501"
+    },
+    {
+      "id": "3035",
+      "chave": "dialog__loadvehicle_unloadable1",
+      "hash_es": "f03326b322107750",
+      "texto_ptbr": "Não dá para carregar o veículo porque ele %s.",
+      "lote": "501"
+    },
+    {
+      "id": "3036",
+      "chave": "dialog__loadvehicle_unloadable2",
+      "hash_es": "19f27f5cf9e23d95",
+      "texto_ptbr": "Não dá para carregar o veículo porque ele %s e %s.",
+      "lote": "501"
+    },
+    {
+      "id": "3037",
+      "chave": "dialog__loadvehicle_unloadable3",
+      "hash_es": "7103949fd81417dc",
+      "texto_ptbr": "Não dá para carregar o veículo porque ele %s, %s e %s.",
+      "lote": "501"
+    },
+    {
+      "id": "3038",
+      "chave": "dialog__loadvehicle_unloadable4",
+      "hash_es": "1f263ab97e638bc7",
+      "texto_ptbr": "Não dá para carregar o veículo porque ele %s, %s, %s e %s.",
+      "lote": "501"
+    },
+    {
+      "id": "3039",
+      "chave": "dialog__loadvehicle_unloadable5",
+      "hash_es": "9156b739ad7e85d3",
+      "texto_ptbr": "Não dá para carregar o veículo porque ele %s, %s, %s, %s e %s.",
+      "lote": "501"
+    },
+    {
+      "id": "cdfe",
+      "chave": "dialog__playerscoredgoal00",
+      "hash_es": "a7c767306ef62281",
+      "texto_ptbr": "<font color=[mpbrown]>%s</font> marcou um gol para <font color=[mpbrown]>%s</font>!",
+      "lote": "501"
+    },
+    {
+      "id": "cdff",
+      "chave": "dialog__playerscoredgoal01",
+      "hash_es": "a6e72bc53b5342c5",
+      "texto_ptbr": "<font color=[mpbrown]>%s</font> fez um gol contra para <font color=[mpgreenlime]>%s</font>!",
+      "lote": "501"
+    },
+    {
+      "id": "ce1f",
+      "chave": "dialog__playerscoredgoal10",
+      "hash_es": "3eff28d31dcd41fe",
+      "texto_ptbr": "<font color=[mpgreenlime]>%s</font> fez um gol contra para <font color=[mpbrown]>%s</font>!",
+      "lote": "501"
+    },
+    {
+      "id": "ce20",
+      "chave": "dialog__playerscoredgoal11",
+      "hash_es": "0cce3382011340fb",
+      "texto_ptbr": "<font color=[mpgreenlime]>%s</font> marcou um gol para <font color=[mpgreenlime]>%s</font>!",
+      "lote": "501"
+    },
+    {
+      "id": "471f",
+      "chave": "ingame__album_defaultLivePhotoName",
+      "hash_es": "320b65686c811305",
+      "texto_ptbr": "Foto LIVE",
+      "lote": "501"
+    },
+    {
+      "id": "df74",
+      "chave": "ingame__album_defaultLiveReplayame",
+      "hash_es": "8e0e076767734c5b",
+      "texto_ptbr": "Repetição LIVE",
+      "lote": "501"
+    },
+    {
+      "id": "3d5a",
+      "chave": "ingame__album_defaultLocalPhotoName",
+      "hash_es": "494e0843d958b988",
+      "texto_ptbr": "Foto",
+      "lote": "501"
+    },
+    {
+      "id": "eebd",
+      "chave": "ingame__album_defaultLocalReplayName",
+      "hash_es": "3ffa4f770751b5c5",
+      "texto_ptbr": "Repetição",
+      "lote": "501"
+    },
+    {
+      "id": "24c5",
+      "chave": "ingame__album_photoTag",
+      "hash_es": "494e0843d958b988",
+      "texto_ptbr": "Foto",
+      "lote": "501"
+    },
+    {
+      "id": "d3c8",
+      "chave": "ingame__album_replayTag",
+      "hash_es": "3ffa4f770751b5c5",
+      "texto_ptbr": "Repetição",
+      "lote": "501"
+    },
+    {
+      "id": "f9a1",
+      "chave": "ingame__albumconnectionproblem",
+      "hash_es": "1ff16a3d888c5944",
+      "texto_ptbr": "Você não está conectado ao Xbox LIVE.",
+      "lote": "501"
+    },
+    {
+      "id": "b651",
+      "chave": "ingame__blueprints_choosefriendtitle",
+      "hash_es": "cf1a3854c0d7f1b4",
+      "texto_ptbr": "Escolha um amigo para receber o projeto.",
+      "lote": "501"
+    },
+    {
+      "id": "3a0e",
+      "chave": "ingame__blueprints_chooseinboxblueprinttitle",
+      "hash_es": "7ba1975bb27672a1",
+      "texto_ptbr": "Selecione um projeto que você recebeu.",
+      "lote": "501"
+    },
+    {
+      "id": "7dbc",
+      "chave": "ingame__blueprints_chooseoutboxslottitle",
+      "hash_es": "75434ea473be12e3",
+      "texto_ptbr": "Escolha uma mensagem de projeto enviada para substituir.",
+      "lote": "501"
+    },
+    {
+      "id": "c07e",
+      "chave": "ingame__blueprints_countingoutbox",
+      "hash_es": "1c94a6f91476c71b",
+      "texto_ptbr": "Contando o número de projetos enviados.",
+      "lote": "501"
+    },
+    {
+      "id": "cf89",
+      "chave": "ingame__blueprints_deleteinbox",
+      "hash_es": "99ad4306efc0e412",
+      "texto_ptbr": "Tem certeza de que deseja excluir esta mensagem de projeto?",
+      "lote": "501"
+    },
+    {
+      "id": "e483",
+      "chave": "ingame__blueprints_deleteinboxok",
+      "hash_es": "27a6288677342109",
+      "texto_ptbr": "Mensagem de projeto excluída.",
+      "lote": "501"
+    },
+    {
+      "id": "bd7a",
+      "chave": "ingame__blueprints_deleteinboxproblem",
+      "hash_es": "075692641177a892",
+      "texto_ptbr": "Ocorreu um problema ao excluir a mensagem de projeto.",
+      "lote": "501"
+    },
+    {
+      "id": "972b",
+      "chave": "ingame__blueprints_deleteinboxtitle",
+      "hash_es": "aae960c30ef047af",
+      "texto_ptbr": "Excluindo mensagem de projeto.",
+      "lote": "501"
+    },
+    {
+      "id": "c854",
+      "chave": "ingame__blueprints_mailcontent",
+      "hash_es": "fe599a0df74e8898",
+      "texto_ptbr": "Você recebeu um projeto! Vá à garagem para pegá-lo!",
+      "lote": "501"
+    },
+    {
+      "id": "e688",
+      "chave": "ingame__blueprints_outboxproblem",
+      "hash_es": "3068a1336bf79525",
+      "texto_ptbr": "Não foi possível contar o número de projetos que você enviou.",
+      "lote": "501"
+    },
+    {
+      "id": "a67e",
+      "chave": "ingame__blueprints_overwriteoutbox",
+      "hash_es": "3204739babd7f06e",
+      "texto_ptbr": "Isso removerá a mensagem de projeto que você enviou antes. Deseja continuar?",
+      "lote": "501"
+    },
+    {
+      "id": "1f49",
+      "chave": "ingame__blueprints_saved",
+      "hash_es": "50df40aeb61bcea0",
+      "texto_ptbr": "Projeto salvo!",
+      "lote": "501"
+    },
+    {
+      "id": "3c4a",
+      "chave": "ingame__blueprints_searchinginbox",
+      "hash_es": "2421e8d117af3f17",
+      "texto_ptbr": "Buscando. Pressione o botão [A] para cancelar...",
+      "lote": "501"
+    },
+    {
+      "id": "248c",
+      "chave": "ingame__blueprints_searchinginboxtitle",
+      "hash_es": "afae19134a28435d",
+      "texto_ptbr": "Buscando projetos recebidos, aguarde...",
+      "lote": "501"
+    },
+    {
+      "id": "42e6",
+      "chave": "ingame__blueprints_senddone",
+      "hash_es": "60f33fc2e330a790",
+      "texto_ptbr": "Projeto enviado.",
+      "lote": "501"
+    },
+    {
+      "id": "1440",
+      "chave": "ingame__blueprints_sendingtitle",
+      "hash_es": "45aea4ee110816b9",
+      "texto_ptbr": "Enviando projeto.",
+      "lote": "501"
+    },
+    {
+      "id": "c051",
+      "chave": "ingame__blueprints_sendproblem",
+      "hash_es": "e8f2cae44667554b",
+      "texto_ptbr": "Falha ao enviar o projeto.",
+      "lote": "501"
+    },
+    {
+      "id": "5380",
+      "chave": "ingame__blueprints_stringverifying",
+      "hash_es": "e68a68388d4c8e2a",
+      "texto_ptbr": "Verificando o nome do veículo...",
+      "lote": "501"
+    },
+    {
+      "id": "b953",
+      "chave": "ingame__blueprints_stringverifyproblem",
+      "hash_es": "e55afbe13527d0c2",
+      "texto_ptbr": "O nome do seu veículo contém uma palavra inválida. Escolha outro nome.",
+      "lote": "501"
+    },
+    {
+      "id": "d075",
+      "chave": "ingame__bp_category_awarded",
+      "hash_es": "2d90c7edf2d07139",
+      "texto_ptbr": "Projetos do S.J.",
+      "lote": "501"
+    },
+    {
+      "id": "cf8d",
+      "chave": "ingame__bp_category_buy",
+      "hash_es": "8b67af10bdb2f1fe",
+      "texto_ptbr": "Projetos da Humba",
+      "lote": "501"
+    },
+    {
+      "id": "9af8",
+      "chave": "ingame__bp_category_custom",
+      "hash_es": "16f24de531061c1c",
+      "texto_ptbr": "Seus projetos",
+      "lote": "501"
+    },
+    {
+      "id": "d5fc",
+      "chave": "ingame__bp_category_dev",
+      "hash_es": "816e719ec9bfa7e4",
+      "texto_ptbr": "Projetos dos devs",
+      "lote": "501"
+    },
+    {
+      "id": "3cb5",
+      "chave": "ingame__bp_category_e3",
+      "hash_es": "d83eae175f6c073e",
+      "texto_ptbr": "Veículos da E3",
+      "lote": "501"
+    },
+    {
+      "id": "7662",
+      "chave": "ingame__bp_category_golfcarts",
+      "hash_es": "2cba20516341e6e5",
+      "texto_ptbr": "Projetos da cidade",
+      "lote": "501"
+    },
+    {
+      "id": "010a",
+      "chave": "ingame__bp_category_logchoice",
+      "hash_es": "d232c914237a7716",
+      "texto_ptbr": "Escolha do S.J.",
+      "lote": "501"
+    },
+    {
+      "id": "3dfa",
+      "chave": "ingame__bp_category_mp",
+      "hash_es": "e1117c3fc675e480",
+      "texto_ptbr": "Padrão multijogador",
+      "lote": "501"
+    },
+    {
+      "id": "9070",
+      "chave": "ingame__bp_category_saved",
+      "hash_es": "57f7005b2ffcc7fb",
+      "texto_ptbr": "Projetos de amigos",
+      "lote": "501"
+    },
+    {
+      "id": "36be",
+      "chave": "ingame__bp_category_special",
+      "hash_es": "42c1b66a26c02253",
+      "texto_ptbr": "Projetos especiais",
+      "lote": "501"
+    },
+    {
+      "id": "98cc",
+      "chave": "ingame__bp_category_templates",
+      "hash_es": "de155fd2c6fd2149",
+      "texto_ptbr": "Chassi",
+      "lote": "501"
+    },
+    {
+      "id": "eaca",
+      "chave": "ingame__category_ammocontained_high",
+      "hash_es": "85e2adef7edee9e0",
+      "texto_ptbr": "Alta",
+      "lote": "501"
+    },
+    {
+      "id": "37fc",
+      "chave": "ingame__category_ammocontained_low",
+      "hash_es": "ece6db80e37700b7",
+      "texto_ptbr": "Baixa",
+      "lote": "501"
+    },
+    {
+      "id": "9d0b",
+      "chave": "ingame__category_ammocontained_medium",
+      "hash_es": "cd98149a405da5e5",
+      "texto_ptbr": "Média",
+      "lote": "501"
+    },
+    {
+      "id": "2450",
+      "chave": "ingame__category_ammocontained_veryhigh",
+      "hash_es": "2d24ed4768df5c89",
+      "texto_ptbr": "Muito alta",
+      "lote": "501"
+    },
+    {
+      "id": "58c2",
+      "chave": "ingame__category_ammocontained_verylow",
+      "hash_es": "fe52964d529d43fe",
+      "texto_ptbr": "Muito baixa",
+      "lote": "501"
+    },
+    {
+      "id": "dea6",
+      "chave": "ingame__category_ammoused_high",
+      "hash_es": "85e2adef7edee9e0",
+      "texto_ptbr": "Alta",
+      "lote": "501"
+    },
+    {
+      "id": "2058",
+      "chave": "ingame__category_ammoused_low",
+      "hash_es": "ece6db80e37700b7",
+      "texto_ptbr": "Baixa",
+      "lote": "501"
+    },
+    {
+      "id": "f7e7",
+      "chave": "ingame__category_ammoused_medium",
+      "hash_es": "cd98149a405da5e5",
+      "texto_ptbr": "Média",
+      "lote": "501"
+    },
+    {
+      "id": "a62c",
+      "chave": "ingame__category_ammoused_veryhigh",
+      "hash_es": "2d24ed4768df5c89",
+      "texto_ptbr": "Muito alta",
+      "lote": "501"
+    },
+    {
+      "id": "0f1e",
+      "chave": "ingame__category_ammoused_verylow",
+      "hash_es": "fe52964d529d43fe",
+      "texto_ptbr": "Muito baixa",
+      "lote": "501"
+    },
+    {
+      "id": "12aa",
+      "chave": "ingame__category_damage_high",
+      "hash_es": "85e2adef7edee9e0",
+      "texto_ptbr": "Alto",
+      "lote": "501"
+    },
+    {
+      "id": "e3dc",
+      "chave": "ingame__category_damage_low",
+      "hash_es": "ece6db80e37700b7",
+      "texto_ptbr": "Baixo",
+      "lote": "501"
+    },
+    {
+      "id": "3ceb",
+      "chave": "ingame__category_damage_medium",
+      "hash_es": "cd98149a405da5e5",
+      "texto_ptbr": "Médio",
+      "lote": "501"
+    },
+    {
+      "id": "3c30",
+      "chave": "ingame__category_damage_veryhigh",
+      "hash_es": "2d24ed4768df5c89",
+      "texto_ptbr": "Muito alto",
+      "lote": "501"
+    },
+    {
+      "id": "f4a2",
+      "chave": "ingame__category_damage_verylow",
+      "hash_es": "fe52964d529d43fe",
+      "texto_ptbr": "Muito baixo",
+      "lote": "501"
+    },
+    {
+      "id": "2d2c",
+      "chave": "ingame__category_fuelcontained_high",
+      "hash_es": "85e2adef7edee9e0",
+      "texto_ptbr": "Alto",
+      "lote": "501"
+    },
+    {
+      "id": "b61e",
+      "chave": "ingame__category_fuelcontained_low",
+      "hash_es": "ece6db80e37700b7",
+      "texto_ptbr": "Baixo",
+      "lote": "501"
+    },
+    {
+      "id": "ffed",
+      "chave": "ingame__category_fuelcontained_medium",
+      "hash_es": "cd98149a405da5e5",
+      "texto_ptbr": "Médio",
+      "lote": "501"
+    },
+    {
+      "id": "c7b2",
+      "chave": "ingame__category_fuelcontained_veryhigh",
+      "hash_es": "2d24ed4768df5c89",
+      "texto_ptbr": "Muito alto",
+      "lote": "501"
+    },
+    {
+      "id": "17e4",
+      "chave": "ingame__category_fuelcontained_verylow",
+      "hash_es": "fe52964d529d43fe",
+      "texto_ptbr": "Muito baixo",
+      "lote": "501"
+    },
+    {
+      "id": "9bc8",
+      "chave": "ingame__category_fuelused_high",
+      "hash_es": "85e2adef7edee9e0",
+      "texto_ptbr": "Alto",
+      "lote": "501"
+    },
+    {
+      "id": "c13a",
+      "chave": "ingame__category_fuelused_low",
+      "hash_es": "ece6db80e37700b7",
+      "texto_ptbr": "Baixo",
+      "lote": "501"
+    },
+    {
+      "id": "8589",
+      "chave": "ingame__category_fuelused_medium",
+      "hash_es": "cd98149a405da5e5",
+      "texto_ptbr": "Médio",
+      "lote": "501"
+    },
+    {
+      "id": "244e",
+      "chave": "ingame__category_fuelused_veryhigh",
+      "hash_es": "2d24ed4768df5c89",
+      "texto_ptbr": "Muito alto",
+      "lote": "501"
+    },
+    {
+      "id": "5100",
+      "chave": "ingame__category_fuelused_verylow",
+      "hash_es": "fe52964d529d43fe",
+      "texto_ptbr": "Muito baixo",
+      "lote": "501"
+    },
+    {
+      "id": "7a1d",
+      "chave": "ingame__category_grip_high",
+      "hash_es": "85e2adef7edee9e0",
+      "texto_ptbr": "Alta",
+      "lote": "501"
+    },
+    {
+      "id": "a8ef",
+      "chave": "ingame__category_grip_low",
+      "hash_es": "ece6db80e37700b7",
+      "texto_ptbr": "Baixa",
+      "lote": "501"
+    },
+    {
+      "id": "4d1e",
+      "chave": "ingame__category_grip_medium",
+      "hash_es": "cd98149a405da5e5",
+      "texto_ptbr": "Média",
+      "lote": "501"
+    },
+    {
+      "id": "2523",
+      "chave": "ingame__category_grip_veryhigh",
+      "hash_es": "2d24ed4768df5c89",
+      "texto_ptbr": "Muito alta",
+      "lote": "501"
+    },
+    {
+      "id": "0b35",
+      "chave": "ingame__category_grip_verylow",
+      "hash_es": "fe52964d529d43fe",
+      "texto_ptbr": "Muito baixa",
+      "lote": "501"
+    },
+    {
+      "id": "6d8c",
+      "chave": "ingame__category_high",
+      "hash_es": "16aaf76ea8af6363",
+      "texto_ptbr": "Alto/a",
+      "lote": "501"
+    },
+    {
+      "id": "8c33",
+      "chave": "ingame__category_invalid",
+      "hash_es": "ee5b2a5d587b534e",
+      "texto_ptbr": "INVÁLIDO!!!",
+      "lote": "501"
+    },
+    {
+      "id": "6a7e",
+      "chave": "ingame__category_low",
+      "hash_es": "7c6873a6ea037046",
+      "texto_ptbr": "Baixo/a",
+      "lote": "501"
+    },
+    {
+      "id": "d84d",
+      "chave": "ingame__category_medium",
+      "hash_es": "5d801867c91e32ad",
+      "texto_ptbr": "Médio/a",
+      "lote": "501"
+    },
+    {
+      "id": "30b8",
+      "chave": "ingame__category_power_high",
+      "hash_es": "85e2adef7edee9e0",
+      "texto_ptbr": "Alta",
+      "lote": "501"
+    },
+    {
+      "id": "782a",
+      "chave": "ingame__category_power_low",
+      "hash_es": "ece6db80e37700b7",
+      "texto_ptbr": "Baixa",
+      "lote": "501"
+    },
+    {
+      "id": "1679",
+      "chave": "ingame__category_power_medium",
+      "hash_es": "cd98149a405da5e5",
+      "texto_ptbr": "Média",
+      "lote": "501"
+    },
+    {
+      "id": "b13e",
+      "chave": "ingame__category_power_veryhigh",
+      "hash_es": "2d24ed4768df5c89",
+      "texto_ptbr": "Muito alta",
+      "lote": "501"
+    },
+    {
+      "id": "fff0",
+      "chave": "ingame__category_power_verylow",
+      "hash_es": "fe52964d529d43fe",
+      "texto_ptbr": "Muito baixa",
+      "lote": "501"
+    },
+    {
+      "id": "169a",
+      "chave": "ingame__category_strength_high",
+      "hash_es": "85e2adef7edee9e0",
+      "texto_ptbr": "Alta",
+      "lote": "501"
+    },
+    {
+      "id": "29cc",
+      "chave": "ingame__category_strength_low",
+      "hash_es": "ece6db80e37700b7",
+      "texto_ptbr": "Baixa",
+      "lote": "501"
+    },
+    {
+      "id": "fcdb",
+      "chave": "ingame__category_strength_medium",
+      "hash_es": "cd98149a405da5e5",
+      "texto_ptbr": "Média",
+      "lote": "501"
+    },
+    {
+      "id": "b820",
+      "chave": "ingame__category_strength_veryhigh",
+      "hash_es": "2d24ed4768df5c89",
+      "texto_ptbr": "Muito alta",
+      "lote": "501"
+    },
+    {
+      "id": "b292",
+      "chave": "ingame__category_strength_verylow",
+      "hash_es": "fe52964d529d43fe",
+      "texto_ptbr": "Muito baixa",
+      "lote": "501"
+    },
+    {
+      "id": "3812",
+      "chave": "ingame__category_veryhigh",
+      "hash_es": "b027ff9513b7d50d",
+      "texto_ptbr": "Muito alto/a",
+      "lote": "501"
+    },
+    {
+      "id": "fc44",
+      "chave": "ingame__category_verylow",
+      "hash_es": "e566a8416f33cf24",
+      "texto_ptbr": "Muito baixo/a",
+      "lote": "501"
+    },
+    {
+      "id": "a273",
+      "chave": "ingame__category_weight_high",
+      "hash_es": "85e2adef7edee9e0",
+      "texto_ptbr": "Alto",
+      "lote": "501"
+    },
+    {
+      "id": "1e85",
+      "chave": "ingame__category_weight_low",
+      "hash_es": "ece6db80e37700b7",
+      "texto_ptbr": "Baixo",
+      "lote": "501"
+    },
+    {
+      "id": "e2f4",
+      "chave": "ingame__category_weight_medium",
+      "hash_es": "cd98149a405da5e5",
+      "texto_ptbr": "Médio",
+      "lote": "501"
+    },
+    {
+      "id": "8879",
+      "chave": "ingame__category_weight_veryhigh",
+      "hash_es": "2d24ed4768df5c89",
+      "texto_ptbr": "Muito alto",
+      "lote": "501"
+    },
+    {
+      "id": "5bcb",
+      "chave": "ingame__category_weight_verylow",
+      "hash_es": "fe52964d529d43fe",
+      "texto_ptbr": "Muito baixo",
+      "lote": "501"
+    },
+    {
+      "id": "6c97",
+      "chave": "ingame__challengecountdown_continue",
+      "hash_es": "63e2bbaf1c924391",
+      "texto_ptbr": "Continuar",
+      "lote": "501"
+    },
+    {
+      "id": "c16c",
+      "chave": "ingame__challengecountdown_jiggy",
+      "hash_es": "9024c7282f166edc",
+      "texto_ptbr": "Jiggy",
+      "lote": "501"
+    },
+    {
+      "id": "a4bb",
+      "chave": "ingame__challengecountdown_notes",
+      "hash_es": "8a6172e21a8758f7",
+      "texto_ptbr": "Notas",
+      "lote": "501"
+    },
+    {
+      "id": "2270",
+      "chave": "ingame__challengecountdown_replayback",
+      "hash_es": "9f132c66de0f2531",
+      "texto_ptbr": "Voltar à repetição",
+      "lote": "501"
+    },
+    {
+      "id": "b202",
+      "chave": "ingame__challengecountdown_replayquit",
+      "hash_es": "9ec26f45b4b5573c",
+      "texto_ptbr": "Sair da repetição",
+      "lote": "501"
+    },
+    {
+      "id": "7ee0",
+      "chave": "ingame__challengecountdown_replayrepeat",
+      "hash_es": "3a2aef31a5bb88b8",
+      "texto_ptbr": "Rever repetição",
+      "lote": "501"
+    },
+    {
+      "id": "e80e",
+      "chave": "ingame__challengecountdown_savereplay",
+      "hash_es": "6c87b1ba612fa99c",
+      "texto_ptbr": "Salvar repetição",
+      "lote": "501"
+    },
+    {
+      "id": "5706",
+      "chave": "ingame__challengecountdown_toggleresults",
+      "hash_es": "51e354ead88aae4d",
+      "texto_ptbr": "Alternar resultados",
+      "lote": "501"
+    },
+    {
+      "id": "4d79",
+      "chave": "ingame__challengecountdown_trophytoken",
+      "hash_es": "41c3920cc7ea47a7",
+      "texto_ptbr": "Troféu T.T.",
+      "lote": "501"
+    },
+    {
+      "id": "51c2",
+      "chave": "ingame__challengecountdown_unknown",
+      "hash_es": "a03b221c6c6eae71",
+      "texto_ptbr": "???",
+      "lote": "501"
+    },
+    {
+      "id": "461a",
+      "chave": "ingame__challengecountdown_viewreplay",
+      "hash_es": "f2c1b1b82ba0fa07",
+      "texto_ptbr": "Ver repetição",
+      "lote": "501"
+    },
+    {
+      "id": "c59d",
+      "chave": "ingame__challengeinfo_bestever",
+      "hash_es": "09bb8cf30a2dcc75",
+      "texto_ptbr": "Recorde",
+      "lote": "501"
+    },
+    {
+      "id": "582d",
+      "chave": "ingame__challengeinfo_unknown",
+      "hash_es": "a03b221c6c6eae71",
+      "texto_ptbr": "???",
+      "lote": "501"
+    },
+    {
+      "id": "2edf",
+      "chave": "ingame__challengerestrictions_nowheels",
+      "hash_es": "e9d1379ec9e2a23f",
+      "texto_ptbr": "com rodas",
+      "lote": "501"
+    },
+    {
+      "id": "d769",
+      "chave": "ingame__challengerestrictions_tooheavy",
+      "hash_es": "0b163c4091d14831",
+      "texto_ptbr": "com peso excessivo",
+      "lote": "501"
+    },
+    {
+      "id": "3e7f",
+      "chave": "ingame__challengestart_bestever",
+      "hash_es": "09bb8cf30a2dcc75",
+      "texto_ptbr": "Recorde",
+      "lote": "501"
+    },
+    {
+      "id": "dc40",
+      "chave": "ingame__challengestart_choosevehicle",
+      "hash_es": "054cbf69eee8c66f",
+      "texto_ptbr": "Escolher veículo",
+      "lote": "501"
+    },
+    {
+      "id": "eeb3",
+      "chave": "ingame__challengestart_createvehicle",
+      "hash_es": "0f1ce2656b40b12c",
+      "texto_ptbr": "Criar veículo",
+      "lote": "501"
+    },
+    {
+      "id": "5e87",
+      "chave": "ingame__challengestart_gameobjectives",
+      "hash_es": "58d2e14b5078fac8",
+      "texto_ptbr": "Objetivos do jogo",
+      "lote": "501"
+    },
+    {
+      "id": "b4ea",
+      "chave": "ingame__challengestart_gamestyle",
+      "hash_es": "7c602f0aa2cf6b4b",
+      "texto_ptbr": "Tipo de jogo",
+      "lote": "501"
+    },
+    {
+      "id": "a325",
+      "chave": "ingame__challengestart_quitchallenge",
+      "hash_es": "2a9baf5c3825064d",
+      "texto_ptbr": "Amarelar",
+      "lote": "501"
+    },
+    {
+      "id": "eaff",
+      "chave": "ingame__challengestart_select",
+      "hash_es": "4ecba858ccb80bc3",
+      "texto_ptbr": "Selecionar",
+      "lote": "501"
+    },
+    {
+      "id": "bb48",
+      "chave": "ingame__challengestart_selectedvehicle",
+      "hash_es": "0437d0d165034a9b",
+      "texto_ptbr": "Projeto selecionado",
+      "lote": "501"
+    },
+    {
+      "id": "9a90",
+      "chave": "ingame__challengestart_startchallenge",
+      "hash_es": "137f18ded02b4859",
+      "texto_ptbr": "Iniciar jogo",
+      "lote": "501"
+    },
+    {
+      "id": "3ccf",
+      "chave": "ingame__challengestart_unknown",
+      "hash_es": "a03b221c6c6eae71",
+      "texto_ptbr": "???",
+      "lote": "501"
+    },
+    {
+      "id": "fa6d",
+      "chave": "ingame__chalscoretime_score",
+      "hash_es": "f5f03ac15d19e8c0",
+      "texto_ptbr": "Pontuação",
+      "lote": "501"
+    },
+    {
+      "id": "7ea0",
+      "chave": "ingame__chalscoretime_time",
+      "hash_es": "112f861342a869c7",
+      "texto_ptbr": "Tempo",
+      "lote": "501"
+    },
+    {
+      "id": "f809",
+      "chave": "ingame__combolock_title",
+      "hash_es": "187e06424619710c",
+      "texto_ptbr": "Cadeado de combinação",
+      "lote": "501"
+    },
+    {
+      "id": "44fd",
+      "chave": "ingame__componentinfo_contentstitle",
+      "hash_es": "c4cc22bf9e810faf",
+      "texto_ptbr": "Peças de veículo",
+      "lote": "501"
+    },
+    {
+      "id": "c98e",
+      "chave": "ingame__componentinfo_currentsetting",
+      "hash_es": "b39968b57fdd3aea",
+      "texto_ptbr": "Ajuste atual",
+      "lote": "501"
+    },
+    {
+      "id": "7794",
+      "chave": "ingame__componentinfo_partsowned",
+      "hash_es": "67c1e3858b4e656a",
+      "texto_ptbr": "Peças que você já tem",
+      "lote": "501"
+    },
+    {
+      "id": "9623",
+      "chave": "ingame__dialog_continue",
+      "hash_es": "63e2bbaf1c924391",
+      "texto_ptbr": "Continuar",
+      "lote": "501"
+    },
+    {
+      "id": "2a55",
+      "chave": "ingame__dialog_skip",
+      "hash_es": "ecebe9dfe1aa99e5",
+      "texto_ptbr": "Pular",
+      "lote": "501"
+    },
+    {
+      "id": "bc0d",
+      "chave": "ingame__duringmpchallenge_hostleaveseries",
+      "hash_es": "e11709fb9327eafc",
+      "texto_ptbr": "Aviso: você vai sair do seu grupo e não poderá voltar a esta liga. Tem certeza de que quer sair?",
+      "lote": "501"
+    },
+    {
+      "id": "0acd",
+      "chave": "ingame__duringmpchallenge_leavenormal",
+      "hash_es": "fe301d801fe62598",
+      "texto_ptbr": "Aviso: tem certeza de que quer sair deste jogo?",
+      "lote": "501"
+    },
+    {
+      "id": "43f8",
+      "chave": "ingame__duringmpchallenge_nonhostleaveseries",
+      "hash_es": "db8c4083a4dc2aea",
+      "texto_ptbr": "Aviso: você não poderá voltar a esta liga. Tem certeza de que quer sair?",
+      "lote": "501"
+    },
+    {
+      "id": "c155",
+      "chave": "ingame__editordisplay_ammo",
+      "hash_es": "985ed35c3d67a377",
+      "texto_ptbr": "Munição",
+      "lote": "501"
+    },
+    {
+      "id": "a037",
+      "chave": "ingame__editordisplay_fuel",
+      "hash_es": "832880bbaaa43248",
+      "texto_ptbr": "Combustível",
+      "lote": "501"
+    },
+    {
+      "id": "dd55",
+      "chave": "ingame__editordisplay_parts",
+      "hash_es": "c2a79a9d582daf20",
+      "texto_ptbr": "Peças usadas",
+      "lote": "501"
+    },
+    {
+      "id": "9df8",
+      "chave": "ingame__editordisplay_power",
+      "hash_es": "a60b5f318d9ffa20",
+      "texto_ptbr": "Velocidade",
+      "lote": "501"
+    },
+    {
+      "id": "f23a",
+      "chave": "ingame__editordisplay_strength",
+      "hash_es": "4813f589a62f33b9",
+      "texto_ptbr": "Força",
+      "lote": "501"
+    },
+    {
+      "id": "deb3",
+      "chave": "ingame__editordisplay_weight",
+      "hash_es": "c27dd5dd9f3cecad",
+      "texto_ptbr": "Peso",
+      "lote": "501"
+    },
+    {
+      "id": "e2c9",
+      "chave": "ingame__enginedisplay_rpm",
+      "hash_es": "9e7ab438597fee20",
+      "texto_ptbr": "RPM",
+      "lote": "501"
+    },
+    {
+      "id": "40d9",
+      "chave": "ingame__fueltankdisplay_currentlevel",
+      "hash_es": "e84a2df0f77fc765",
+      "texto_ptbr": "Nível atual",
+      "lote": "501"
+    },
+    {
+      "id": "2d8a",
+      "chave": "ingame__fueltankdisplay_fuel",
+      "hash_es": "832880bbaaa43248",
+      "texto_ptbr": "Combustível",
+      "lote": "501"
+    },
+    {
+      "id": "9eef",
+      "chave": "ingame__jinjobingo_columnprize",
+      "hash_es": "f49e374736e8b102",
+      "texto_ptbr": "Prêmio da coluna",
+      "lote": "501"
+    },
+    {
+      "id": "f0de",
+      "chave": "ingame__jinjobingo_mysteryprize",
+      "hash_es": "6d6a3cc8df7dfbd1",
+      "texto_ptbr": "? ? ?",
+      "lote": "501"
+    },
+    {
+      "id": "57a0",
+      "chave": "ingame__jinjobingo_notes",
+      "hash_es": "8a6172e21a8758f7",
+      "texto_ptbr": "Notas",
+      "lote": "501"
+    },
+    {
+      "id": "d0f9",
+      "chave": "ingame__jinjobingo_rowprize",
+      "hash_es": "704a18a7069594c7",
+      "texto_ptbr": "Prêmio da linha",
+      "lote": "501"
+    },
+    {
+      "id": "a139",
+      "chave": "ingame__jinjobingo_title",
+      "hash_es": "3d27aae316d5e3e3",
+      "texto_ptbr": "Bingo Jinjo",
+      "lote": "501"
+    },
+    {
+      "id": "f361",
+      "chave": "ingame__klungosarcade_accept",
+      "hash_es": "a597ea28c96dacb0",
+      "texto_ptbr": "ACEITAR",
+      "lote": "501"
+    },
+    {
+      "id": "2522",
+      "chave": "ingame__klungosarcade_back",
+      "hash_es": "22db4af9c549ef52",
+      "texto_ptbr": "VOLTAR",
+      "lote": "501"
+    },
+    {
+      "id": "c2ae",
+      "chave": "ingame__klungosarcade_congratulations",
+      "hash_es": "a1cea9dc6beacdda",
+      "texto_ptbr": "Parabénsss, você ganhar!",
+      "lote": "501"
+    },
+    {
+      "id": "4f8a",
+      "chave": "ingame__klungosarcade_copyright",
+      "hash_es": "7107bb3c67219d2a",
+      "texto_ptbr": "© Klungosssoft 2008",
+      "lote": "501"
+    },
+    {
+      "id": "c1bf",
+      "chave": "ingame__klungosarcade_credits",
+      "hash_es": "84f66fe5e35e0dcf",
+      "texto_ptbr": "CRÉDITOSSS",
+      "lote": "501"
+    },
+    {
+      "id": "f9d0",
+      "chave": "ingame__klungosarcade_credits1",
+      "hash_es": "396552512603dc37",
+      "texto_ptbr": "Dezign do Jogo - Klungo",
+      "lote": "501"
+    },
+    {
+      "id": "3400",
+      "chave": "ingame__klungosarcade_credits10",
+      "hash_es": "323dfb621f3d483b",
+      "texto_ptbr": "Markiting – Klungo",
+      "lote": "501"
+    },
+    {
+      "id": "3401",
+      "chave": "ingame__klungosarcade_credits11",
+      "hash_es": "9c7e35de45df2b68",
+      "texto_ptbr": "Agradecimentosss Essspessshiais – Klungo",
+      "lote": "501"
+    },
+    {
+      "id": "3402",
+      "chave": "ingame__klungosarcade_credits12",
+      "hash_es": "7f7e9a7577de5d08",
+      "texto_ptbr": "Agradecimentosss Adissshionais – Klungo",
+      "lote": "501"
+    },
+    {
+      "id": "3403",
+      "chave": "ingame__klungosarcade_credits13",
+      "hash_es": "97add902a9d918ce",
+      "texto_ptbr": "Obrigadosss por jogar!",
+      "lote": "501"
+    },
+    {
+      "id": "3404",
+      "chave": "ingame__klungosarcade_credits14",
+      "hash_es": "e2c46115fd22d89b",
+      "texto_ptbr": "Continua em",
+      "lote": "501"
+    },
+    {
+      "id": "3405",
+      "chave": "ingame__klungosarcade_credits15",
+      "hash_es": "8872d9355d59e2a1",
+      "texto_ptbr": "HERÓI KLUNGO SSSALVA O UNIVERSSSO!!!",
+      "lote": "501"
+    },
+    {
+      "id": "3406",
+      "chave": "ingame__klungosarcade_credits16",
+      "hash_es": "6cde6f4b0894a880",
+      "texto_ptbr": "(Estrelando Klungo)",
+      "lote": "501"
+    },
+    {
+      "id": "f9d1",
+      "chave": "ingame__klungosarcade_credits2",
+      "hash_es": "f1d70d83da0bfdf0",
+      "texto_ptbr": "Sssoftuér – Klungo",
+      "lote": "501"
+    },
+    {
+      "id": "f9d2",
+      "chave": "ingame__klungosarcade_credits3",
+      "hash_es": "98da91e403d1a2fc",
+      "texto_ptbr": "Gráfficosss – Klungo",
+      "lote": "501"
+    },
+    {
+      "id": "f9d3",
+      "chave": "ingame__klungosarcade_credits4",
+      "hash_es": "ddbf9bc470f053eb",
+      "texto_ptbr": "Animassão de Persssonagensss - Klungo",
+      "lote": "501"
+    },
+    {
+      "id": "f9d4",
+      "chave": "ingame__klungosarcade_credits5",
+      "hash_es": "16c774a812a73e57",
+      "texto_ptbr": "Afeitosss de Sssom – Klungo",
+      "lote": "501"
+    },
+    {
+      "id": "f9d5",
+      "chave": "ingame__klungosarcade_credits6",
+      "hash_es": "0d93a8e80ed1ed43",
+      "texto_ptbr": "Vozesss - Klungo",
+      "lote": "501"
+    },
+    {
+      "id": "f9d6",
+      "chave": "ingame__klungosarcade_credits7",
+      "hash_es": "15b23a3ed3c91142",
+      "texto_ptbr": "Hissstória - Klungo",
+      "lote": "501"
+    },
+    {
+      "id": "f9d7",
+      "chave": "ingame__klungosarcade_credits8",
+      "hash_es": "180c9f75fc7e5b28",
+      "texto_ptbr": "Kontrole de Kwalidade – Klungo",
+      "lote": "501"
+    },
+    {
+      "id": "f9d8",
+      "chave": "ingame__klungosarcade_credits9",
+      "hash_es": "4dbeace24dc934f0",
+      "texto_ptbr": "Lokalizassão - Klungo",
+      "lote": "501"
+    },
+    {
+      "id": "4dba",
+      "chave": "ingame__klungosarcade_level1",
+      "hash_es": "eadeb6ff07884784",
+      "texto_ptbr": "1. OSSS BURACOSSS",
+      "lote": "501"
+    },
+    {
+      "id": "4dbb",
+      "chave": "ingame__klungosarcade_level2",
+      "hash_es": "1ff38512f5226749",
+      "texto_ptbr": "2. OSSS MALVADOSSS",
+      "lote": "501"
+    },
+    {
+      "id": "4dbc",
+      "chave": "ingame__klungosarcade_level3",
+      "hash_es": "fd2e90b322be1a63",
+      "texto_ptbr": "3. OSSS DEGRAUSSS",
+      "lote": "501"
+    },
+    {
+      "id": "4dbd",
+      "chave": "ingame__klungosarcade_level4",
+      "hash_es": "2f4d05604ee882c0",
+      "texto_ptbr": "4. OSSS PEDAÇOSSS ANTERIORESSS",
+      "lote": "501"
+    },
+    {
+      "id": "4dbe",
+      "chave": "ingame__klungosarcade_level5",
+      "hash_es": "29bf3b9460e34da5",
+      "texto_ptbr": "5. O CHEFÃOSSS",
+      "lote": "501"
+    },
+    {
+      "id": "3740",
+      "chave": "ingame__klungosarcade_levelmenutitle",
+      "hash_es": "2cce1d05ae0c0c8a",
+      "texto_ptbr": "SSSELECIONE UMA FASE",
+      "lote": "501"
+    },
+    {
+      "id": "f063",
+      "chave": "ingame__klungosarcade_locked",
+      "hash_es": "88b7b4a7b48aa05a",
+      "texto_ptbr": "(Em obrasss)",
+      "lote": "501"
+    },
+    {
+      "id": "d78d",
+      "chave": "ingame__klungosarcade_mainmenutitle",
+      "hash_es": "7f24ba61e331243c",
+      "texto_ptbr": "HERÓI KLUNGO SSSALVA O MUNDO!",
+      "lote": "501"
+    },
+    {
+      "id": "c876",
+      "chave": "ingame__klungosarcade_notwon",
+      "hash_es": "1b05443eb5b4d7e3",
+      "texto_ptbr": "(Não venceu)",
+      "lote": "501"
+    },
+    {
+      "id": "d344",
+      "chave": "ingame__klungosarcade_paused1",
+      "hash_es": "5aeb34af3ce57c2a",
+      "texto_ptbr": "* JOGO PAUSSSADO! *",
+      "lote": "501"
+    },
+    {
+      "id": "d345",
+      "chave": "ingame__klungosarcade_paused2",
+      "hash_es": "c64325c0bd4b05ad",
+      "texto_ptbr": "(APERTE SSSTART PARA KONTINUAR)",
+      "lote": "501"
+    },
+    {
+      "id": "0107",
+      "chave": "ingame__klungosarcade_play",
+      "hash_es": "bf4705377b420a24",
+      "texto_ptbr": "JOGAR",
+      "lote": "501"
+    },
+    {
+      "id": "814c",
+      "chave": "ingame__klungosarcade_pressstart",
+      "hash_es": "856751c28c61822d",
+      "texto_ptbr": "APERTE SSSTART",
+      "lote": "501"
+    },
+    {
+      "id": "b4b4",
+      "chave": "ingame__klungosarcade_quit",
+      "hash_es": "389b7d0f803bf7ac",
+      "texto_ptbr": "SAIR",
+      "lote": "501"
+    },
+    {
+      "id": "737e",
+      "chave": "ingame__klungosarcade_splashtitle",
+      "hash_es": "7f24ba61e331243c",
+      "texto_ptbr": "HERÓI KLUNGO SSSALVA O MUNDO!",
+      "lote": "501"
+    },
+    {
+      "id": "8a49",
+      "chave": "ingame__klungosarcade_theend",
+      "hash_es": "2399e54b927562dd",
+      "texto_ptbr": "F I M",
+      "lote": "501"
+    },
+    {
+      "id": "3dd2",
+      "chave": "ingame__klungosarcade_unknown1",
+      "hash_es": "b7ba9f615e8572f9",
+      "texto_ptbr": "1. ??????",
+      "lote": "501"
+    },
+    {
+      "id": "3dd3",
+      "chave": "ingame__klungosarcade_unknown2",
+      "hash_es": "5635a66b7b9b66b8",
+      "texto_ptbr": "2. ??????",
+      "lote": "501"
+    },
+    {
+      "id": "3dd4",
+      "chave": "ingame__klungosarcade_unknown3",
+      "hash_es": "89b4d571600253b6",
+      "texto_ptbr": "3. ??????",
+      "lote": "501"
+    },
+    {
+      "id": "3dd5",
+      "chave": "ingame__klungosarcade_unknown4",
+      "hash_es": "82a0df97b8ba9d40",
+      "texto_ptbr": "4. ??????",
+      "lote": "501"
+    },
+    {
+      "id": "3dd6",
+      "chave": "ingame__klungosarcade_unknown5",
+      "hash_es": "f133951ae12290f7",
+      "texto_ptbr": "5. ??????",
+      "lote": "501"
+    },
+    {
+      "id": "4505",
+      "chave": "ingame__klungosarcade_won",
+      "hash_es": "da445e09a764e51b",
+      "texto_ptbr": "(Venceu)",
+      "lote": "501"
+    },
+    {
+      "id": "424c",
+      "chave": "ingame__leaderboard_attach_blueprint",
+      "hash_es": "8cdf475e7d199ff7",
+      "texto_ptbr": "Deseja compartilhar o projeto do seu veículo no placar?",
+      "lote": "501"
+    },
+    {
+      "id": "1fe0",
+      "chave": "ingame__leaderboard_upload_complete",
+      "hash_es": "af058a905fdcd3b2",
+      "texto_ptbr": "Envio ao placar concluído.",
+      "lote": "501"
+    },
+    {
+      "id": "41f4",
+      "chave": "ingame__leaderboard_upload_replay",
+      "hash_es": "dc511399ecbd1db8",
+      "texto_ptbr": "Enviando uma repetição do seu desafio ao placar...",
+      "lote": "501"
+    },
+    {
+      "id": "e7f9",
+      "chave": "ingame__leaderboard_upload_results",
+      "hash_es": "3959a3a497373b66",
+      "texto_ptbr": "Enviando ao placar",
+      "lote": "501"
+    },
+    {
+      "id": "84cd",
+      "chave": "ingame__loading",
+      "hash_es": "67fe51dbca823aa2",
+      "texto_ptbr": "Carregando!",
+      "lote": "501"
+    },
+    {
+      "id": "019a",
+      "chave": "ingame__loadvehicle_challengerestrictions",
+      "hash_es": "2fb9018a8f44dee1",
+      "texto_ptbr": "tem peças que violam as regras do tipo de jogo Escolha Limitada",
+      "lote": "501"
+    },
+    {
+      "id": "a62f",
+      "chave": "ingame__loadvehicle_challengerestrictions_warning",
+      "hash_es": "4bb0a80dd6780046",
+      "texto_ptbr": "Aviso: o veículo tem peças que violam as regras do tipo de jogo Escolha Limitada!",
+      "lote": "501"
+    },
+    {
+      "id": "daea",
+      "chave": "ingame__loadvehicle_componentrestrictions",
+      "hash_es": "099b1d68d959a5dc",
+      "texto_ptbr": "é restrito pelas opções atuais de peças de veículo",
+      "lote": "501"
+    },
+    {
+      "id": "cf7f",
+      "chave": "ingame__loadvehicle_componentrestrictions_warning",
+      "hash_es": "f01c98cae3c7f9cd",
+      "texto_ptbr": "Aviso: o veículo tem peças que não são permitidas!",
+      "lote": "501"
+    },
+    {
+      "id": "bfbd",
+      "chave": "ingame__loadvehicle_emptyvehicle",
+      "hash_es": "d8e7e10bcfe640d5",
+      "texto_ptbr": "é um veículo vazio sem peças",
+      "lote": "501"
+    },
+    {
+      "id": "d752",
+      "chave": "ingame__loadvehicle_emptyvehicle_warning",
+      "hash_es": "b5d437fb1ff8c993",
+      "texto_ptbr": "Aviso: o veículo não tem peça nenhuma!",
+      "lote": "501"
+    },
+    {
+      "id": "a83d",
+      "chave": "ingame__loadvehicle_multiplayervehicleadvise_air",
+      "hash_es": "7978e7d328fa994e",
+      "texto_ptbr": "ir pelo ar",
+      "lote": "501"
+    },
+    {
+      "id": "9ac3",
+      "chave": "ingame__loadvehicle_multiplayervehicleadvise_aircomponents",
+      "hash_es": "d87df5eb5339212d",
+      "texto_ptbr": "asas e jatos ou hélices",
+      "lote": "501"
+    },
+    {
+      "id": "2aa0",
+      "chave": "ingame__loadvehicle_multiplayervehicleadvise_carrying",
+      "hash_es": "062d7816da45382c",
+      "texto_ptbr": "exigir carregar objetos",
+      "lote": "501"
+    },
+    {
+      "id": "b4e6",
+      "chave": "ingame__loadvehicle_multiplayervehicleadvise_carryingcomponents",
+      "hash_es": "5457be95afba168f",
+      "texto_ptbr": "um carregador ou caixa",
+      "lote": "501"
+    },
+    {
+      "id": "95e0",
+      "chave": "ingame__loadvehicle_multiplayervehicleadvise_land",
+      "hash_es": "86bad9f5b26b05ff",
+      "texto_ptbr": "ir por terra",
+      "lote": "501"
+    },
+    {
+      "id": "3026",
+      "chave": "ingame__loadvehicle_multiplayervehicleadvise_landcomponents",
+      "hash_es": "e9d1379ec9e2a23f",
+      "texto_ptbr": "rodas",
+      "lote": "501"
+    },
+    {
+      "id": "7984",
+      "chave": "ingame__loadvehicle_multiplayervehicleadvise_water",
+      "hash_es": "4614b0b1eb8ea901",
+      "texto_ptbr": "ir pela água",
+      "lote": "501"
+    },
+    {
+      "id": "f0ca",
+      "chave": "ingame__loadvehicle_multiplayervehicleadvise_watercomponents",
+      "hash_es": "a728bde5b70fac89",
+      "texto_ptbr": "flutuador",
+      "lote": "501"
+    },
+    {
+      "id": "ed04",
+      "chave": "ingame__loadvehicle_nodriverseat",
+      "hash_es": "5f73026d1a053be0",
+      "texto_ptbr": "não tem assento do motorista",
+      "lote": "501"
+    },
+    {
+      "id": "5b99",
+      "chave": "ingame__loadvehicle_nodriverseat_warning",
+      "hash_es": "db10df63a5347e50",
+      "texto_ptbr": "Aviso: o veículo não tem assento do motorista!",
+      "lote": "501"
+    },
+    {
+      "id": "2092",
+      "chave": "ingame__loadvehicle_notconnected",
+      "hash_es": "d4001508258f0e6c",
+      "texto_ptbr": "não tem todas as peças conectadas",
+      "lote": "501"
+    },
+    {
+      "id": "3d27",
+      "chave": "ingame__loadvehicle_notconnected_warning",
+      "hash_es": "12eb36a339869d5e",
+      "texto_ptbr": "Aviso: algumas peças do veículo não estão conectadas a outras peças!",
+      "lote": "501"
+    },
+    {
+      "id": "a5af",
+      "chave": "ingame__loadvehicle_notenoughparts",
+      "hash_es": "ebfe432dc042c919",
+      "texto_ptbr": "precisa de mais peças do que você tem",
+      "lote": "501"
+    },
+    {
+      "id": "8f44",
+      "chave": "ingame__loadvehicle_notenoughparts_warning",
+      "hash_es": "fac30500e83f481f",
+      "texto_ptbr": "Aviso: o veículo precisa de peças que você não tem na Loja de Peças!",
+      "lote": "501"
+    },
+    {
+      "id": "06c8",
+      "chave": "ingame__loadvehicledisplay_awardmenu",
+      "hash_es": "b400d7dd87c7c800",
+      "texto_ptbr": "Projeto obtido",
+      "lote": "501"
+    },
+    {
+      "id": "2909",
+      "chave": "ingame__loadvehicledisplay_buymenu",
+      "hash_es": "142fb1231c8e55b9",
+      "texto_ptbr": "Comprar projeto",
+      "lote": "501"
+    },
+    {
+      "id": "e573",
+      "chave": "ingame__loadvehicledisplay_corruptvehicle",
+      "hash_es": "020c4c86c8d3d852",
+      "texto_ptbr": "Veículo corrompido!",
+      "lote": "501"
+    },
+    {
+      "id": "4ae2",
+      "chave": "ingame__loadvehicledisplay_createnew",
+      "hash_es": "05b340e2f4f85163",
+      "texto_ptbr": "Novo projeto",
+      "lote": "501"
+    },
+    {
+      "id": "b34c",
+      "chave": "ingame__loadvehicledisplay_deletemenu",
+      "hash_es": "9471bae9754b3af9",
+      "texto_ptbr": "Excluir projeto",
+      "lote": "501"
+    },
+    {
+      "id": "bf19",
+      "chave": "ingame__loadvehicledisplay_loadmenu",
+      "hash_es": "24353f39883cd330",
+      "texto_ptbr": "Carregar projeto",
+      "lote": "501"
+    },
+    {
+      "id": "ac68",
+      "chave": "ingame__loadvehicledisplay_savemenu",
+      "hash_es": "11fb780c62558d22",
+      "texto_ptbr": "Salvar projeto",
+      "lote": "501"
+    },
+    {
+      "id": "c94e",
+      "chave": "ingame__loadvehicledisplay_send",
+      "hash_es": "c28242f885bef41a",
+      "texto_ptbr": "Enviar projeto",
+      "lote": "501"
+    },
+    {
+      "id": "ab08",
+      "chave": "ingame__loadvehicledisplay_templatesmenu",
+      "hash_es": "e312081a8ae720cc",
+      "texto_ptbr": "Carregar chassi",
+      "lote": "501"
+    },
+    {
+      "id": "6a6f",
+      "chave": "ingame__loadvehicledisplay_vehiclesavetag",
+      "hash_es": "23604cfa3142cd89",
+      "texto_ptbr": "Veículo: ",
+      "lote": "501"
+    },
+    {
+      "id": "b093",
+      "chave": "ingame__mptimer_pickvehicle",
+      "hash_es": "16304b2cf1c68650",
+      "texto_ptbr": "Tempo até o jogo começar! Escolha um veículo ou use o padrão!",
+      "lote": "501"
+    },
+    {
+      "id": "5ac5",
+      "chave": "ingame__mptimer_reenterregion",
+      "hash_es": "3fe4433b55a25607",
+      "texto_ptbr": "Volte à briga ou perca mais um ponto!",
+      "lote": "501"
+    },
+    {
+      "id": "001d",
+      "chave": "ingame__mptimer_startchallenge",
+      "hash_es": "28a140ac56290469",
+      "texto_ptbr": "Tempo até o jogo começar!",
+      "lote": "501"
+    },
+    {
+      "id": "52ca",
+      "chave": "ingame__networkproblem",
+      "hash_es": "eb3f9e7d5432dbaf",
+      "texto_ptbr": "Há um problema com a sua conexão com a internet.",
+      "lote": "501"
+    },
+    {
+      "id": "dcfd",
+      "chave": "ingame__noprofile",
+      "hash_es": "778d4c01ff029cff",
+      "texto_ptbr": "Você precisa entrar em um perfil de jogador para realizar esta ação.",
+      "lote": "501"
+    },
+    {
+      "id": "4299",
+      "chave": "ingame__noprofile_dontsignin",
+      "hash_es": "c4a99a54db67fd9b",
+      "texto_ptbr": "Não entrar",
+      "lote": "501"
+    },
+    {
+      "id": "f424",
+      "chave": "ingame__noprofile_signin",
+      "hash_es": "fc9597b8af31668e",
+      "texto_ptbr": "Entrar agora",
+      "lote": "501"
+    },
+    {
+      "id": "5661",
+      "chave": "ingame__nostorage",
+      "hash_es": "51495ff703b4fb7b",
+      "texto_ptbr": "Você precisa ter um local de armazenamento válido para realizar esta ação.",
+      "lote": "501"
+    },
+    {
+      "id": "58b6",
+      "chave": "ingame__notmainprofile",
+      "hash_es": "962967aefc4b0a33",
+      "texto_ptbr": "Somente o Jogador 1 pode realizar esta ação.",
+      "lote": "501"
+    },
+    {
+      "id": "6460",
+      "chave": "ingame__portal_entertitle",
+      "hash_es": "fe27c81b615023c8",
+      "texto_ptbr": "Aviso: tem certeza de que quer entrar neste Mundo de Jogo?",
+      "lote": "501"
+    },
+    {
+      "id": "87ed",
+      "chave": "ingame__previewer_blocksize",
+      "hash_es": "7a845f1642e44cd4",
+      "texto_ptbr": "Tamanho: ",
+      "lote": "501"
+    },
+    {
+      "id": "be8b",
+      "chave": "ingame__previewer_setting_automatic",
+      "hash_es": "b803f24d52edd7bc",
+      "texto_ptbr": "Automático",
+      "lote": "501"
+    },
+    {
+      "id": "a2a2",
+      "chave": "ingame__previewer_setting_proppull",
+      "hash_es": "5f92b243803081ca",
+      "texto_ptbr": "Puxar",
+      "lote": "501"
+    },
+    {
+      "id": "a385",
+      "chave": "ingame__previewer_setting_proppush",
+      "hash_es": "bc0ee36cf095c9a9",
+      "texto_ptbr": "Empurrar",
+      "lote": "501"
+    },
+    {
+      "id": "3cc1",
+      "chave": "ingame__previewer_setting_wheeldriven",
+      "hash_es": "92e4d516bab8d144",
+      "texto_ptbr": "Tração",
+      "lote": "501"
+    },
+    {
+      "id": "9922",
+      "chave": "ingame__previewer_setting_wheeldrivensteering",
+      "hash_es": "2fca6a2a15ca0d9f",
+      "texto_ptbr": "Tração e direção",
+      "lote": "501"
+    },
+    {
+      "id": "1bfb",
+      "chave": "ingame__previewer_setting_wheelfree",
+      "hash_es": "44408732d8c41a61",
+      "texto_ptbr": "Roda livre",
+      "lote": "501"
+    },
+    {
+      "id": "3ada",
+      "chave": "ingame__previewer_setting_wheelsteering",
+      "hash_es": "2af66cb65da84067",
+      "texto_ptbr": "Direção",
+      "lote": "501"
+    },
+    {
+      "id": "4b0a",
+      "chave": "ingame__profileerror",
+      "hash_es": "53f805aaf18301f0",
+      "texto_ptbr": "Seu perfil de jogador não tem permissão para salvar conteúdo no console.",
+      "lote": "501"
+    },
+    {
+      "id": "af72",
+      "chave": "ingame__property_ammocontained",
+      "hash_es": "985ed35c3d67a377",
+      "texto_ptbr": "Munição",
+      "lote": "501"
+    },
+    {
+      "id": "f56e",
+      "chave": "ingame__property_ammoused",
+      "hash_es": "ce6bdd77e03b79e8",
+      "texto_ptbr": "Munição usada",
+      "lote": "501"
+    },
+    {
+      "id": "3932",
+      "chave": "ingame__property_damage",
+      "hash_es": "a5045e0a9565db4d",
+      "texto_ptbr": "Dano causado",
+      "lote": "501"
+    },
+    {
+      "id": "6c94",
+      "chave": "ingame__property_fuelcontained",
+      "hash_es": "832880bbaaa43248",
+      "texto_ptbr": "Combustível",
+      "lote": "501"
+    },
+    {
+      "id": "7550",
+      "chave": "ingame__property_fuelused",
+      "hash_es": "3e38aaaace713cdb",
+      "texto_ptbr": "Combustível usado",
+      "lote": "501"
+    },
+    {
+      "id": "7f05",
+      "chave": "ingame__property_grip",
+      "hash_es": "681bffd7056431cb",
+      "texto_ptbr": "Aderência",
+      "lote": "501"
+    },
+    {
+      "id": "d1a0",
+      "chave": "ingame__property_power",
+      "hash_es": "b7973993b640b132",
+      "texto_ptbr": "Potência",
+      "lote": "501"
+    },
+    {
+      "id": "64e2",
+      "chave": "ingame__property_strength",
+      "hash_es": "4813f589a62f33b9",
+      "texto_ptbr": "Força",
+      "lote": "501"
+    },
+    {
+      "id": "875b",
+      "chave": "ingame__property_weight",
+      "hash_es": "c27dd5dd9f3cecad",
+      "texto_ptbr": "Peso",
+      "lote": "501"
+    },
+    {
+      "id": "5e93",
+      "chave": "ingame__replay_end_title",
+      "hash_es": "5743e42f7df6e71c",
+      "texto_ptbr": "A repetição terminou.",
+      "lote": "501"
+    },
+    {
+      "id": "68b9",
+      "chave": "ingame__replay_mailcontent",
+      "hash_es": "f43ab050819629e7",
+      "texto_ptbr": "Você recebeu uma repetição! Vá ao cinema de repetições para pegá-la!",
+      "lote": "501"
+    },
+    {
+      "id": "92c3",
+      "chave": "ingame__replay_overwrite_title",
+      "hash_es": "981240571f097b41",
+      "texto_ptbr": "Aviso: já existe uma repetição deste desafio. Tem certeza de que quer substituí-la?",
+      "lote": "501"
+    },
+    {
+      "id": "3187",
+      "chave": "ingame__replay_really_quit_title",
+      "hash_es": "39b60f5fc6627f8e",
+      "texto_ptbr": "Sair da repetição?",
+      "lote": "501"
+    },
+    {
+      "id": "779d",
+      "chave": "ingame__replay_repeat_title",
+      "hash_es": "aa6a639284bee6c9",
+      "texto_ptbr": "A repetição terminou. Deseja revê-la?",
+      "lote": "501"
+    },
+    {
+      "id": "e689",
+      "chave": "ingame__replay_saving_done_title",
+      "hash_es": "59ac2a7a6e3f6d75",
+      "texto_ptbr": "Salvo com sucesso",
+      "lote": "501"
+    },
+    {
+      "id": "0348",
+      "chave": "ingame__replay_saving_failed_title",
+      "hash_es": "7cb1ad2de16d1a83",
+      "texto_ptbr": "Falha ao salvar a repetição",
+      "lote": "501"
+    },
+    {
+      "id": "4c72",
+      "chave": "ingame__replay_saving_notallow",
+      "hash_es": "29f96e3b9c682944",
+      "texto_ptbr": "Você não pode salvar a repetição do jogo agora.",
+      "lote": "501"
+    },
+    {
+      "id": "e464",
+      "chave": "ingame__replay_saving_title",
+      "hash_es": "367b3cef3580052d",
+      "texto_ptbr": "Salvando...",
+      "lote": "501"
+    },
+    {
+      "id": "aa04",
+      "chave": "ingame__savegameinprogress",
+      "hash_es": "a5a2593efc87eab5",
+      "texto_ptbr": "Salvando conteúdo. Não desligue o console.",
+      "lote": "501"
+    },
+    {
+      "id": "cc14",
+      "chave": "ingame__savegameloadfail",
+      "hash_es": "00a9871844ceff13",
+      "texto_ptbr": "Jogo salvo corrompido",
+      "lote": "501"
+    },
+    {
+      "id": "6599",
+      "chave": "ingame__savegamename",
+      "hash_es": "ba53448f25be8eb6",
+      "texto_ptbr": "Jogo salvo do Banjo",
+      "lote": "501"
+    },
+    {
+      "id": "bc7d",
+      "chave": "ingame__saving_done_title",
+      "hash_es": "59ac2a7a6e3f6d75",
+      "texto_ptbr": "Salvo com sucesso",
+      "lote": "501"
+    },
+    {
+      "id": "263c",
+      "chave": "ingame__saving_failed_title",
+      "hash_es": "cfbf31566241dcf2",
+      "texto_ptbr": "Falha ao salvar",
+      "lote": "501"
+    },
+    {
+      "id": "31d8",
+      "chave": "ingame__saving_title",
+      "hash_es": "a5a2593efc87eab5",
+      "texto_ptbr": "Salvando conteúdo. Não desligue o console.",
+      "lote": "501"
+    },
+    {
+      "id": "5693",
+      "chave": "ingame__scoreboard",
+      "hash_es": "48f6b2567536773b",
+      "texto_ptbr": "Últimos resultados ......... Futebol: S.J. City 10 - Grunty Rovers 0 ... Grottenham Coldspur 1 - Condado de Dullby 3 ... Vila Jinjo 2 - Cidade Dingpot 1 ... Twycross Atlético 4 - Trashton Villa 0 ......... Dardos: A Sra. 'Mosca' Bottles é a nova campeã dos dardos e derrotou Gruntilda 'Queixo Duplo' Winkybunion, mesmo sem a Sra. B conseguir enxergar o alvo ......... Tênis: A. Jinjo venceu G. Talbot por 6-0, 6-1, 6-0 ......... Basquete: Piratas do Blubber 98 - Touros do Boggy 25 ... Calor da Humba 120 - Magia do Mumbo 78 ... Tigres do Troféu 101 - Mavericks do Sr. Em Forma 100 ......... Alguém está mesmo lendo isto? ......... Boxe: Franklin 'Punhos Peludos' Fizzlybear venceu o Professor 'Saco de Pancada' Pester por nocaute técnico aos 12 segundos do round 1 ......... Golfe: Copa Passatempo de Fim de Semana Frustrante, rodada 2 - 'Boa Madeira' Nabnut -5 ... 'Águia' Eyrie -3 ... Chris P. Putter -1 ... 'Divot' Mayles Jr. +1 ... 'Ferro-Velho' Price +4 ... G. Kirkhope +15 ......... Atletismo: O Sr. Em Forma bateu o recorde no salto em distância com 13,7 metros, mas foi superado pelo Tomás Troféu logo no salto seguinte, com 14 metros ......... Sinuca: 'Tacada de Sorte' Banjo venceu 'Canhão' Klungo por 3-2 ... Jolly 'A Bola Marrom' Dodger venceu Merry Maggie 'Mira Mal' por 3-0 ... 'Tacada Saltitante' Jamjars venceu Babs 'Polidora de Bolas' Buffbrass por 3-1 ......... Banjo-Kazooie: Nuts and Bolts deve ser muito chato se você ainda está lendo isto em vez de jogar ......... Críquete: Ninguém nos EUA entende as regras, mas Boringshire venceu South Yawnshire por uma entrada e 265 corridas e levou para casa uma velha taça empoeirada, entregue por um homem ainda mais velho ......... Beisebol: Pikelet Brown Sox 3 - Anjos da Tooty 7 ... Gigantes Jinjo 9 - Dodgers Minjo 6 ... Bandidos do Jolly 11 - Cardeais da Canary Mary 2 ......... E por fim, a vitrine do calendário esportivo .................. Dominó: Na Maratona de Dominó nº 134 de Showdown Town, realizada na Velha Chaleira Vazia, Lord Woo Fak Fak venceu Weldar depois de 5 anos e 172 dias de jogo, porque Weldar enferrujou até sumir. Fak Fak leva o primeiro prêmio de 50 centavos e um saco de torresmo..................",
+      "lote": "518"
+    },
+    {
+      "id": "d373",
+      "chave": "ingame__setting_automatic",
+      "hash_es": "b803f24d52edd7bc",
+      "texto_ptbr": "Automático",
+      "lote": "501"
+    },
+    {
+      "id": "ba8a",
+      "chave": "ingame__setting_proppull",
+      "hash_es": "5f92b243803081ca",
+      "texto_ptbr": "Puxar",
+      "lote": "501"
+    },
+    {
+      "id": "bb6d",
+      "chave": "ingame__setting_proppush",
+      "hash_es": "bc0ee36cf095c9a9",
+      "texto_ptbr": "Empurrar",
+      "lote": "501"
+    },
+    {
+      "id": "2ba9",
+      "chave": "ingame__setting_wheeldriven",
+      "hash_es": "92e4d516bab8d144",
+      "texto_ptbr": "Tração",
+      "lote": "501"
+    },
+    {
+      "id": "f00a",
+      "chave": "ingame__setting_wheeldrivensteering",
+      "hash_es": "2fca6a2a15ca0d9f",
+      "texto_ptbr": "Tração e direção",
+      "lote": "501"
+    },
+    {
+      "id": "30e3",
+      "chave": "ingame__setting_wheelfree",
+      "hash_es": "44408732d8c41a61",
+      "texto_ptbr": "Roda livre",
+      "lote": "501"
+    },
+    {
+      "id": "83c2",
+      "chave": "ingame__setting_wheelsteering",
+      "hash_es": "2af66cb65da84067",
+      "texto_ptbr": "Direção",
+      "lote": "501"
+    },
+    {
+      "id": "8085",
+      "chave": "ingame__vehicledials_ammo",
+      "hash_es": "985ed35c3d67a377",
+      "texto_ptbr": "Munição",
+      "lote": "501"
+    },
+    {
+      "id": "5f67",
+      "chave": "ingame__vehicledials_fuel",
+      "hash_es": "832880bbaaa43248",
+      "texto_ptbr": "Combustível",
+      "lote": "501"
+    },
+    {
+      "id": "cc6c",
+      "chave": "ingame__vehicledials_speed",
+      "hash_es": "a60b5f318d9ffa20",
+      "texto_ptbr": "Velocidade",
+      "lote": "501"
+    },
+    {
+      "id": "e87e",
+      "chave": "ingame__vehiclepartsneeded",
+      "hash_es": "850ddf5c40e217ba",
+      "texto_ptbr": "Peças necessárias",
+      "lote": "501"
+    },
+    {
+      "id": "905c",
+      "chave": "ingame__warppad_warptotitle",
+      "hash_es": "550cd8c321ac2758",
+      "texto_ptbr": "Teletransportar para:",
+      "lote": "501"
+    },
+    {
+      "id": "146e",
+      "chave": "ingame__winscreenstate0",
+      "hash_es": "753e6bd31a510a4a",
+      "texto_ptbr": "Seus resultados",
+      "lote": "501"
+    },
+    {
+      "id": "146f",
+      "chave": "ingame__winscreenstate1",
+      "hash_es": "50921fe87aac7587",
+      "texto_ptbr": "Placar dos melhores jogadores",
+      "lote": "501"
+    },
+    {
+      "id": "1470",
+      "chave": "ingame__winscreenstate2",
+      "hash_es": "870608f492f04e34",
+      "texto_ptbr": "Placar de amigos",
+      "lote": "501"
+    },
+    {
+      "id": "1471",
+      "chave": "ingame__winscreenstate3",
+      "hash_es": "c5a81b7742cb0edf",
+      "texto_ptbr": "Placar da sua posição atual",
+      "lote": "501"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "arquivo": "1161ce12",
+  "asset": "aid_loctext_banjox_terrorium_act4",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "3495229cdfe1cf4f",
+      "texto_ptbr": "{MOODANGRY}Aceitar a derrota? Bah, que ideia cretina! Vou te derrubar com fumaça de gasolina!",
+      "lote": "607"
+    },
+    {
+      "id": "3451",
+      "chave": "dialog__game1_gruntyemitdialog1",
+      "hash_es": "4cf152af96d6139c",
+      "texto_ptbr": "Você me vê aqui, mas não vai me pegar; tática de camaleão é trapaça, e eu adoro enganar!",
+      "lote": "607"
+    },
+    {
+      "id": "3452",
+      "chave": "dialog__game1_gruntyemitdialog2",
+      "hash_es": "0ff9693947c2ea44",
+      "texto_ptbr": "Você adoraria me tirar do trono, seu bobão? Com invisibilidade, isso vira uma confusão!",
+      "lote": "601"
+    },
+    {
+      "id": "3453",
+      "chave": "dialog__game1_gruntyemitdialog3",
+      "hash_es": "c240b8e073df6097",
+      "texto_ptbr": "Essa fera queima combustível e traz buzina; um disparo de perto te deixa em ruína!",
+      "lote": "601"
+    },
+    {
+      "id": "3454",
+      "chave": "dialog__game1_gruntyemitdialog4",
+      "hash_es": "72afe3e380ee5986",
+      "texto_ptbr": "Odeio estas plantas e seu cheiro nojento; elas murcham rápido, e eu nem lamento!",
+      "lote": "601"
+    },
+    {
+      "id": "3455",
+      "chave": "dialog__game1_gruntyemitdialog5",
+      "hash_es": "cbfff85f02c37a76",
+      "texto_ptbr": "Fico na minha rota, é simples, elementar; o urso é tonto demais para me atrapalhar!",
+      "lote": "601"
+    },
+    {
+      "id": "3456",
+      "chave": "dialog__game1_gruntyemitdialog6",
+      "hash_es": "c93425304a737216",
+      "texto_ptbr": "Vou fazer você desejar nunca ter existido; seu crânio vai tremer com a buzina, que zumbido!",
+      "lote": "607"
+    },
+    {
+      "id": "3457",
+      "chave": "dialog__game1_gruntyemitdialog7",
+      "hash_es": "ad9d1490f3eb26b1",
+      "texto_ptbr": "Esta arma é toda minha, não é para urso pegar; nas bobagens do dia a dia, ele que vá passear!",
+      "lote": "601"
+    },
+    {
+      "id": "3458",
+      "chave": "dialog__game1_gruntyemitdialog8",
+      "hash_es": "b6ac839d13df1387",
+      "texto_ptbr": "Curve-se à Grunty, a nova dona do pedaço! Difícil de acertar andando, impossível pairando no espaço!",
+      "lote": "607"
+    },
+    {
+      "id": "9744",
+      "chave": "dialog__game1_intro",
+      "hash_es": "d49970a472fa3a09",
+      "texto_ptbr": "{MOODHAPPY}Veja meu veículo novo, que beleza! Cheio de surpresas e péssimo para a natureza!",
+      "lote": "607"
+    },
+    {
+      "id": "396b",
+      "chave": "dialog__game1_lose",
+      "hash_es": "07d4bc6932b14bed",
+      "texto_ptbr": "{MOODHAPPY}Eu venço e você perde, urso desprezível; espero que goste do ar irrespirável!",
+      "lote": "601"
+    },
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "d24cdd224049ade7",
+      "texto_ptbr": "{MOODHAPPY}Este veículo bebe tanta gasolina, que destrói o ozônio em cada esquina! {PAGEBREAK}Não fique no caminho, seu plano vai falhar. Sou difícil de ver e mais ainda de parar!",
+      "lote": "601"
+    },
+    {
+      "id": "2767",
+      "chave": "dialog__game1_wina",
+      "hash_es": "c13daa4259824ae9",
+      "texto_ptbr": "{MOODANGRY}Eu xingaria se o jogo tivesse outra classificação; sua confiança dá náusea, que irritação!",
+      "lote": "601"
+    },
+    {
+      "id": "2769",
+      "chave": "dialog__game1_winc",
+      "hash_es": "40222fe11f196dc5",
+      "texto_ptbr": "{MOODANGRY}Você me impediu de poluir esta cúpula sem graça; já me cansei disso, quero ir pra casa, que desgraça!",
+      "lote": "607"
+    },
+    {
+      "id": "276b",
+      "chave": "dialog__game1_wine",
+      "hash_es": "49c3dcd2090245bf",
+      "texto_ptbr": "Tive pena e deixei você vencer; mas o prêmio que queria pode esquecer!",
+      "lote": "601"
+    },
+    {
+      "id": "ca0d",
+      "chave": "dialog__jinjogreen_greeting",
+      "hash_es": "5278ebb1b71242e5",
+      "texto_ptbr": "{MOODHAPPY}Ahá! Hora de batalhar pela sobrevivência sobre o grande abismo espacial!",
+      "lote": "601"
+    },
+    {
+      "id": "de4b",
+      "chave": "dialog__jinjogreen_lose",
+      "hash_es": "41f90ec24c1f4bbd",
+      "texto_ptbr": "{MOODHAPPY}Eu ganhei! Como foi aí embaixo? Precisou de roupa íntima limpa?",
+      "lote": "601"
+    },
+    {
+      "id": "0ce6",
+      "chave": "dialog__jinjogreen_objectives",
+      "hash_es": "83ea94771f36c3c8",
+      "texto_ptbr": "{MOODHAPPY}Um de nós ficará de pé, orgulhoso; o outro será lançado ao vazio monstruoso e indiferente! Tomem suas posições!",
+      "lote": "601"
+    },
+    {
+      "id": "e726",
+      "chave": "dialog__jinjogreen_win",
+      "hash_es": "c72a42b2fca9028f",
+      "texto_ptbr": "{MOODHAPPY}Uuuh, estava meio escuro e frio lá embaixo. Vou deixar as luzes e o aquecimento central ligados hoje à noite...",
+      "lote": "601"
+    },
+    {
+      "id": "ff60",
+      "chave": "dialog__jinjopink2_greeting",
+      "hash_es": "b2d7b5f05e5224bd",
+      "texto_ptbr": "{MOODSAD}Meu livro especial sumiu! O diário completo e sensacional das minhas experiências desde que fui abduzido por alienígenas!",
+      "lote": "601"
+    },
+    {
+      "id": "621e",
+      "chave": "dialog__jinjopink2_lose",
+      "hash_es": "4deb1a36c7e4b942",
+      "texto_ptbr": "{MOODSAD}Argh! Nunca mais vou me lembrar de todas aquelas mentiras elaboradas que contei...",
+      "lote": "601"
+    },
+    {
+      "id": "e2f9",
+      "chave": "dialog__jinjopink2_objectives",
+      "hash_es": "859f9307215a6158",
+      "texto_ptbr": "{MOODSAD}Espero que meu livro não tenha ido parar no lixo, eu vou chorar se for jogado na eclusa!",
+      "lote": "601"
+    },
+    {
+      "id": "bc99",
+      "chave": "dialog__jinjopink2_win",
+      "hash_es": "e4b3ab2afd25bae5",
+      "texto_ptbr": "{MOODHAPPY}Meu livro! Eba! Pegue isto, vou vender os direitos do filme!",
+      "lote": "601"
+    },
+    {
+      "id": "9fae",
+      "chave": "dialog__jinjopink_greeting",
+      "hash_es": "23c6a6453e8f4070",
+      "texto_ptbr": "{MOODSAD}Eu fiz teste para Jinjo de corrida, mas descobri que sou bem ruim e preciso de um empurrão para chegar a qualquer lugar...",
+      "lote": "601"
+    },
+    {
+      "id": "0b6c",
+      "chave": "dialog__jinjopink_lose",
+      "hash_es": "086a5356faa64314",
+      "texto_ptbr": "{MOODSAD}Eu sabia. Até a Vovó Jinjo conseguiria, e ela já morreu!",
+      "lote": "601"
+    },
+    {
+      "id": "cec7",
+      "chave": "dialog__jinjopink_objectives",
+      "hash_es": "92ae3ef6e525a236",
+      "texto_ptbr": "{MOODSAD}Talvez eu consiga cobrir a distância indicada com sua ajuda. O que você ganha? A alegria de restaurar minha autoconfiança!",
+      "lote": "601"
+    },
+    {
+      "id": "7427",
+      "chave": "dialog__jinjopink_win",
+      "hash_es": "1b99305dd2a8e4e6",
+      "texto_ptbr": "{MOODHAPPY}Eu consegui! Fui todo eu! Chiiiu, pegue isto e fique quieto...",
+      "lote": "601"
+    },
+    {
+      "id": "b84a",
+      "chave": "dialog__jinjoyellow2_greeting",
+      "hash_es": "5573c2a6c7af5701",
+      "texto_ptbr": "{MOODHAPPY}Fiz uma aposta com meu amigo Dave Jinjo. Eu digo que ursos com carteira de motorista podem correr muito, ele diz que não. Quem está certo?",
+      "lote": "601"
+    },
+    {
+      "id": "3608",
+      "chave": "dialog__jinjoyellow2_lose",
+      "hash_es": "9036315326e54319",
+      "texto_ptbr": "{MOODSAD}Maldito seja, Dave Jinjo! Você provou que eu estava errado pela última vez!",
+      "lote": "601"
+    },
+    {
+      "id": "7e63",
+      "chave": "dialog__jinjoyellow2_objectives",
+      "hash_es": "1c300617dfaed5dd",
+      "texto_ptbr": "{MOODHAPPY}Se você conseguir acelerar até a velocidade indicada, será prova suficiente para ganhar a aposta!",
+      "lote": "601"
+    },
+    {
+      "id": "bb43",
+      "chave": "dialog__jinjoyellow2_win",
+      "hash_es": "56c25f486d48311f",
+      "texto_ptbr": "{MOODHAPPY}Dave Jinjo estava errado! É uma grande honra lhe entregar o prêmio de urso mais rápido que já conheci!",
+      "lote": "601"
+    },
+    {
+      "id": "e358",
+      "chave": "dialog__jinjoyellow_greeting",
+      "hash_es": "663f8239d1e8d881",
+      "texto_ptbr": "{MOODSAD}Eu odeio cogumelos, tenho cogumelofobia! Me tire daqui! Me disseram que há uma vista gloriosa e livre de fungos depois do túnel...",
+      "lote": "601"
+    },
+    {
+      "id": "0a16",
+      "chave": "dialog__jinjoyellow_lose",
+      "hash_es": "5015fcdac813f206",
+      "texto_ptbr": "{MOODSAD}Não! Não me deixe com todos os... esporos, e os... caules...",
+      "lote": "601"
+    },
+    {
+      "id": "a4f1",
+      "chave": "dialog__jinjoyellow_objectives",
+      "hash_es": "b42e87fdee83c57f",
+      "texto_ptbr": "{MOODSAD}Eu quase posso sentir o cheiro das plantas verdes lindas e inofensivas, mas o túnel está cheio de Gruntbots. Não podemos deixá-los nos impedir!",
+      "lote": "601"
+    },
+    {
+      "id": "4591",
+      "chave": "dialog__jinjoyellow_win",
+      "hash_es": "ca9ed9ba7cb91fb4",
+      "texto_ptbr": "{MOODHAPPY}Ufa, isso é uma mudança para melhor. Você me salvou de um surto de cogumelite crônica. Aceite uma gorjeta, urso taxista!",
+      "lote": "601"
+    }
+  ]
+}

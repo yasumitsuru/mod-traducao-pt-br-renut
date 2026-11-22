@@ -1,0 +1,209 @@
+{
+  "arquivo": "11a8e97b",
+  "asset": "aid_loctext_banjox_spiralmountain_outro",
+  "frases": [
+    {
+      "id": "7e31",
+      "chave": "dialog__banjoawestruck",
+      "hash_es": "8cbadcec8c1c93e7",
+      "texto_ptbr": "Obrigado, Sr. S.J.",
+      "lote": "509"
+    },
+    {
+      "id": "513e",
+      "chave": "dialog__banjodiplomatic",
+      "hash_es": "7d87492e278e9955",
+      "texto_ptbr": "Que legal, Jolly. Não é, Kazooie?",
+      "lote": "509"
+    },
+    {
+      "id": "3fd6",
+      "chave": "dialog__banjopleased",
+      "hash_es": "4291498eb5caedb8",
+      "texto_ptbr": "Uau, mal posso esperar para testar isso!",
+      "lote": "509"
+    },
+    {
+      "id": "bcea",
+      "chave": "dialog__blubberpleased",
+      "hash_es": "060d08bd71125308",
+      "texto_ptbr": "O tesouro de vocês espera, meus camaradas!",
+      "lote": "509"
+    },
+    {
+      "id": "bac9",
+      "chave": "dialog__bottlespleased",
+      "hash_es": "70dd5eeb89871e8a",
+      "texto_ptbr": "Muito bem, Banjo.",
+      "lote": "509"
+    },
+    {
+      "id": "9132",
+      "chave": "dialog__gruntydefiant",
+      "hash_es": "c7d47e256fbe0a0b",
+      "texto_ptbr": "Me deixar aqui foi um grande erro, espere pelo jogo malvado que eu vou criar!",
+      "lote": "509"
+    },
+    {
+      "id": "d404",
+      "chave": "dialog__gruntydenial",
+      "hash_es": "bf71523ca884df9a",
+      "texto_ptbr": "Como perdi, eu não consigo entender; três vezes perdedora eu não posso ser!",
+      "lote": "509"
+    },
+    {
+      "id": "4010",
+      "chave": "dialog__jollythrilled",
+      "hash_es": "1c6986b72b0c7747",
+      "texto_ptbr": "Não está absolutamente maravilhoso?",
+      "lote": "509"
+    },
+    {
+      "id": "039e",
+      "chave": "dialog__kazooiebegrudging",
+      "hash_es": "56c4a110585579d2",
+      "texto_ptbr": "Já vi piores.",
+      "lote": "509"
+    },
+    {
+      "id": "a5f1",
+      "chave": "dialog__kazooieconfrontational",
+      "hash_es": "8c05e2728ad1cd97",
+      "texto_ptbr": "Por que não, Boca de Tomada?",
+      "lote": "513"
+    },
+    {
+      "id": "57f3",
+      "chave": "dialog__kazooiegritted",
+      "hash_es": "d5ef8ca7779dbe2b",
+      "texto_ptbr": "É... sim. Obrigada, Jolly.",
+      "lote": "509"
+    },
+    {
+      "id": "5333",
+      "chave": "dialog__kazooiehopeful",
+      "hash_es": "924b68d87cc19560",
+      "texto_ptbr": "Posso ter minhas habilidades antigas de volta? Se este jogo não fizer sucesso, podemos precisar delas no próximo.",
+      "lote": "509"
+    },
+    {
+      "id": "733c",
+      "chave": "dialog__kazooieindignant",
+      "hash_es": "26f0b2b57c84d625",
+      "texto_ptbr": "Mas o que...",
+      "lote": "509"
+    },
+    {
+      "id": "2d0d",
+      "chave": "dialog__kazooiewondering",
+      "hash_es": "fcf150bbf5716a50",
+      "texto_ptbr": "Ei, mas o que você fez com o velho Bafo de Loggo?",
+      "lote": "509"
+    },
+    {
+      "id": "154b",
+      "chave": "dialog__logcalming",
+      "hash_es": "1aaf881605f04a73",
+      "texto_ptbr": "Acho que isso não será necessário, Banjo.",
+      "lote": "509"
+    },
+    {
+      "id": "54da",
+      "chave": "dialog__logconceding",
+      "hash_es": "9a11458297ec20ba",
+      "texto_ptbr": "Boa observação. Embora talvez você nunca mais tenha outro jogo.",
+      "lote": "509"
+    },
+    {
+      "id": "de10",
+      "chave": "dialog__logdismissive",
+      "hash_es": "4f717d49a9546ea9",
+      "texto_ptbr": "Ah, mas você é sim. Adeus, sua megera meia-boca!",
+      "lote": "513"
+    },
+    {
+      "id": "2461",
+      "chave": "dialog__loggrandly",
+      "hash_es": "8a5befc847a53d11",
+      "texto_ptbr": "Pelos poderes dos videogames investidos em mim por mim mesmo, declaro Banjo o legítimo dono de Spiral Mountain, para todo o sempre.",
+      "lote": "518"
+    },
+    {
+      "id": "b72a",
+      "chave": "dialog__loginstrucitng",
+      "hash_es": "ce5bbc1a38a95994",
+      "texto_ptbr": "Agora, se vocês dois não se importarem de se arrumar um pouco, nos vemos mais tarde para pegar seu prêmio.",
+      "lote": "509"
+    },
+    {
+      "id": "4672",
+      "chave": "dialog__logknowingly",
+      "hash_es": "df1b919472854bee",
+      "texto_ptbr": "Acredito que alguém tem algo para mostrar a vocês.",
+      "lote": "509"
+    },
+    {
+      "id": "6f2f",
+      "chave": "dialog__logmagnanimous",
+      "hash_es": "915596bc4e170af5",
+      "texto_ptbr": "Claro, tenho o melhor presente para vocês. É só uma coisinha que fiz mais cedo.",
+      "lote": "509"
+    },
+    {
+      "id": "673b",
+      "chave": "dialog__logobliging",
+      "hash_es": "e2d661845819184f",
+      "texto_ptbr": "Vamos dar uma olhada, sim?",
+      "lote": "509"
+    },
+    {
+      "id": "ae6a",
+      "chave": "dialog__logstating",
+      "hash_es": "827ebc722120c13a",
+      "texto_ptbr": "Porque vocês acabaram de ganhar o jogo.",
+      "lote": "509"
+    },
+    {
+      "id": "52ec",
+      "chave": "dialog__mumbopleased",
+      "hash_es": "d2094f82344b51de",
+      "texto_ptbr": "Urso fazer bem, mesmo usando veículos bobos.",
+      "lote": "509"
+    },
+    {
+      "id": "52cc",
+      "chave": "dialog__piddlescasual",
+      "hash_es": "d2665b4216b891b4",
+      "texto_ptbr": "Mrrowrrr... agora você pode me dar uma escova.",
+      "lote": "509"
+    },
+    {
+      "id": "a3ed",
+      "chave": "dialog__piddlesordering",
+      "hash_es": "01ac08bfcc330787",
+      "texto_ptbr": "Depressa! Aposto que todo mundo está esperando por isso.",
+      "lote": "509"
+    },
+    {
+      "id": "3690",
+      "chave": "dialog__piddlesreminding",
+      "hash_es": "6438ac28e578a8e7",
+      "texto_ptbr": "Muito leite para mim, Winkybunion!",
+      "lote": "509"
+    },
+    {
+      "id": "bfd3",
+      "chave": "dialog__text",
+      "hash_es": "dba270df21f94ae8",
+      "texto_ptbr": "FÁBRICA DE VIDEOGAMES DO S.J.",
+      "lote": "509"
+    },
+    {
+      "id": "28f4",
+      "chave": "dialog__trophydismissive",
+      "hash_es": "ee2ddcace53a915e",
+      "texto_ptbr": "Bah! Eu sei que poderia ter feito mais rápido.",
+      "lote": "509"
+    }
+  ]
+}

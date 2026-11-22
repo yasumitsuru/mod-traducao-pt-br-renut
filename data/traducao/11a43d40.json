@@ -1,0 +1,60 @@
+{
+  "arquivo": "11a43d40",
+  "asset": "aid_loctext_banjox_tt_worldofsport_act2",
+  "frases": [
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "29c6",
+      "chave": "dialog__game2_collectpenguin1",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "29c7",
+      "chave": "dialog__game2_collectpenguin2",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "77d0",
+      "chave": "dialog__game2_collectpig1",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "77d1",
+      "chave": "dialog__game2_collectpig2",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "0f50",
+      "chave": "dialog__game2_collectrhino1",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "0f51",
+      "chave": "dialog__game2_collectrhino2",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "9d67",
+      "chave": "dialog__game2_objectives",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "fac8",
+      "chave": "dialog__game3_objectives",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    }
+  ]
+}

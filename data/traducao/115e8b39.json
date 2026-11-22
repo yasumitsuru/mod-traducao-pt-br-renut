@@ -1,0 +1,188 @@
+{
+  "arquivo": "115e8b39",
+  "asset": "aid_loctext_banjox_ui_htmlstylesheet",
+  "frases": [
+    {
+      "id": "3530",
+      "chave": "html__black",
+      "hash_es": "492621e1b3b25689",
+      "texto_ptbr": "\"#FF000000\"",
+      "lote": "606"
+    },
+    {
+      "id": "32bb",
+      "chave": "html__blue",
+      "hash_es": "69fb34b67bd7a810",
+      "texto_ptbr": "\"#FF0000FF\"",
+      "lote": "606"
+    },
+    {
+      "id": "bd9b",
+      "chave": "html__brown",
+      "hash_es": "fad874db154a8b84",
+      "texto_ptbr": "\"#FF513611\"",
+      "lote": "606"
+    },
+    {
+      "id": "22a0",
+      "chave": "html__doublenewline",
+      "hash_es": "7fbec779ad23f63e",
+      "texto_ptbr": "<br></br><br></br>",
+      "lote": "606"
+    },
+    {
+      "id": "0b44",
+      "chave": "html__green",
+      "hash_es": "d58d1707c0057c7a",
+      "texto_ptbr": "\"#FF00FF00\"",
+      "lote": "606"
+    },
+    {
+      "id": "082a",
+      "chave": "html__grey",
+      "hash_es": "477f8baaebd82976",
+      "texto_ptbr": "\"#FF7F7F7F\"",
+      "lote": "606"
+    },
+    {
+      "id": "686a",
+      "chave": "html__loadingtip_postfix",
+      "hash_es": "66d4fa568f7cc56a",
+      "texto_ptbr": "</ds></font></div>",
+      "lote": "606"
+    },
+    {
+      "id": "92cb",
+      "chave": "html__loadingtip_prefix",
+      "hash_es": "dfae851f20fdb91b",
+      "texto_ptbr": "<div align=\"center\"><font size=\"26\" color=\"#b6ffa0\" shadowcolor=\"#FF000000\"><ds>",
+      "lote": "606"
+    },
+    {
+      "id": "6a8d",
+      "chave": "html__mpblack",
+      "hash_es": "c135906d56610275",
+      "texto_ptbr": "\"#FF303030\"",
+      "lote": "606"
+    },
+    {
+      "id": "b078",
+      "chave": "html__mpblue",
+      "hash_es": "7f1d942d81e89a4a",
+      "texto_ptbr": "\"#FF4E7BC7\"",
+      "lote": "606"
+    },
+    {
+      "id": "f2f8",
+      "chave": "html__mpbrown",
+      "hash_es": "59f5b9acc4ef22b7",
+      "texto_ptbr": "\"#FF804000\"",
+      "lote": "606"
+    },
+    {
+      "id": "af28",
+      "chave": "html__mpgreenlime",
+      "hash_es": "b630445e7be456b5",
+      "texto_ptbr": "\"#FF78E317\"",
+      "lote": "606"
+    },
+    {
+      "id": "5022",
+      "chave": "html__mppink",
+      "hash_es": "740cc8dee2b1fe97",
+      "texto_ptbr": "\"#FFCD65A0\"",
+      "lote": "606"
+    },
+    {
+      "id": "bccb",
+      "chave": "html__mpred",
+      "hash_es": "27758325904ae7df",
+      "texto_ptbr": "\"#FFD10903\"",
+      "lote": "606"
+    },
+    {
+      "id": "7e05",
+      "chave": "html__mpsilver",
+      "hash_es": "bf0d733c63bf76b1",
+      "texto_ptbr": "\"#FFEBEBEB\"",
+      "lote": "606"
+    },
+    {
+      "id": "e68c",
+      "chave": "html__mpyellow",
+      "hash_es": "7f34e73dc88ffce3",
+      "texto_ptbr": "\"#FFFAFF1A\"",
+      "lote": "606"
+    },
+    {
+      "id": "0e65",
+      "chave": "html__newline",
+      "hash_es": "be8b08dab2453dbd",
+      "texto_ptbr": "<br></br>",
+      "lote": "606"
+    },
+    {
+      "id": "2746",
+      "chave": "html__onlinenotice_postfix",
+      "hash_es": "66d4fa568f7cc56a",
+      "texto_ptbr": "</ds></font></div>",
+      "lote": "606"
+    },
+    {
+      "id": "e627",
+      "chave": "html__onlinenotice_prefix",
+      "hash_es": "8e0923c99905ef8b",
+      "texto_ptbr": "<div align=\"center\"><font size=\"18\" color=\"#b6ffa0\" shadowcolor=\"#FF000000\"><ds>",
+      "lote": "606"
+    },
+    {
+      "id": "d265",
+      "chave": "html__pink",
+      "hash_es": "497f739dfd0d50cd",
+      "texto_ptbr": "\"#FF00FF0\"",
+      "lote": "606"
+    },
+    {
+      "id": "82ae",
+      "chave": "html__red",
+      "hash_es": "fb95e7eaff18ef08",
+      "texto_ptbr": "\"#FFFF0000\"",
+      "lote": "606"
+    },
+    {
+      "id": "d3d7",
+      "chave": "html__speech_postfix",
+      "hash_es": "66d4fa568f7cc56a",
+      "texto_ptbr": "</ds></font></div>",
+      "lote": "606"
+    },
+    {
+      "id": "c498",
+      "chave": "html__speech_prefix",
+      "hash_es": "885913e4e73cc41a",
+      "texto_ptbr": "<div align=\"left\"><font size=\"18\" color=\"#FFFFFFFF\" shadowcolor=\"#FF000000\"><ds>",
+      "lote": "606"
+    },
+    {
+      "id": "2a74",
+      "chave": "html__white",
+      "hash_es": "1be7a1c776096099",
+      "texto_ptbr": "\"#FFFFFFFF\"",
+      "lote": "606"
+    },
+    {
+      "id": "058f",
+      "chave": "html__yellow",
+      "hash_es": "175c2a0aeb0011bb",
+      "texto_ptbr": "\"#FFFFF000\"",
+      "lote": "606"
+    },
+    {
+      "id": "b570",
+      "chave": "html__yellowybrown",
+      "hash_es": "6fc0e671b1e76ff7",
+      "texto_ptbr": "\"#FFB8A359\"",
+      "lote": "606"
+    }
+  ]
+}

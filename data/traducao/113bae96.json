@@ -1,0 +1,272 @@
+{
+  "arquivo": "113bae96",
+  "asset": "aid_loctext_banjox_actor_hitdialogs",
+  "frases": [
+    {
+      "id": "697d",
+      "chave": "dialog__blubber1",
+      "hash_es": "6789f37705d9d393",
+      "texto_ptbr": "Arrr, seus marujos, vão deixar o velho Capitão enjoado!",
+      "lote": "606"
+    },
+    {
+      "id": "697e",
+      "chave": "dialog__blubber2",
+      "hash_es": "df24252e1b148a8c",
+      "texto_ptbr": "Arrr! Já tive um papagaio briguento, mas nunca assim!",
+      "lote": "606"
+    },
+    {
+      "id": "a057",
+      "chave": "dialog__boggy1",
+      "hash_es": "7564dab750356af3",
+      "texto_ptbr": "E isso foi por quê? Já levo bofetadas suficientes da Sra. Boggy!",
+      "lote": "608"
+    },
+    {
+      "id": "a058",
+      "chave": "dialog__boggy2",
+      "hash_es": "4d0bb0d782c51aca",
+      "texto_ptbr": "Pegando no pé do personagem gordo, né? Já entendi como funciona...",
+      "lote": "606"
+    },
+    {
+      "id": "2c1c",
+      "chave": "dialog__bottles1",
+      "hash_es": "e929250e3f162ca5",
+      "texto_ptbr": "Ei! Eu enxergo bem o suficiente para revidar se precisar!",
+      "lote": "606"
+    },
+    {
+      "id": "2c1d",
+      "chave": "dialog__bottles2",
+      "hash_es": "b0d6deb596417429",
+      "texto_ptbr": "Vocês dois já não causaram dano suficiente na vez em que me mataram?",
+      "lote": "606"
+    },
+    {
+      "id": "76c8",
+      "chave": "dialog__grunty1",
+      "hash_es": "418fd74cf1b2109d",
+      "texto_ptbr": "Eu sei que você não é meu fã, mas essa atitude passou dos limites!",
+      "lote": "606"
+    },
+    {
+      "id": "76c9",
+      "chave": "dialog__grunty2",
+      "hash_es": "073a723d05f5b73c",
+      "texto_ptbr": "Não se meta comigo, que eu revido. Vou te mostrar o ataque de bafo da Grunty!",
+      "lote": "608"
+    },
+    {
+      "id": "590c",
+      "chave": "dialog__humba1",
+      "hash_es": "59399aa8d0e86bf9",
+      "texto_ptbr": "Ai! Isso não se faz. É injusto descontar o estresse na Humba!",
+      "lote": "606"
+    },
+    {
+      "id": "590d",
+      "chave": "dialog__humba2",
+      "hash_es": "a1a088e378fdef94",
+      "texto_ptbr": "Pare! Mumbo diz que você é doido, mas Humba nunca acreditou!",
+      "lote": "606"
+    },
+    {
+      "id": "3479",
+      "chave": "dialog__jinjo1",
+      "hash_es": "ba81570ecf4e6e4e",
+      "texto_ptbr": "Qual é, pare de bater nos Jinjos! A gente nunca machucou ninguém!",
+      "lote": "606"
+    },
+    {
+      "id": "347a",
+      "chave": "dialog__jinjo2",
+      "hash_es": "8242854bb02de756",
+      "texto_ptbr": "Ai! Será que nós, Jinjos, nunca vamos viver em paz?",
+      "lote": "606"
+    },
+    {
+      "id": "b889",
+      "chave": "dialog__jolly1",
+      "hash_es": "f9b45567bfb08dd6",
+      "texto_ptbr": "Ooh, não, sai! Não gosto dessas coisas brutas!",
+      "lote": "606"
+    },
+    {
+      "id": "b88a",
+      "chave": "dialog__jolly2",
+      "hash_es": "474bfab8547625c1",
+      "texto_ptbr": "Esse não é jeito de resolver seus problemas! Já tentou ioga?",
+      "lote": "608"
+    },
+    {
+      "id": "b4db",
+      "chave": "dialog__kingjingaling1",
+      "hash_es": "22bd10e7b55cac2b",
+      "texto_ptbr": "Você sabe quem eu sou? Vou mandar te proibir de entrar no Palácio!",
+      "lote": "606"
+    },
+    {
+      "id": "b4dc",
+      "chave": "dialog__kingjingaling2",
+      "hash_es": "70b4a1a3b2786eed",
+      "texto_ptbr": "Tentativa de regicídio! O que deu em vocês dois?",
+      "lote": "606"
+    },
+    {
+      "id": "3d6f",
+      "chave": "dialog__klungo1",
+      "hash_es": "4fbd21cdfb020a72",
+      "texto_ptbr": "Paaare! Klungo ter flashbacksss dos ataques de raiva da Grunty!",
+      "lote": "606"
+    },
+    {
+      "id": "3d70",
+      "chave": "dialog__klungo2",
+      "hash_es": "b7361bf32a02abd6",
+      "texto_ptbr": "Não bata no Klungo! Grande bagunsssa se os pontosss se soltarem!",
+      "lote": "608"
+    },
+    {
+      "id": "84e1",
+      "chave": "dialog__log1",
+      "hash_es": "7d413e30208b29f9",
+      "texto_ptbr": "Vou presumir que foi um acidente. Continue e eu vou te reduzir aos seus pixels constituintes!",
+      "lote": "606"
+    },
+    {
+      "id": "84e2",
+      "chave": "dialog__log2",
+      "hash_es": "d0e89713490bb006",
+      "texto_ptbr": "Suspiro. Esta última leva de personagens é ainda mais disfuncional do que eu suspeitava.",
+      "lote": "606"
+    },
+    {
+      "id": "2441",
+      "chave": "dialog__mrfit1",
+      "hash_es": "6ee4a48103c814fb",
+      "texto_ptbr": "Ai, não tão forte! Esse fez meu narigão tremer!",
+      "lote": "606"
+    },
+    {
+      "id": "2442",
+      "chave": "dialog__mrfit2",
+      "hash_es": "bc515ba6242db7b0",
+      "texto_ptbr": "Calma, magrelo! Lembre-se de todas as aventuras que vivemos juntos!",
+      "lote": "606"
+    },
+    {
+      "id": "25ff",
+      "chave": "dialog__mumbo1",
+      "hash_es": "8dd5b5bba4a8fcb8",
+      "texto_ptbr": "Eekumbokum! Mumbo não quer rachadura feia no crânio!",
+      "lote": "606"
+    },
+    {
+      "id": "2600",
+      "chave": "dialog__mumbo2",
+      "hash_es": "c94ffac3bc89b38a",
+      "texto_ptbr": "Urso e pássaro abusam dos serviços locais. Construir e explorar, não destruir!",
+      "lote": "606"
+    },
+    {
+      "id": "3e55",
+      "chave": "dialog__penguin1",
+      "hash_es": "dff17f0a1a6167c7",
+      "texto_ptbr": "Como você pôde? Todo mundo ama pinguins! É fato científico!",
+      "lote": "606"
+    },
+    {
+      "id": "3e56",
+      "chave": "dialog__penguin2",
+      "hash_es": "cc45e9d6b39d5bdd",
+      "texto_ptbr": "Cuidado, todo mundo! O espancador de coadjuvantes está solto!",
+      "lote": "606"
+    },
+    {
+      "id": "51c4",
+      "chave": "dialog__piddles1",
+      "hash_es": "d8eb4c73bb68e78a",
+      "texto_ptbr": "Miaaauuuurrrr!",
+      "lote": "606"
+    },
+    {
+      "id": "51c5",
+      "chave": "dialog__piddles2",
+      "hash_es": "43dd09658f65ed9a",
+      "texto_ptbr": "Grrrrrrrrrr!",
+      "lote": "606"
+    },
+    {
+      "id": "bc7f",
+      "chave": "dialog__pigpig1",
+      "hash_es": "8fd12a8a5d3b5d72",
+      "texto_ptbr": "Oinc! Por que você fez isso? Eu não sou um pedaço de carne, sabia?",
+      "lote": "606"
+    },
+    {
+      "id": "bc80",
+      "chave": "dialog__pigpig2",
+      "hash_es": "402a6141b2f39b2a",
+      "texto_ptbr": "Estou avisando: tenho parentes na polícia!",
+      "lote": "606"
+    },
+    {
+      "id": "86cd",
+      "chave": "dialog__pikelet1",
+      "hash_es": "919dd61a0f8c42c1",
+      "texto_ptbr": "Ora, seu... continue assim e eu vou enfiar minha pata na sua cara!",
+      "lote": "606"
+    },
+    {
+      "id": "86ce",
+      "chave": "dialog__pikelet2",
+      "hash_es": "d512a334ef9d53c5",
+      "texto_ptbr": "Isso não é uma boa ideia. Eu sou grande, sou mau e guardo rancor...",
+      "lote": "606"
+    },
+    {
+      "id": "b114",
+      "chave": "dialog__pikeletchair1",
+      "hash_es": "21b7b10fa4e050fb",
+      "texto_ptbr": "Você quer passar a noite na cadeia? Ou prefere que eu te expulse da cidade?",
+      "lote": "606"
+    },
+    {
+      "id": "b115",
+      "chave": "dialog__pikeletchair2",
+      "hash_es": "386a52528edbd96f",
+      "texto_ptbr": "Vocês já estão encrencados o suficiente sem piorar as coisas!",
+      "lote": "606"
+    },
+    {
+      "id": "b41f",
+      "chave": "dialog__rhino1",
+      "hash_es": "312a1b3209df1b09",
+      "texto_ptbr": "Só porque eu sou grande, não quer dizer que eu não tenha sentimentos...",
+      "lote": "606"
+    },
+    {
+      "id": "b420",
+      "chave": "dialog__rhino2",
+      "hash_es": "3c370075245a94df",
+      "texto_ptbr": "Agredir fisicamente um rinoceronte? Sério, esse é o seu plano?",
+      "lote": "606"
+    },
+    {
+      "id": "854b",
+      "chave": "dialog__thomas1",
+      "hash_es": "ed8f52bd3bff4e2b",
+      "texto_ptbr": "Qual é, só porque eu sou melhor que você! Perdedor!",
+      "lote": "606"
+    },
+    {
+      "id": "854c",
+      "chave": "dialog__thomas2",
+      "hash_es": "c38e2d4396f22f8d",
+      "texto_ptbr": "Ai! A inveja deve estar te corroendo. Que coisa terrível!",
+      "lote": "606"
+    }
+  ]
+}

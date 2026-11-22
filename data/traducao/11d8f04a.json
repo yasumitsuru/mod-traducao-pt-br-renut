@@ -1,0 +1,30 @@
+{
+  "arquivo": "11d8f04a",
+  "asset": "aid_loctext_banjox_ui_ingame_dialog_oneyearout",
+  "frases": [
+    {
+      "id": "4841",
+      "chave": "dialog__helpbanjo",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "4111",
+      "chave": "dialog__helpgrunty1",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "4112",
+      "chave": "dialog__helpgrunty2",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "4113",
+      "chave": "dialog__helpgrunty3",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    }
+  ]
+}

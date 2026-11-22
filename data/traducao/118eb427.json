@@ -1,0 +1,444 @@
+{
+  "arquivo": "118eb427",
+  "asset": "aid_loctext_banjox_gameintro",
+  "frases": [
+    {
+      "id": "c80d",
+      "chave": "dialog__banjobanjosports",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "0f39",
+      "chave": "dialog__banjobutyoureonly",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "b6e4",
+      "chave": "dialog__banjocheerup",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "2723",
+      "chave": "dialog__banjogasp",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "3c21",
+      "chave": "dialog__banjogrunty",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "b396",
+      "chave": "dialog__banjohehasgotapoint",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "5156",
+      "chave": "dialog__banjohesright",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "e9d6",
+      "chave": "dialog__banjoheyiwonder",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "4b52",
+      "chave": "dialog__banjoidid",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "0ea8",
+      "chave": "dialog__banjoincaseyou",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "d75c",
+      "chave": "dialog__banjokazooiehaha",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "4541",
+      "chave": "dialog__banjoletsgotakealook",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "e28e",
+      "chave": "dialog__banjoooimnottoosure",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "6a86",
+      "chave": "dialog__banjopizza",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "51e6",
+      "chave": "dialog__banjothatjetthing",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "7eab",
+      "chave": "dialog__banjovivapinata",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "08ac",
+      "chave": "dialog__banjowhat",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "fffb",
+      "chave": "dialog__banjowhoareyou",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "9d54",
+      "chave": "dialog__gruntyatleastihavent",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "5eb8",
+      "chave": "dialog__gruntybanjoshouse",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "b965",
+      "chave": "dialog__gruntybearandbird",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "3c81",
+      "chave": "dialog__gruntybirdiswrong",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "00d2",
+      "chave": "dialog__gruntybirdwasrubbish",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "99c4",
+      "chave": "dialog__gruntycomeuphere",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "cc4d",
+      "chave": "dialog__gruntyheretheyare",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "9c0d",
+      "chave": "dialog__gruntyifimnot",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "e9e3",
+      "chave": "dialog__gruntyimthefavourite",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "f777",
+      "chave": "dialog__gruntymilesiverolled",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "87c7",
+      "chave": "dialog__gruntymybodysgone",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "17d7",
+      "chave": "dialog__gruntymyteeth",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "4755",
+      "chave": "dialog__gruntynoyourewrong",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "8cbc",
+      "chave": "dialog__gruntythroughlava",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "6d86",
+      "chave": "dialog__gruntytooslowlosers",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "be0a",
+      "chave": "dialog__gruntyyesitsme",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "a2da",
+      "chave": "dialog__gruntyyournameisodd",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "83ea",
+      "chave": "dialog__jamjarslistenup",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "7159",
+      "chave": "dialog__kazooiebagsytheone",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "fb8b",
+      "chave": "dialog__kazooiecomeonbanjo",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "474d",
+      "chave": "dialog__kazooiecool",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "78db",
+      "chave": "dialog__kazooiefailures",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "8daf",
+      "chave": "dialog__kazooiefasterbanjo",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "d81e",
+      "chave": "dialog__kazooiegreatbut",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "ae74",
+      "chave": "dialog__kazooieheydidyouhear",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "a465",
+      "chave": "dialog__kazooieheylcdbrain",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "409e",
+      "chave": "dialog__kazooieidontthinkso",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "4750",
+      "chave": "dialog__kazooieifitsthat",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "0a2a",
+      "chave": "dialog__kazooieitlookslike",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "c778",
+      "chave": "dialog__kazooieitsoundsawful",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "9507",
+      "chave": "dialog__kazooielol",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "eec2",
+      "chave": "dialog__kazooienoyouwont",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "a761",
+      "chave": "dialog__kazooieshutit",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "6f50",
+      "chave": "dialog__kazooieshutitcranium",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "d081",
+      "chave": "dialog__kazooiewashedup",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "0f02",
+      "chave": "dialog__kazooiewhateven",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "3f40",
+      "chave": "dialog__kazooiewhoknows",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "a0db",
+      "chave": "dialog__kazooieyehimsure",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "6caa",
+      "chave": "dialog__kazooieyehthats",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "b0e9",
+      "chave": "dialog__kazooieyouaint",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "b5f6",
+      "chave": "dialog__loganyotherrequests",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "f359",
+      "chave": "dialog__logbutnowherenear",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "2a98",
+      "chave": "dialog__logdocomealong",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "75b2",
+      "chave": "dialog__logifonlytheycould",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "1ede",
+      "chave": "dialog__logimafraidnot",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "4a5e",
+      "chave": "dialog__logimheretosettle",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "5ec9",
+      "chave": "dialog__logithoughttheywere",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "ae5a",
+      "chave": "dialog__logletthecollecting",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "f8b3",
+      "chave": "dialog__logmynameis",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "4047",
+      "chave": "dialog__lognonono",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "7815",
+      "chave": "dialog__lognowasisthe",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "ae0c",
+      "chave": "dialog__lognowiknow",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "a43e",
+      "chave": "dialog__logsadlyyes",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "0bc8",
+      "chave": "dialog__logsincerestgreetings",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "5944",
+      "chave": "dialog__logsoimgoingtotake",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    }
+  ]
+}

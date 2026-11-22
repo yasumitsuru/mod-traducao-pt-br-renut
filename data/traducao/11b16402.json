@@ -1,0 +1,104 @@
+{
+  "arquivo": "11b16402",
+  "asset": "aid_loctext_banjox_test_dialogtesttext",
+  "frases": [
+    {
+      "id": "a438",
+      "chave": "dialog__banjo",
+      "hash_es": "3c61d6aaf56b2dc0",
+      "texto_ptbr": "{MOODDEFAULT}Caso você não tenha notado, Sr. S.J., nós não estamos exatamente em forma para outra aventura.",
+      "lote": "606"
+    },
+    {
+      "id": "ac67",
+      "chave": "dialog__banjomood",
+      "hash_es": "c1637c9614e30764",
+      "texto_ptbr": "{MOODANGRY}Nervoso nervoso nervoso nervoso nervoso nervoso nervoso nervoso{PAGEBREAK}{MOODSAD}Triste triste triste triste triste triste triste triste triste.{PAGEBREAK}{MOODHAPPY}Feliz feliz feliz feliz feliz feliz feliz feliz feliz.{PAGEBREAK}{MOODDEFAULT}Normal normal normal normal normal normal normal normal normal normal.",
+      "lote": "606"
+    },
+    {
+      "id": "7943",
+      "chave": "dialog__banjomulti",
+      "hash_es": "c89a9f8cddd2f51a",
+      "texto_ptbr": "{MOODANGRY}Esta é a página nervosa do texto. Blá blá blá. As falas de diálogo agora podem ter várias linhas divididas em páginas.{PAGEBREAK}{MOODSAD}Esta é a página triste. {PAGEBREAK}{MOODHAPPY}Esta é a página feliz. Blá blá blá blá blá.  Blá blá blá blá blá.  Blá blá blá blá blá.  Blá blá blá blá blá.{PAGEBREAK}Por fim, a quarta!",
+      "lote": "606"
+    },
+    {
+      "id": "a1d4",
+      "chave": "dialog__banjomulti1",
+      "hash_es": "3d47a9245d37b4d4",
+      "texto_ptbr": "{MOODANGRY}123{PAGEBREAK}{MOODSAD}123 {PAGEBREAK}{MOODHAPPY}1234567890.{PAGEBREAK}123",
+      "lote": "606"
+    },
+    {
+      "id": "fbc5",
+      "chave": "dialog__blah",
+      "hash_es": "4e9edba2fb808bca",
+      "texto_ptbr": "blá blá blá blá blá blá blá blá blá blá blá blá",
+      "lote": "606"
+    },
+    {
+      "id": "9852",
+      "chave": "dialog__glyphtest",
+      "hash_es": "9481b0b0146f5969",
+      "texto_ptbr": "Aperte [A], [B], [X] ou [Y]",
+      "lote": "606"
+    },
+    {
+      "id": "b74f",
+      "chave": "dialog__npc",
+      "hash_es": "62e2b0c1c69e15df",
+      "texto_ptbr": "{MOODDEFAULT}Escutem, ouvintes! Vocês aí sabiam que já faz 10 anos que o Banjo foi inventado?{PAGEBREAK}Alguém lembra daquele jogo original péssimo em que eu não aparecia? Agora olha pra ele, todo gordo e acabadão etc.",
+      "lote": "606"
+    },
+    {
+      "id": "0090",
+      "chave": "dialog__npcangry",
+      "hash_es": "5d68c47cec8898c5",
+      "texto_ptbr": "{MOODANGRY}Escutem, ouvintes! Vocês aí sabiam que já faz 10 anos que o Banjo foi inventado?{PAGEBREAK}Alguém lembra daquele jogo original péssimo em que eu não aparecia? Agora olha pra ele, todo gordo e acabadão etc.",
+      "lote": "606"
+    },
+    {
+      "id": "b131",
+      "chave": "dialog__npchappy",
+      "hash_es": "f70cfe94cbbec69b",
+      "texto_ptbr": "{MOODHAPPY}Escutem, ouvintes! Vocês aí sabiam que já faz 10 anos que o Banjo foi inventado?{PAGEBREAK}Alguém lembra daquele jogo original péssimo em que eu não aparecia? Agora olha pra ele, todo gordo e acabadão etc.",
+      "lote": "606"
+    },
+    {
+      "id": "72fe",
+      "chave": "dialog__npcmood",
+      "hash_es": "7f5a3580d4abc6a2",
+      "texto_ptbr": "{MOODDEFAULT}Este é o texto de humor normal. Blá blá blá blá blá. {MOODANGRY}Este é o texto de humor irritado. Blá blá blá blá blá. {MOODSAD}Este é o texto de humor triste. Blá blá blá blá blá. {MOODHAPPY}Este é o texto de humor feliz. Blá blá blá blá blá.",
+      "lote": "606"
+    },
+    {
+      "id": "12ba",
+      "chave": "dialog__npcmulti",
+      "hash_es": "1ffa049d80d0928b",
+      "texto_ptbr": "{MOODDEFAULT}Esta é a primeira página de texto. Blá blá blá. As falas de diálogo agora podem ter várias linhas divididas em páginas.{PAGEBREAK}Esta é a segunda página. {PAGEBREAK}Esta é a terceira.{PAGEBREAK}Por fim, a quarta!",
+      "lote": "606"
+    },
+    {
+      "id": "9f07",
+      "chave": "dialog__npcsad",
+      "hash_es": "25a899bf808620c4",
+      "texto_ptbr": "{MOODSAD}Escutem, ouvintes! Vocês aí sabiam que já faz 10 anos que o Banjo foi inventado?{PAGEBREAK}Alguém lembra daquele jogo original péssimo em que eu não aparecia? Agora olha pra ele, todo gordo e acabadão etc.",
+      "lote": "606"
+    },
+    {
+      "id": "8988",
+      "chave": "dialog__ok",
+      "hash_es": "565339bc4d33d728",
+      "texto_ptbr": "OK",
+      "lote": "606"
+    },
+    {
+      "id": "988b",
+      "chave": "dialog__savstest",
+      "hash_es": "f0624942a59b7235",
+      "texto_ptbr": "Botão A: [A] com uma string bem longa Botão B: [B] para eu ver como fica Botão X: [X] com os botões espalhados por várias Botão Y: [Y]linhas de texto",
+      "lote": "606"
+    }
+  ]
+}

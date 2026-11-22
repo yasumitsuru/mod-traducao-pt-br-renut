@@ -1,0 +1,40 @@
+{
+  "arquivo": "1190c0b2",
+  "asset": "aid_loctext_banjox_instructions_challengestart",
+  "frases": [
+    {
+      "id": "f787",
+      "chave": "dialog__instructions_choosevehiclebtn",
+      "hash_es": "25a7677ae2a8e1d8",
+      "texto_ptbr": "Escolha um veículo do seu banco de dados de projetos para usar neste jogo. Depois de escolher, selecione &quot;Iniciar jogo&quot; para começar.",
+      "lote": "503"
+    },
+    {
+      "id": "d91a",
+      "chave": "dialog__instructions_createvehiclebtn",
+      "hash_es": "2ba78c8f6b46ee2b",
+      "texto_ptbr": "Entre nos Motores do Mumbo para construir veículos novos para este jogo se achar que os do seu banco de dados de projetos não estão à altura.",
+      "lote": "503"
+    },
+    {
+      "id": "1774",
+      "chave": "dialog__instructions_objectivesbtn",
+      "hash_es": "af8859f5cfd8e01b",
+      "texto_ptbr": "Ver a sequência de objetivos do jogo de novo.",
+      "lote": "503"
+    },
+    {
+      "id": "3437",
+      "chave": "dialog__instructions_startchallengebtn",
+      "hash_es": "eb537af868667679",
+      "texto_ptbr": "Quando estiver pronto, pressione o botão [A] e vamos começar o jogo!",
+      "lote": "503"
+    },
+    {
+      "id": "4d57",
+      "chave": "dialog__instructions_stylebtn",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    }
+  ]
+}

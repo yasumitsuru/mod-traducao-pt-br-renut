@@ -1,0 +1,300 @@
+{
+  "arquivo": "11dad8a4",
+  "asset": "aid_loctext_banjox_banjoland_act3",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "1a3e9e45ab0c93f0",
+      "texto_ptbr": "A evacuação acabou, Banjo, você foi bem. Mas como eu sempre digo, você vai fazer melhor se se esforçar mais!",
+      "lote": "604"
+    },
+    {
+      "id": "b254",
+      "chave": "dialog__game1_fail",
+      "hash_es": "126bcae1b6620123",
+      "texto_ptbr": "Minha nossa, estamos trancados aqui a noite toda! Bem, pelo menos podemos tirar um pouco mais de pó. Vamos nos equipar, pessoal...",
+      "lote": "604"
+    },
+    {
+      "id": "9744",
+      "chave": "dialog__game1_intro",
+      "hash_es": "286efaaeebc7e6f4",
+      "texto_ptbr": "Ainda aqui, Garoto Óculos? Já não está na hora de ir embora?",
+      "lote": "604"
+    },
+    {
+      "id": "8026",
+      "chave": "dialog__game1_introb",
+      "hash_es": "d6a1dafe7fa759c2",
+      "texto_ptbr": "Droga, o parque está prestes a fechar e alguns dos meus funcionários ainda não bateram o ponto! {PAGEBREAK}Não posso sair correndo por aí como um trabalhador comum. Você poderia localizá-los para mim?",
+      "lote": "604"
+    },
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "8167dc05841ed3f7",
+      "texto_ptbr": "Banjoland está prestes a fechar! Use nosso ônibus de cortesia para recolher os retardatários e chegar aos portões antes que sejam trancados!",
+      "lote": "604"
+    },
+    {
+      "id": "1938",
+      "chave": "dialog__game1_objectivesrepeat1",
+      "hash_es": "242e9aa5b8f9dc93",
+      "texto_ptbr": "É melhor tirar esses preguiçosos do recinto antes que eu os demita!",
+      "lote": "604"
+    },
+    {
+      "id": "1939",
+      "chave": "dialog__game1_objectivesrepeat2",
+      "hash_es": "ee7b3f6b720b97b6",
+      "texto_ptbr": "Regra da equipe SK-1-V3RS: funcionários devem bater o ponto antes do fechamento!",
+      "lote": "604"
+    },
+    {
+      "id": "d532",
+      "chave": "dialog__game1_successa",
+      "hash_es": "177da5e72134a41b",
+      "texto_ptbr": "{MOODHAPPY}Bravo, conseguimos. Isso pede uma festa! Todos lá em casa para suco de cranberry e uma rodada de mímica!",
+      "lote": "604"
+    },
+    {
+      "id": "d534",
+      "chave": "dialog__game1_successc",
+      "hash_es": "ccc0c7600278a449",
+      "texto_ptbr": "Feito com eficiência, Banjo. Talvez eu te contrate como meu gerente de RH! Mas tenho certeza de que o Jiggy já serve por enquanto...",
+      "lote": "604"
+    },
+    {
+      "id": "d536",
+      "chave": "dialog__game1_successe",
+      "hash_es": "b20bb12df1df9204",
+      "texto_ptbr": "Por um triz. Habilidade com funcionários, Banjo! É preciso ter jeito com as pessoas para vencer neste mundo, e isso inclui os Jiggies!",
+      "lote": "604"
+    },
+    {
+      "id": "f828",
+      "chave": "dialog__game2_beaten",
+      "hash_es": "cc3e4240db810ddb",
+      "texto_ptbr": "{MOODHAPPY}O sistema de segurança está funcionando, obrigado por isso, magrelo. Mas fique à vontade para conferir todas as câmeras. Segurança em primeiro lugar!",
+      "lote": "604"
+    },
+    {
+      "id": "daf5",
+      "chave": "dialog__game2_fail",
+      "hash_es": "e84531039f3a4f8d",
+      "texto_ptbr": "{MOODSAD}Eu sabia que algo estava errado! Os Gruntbots estão destruindo o parque! Bottles vai nos demitir, na certa!",
+      "lote": "604"
+    },
+    {
+      "id": "d405",
+      "chave": "dialog__game2_intro",
+      "hash_es": "295a60cf64d3cdc4",
+      "texto_ptbr": "Qual é o problema, Sr. Em Forma? Você parece que viu um fantasma! Ou talvez só o seu reflexo...",
+      "lote": "604"
+    },
+    {
+      "id": "5507",
+      "chave": "dialog__game2_introb",
+      "hash_es": "954582a6577d551d",
+      "texto_ptbr": "{MOODSAD}Aquele idiota do Klungo foi embora sem ligar as câmeras de segurança! Este lugar me dá arrepios à noite. Me dá uma força aqui!",
+      "lote": "604"
+    },
+    {
+      "id": "9d67",
+      "chave": "dialog__game2_objectives",
+      "hash_es": "8ad96577662da009",
+      "texto_ptbr": "{MOODSAD}Todas as câmeras de segurança ao redor do lugar precisam estar ligadas para o sistema ficar ati... espera, o que foi isso? Você ouviu alguma coisa? Ah, nãoooo...",
+      "lote": "604"
+    },
+    {
+      "id": "4aa9",
+      "chave": "dialog__game2_objectivesb",
+      "hash_es": "e37c1ef4569ea516",
+      "texto_ptbr": "Olha, bafo de inseto, você vai se acalmar se a gente acionar o sistema de segurança? Não queremos que você &quot;estrague&quot; esse belo traje de concha.",
+      "lote": "604"
+    },
+    {
+      "id": "7f79",
+      "chave": "dialog__game2_objectivesrepeat1",
+      "hash_es": "d59e8d3fd9f62c7b",
+      "texto_ptbr": "Só o S.J. sabe como o Klungo chega a algumas dessas câmeras...",
+      "lote": "604"
+    },
+    {
+      "id": "7f7a",
+      "chave": "dialog__game2_objectivesrepeat2",
+      "hash_es": "74d584b43e375b7b",
+      "texto_ptbr": "Cuidado com os Gruntbots! Mantenha uma arma pronta! Credo!",
+      "lote": "604"
+    },
+    {
+      "id": "6653",
+      "chave": "dialog__game2_successa",
+      "hash_es": "9aa45d330c8655c9",
+      "texto_ptbr": "{MOODHAPPY}Sim! O sistema está no ar, e os Gruntbots estão fugindo antes que a polícia de Showdown Town chegue! Pegue isto, Banjo. Você salvou Banjoland!",
+      "lote": "604"
+    },
+    {
+      "id": "6655",
+      "chave": "dialog__game2_successc",
+      "hash_es": "9dc9bcaabfd6fb32",
+      "texto_ptbr": "Ufa, vou conseguir dormir esta noite, afinal... acho. Você merece o Jiggy por aturar um tamanduá paranoico.",
+      "lote": "604"
+    },
+    {
+      "id": "6657",
+      "chave": "dialog__game2_successe",
+      "hash_es": "2b213bc3c71b2003",
+      "texto_ptbr": "{MOODSAD}Foi por pouco! Vou ficar acordado a noite toda tendo flashbacks! Você acha mesmo que isso merecia um Jiggy?",
+      "lote": "604"
+    },
+    {
+      "id": "cd09",
+      "chave": "dialog__game3_beaten",
+      "hash_es": "d4e9597214daf2d9",
+      "texto_ptbr": "Blubber já levar uma surra do urssso uma vez, mas ainda conseguir correr de novo, melhor que trabalhar...",
+      "lote": "604"
+    },
+    {
+      "id": "0396",
+      "chave": "dialog__game3_fail",
+      "hash_es": "2d1e7c9b8034c285",
+      "texto_ptbr": "Ha, as pernasss de marinheiro do urssso piores que as de terra do Blubber!",
+      "lote": "604"
+    },
+    {
+      "id": "10c6",
+      "chave": "dialog__game3_intro",
+      "hash_es": "d9e4e11226a2b67f",
+      "texto_ptbr": "Urssso vir ao único ponto divertido de toda esta droga de lugar. Klungo e Blubber correr na água quando chefe não estar por perto. Querer participar?",
+      "lote": "604"
+    },
+    {
+      "id": "29e8",
+      "chave": "dialog__game3_introb",
+      "hash_es": "a5697f52ae7f040b",
+      "texto_ptbr": "Claro, Klungo. Vamos fazer ondas!",
+      "lote": "604"
+    },
+    {
+      "id": "29e9",
+      "chave": "dialog__game3_introc",
+      "hash_es": "2dbadc8ded6af587",
+      "texto_ptbr": "Não sei, Banjo. Você acha que essa água recebe cloro com frequência?",
+      "lote": "604"
+    },
+    {
+      "id": "fac8",
+      "chave": "dialog__game3_objectives",
+      "hash_es": "05899ba0c18aa07c",
+      "texto_ptbr": "Última corrida para fugir do trabalho envolver voltas na piscina. Espero que urssso e pássaro não ficar com mal de mar.",
+      "lote": "604"
+    },
+    {
+      "id": "f774",
+      "chave": "dialog__game3_successa",
+      "hash_es": "6675e1267efd5d67",
+      "texto_ptbr": "Urssso e pássaro mais rápidos que o Hipopótamo Sssalgado! Agora Blubber chorar como menina grande, mas urssso ainda levar prêmios por vencer.",
+      "lote": "604"
+    },
+    {
+      "id": "f776",
+      "chave": "dialog__game3_successc",
+      "hash_es": "73f8388d7de9c764",
+      "texto_ptbr": "Urssso e pássaro rápidos, ganhar Jiggy em vez do Blubber. Próxima vez ir ainda mais rápido, Klungo mal poder esperar!",
+      "lote": "604"
+    },
+    {
+      "id": "f778",
+      "chave": "dialog__game3_successe",
+      "hash_es": "058e1d40993262fe",
+      "texto_ptbr": "Urssso e pássaro bem rápidos, mas Blubber não é difícil de vencer. Precisa de um arranque sério de velocidade para ganhar Jiggy!",
+      "lote": "604"
+    },
+    {
+      "id": "c0c4",
+      "chave": "dialog__jinjoblue_greeting",
+      "hash_es": "171efc6ed3ce1dab",
+      "texto_ptbr": "{MOODHAPPY}Ei! Preciso fazer uma visita ao Loggo! E para aumentar minha urgência, acho que você devia tentar competir comigo até lá!",
+      "lote": "604"
+    },
+    {
+      "id": "1182",
+      "chave": "dialog__jinjoblue_lose",
+      "hash_es": "973dcaae732694e4",
+      "texto_ptbr": "{MOODHAPPY}Ganhei! Estou transbordando de felicidade! Se fosse você, esperaria cinco minutos antes de tentar de novo...",
+      "lote": "604"
+    },
+    {
+      "id": "8d5d",
+      "chave": "dialog__jinjoblue_objectives",
+      "hash_es": "9831dee35c704206",
+      "texto_ptbr": "{MOODHAPPY}Vamos nessa! O primeiro a chegar à exposição do Loggo pode ficar sentado lá o tempo que quiser!",
+      "lote": "608"
+    },
+    {
+      "id": "0f7d",
+      "chave": "dialog__jinjoblue_win",
+      "hash_es": "59da9e0b158269f1",
+      "texto_ptbr": "{MOODHAPPY}Você me venceu! Isso pode ficar feio. Pegue seu prêmio e saia daqui, não posso ser responsabilizado por danos colaterais!",
+      "lote": "604"
+    },
+    {
+      "id": "ca0d",
+      "chave": "dialog__jinjogreen_greeting",
+      "hash_es": "b3982e8ed27d98d0",
+      "texto_ptbr": "{MOODHAPPY}Olá! Não sei bem por que estou por aqui, mas já que você também está, podemos jogar algum tipo de jogo extremamente perigoso. Vamos começar?",
+      "lote": "604"
+    },
+    {
+      "id": "de4b",
+      "chave": "dialog__jinjogreen_lose",
+      "hash_es": "0f80f3f42c39de1e",
+      "texto_ptbr": "{MOODHAPPY}Lá vai você ao chão! De repente, não parece tão ruim por aqui. Talvez eu fique um pouco. Me desafie de novo quando quiser!",
+      "lote": "604"
+    },
+    {
+      "id": "0ce6",
+      "chave": "dialog__jinjogreen_objectives",
+      "hash_es": "e9f3f8ea94093d9b",
+      "texto_ptbr": "{MOODHAPPY}En garde! Tente me desalojar sem cair você mesmo pela beirada!",
+      "lote": "604"
+    },
+    {
+      "id": "e726",
+      "chave": "dialog__jinjogreen_win",
+      "hash_es": "05a2685a0a75951a",
+      "texto_ptbr": "{MOODHAPPY}Estou vencido! Reivindique seu prêmio, herói!",
+      "lote": "608"
+    },
+    {
+      "id": "e358",
+      "chave": "dialog__jinjoyellow_greeting",
+      "hash_es": "21d8fb76733aa31d",
+      "texto_ptbr": "{MOODSAD}Está tão quente que estou suando como um... não, esse ditado é muito inconveniente. Poderia me dar uma carona até um lugar fresquinho, Banjo?",
+      "lote": "604"
+    },
+    {
+      "id": "0a16",
+      "chave": "dialog__jinjoyellow_lose",
+      "hash_es": "3faf6a9c4d864278",
+      "texto_ptbr": "{MOODSAD}Ei, se você não queria me dar uma carona, devia ter falado. Vou ficar aqui até assar de vez...",
+      "lote": "604"
+    },
+    {
+      "id": "a4f1",
+      "chave": "dialog__jinjoyellow_objectives",
+      "hash_es": "e3d9f6a9b8418725",
+      "texto_ptbr": "{MOODSAD}Me tire desta lata velha com sua caldeira fumegante! Eu anseio pelo frio crocante da neve. Vamos achar um boneco de neve grande e bonito!",
+      "lote": "608"
+    },
+    {
+      "id": "4591",
+      "chave": "dialog__jinjoyellow_win",
+      "hash_es": "420b4d3dc8f9c78f",
+      "texto_ptbr": "{MOODHAPPY}Ooh, que gostoso. Estou feliz como um porco na... não, esse é outro ditado inconveniente. Tome uma Ficha Jinjo!",
+      "lote": "604"
+    }
+  ]
+}

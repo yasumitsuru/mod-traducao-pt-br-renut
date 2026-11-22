@@ -1,0 +1,1390 @@
+{
+  "arquivo": "114c6966",
+  "asset": "aid_loctext_banjox_livechallenges",
+  "frases": [
+    {
+      "id": "a97d",
+      "chave": "dialog__banjobrawl_destroyedby",
+      "hash_es": "68c0224d50e1b736",
+      "texto_ptbr": "Você acabou de ser destruído por %s<font color=[white]>!</font>",
+      "lote": "512"
+    },
+    {
+      "id": "7de0",
+      "chave": "dialog__banjobrawl_destroyedbyfriendlyfire",
+      "hash_es": "8d1fd408e20dfcfd",
+      "texto_ptbr": "Seu próprio companheiro %s<font color=[white]>destruiu você! Parece que ninguém é confiável hoje em dia!</font>",
+      "lote": "512"
+    },
+    {
+      "id": "dce4",
+      "chave": "dialog__banjobrawl_destroyedother",
+      "hash_es": "898a4633e79ebdde",
+      "texto_ptbr": "Bum! Você acabou de destruir %s<font color=[white]>! Ainda há muita carne de canhão lá fora...</font>",
+      "lote": "512"
+    },
+    {
+      "id": "03c7",
+      "chave": "dialog__banjobrawl_destroyedotherfriendlyfire",
+      "hash_es": "7256d3bff6c87a01",
+      "texto_ptbr": "Você acabou de destruir seu próprio companheiro %s<font color=[white]>! Que feio. Ainda bem que não estou no seu time!</font>",
+      "lote": "512"
+    },
+    {
+      "id": "c655",
+      "chave": "dialog__banjobrawl_suicide",
+      "hash_es": "d1b96041c3b87709",
+      "texto_ptbr": "Bom trabalho, campeão, você acabou de se destruir! Tem certeza de que sabe o que está fazendo?",
+      "lote": "512"
+    },
+    {
+      "id": "8f15",
+      "chave": "dialog__golf_someonefinished",
+      "hash_es": "2155e6634891c4dc",
+      "texto_ptbr": "%s<font color=[white]> marcou com as ovelhas! Rápido, você tem só</font> <font color=[red]>%s</font><font color=[white]> segundos para fazer o mesmo!</font>",
+      "lote": "512"
+    },
+    {
+      "id": "e088",
+      "chave": "dialog__race_someonefinished",
+      "hash_es": "efe6c5c06e47a4ba",
+      "texto_ptbr": "%s<font color=[white]> cruzou a linha de chegada! Rápido, você tem só</font> <font color=[red]>%s</font><font color=[white]> segundos para terminar!</font>",
+      "lote": "512"
+    },
+    {
+      "id": "2883",
+      "chave": "dialog__resultsscreen_game_solodraw",
+      "hash_es": "86a9b99979cd2181",
+      "texto_ptbr": "É um empate em primeiro lugar, que vergonha! Vocês são todos uns perdedores, nunca me veriam fazendo uma apresentação tão ruim!",
+      "lote": "512"
+    },
+    {
+      "id": "84c8",
+      "chave": "dialog__resultsscreen_game_solowinner",
+      "hash_es": "18e318106eff4eee",
+      "texto_ptbr": "Parabéns a %s<font color=[white]>! Que atuação digna do Tomás Troféu, embora não tão boa. O resto de vocês, perdedores, devia se esforçar mais!</font>",
+      "lote": "512"
+    },
+    {
+      "id": "aded",
+      "chave": "dialog__resultsscreen_game_teamdraw",
+      "hash_es": "47118da530be575f",
+      "texto_ptbr": "As duas equipes foram igualmente patéticas! Não sei por que o S.J. se dá ao trabalho de preparar esses jogos...",
+      "lote": "512"
+    },
+    {
+      "id": "0cb2",
+      "chave": "dialog__resultsscreen_game_teamwinner",
+      "hash_es": "5d31bde9a53a0443",
+      "texto_ptbr": "Parabéns a %s<font color=[white]>! Claro que eu teria feito melhor sozinha, mas não queria deixar vocês todos em ridículo!</font>",
+      "lote": "514"
+    },
+    {
+      "id": "9fd4",
+      "chave": "dialog__resultsscreen_series_solodraw",
+      "hash_es": "6884499cfb8096bd",
+      "texto_ptbr": "Empate!? Que perda de tempo total para todo mundo!",
+      "lote": "512"
+    },
+    {
+      "id": "1459",
+      "chave": "dialog__resultsscreen_series_solowinner",
+      "hash_es": "f662a45ce715293c",
+      "texto_ptbr": "Vocês acabaram de ser destruídos por %s<font color=[white]>! Embora eu ache que tiveram sorte em algumas dessas partidas.</font>",
+      "lote": "512"
+    },
+    {
+      "id": "253e",
+      "chave": "dialog__resultsscreen_series_teamdraw",
+      "hash_es": "403d8775ea339d91",
+      "texto_ptbr": "Um empate patético, que horror! Não saí da cama esta manhã para assistir a uma exibição tão lamentável!",
+      "lote": "512"
+    },
+    {
+      "id": "9c43",
+      "chave": "dialog__resultsscreen_series_teamwinner",
+      "hash_es": "79c527cdc0d54dc7",
+      "texto_ptbr": "Muito bem, %s<font color=[white]>! Eu tinha apostado 20 notas com o S.J. em vocês, rapazes e/ou moças. O palácio dele logo será meu. Eu devia pagar uma bebida para todos, mas não vou!</font>",
+      "lote": "514"
+    },
+    {
+      "id": "00bf",
+      "chave": "dialog__startmessage_banjoland_freewheel",
+      "hash_es": "fbbbe2a33cf06435",
+      "texto_ptbr": "Que comece a Roda Livre! Desça a ladeira para começar a pontuar!",
+      "lote": "512"
+    },
+    {
+      "id": "4490",
+      "chave": "dialog__startmessage_banjoland_golf",
+      "hash_es": "cbcab2d1877ef9f0",
+      "texto_ptbr": "Tacada inicial! Leve sua bola ao buraco com o menor número de tacadas possível!",
+      "lote": "512"
+    },
+    {
+      "id": "c167",
+      "chave": "dialog__startmessage_banjoland_qotk",
+      "hash_es": "a90dc96651125372",
+      "texto_ptbr": "Rápido, entre naquela coroa gigante para ganhar pontos!",
+      "lote": "512"
+    },
+    {
+      "id": "6783",
+      "chave": "dialog__startmessage_banjoland_waterbrawl",
+      "hash_es": "6285f72dc4351f56",
+      "texto_ptbr": "Isso, luta! Encontre seus adversários e destrua os veículos deles!",
+      "lote": "512"
+    },
+    {
+      "id": "de26",
+      "chave": "dialog__startmessage_banjoland_waterrace",
+      "hash_es": "d3f5ec1731550d8b",
+      "texto_ptbr": "Vamos! Dê a volta no circuito antes de todo mundo!",
+      "lote": "514"
+    },
+    {
+      "id": "a673",
+      "chave": "dialog__startmessage_coop_banjoland_waterbrawl",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "ff16",
+      "chave": "dialog__startmessage_coop_banjoland_waterrace",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "3d1a",
+      "chave": "dialog__startmessage_coop_cpu_shortcircuit",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "8d37",
+      "chave": "dialog__startmessage_coop_nuttyacres_airdragkings",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "3b02",
+      "chave": "dialog__startmessage_coop_nuttyacres_boatrace",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "a398",
+      "chave": "dialog__startmessage_coop_testtrack_airbrawl",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "1654",
+      "chave": "dialog__startmessage_coop_testtrack_dragstrip",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "ecd9",
+      "chave": "dialog__startmessage_coop_worldofsport_basketball",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "8202",
+      "chave": "dialog__startmessage_coop_worldofsport_darts",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "398f",
+      "chave": "dialog__startmessage_coop_worldofsport_eggnspoonrace",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "35b7",
+      "chave": "dialog__startmessage_coop_worldofsport_football",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "6b0e",
+      "chave": "dialog__startmessage_coop_worldofsport_stadiumcircuit",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "40cf",
+      "chave": "dialog__startmessage_coop_worldofsport_stadiumdestruction",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "99c8",
+      "chave": "dialog__startmessage_coop_worldofsport_sumo",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "5c84",
+      "chave": "dialog__startmessage_cpu_flubberrace",
+      "hash_es": "d3f5ec1731550d8b",
+      "texto_ptbr": "Vamos! Dê a volta no circuito antes de todo mundo!",
+      "lote": "514"
+    },
+    {
+      "id": "f786",
+      "chave": "dialog__startmessage_cpu_qotk",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "1b94",
+      "chave": "dialog__startmessage_cpu_shortcircuitmk2",
+      "hash_es": "d3f5ec1731550d8b",
+      "texto_ptbr": "Vamos! Dê a volta no circuito antes de todo mundo!",
+      "lote": "514"
+    },
+    {
+      "id": "7447",
+      "chave": "dialog__startmessage_nuttyacres_airdragkings",
+      "hash_es": "d3f5ec1731550d8b",
+      "texto_ptbr": "Vamos! Dê a volta no circuito antes de todo mundo!",
+      "lote": "514"
+    },
+    {
+      "id": "2748",
+      "chave": "dialog__startmessage_nuttyacres_airrace",
+      "hash_es": "d3f5ec1731550d8b",
+      "texto_ptbr": "Vamos! Dê a volta no circuito antes de todo mundo!",
+      "lote": "514"
+    },
+    {
+      "id": "1a12",
+      "chave": "dialog__startmessage_nuttyacres_boatrace",
+      "hash_es": "d3f5ec1731550d8b",
+      "texto_ptbr": "Vamos! Dê a volta no circuito antes de todo mundo!",
+      "lote": "514"
+    },
+    {
+      "id": "24b4",
+      "chave": "dialog__startmessage_spiralmountain_qotk",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "93a6",
+      "chave": "dialog__startmessage_spiralmountain_trickyrace",
+      "hash_es": "d3f5ec1731550d8b",
+      "texto_ptbr": "Vamos! Dê a volta no circuito antes de todo mundo!",
+      "lote": "514"
+    },
+    {
+      "id": "0264",
+      "chave": "dialog__startmessage_spiralmountain_twistyrace",
+      "hash_es": "d3f5ec1731550d8b",
+      "texto_ptbr": "Vamos! Dê a volta no circuito antes de todo mundo!",
+      "lote": "514"
+    },
+    {
+      "id": "125e",
+      "chave": "dialog__startmessage_terrorium_lowgravdestruction",
+      "hash_es": "6285f72dc4351f56",
+      "texto_ptbr": "Isso, luta! Encontre seus adversários e destrua os veículos deles!",
+      "lote": "512"
+    },
+    {
+      "id": "e305",
+      "chave": "dialog__startmessage_terrorium_lowgravrace",
+      "hash_es": "d3f5ec1731550d8b",
+      "texto_ptbr": "Vamos! Dê a volta no circuito antes de todo mundo!",
+      "lote": "514"
+    },
+    {
+      "id": "e0a8",
+      "chave": "dialog__startmessage_testtrack_airbrawl",
+      "hash_es": "6285f72dc4351f56",
+      "texto_ptbr": "Isso, luta! Encontre seus adversários e destrua os veículos deles!",
+      "lote": "512"
+    },
+    {
+      "id": "f564",
+      "chave": "dialog__startmessage_testtrack_dragstrip",
+      "hash_es": "d3f5ec1731550d8b",
+      "texto_ptbr": "Vamos! Dê a volta no circuito antes de todo mundo!",
+      "lote": "514"
+    },
+    {
+      "id": "36e3",
+      "chave": "dialog__startmessage_worldofsport_airfootball",
+      "hash_es": "0e32628a78290536",
+      "texto_ptbr": "Começa o jogo! Coloque a bola no gol da equipe adversária!",
+      "lote": "512"
+    },
+    {
+      "id": "e680",
+      "chave": "dialog__startmessage_worldofsport_airfootballsolo",
+      "hash_es": "35199ea09e7e4ff8",
+      "texto_ptbr": "Rápido, leve as bolas para o seu gol e marque o máximo de vezes possível!",
+      "lote": "512"
+    },
+    {
+      "id": "d3e9",
+      "chave": "dialog__startmessage_worldofsport_basketball",
+      "hash_es": "ffe5dbba8ea170e1",
+      "texto_ptbr": "Pegue a bola e passe pelo aro. Marque o máximo de vezes possível!",
+      "lote": "514"
+    },
+    {
+      "id": "bf12",
+      "chave": "dialog__startmessage_worldofsport_darts",
+      "hash_es": "d9ef41ccba22c00f",
+      "texto_ptbr": "Desça a rampa com cuidado e passe pelo aro no final. Tente cair numa zona de pontos!",
+      "lote": "512"
+    },
+    {
+      "id": "869f",
+      "chave": "dialog__startmessage_worldofsport_eggnspoonrace",
+      "hash_es": "0a0132ea0315fbd1",
+      "texto_ptbr": "Saia e pegue seu ovo, depois dê a volta no circuito. Tente não perdê-lo!",
+      "lote": "512"
+    },
+    {
+      "id": "18c7",
+      "chave": "dialog__startmessage_worldofsport_football",
+      "hash_es": "0e32628a78290536",
+      "texto_ptbr": "Começa o jogo! Coloque a bola no gol da equipe adversária!",
+      "lote": "512"
+    },
+    {
+      "id": "1a64",
+      "chave": "dialog__startmessage_worldofsport_footballsolo",
+      "hash_es": "35199ea09e7e4ff8",
+      "texto_ptbr": "Rápido, leve as bolas para o seu gol e marque o máximo de vezes possível!",
+      "lote": "512"
+    },
+    {
+      "id": "14cb",
+      "chave": "dialog__startmessage_worldofsport_hurdles",
+      "hash_es": "d3f5ec1731550d8b",
+      "texto_ptbr": "Vamos! Dê a volta no circuito antes de todo mundo!",
+      "lote": "514"
+    },
+    {
+      "id": "6720",
+      "chave": "dialog__startmessage_worldofsport_longjump",
+      "hash_es": "6b0ae989abd6c849",
+      "texto_ptbr": "Desça a rampa com cuidado e atravesse o aro no final. Tente chegar o mais longe possível!",
+      "lote": "512"
+    },
+    {
+      "id": "5a1e",
+      "chave": "dialog__startmessage_worldofsport_stadiumcircuit",
+      "hash_es": "d3f5ec1731550d8b",
+      "texto_ptbr": "Vamos! Dê a volta no circuito antes de todo mundo!",
+      "lote": "514"
+    },
+    {
+      "id": "37df",
+      "chave": "dialog__startmessage_worldofsport_stadiumdestruction",
+      "hash_es": "6285f72dc4351f56",
+      "texto_ptbr": "Isso, luta! Encontre seus adversários e destrua os veículos deles!",
+      "lote": "512"
+    },
+    {
+      "id": "74d8",
+      "chave": "dialog__startmessage_worldofsport_sumo",
+      "hash_es": "60ba1a5fe5ec299c",
+      "texto_ptbr": "Primeiro suba pelas rampas até a plataforma elevada, depois tente derrubar seus adversários!",
+      "lote": "512"
+    },
+    {
+      "id": "abb1",
+      "chave": "dialog__startmessage_worldofsport_waterpolo",
+      "hash_es": "0e32628a78290536",
+      "texto_ptbr": "Começa o jogo! Coloque a bola no gol da equipe adversária!",
+      "lote": "512"
+    },
+    {
+      "id": "124e",
+      "chave": "dialog__startmessage_worldofsport_waterpolosolo",
+      "hash_es": "35199ea09e7e4ff8",
+      "texto_ptbr": "Rápido, leve as bolas para o seu gol e marque o máximo de vezes possível!",
+      "lote": "512"
+    },
+    {
+      "id": "e9d2",
+      "chave": "dialog__timeisrunningout",
+      "hash_es": "5a731c6ec2da9e78",
+      "texto_ptbr": "O tempo está acabando! Ande logo, só restam <font color=[red]>%s</font><font color=[white]> segundos!</font>",
+      "lote": "512"
+    },
+    {
+      "id": "4982",
+      "chave": "game__airbanjobrawlinfo",
+      "hash_es": "02519d1b4e17549f",
+      "texto_ptbr": "Uma batalha aérea em Test-O-Track. Ganhe pontos destruindo os veículos dos adversários! Vence o jogador com mais pontos quando o tempo acabar. Sair da zona de segurança também causa dano.",
+      "lote": "518"
+    },
+    {
+      "id": "20e3",
+      "chave": "game__airbanjobrawltip",
+      "hash_es": "cd676df976e487cb",
+      "texto_ptbr": "Você vai precisar de um veículo voador para ficar na zona de segurança nesta prova. Se passar abaixo da luz vermelha, começa a levar um dano enorme!",
+      "lote": "512"
+    },
+    {
+      "id": "1027",
+      "chave": "game__airdragkinginfo",
+      "hash_es": "ec5da2b14dbb4c8d",
+      "texto_ptbr": "Esta corrida aérea sobre Nutty Acres permite testar sua habilidade em construir e pilotar aviões rápidos. Por algum motivo, carros e barcos não se dão bem neste circuito.",
+      "lote": "518"
+    },
+    {
+      "id": "112e",
+      "chave": "game__airdragkings",
+      "hash_es": "c935d6384acd9cdb",
+      "texto_ptbr": "Retas Aéreas",
+      "lote": "512"
+    },
+    {
+      "id": "26e8",
+      "chave": "game__airdragkingtip",
+      "hash_es": "37b3bcf061e95522",
+      "texto_ptbr": "É uma corrida aérea, então escolha um avião nos seus projetos. As retas pedem aviões muito rápidos, mas talvez você precise aliviar a potência para encarar as curvas de cada extremidade.",
+      "lote": "512"
+    },
+    {
+      "id": "be87",
+      "chave": "game__airfootball",
+      "hash_es": "30d79c33a6b30997",
+      "texto_ptbr": "Futebol Aéreo",
+      "lote": "512"
+    },
+    {
+      "id": "1f53",
+      "chave": "game__airfootballinfo",
+      "hash_es": "e35f946313e599a9",
+      "texto_ptbr": "O futebol aéreo consiste em colocar bolas no gol usando aviões. No modo equipe há só uma bola, enquanto no modo solo há até três tipos de bola, com valores diferentes.",
+      "lote": "512"
+    },
+    {
+      "id": "0094",
+      "chave": "game__airfootballtip",
+      "hash_es": "8105f5af38761445",
+      "texto_ptbr": "Aqui são necessários veículos voadores, como o que o S.J. fornece. Guie as bolas para a área do seu gol. Bolas vermelhas valem 1 ponto, verdes 2 pontos e a azul 3 pontos.",
+      "lote": "512"
+    },
+    {
+      "id": "1727",
+      "chave": "game__airraceintroinfo",
+      "hash_es": "30ed9a2f9a6713a2",
+      "texto_ptbr": "Pegue o jeito de voar pelos céus de Nutty Acres. Aviões pequenos levam vantagem na aproximação dos portões da corrida. Não escolha veículos que não voam ou vira piada!",
+      "lote": "518"
+    },
+    {
+      "id": "4de8",
+      "chave": "game__airraceintrotip",
+      "hash_es": "0a3aa9b17e40dae9",
+      "texto_ptbr": "Este é um percurso aéreo, então traga um veículo que realmente voe! Mantenha a calma ao passar por cantos apertados. Por isso, aviões menores podem ser uma aposta mais segura.",
+      "lote": "512"
+    },
+    {
+      "id": "dcf1",
+      "chave": "game__alienfruitfarm",
+      "hash_es": "2b191bd4fdab0a6c",
+      "texto_ptbr": "Fazenda de Frutas Alienígenas",
+      "lote": "512"
+    },
+    {
+      "id": "369a",
+      "chave": "game__banjobrawl",
+      "hash_es": "110dc950879492f3",
+      "texto_ptbr": "Luta Banjo",
+      "lote": "512"
+    },
+    {
+      "id": "68e6",
+      "chave": "game__banjobrawlinfo",
+      "hash_es": "a44017a8d8b47b93",
+      "texto_ptbr": "Um jogo do Jiggosseum para lutadores de verdade. Ganhe pontos ao transformar o veículo rival em sucata. Vence o jogador com mais pontos quando o tempo acabar. Fique na zona de segurança!",
+      "lote": "518"
+    },
+    {
+      "id": "e3c7",
+      "chave": "game__banjobrawltip",
+      "hash_es": "691ae30e3e7e450b",
+      "texto_ptbr": "Construa um veículo forte antes de tentar este jogo. Sair da zona de segurança marcada pela luz vermelha causa dano, então não fique muito tempo fora do limite.",
+      "lote": "512"
+    },
+    {
+      "id": "c58d",
+      "chave": "game__banjoqotkinfo",
+      "hash_es": "39c73edf849290ba",
+      "texto_ptbr": "Ah, a Rainha da Colina. Como o sumô, mas numa coroa gigante. Ficar na coroa rende pontos, principalmente se você estiver sozinho. A coroa se move por Banjoland, então escolha bem suas peças!",
+      "lote": "518"
+    },
+    {
+      "id": "c78e",
+      "chave": "game__banjoqotktip",
+      "hash_es": "8939ccf62ffdc1ef",
+      "texto_ptbr": "Tente derrubar todos os adversários da coroa giratória gigante conhecida como Colina, pois você ganha mais pontos se for o único em jogo. Veículos todo-terreno são boas escolhas aqui.",
+      "lote": "514"
+    },
+    {
+      "id": "8ce2",
+      "chave": "game__banneditemsametip",
+      "hash_es": "273628f3468a113b",
+      "texto_ptbr": "Quando um anfitrião restringe certos componentes, eles ficam vermelhos no seu veículo. Você ainda pode usar o veículo, mas os componentes proibidos não funcionam.",
+      "lote": "512"
+    },
+    {
+      "id": "f70d",
+      "chave": "game__basketball",
+      "hash_es": "20b1369f8440429c",
+      "texto_ptbr": "Basquete",
+      "lote": "512"
+    },
+    {
+      "id": "2ad9",
+      "chave": "game__basketballinfo",
+      "hash_es": "4ad85d3f728c1c4e",
+      "texto_ptbr": "O detalhe do aro do Jiggosseum é que, a cada cesta, ele sobe até uma altura máxima. Você vai precisar de um veículo feito para transportar e arremessar as bolas.",
+      "lote": "518"
+    },
+    {
+      "id": "b35a",
+      "chave": "game__basketballtip",
+      "hash_es": "3d8c95fe1874609f",
+      "texto_ptbr": "Se não for usar a Escolha do S.J., pegue um veículo que leve a bola até o aro e a lance para cima, ou você talvez nunca marque!",
+      "lote": "512"
+    },
+    {
+      "id": "a389",
+      "chave": "game__biathlon",
+      "hash_es": "3d6a968e650252ee",
+      "texto_ptbr": "Biatlo",
+      "lote": "512"
+    },
+    {
+      "id": "b5de",
+      "chave": "game__blessedsumo",
+      "hash_es": "72233e61452f3680",
+      "texto_ptbr": "Sumô Abençoado!",
+      "lote": "512"
+    },
+    {
+      "id": "0fd9",
+      "chave": "game__boatybanjobrawl",
+      "hash_es": "2b239b9082e968cb",
+      "texto_ptbr": "Luta Banjo Aquática",
+      "lote": "512"
+    },
+    {
+      "id": "c9a5",
+      "chave": "game__boatybanjobrawlinfo",
+      "hash_es": "c926edd6cffb7732",
+      "texto_ptbr": "A piscina de Banjoland recebe este jogo de luta. Ganhe pontos sempre que destruir o veículo de um adversário! Use algo que flutue, pois sair da zona de segurança também causa dano.",
+      "lote": "518"
+    },
+    {
+      "id": "a8a6",
+      "chave": "game__boatybanjobrawltip",
+      "hash_es": "acd2167fde1053b7",
+      "texto_ptbr": "Se seu veículo sair da zona de segurança da piscina marcada pela luz vermelha, você sofre dano sério. A zona de segurança não chega ao fundo da piscina, então use um veículo que flutue!",
+      "lote": "514"
+    },
+    {
+      "id": "7e2b",
+      "chave": "game__botname_pikelet",
+      "hash_es": "5e607885e16d8204",
+      "texto_ptbr": "Pikelet",
+      "lote": "512"
+    },
+    {
+      "id": "5b41",
+      "chave": "game__botname_pikeletsbro",
+      "hash_es": "d42881ebf1fe7130",
+      "texto_ptbr": "Irmão do Pikelet",
+      "lote": "512"
+    },
+    {
+      "id": "6187",
+      "chave": "game__botname_pikeletsdad",
+      "hash_es": "5c1f4f4db49efcf2",
+      "texto_ptbr": "Pai do Pikelet",
+      "lote": "512"
+    },
+    {
+      "id": "8a6d",
+      "chave": "game__botname_pikeletsmum",
+      "hash_es": "3e4d75c79bb21e3a",
+      "texto_ptbr": "Mãe do Pikelet",
+      "lote": "512"
+    },
+    {
+      "id": "ffe5",
+      "chave": "game__botname_tt",
+      "hash_es": "9b60df699d87bb6c",
+      "texto_ptbr": "T.T.",
+      "lote": "512"
+    },
+    {
+      "id": "134e",
+      "chave": "game__botname_ttsbrother",
+      "hash_es": "7269be09dfa4f7f0",
+      "texto_ptbr": "Irmão do T.T.",
+      "lote": "512"
+    },
+    {
+      "id": "4ca9",
+      "chave": "game__botname_ttscousin",
+      "hash_es": "68095cc2fe561394",
+      "texto_ptbr": "Primo do T.T.",
+      "lote": "512"
+    },
+    {
+      "id": "3041",
+      "chave": "game__botname_ttsdad",
+      "hash_es": "0af7ca9cca4f350c",
+      "texto_ptbr": "Pai do T.T.",
+      "lote": "512"
+    },
+    {
+      "id": "2a3f",
+      "chave": "game__botname_ttsmate",
+      "hash_es": "77e01c8a9ce5e239",
+      "texto_ptbr": "Amigo do T.T.",
+      "lote": "512"
+    },
+    {
+      "id": "2eb2",
+      "chave": "game__botname_ttssister",
+      "hash_es": "bb2db5d47c0bbd2e",
+      "texto_ptbr": "Irmã do T.T.",
+      "lote": "512"
+    },
+    {
+      "id": "3c53",
+      "chave": "game__botname_ttsuglysister",
+      "hash_es": "086dbfdd89db7bae",
+      "texto_ptbr": "Irmã Feia do T.T.",
+      "lote": "512"
+    },
+    {
+      "id": "100f",
+      "chave": "game__botname_ttsuncle",
+      "hash_es": "7250070644c926b2",
+      "texto_ptbr": "Tio do T.T.",
+      "lote": "512"
+    },
+    {
+      "id": "9543",
+      "chave": "game__carparkgametip",
+      "hash_es": "f2607335f9ad9186",
+      "texto_ptbr": "Use o tempo em Test-O-Track para testar seus veículos, não só para congelar outros jogadores e empurrá-los para a água...",
+      "lote": "518"
+    },
+    {
+      "id": "fd13",
+      "chave": "game__coconutairways",
+      "hash_es": "7b190fa1e4a9ab43",
+      "texto_ptbr": "Aerolinhas Malucas",
+      "lote": "512"
+    },
+    {
+      "id": "d32b",
+      "chave": "game__comeonyoufokkers",
+      "hash_es": "e5e8c4d9aa309a72",
+      "texto_ptbr": "Luta Banjo Aérea",
+      "lote": "512"
+    },
+    {
+      "id": "7711",
+      "chave": "game__dambusted",
+      "hash_es": "136e5d92b783f695",
+      "texto_ptbr": "Represa Bum!",
+      "lote": "512"
+    },
+    {
+      "id": "bc02",
+      "chave": "game__dartsinfo",
+      "hash_es": "6b8b4abedc47928f",
+      "texto_ptbr": "Este jogo do Jiggosseum desafia você a lançar seu veículo pela rampa e aterrissar nas zonas de pontos do piso da arena. A pontuação total ao fim de cinco rodadas decide o vencedor.",
+      "lote": "518"
+    },
+    {
+      "id": "4363",
+      "chave": "game__dartstip",
+      "hash_es": "ab667231c5d9c4f7",
+      "texto_ptbr": "Use um veículo que acelere suavemente pela rampa para alcançar as zonas de pontos mais distantes, que valem mais. O [LSTICK] Analógico esquerdo aplica impulso depois que o veículo deixa a rampa.",
+      "lote": "512"
+    },
+    {
+      "id": "6ec3",
+      "chave": "game__defaultgameinfo",
+      "hash_es": "829aa9c4218e6fe9",
+      "texto_ptbr": "Aqui estão algumas informações sobre um jogo. Pode ter bolas, ou permitir que você voe e atire nos amigos, pew pew! Talvez seja uma corrida na água, ou algo com um sapo gigante!",
+      "lote": "514"
+    },
+    {
+      "id": "2204",
+      "chave": "game__defaultgametip",
+      "hash_es": "56d226a84491696c",
+      "texto_ptbr": "Em corridas aéreas, veículos voadores têm vantagem clara sobre os terrestres. Veículos pesados levam a melhor no sumô!",
+      "lote": "512"
+    },
+    {
+      "id": "0212",
+      "chave": "game__dragkings",
+      "hash_es": "ede2bfc0f3c7098b",
+      "texto_ptbr": "Reis do Arranque",
+      "lote": "512"
+    },
+    {
+      "id": "305e",
+      "chave": "game__dragkingsinfo",
+      "hash_es": "e3612a62a5a36e8b",
+      "texto_ptbr": "Esta é a corrida para exibir seus carros mais rápidos. As curvas em cada ponta da reta de Test-O-Track são bem fechadas, então construa algo que faça curva bem. Cuidado com o tráfego!",
+      "lote": "518"
+    },
+    {
+      "id": "9c3f",
+      "chave": "game__dragkingstip",
+      "hash_es": "b77cea5eccd802f4",
+      "texto_ptbr": "É hora de mostrar seus carros realmente rápidos! Não se preocupe se eles fizerem curva aos trancos; há curvas nas pontas da reta para ajudar os veículos a contornar.",
+      "lote": "512"
+    },
+    {
+      "id": "7648",
+      "chave": "game__eggnspoon",
+      "hash_es": "5d796718f27d0250",
+      "texto_ptbr": "Corrida do Ovo e da Colher",
+      "lote": "512"
+    },
+    {
+      "id": "cf94",
+      "chave": "game__eggnspooninfo",
+      "hash_es": "aef89fe17a917690",
+      "texto_ptbr": "Uma tradição do Jiggosseum. Você precisa levar o ovo pelos pontos de controle, então garanta que seu veículo esteja equipado para segurá-lo! Não esqueça de pegar o ovo no início da corrida...",
+      "lote": "518"
+    },
+    {
+      "id": "2cb5",
+      "chave": "game__eggnspoontip",
+      "hash_es": "1a6e5f9da83ee6d6",
+      "texto_ptbr": "Escolher um veículo que segure um ovo é essencial para vencer esta corrida. Não esqueça de saltar e pegar o ovo no início, ou o ovo vai cair na sua cara... entendeu?",
+      "lote": "512"
+    },
+    {
+      "id": "0a91",
+      "chave": "game__floatyfruit",
+      "hash_es": "b6d7104eb3ee0229",
+      "texto_ptbr": "Fruta Flutuante",
+      "lote": "512"
+    },
+    {
+      "id": "22eb",
+      "chave": "game__football",
+      "hash_es": "5b6237869decd687",
+      "texto_ptbr": "Futebol",
+      "lote": "512"
+    },
+    {
+      "id": "15b7",
+      "chave": "game__footballinfo",
+      "hash_es": "1ed02af416d91523",
+      "texto_ptbr": "O futebol do Jiggosseum, ou soccer para alguns, consiste em colocar bolas no gol. No modo equipe há só uma bola, enquanto no modo solo há até três tipos de bola, com valores diferentes.",
+      "lote": "518"
+    },
+    {
+      "id": "ba78",
+      "chave": "game__footballtip",
+      "hash_es": "0f180a85fdbc0e7c",
+      "texto_ptbr": "Carros com bom domínio de bola são os melhores aqui. Lembre-se: bolas vermelhas valem 1 ponto, verdes 2 e azuis 3 quando você leva uma à área do seu gol.",
+      "lote": "512"
+    },
+    {
+      "id": "f8ef",
+      "chave": "game__freewheel",
+      "hash_es": "44408732d8c41a61",
+      "texto_ptbr": "Roda Livre",
+      "lote": "512"
+    },
+    {
+      "id": "332d",
+      "chave": "game__freewheelfestival",
+      "hash_es": "15898fff15aee153",
+      "texto_ptbr": "Festival Roda Livre",
+      "lote": "512"
+    },
+    {
+      "id": "4dbb",
+      "chave": "game__freewheelinfo",
+      "hash_es": "ae00e68314e8ecfa",
+      "texto_ptbr": "Rodar em Roda Livre em Banjoland testa o quão longe você chega quando a força do veículo é cortada. Você só pode usar o impulso da rampa, então construa algo que role bem!",
+      "lote": "518"
+    },
+    {
+      "id": "01fc",
+      "chave": "game__freewheeltip",
+      "hash_es": "8bedbe717ec116b9",
+      "texto_ptbr": "Atenção! Veículos com rodas são obrigatórios para vencer neste jogo. Pegue seu veículo e coloque-o na ladeira quando o jogo começar, mas não esqueça de entrar nele de novo!",
+      "lote": "512"
+    },
+    {
+      "id": "5ec0",
+      "chave": "game__golf",
+      "hash_es": "007aafd4afea7396",
+      "texto_ptbr": "Golfe",
+      "lote": "512"
+    },
+    {
+      "id": "340c",
+      "chave": "game__golfinfo",
+      "hash_es": "3f3032aaeb0aae00",
+      "texto_ptbr": "Bola aí! Esta partida acontece em Banjoland. Para vencer, coloque a bola no Loggo com o menor número de tacadas. Qualquer toque na bola conta como tacada. Veículos que batem forte são recomendados!",
+      "lote": "518"
+    },
+    {
+      "id": "e22d",
+      "chave": "game__golftip",
+      "hash_es": "4c45184c8a192577",
+      "texto_ptbr": "Cuidado aqui: acertar qualquer bola de golfe conta como tacada extra. Tente acertar só a sua... a menos que consiga mandar a bola dos outros para longe do buraco, heh.",
+      "lote": "514"
+    },
+    {
+      "id": "6a6f",
+      "chave": "game__hurdles",
+      "hash_es": "c5e5c98c5a874abf",
+      "texto_ptbr": "Barreiras",
+      "lote": "512"
+    },
+    {
+      "id": "7f3b",
+      "chave": "game__hurdlesinfo",
+      "hash_es": "a690c9988ab2cde7",
+      "texto_ptbr": "O S.J. pegou o circuito de velocidade do Jiggosseum... e acrescentou barreiras. Use o veículo do S.J. ou construa outro que salte as barreiras, ou não vai muito longe.",
+      "lote": "518"
+    },
+    {
+      "id": "037c",
+      "chave": "game__hurdlestip",
+      "hash_es": "48c53bffaa3356ee",
+      "texto_ptbr": "Para esta corrida, você precisa de um veículo capaz de saltar as barreiras, talvez um equipado com molas. Se ainda não construiu um, use a Escolha do S.J. por enquanto.",
+      "lote": "512"
+    },
+    {
+      "id": "b649",
+      "chave": "game__landairandwater",
+      "hash_es": "75fb588e5c2feb21",
+      "texto_ptbr": "Triatlo",
+      "lote": "512"
+    },
+    {
+      "id": "b386",
+      "chave": "game__landandair",
+      "hash_es": "2386290ae4335964",
+      "texto_ptbr": "Terra e Ar",
+      "lote": "512"
+    },
+    {
+      "id": "7b0d",
+      "chave": "game__landandwater",
+      "hash_es": "b78bf7276f75d30e",
+      "texto_ptbr": "Terra e Água",
+      "lote": "512"
+    },
+    {
+      "id": "b6f2",
+      "chave": "game__leadertip",
+      "hash_es": "0965c5b0ca5663c2",
+      "texto_ptbr": "O S.J. cria hologramas sobre o líder ou líderes de cada jogo, então fique de olho neles e concentre-se em superá-los!",
+      "lote": "514"
+    },
+    {
+      "id": "e890",
+      "chave": "game__longjumpinfo",
+      "hash_es": "492f40da813609ef",
+      "texto_ptbr": "Este jogo, no Jiggosseum, consiste em descer a rampa o mais longe possível. Sua pontuação após três saltos decide quem cobriu a maior distância total.",
+      "lote": "518"
+    },
+    {
+      "id": "1631",
+      "chave": "game__longjumptip",
+      "hash_es": "0d915417330d8a4e",
+      "texto_ptbr": "Use um veículo que acelere suavemente pela rampa para ganhar bastante distância. Ao deixar a rampa, os controles travam e você só pode aplicar impulso com o [LSTICK] Analógico esquerdo.",
+      "lote": "512"
+    },
+    {
+      "id": "5c5e",
+      "chave": "game__lowgavity",
+      "hash_es": "f12aafa1169ef454",
+      "texto_ptbr": "Gravidade Baixa",
+      "lote": "512"
+    },
+    {
+      "id": "3d88",
+      "chave": "game__lowgravbanjobrawlinfo",
+      "hash_es": "0bbbe32d3e9899f5",
+      "texto_ptbr": "Esta luta acontece no Terrarium of Terror, com gravidade baixa! Veículos voadores são melhores se você quer vencer. Ganha-se pontos ao reduzir o veículo do adversário a sucata.",
+      "lote": "518"
+    },
+    {
+      "id": "ac29",
+      "chave": "game__lowgravbanjobrawltip",
+      "hash_es": "3fa1f13e3a3411bd",
+      "texto_ptbr": "Veículos voadores funcionam melhor neste modo para superar os ajustes atrevidos da gravidade.",
+      "lote": "512"
+    },
+    {
+      "id": "bb92",
+      "chave": "game__lowgravbrawl",
+      "hash_es": "a8479fc8db0da92d",
+      "texto_ptbr": "Luta Banjo de Baixa Gravidade",
+      "lote": "512"
+    },
+    {
+      "id": "b4a6",
+      "chave": "game__lowgravinfo",
+      "hash_es": "409f9c596b4c9f8c",
+      "texto_ptbr": "Esta corrida acontece no Terrarium of Terror, e algum bobo diminuiu a gravidade! É traiçoeira, então tente aprender o percurso com o veículo do S.J. antes de sair com suas próprias criações.",
+      "lote": "518"
+    },
+    {
+      "id": "8a30",
+      "chave": "game__lowgravity",
+      "hash_es": "0244775cfb3ab357",
+      "texto_ptbr": "G-Zero",
+      "lote": "512"
+    },
+    {
+      "id": "b787",
+      "chave": "game__lowgravtip",
+      "hash_es": "2e2a19bd12655d14",
+      "texto_ptbr": "Num ambiente de baixa gravidade como este, veículos com bom controle aéreo funcionam melhor, pois permitem corrigir o rumo quando as rodas saem do chão.",
+      "lote": "512"
+    },
+    {
+      "id": "b4f0",
+      "chave": "game__nuttyqueenoftheknoll",
+      "hash_es": "b9b7ab8141d95b5c",
+      "texto_ptbr": "Rainha Maluca da Colina",
+      "lote": "512"
+    },
+    {
+      "id": "6c17",
+      "chave": "game__oceanstraights",
+      "hash_es": "8b380a99d3dce65d",
+      "texto_ptbr": "Cruzeiros Malucos",
+      "lote": "514"
+    },
+    {
+      "id": "14e3",
+      "chave": "game__oceanstraightsinfo",
+      "hash_es": "2503d6c8a69e5e91",
+      "texto_ptbr": "Este cruzeiro animado pelo mar ao redor de Nutty Acres é o paraíso para quem gosta de barcos rápidos. Aviões também funcionam bem no modo personalizado.",
+      "lote": "518"
+    },
+    {
+      "id": "8424",
+      "chave": "game__oceanstraightstip",
+      "hash_es": "741cd6b2c07f4e70",
+      "texto_ptbr": "Veículos flutuantes são necessários neste circuito, situado nas águas de Nutty Acres. Quanto mais rápidos, melhor!",
+      "lote": "518"
+    },
+    {
+      "id": "a4a0",
+      "chave": "game__owngamesgametip",
+      "hash_es": "63a6c660d85e6606",
+      "texto_ptbr": "Já tentou criar seus próprios jogos e regras? Trazer veículos incomuns é uma boa forma de mudar a estrutura básica de cada jogo.",
+      "lote": "512"
+    },
+    {
+      "id": "6df4",
+      "chave": "game__partyupgametip",
+      "hash_es": "c9ea15fe7d663a9a",
+      "texto_ptbr": "Encontrou um bom grupo de jogadores em partidas ranqueadas ou de jogador? Aperte o Botão [X] no fim do jogo para formar um grupo.",
+      "lote": "514"
+    },
+    {
+      "id": "a4f5",
+      "chave": "game__poolprix",
+      "hash_es": "fbb223bf4f7184c3",
+      "texto_ptbr": "Prêmio da Piscina",
+      "lote": "512"
+    },
+    {
+      "id": "8cc1",
+      "chave": "game__poolprixinfo",
+      "hash_es": "a24c9b1e71a1fd96",
+      "texto_ptbr": "Use barcos rápidos e com boa capacidade de curva neste percurso, na piscina de Banjoland. Navegar com esperteza pela Cabeça de Tartaruga do Tanquetup e fazer linhas suaves pelo Balde Enferrujado rende bons tempos por volta.",
+      "lote": "609"
+    },
+    {
+      "id": "7842",
+      "chave": "game__poolprixtip",
+      "hash_es": "7635913269258464",
+      "texto_ptbr": "É uma corrida na água, então não pegue um veículo que não flutue. Você não vai nem completar o circuito e vai acabar parecendo um idiota.",
+      "lote": "512"
+    },
+    {
+      "id": "21cc",
+      "chave": "game__queenoftheknoll",
+      "hash_es": "f38f85ceefe076bf",
+      "texto_ptbr": "Rainha da Colina",
+      "lote": "512"
+    },
+    {
+      "id": "7cef",
+      "chave": "game__quickmatchtip",
+      "hash_es": "6c5a323711c7c71a",
+      "texto_ptbr": "Você pode jogar uma Partida Rápida se usar o matchmaking para entrar em playlists aleatórias. Partida Rápida é um termo que o S.J. usa a contragosto quando cria menus melhorados.",
+      "lote": "512"
+    },
+    {
+      "id": "8fee",
+      "chave": "game__rewindtip",
+      "hash_es": "86649ae413d77727",
+      "texto_ptbr": "Não esqueça que nas corridas você pode rebobinar o tempo para si mesmo. Se precisar desfazer algum erro grave, segure o botão [BACK] BACK por até 10 segundos de rebobinamento!",
+      "lote": "512"
+    },
+    {
+      "id": "1a6b",
+      "chave": "game__sharinggametip",
+      "hash_es": "b346088d3c3d7e65",
+      "texto_ptbr": "Quando estiver num grupo, você pode desbloquear o projeto do seu veículo atual. Assim, os outros podem encontrar você em Test-O-Track e apertar o Botão [B] para pegar uma cópia do projeto.",
+      "lote": "518"
+    },
+    {
+      "id": "5b3b",
+      "chave": "game__shortcircuit",
+      "hash_es": "d028a3732dfb7c50",
+      "texto_ptbr": "Curto-Circuito",
+      "lote": "514"
+    },
+    {
+      "id": "f607",
+      "chave": "game__shortcircuitinfo",
+      "hash_es": "9760a42cb3b9cc43",
+      "texto_ptbr": "É uma boa corrida para iniciantes, principalmente com o veículo do S.J. Depois de muitas voltas ao redor da CPU principal do LOGBOX 720, o portão final fica sobre um disco de jogo giratório.",
+      "lote": "518"
+    },
+    {
+      "id": "b305",
+      "chave": "game__shortcircuitmk2",
+      "hash_es": "d028a3732dfb7c50",
+      "texto_ptbr": "Curto-Circuito",
+      "lote": "514"
+    },
+    {
+      "id": "d0c8",
+      "chave": "game__shortcircuittip",
+      "hash_es": "4d5f639127fd5c63",
+      "texto_ptbr": "Use um veículo com ótima dirigibilidade e capacidade de curva nesta corrida. Veículos potentes demais vão penar nas curvas fechadas.",
+      "lote": "512"
+    },
+    {
+      "id": "9e3a",
+      "chave": "game__speedway",
+      "hash_es": "a60b5f318d9ffa20",
+      "texto_ptbr": "Velocidade",
+      "lote": "512"
+    },
+    {
+      "id": "b58e",
+      "chave": "game__stadiumcircuitinfo",
+      "hash_es": "4b6f31ea417bc76c",
+      "texto_ptbr": "Este circuito do Jiggosseum foi feito para testar seus carros mais rápidos nas curvas suaves. No modo personalizado, aviões também funcionam bem.",
+      "lote": "518"
+    },
+    {
+      "id": "3b6f",
+      "chave": "game__stadiumcircuittip",
+      "hash_es": "ec468c97d5459c21",
+      "texto_ptbr": "Pise fundo e arrase, pois o mais perigoso deste circuito são as curvas suaves que você vai contornar.",
+      "lote": "512"
+    },
+    {
+      "id": "0cfc",
+      "chave": "game__sumo",
+      "hash_es": "20609373e3b58880",
+      "texto_ptbr": "Sumô!",
+      "lote": "512"
+    },
+    {
+      "id": "a048",
+      "chave": "game__sumoinfo",
+      "hash_es": "65d5dce918b8057f",
+      "texto_ptbr": "Enquanto estiver na plataforma elevada do Jiggosseum, você ganha pontos. Derrube o máximo de veículos rivais que puder!",
+      "lote": "518"
+    },
+    {
+      "id": "b6e9",
+      "chave": "game__sumotip",
+      "hash_es": "47feba7213e34e29",
+      "texto_ptbr": "No modo solo, você ganha mais pontos por segundo quando há menos adversários ou nenhum no ringue com você!",
+      "lote": "512"
+    },
+    {
+      "id": "935b",
+      "chave": "game__teamairfootballtip",
+      "hash_es": "00c80e137e3be137",
+      "texto_ptbr": "No futebol aéreo em equipe há só uma bola, e as duas equipes precisam levá-la à área do gol adversário. A primeira equipe a marcar três vezes vence!",
+      "lote": "512"
+    },
+    {
+      "id": "39c9",
+      "chave": "game__teambanjosbears",
+      "hash_es": "1bab2af2569dc842",
+      "texto_ptbr": "Amigos do Banjo",
+      "lote": "512"
+    },
+    {
+      "id": "ea9f",
+      "chave": "game__teamfootballtip",
+      "hash_es": "76f1e92611640e97",
+      "texto_ptbr": "No futebol em equipe há só uma bola, e as duas equipes precisam levá-la à área do gol adversário. A primeira equipe a marcar três vezes vence!",
+      "lote": "512"
+    },
+    {
+      "id": "6a26",
+      "chave": "game__teamgametip",
+      "hash_es": "22ae139233f37897",
+      "texto_ptbr": "Em jogos em equipe, não caia na tentação de ignorar seus companheiros quando precisarem. As pontuações individuais são somadas no fim do jogo para decidir o vencedor geral.",
+      "lote": "512"
+    },
+    {
+      "id": "ae18",
+      "chave": "game__teamgruntysgang",
+      "hash_es": "6a4ef9179f086594",
+      "texto_ptbr": "Capangas da Grunty",
+      "lote": "512"
+    },
+    {
+      "id": "ff5e",
+      "chave": "game__teamland",
+      "hash_es": "8612e3265da968db",
+      "texto_ptbr": "Equipe Terra",
+      "lote": "512"
+    },
+    {
+      "id": "b014",
+      "chave": "game__teamlandandwater",
+      "hash_es": "47a94236363b834c",
+      "texto_ptbr": "Equipe Terra e Água",
+      "lote": "512"
+    },
+    {
+      "id": "2906",
+      "chave": "game__teampolotip",
+      "hash_es": "724247d6a15b168e",
+      "texto_ptbr": "No polo aquático em equipe há só uma bola, e as duas equipes precisam levá-la à área do gol adversário. A primeira equipe a marcar três vezes vence!",
+      "lote": "512"
+    },
+    {
+      "id": "f84b",
+      "chave": "game__teamqotktip",
+      "hash_es": "34f12ec13926e55c",
+      "texto_ptbr": "Na Rainha da Colina em equipe, cada jogador ganha 1 ponto por segundo dentro da coroa. Manter os veículos da equipe adversária fora da coroa melhora suas chances de vitória!",
+      "lote": "512"
+    },
+    {
+      "id": "eb90",
+      "chave": "game__teamsumotip",
+      "hash_es": "c28c797927d83f1e",
+      "texto_ptbr": "No modo equipe, quanto mais membros do seu time estiverem no ringue, mais pontos sua equipe ganha. Manter os veículos do time adversário fora da plataforma melhora suas chances de vitória!",
+      "lote": "512"
+    },
+    {
+      "id": "4d0d",
+      "chave": "game__triathlon",
+      "hash_es": "75fb588e5c2feb21",
+      "texto_ptbr": "Triatlo",
+      "lote": "512"
+    },
+    {
+      "id": "80d9",
+      "chave": "game__triathloninfo",
+      "hash_es": "3fc6519f726d622c",
+      "texto_ptbr": "Este circuito do LOGBOX 720 é para veículos que vão bem na terra, no ar e na gosma aquosa. Melhor jogar com o veículo do S.J. até você ficar bom em construir o seu.",
+      "lote": "518"
+    },
+    {
+      "id": "495a",
+      "chave": "game__triathlontip",
+      "hash_es": "50ffd7d8835dcadb",
+      "texto_ptbr": "Partes desta corrida passam por terra e água, então garanta que você encara as duas superfícies. Saber voar também ajuda! Se ainda não construiu um veículo adequado, teste o do S.J.",
+      "lote": "512"
+    },
+    {
+      "id": "c4ce",
+      "chave": "game__tricky",
+      "hash_es": "8a11cc5a35215ff8",
+      "texto_ptbr": "Circuito Espiral Grande",
+      "lote": "514"
+    },
+    {
+      "id": "f11a",
+      "chave": "game__trickyinfo",
+      "hash_es": "f695596520de9659",
+      "texto_ptbr": "Esta corrida difícil percorre a bela rota de Spiral Mountain, com um trecho em que os veículos precisam voar ou planar pelo grande vão até a antiga toca da Grunty. Cair pelas beiradas também é perigo.",
+      "lote": "518"
+    },
+    {
+      "id": "357b",
+      "chave": "game__trickytip",
+      "hash_es": "b2cb9f0257dd8d92",
+      "texto_ptbr": "Um vão entre dois portões nesta corrida exige um veículo voador ou planador. O resto do percurso é amigável para carros, mas os penhascos perigosos podem exigir seu poder de rebobinar.",
+      "lote": "512"
+    },
+    {
+      "id": "e024",
+      "chave": "game__trueskilltip",
+      "hash_es": "e83d57d792aa20a6",
+      "texto_ptbr": "Nas partidas ranqueadas, um número ao lado da sua gamertag mostra sua classificação TrueSkill™ atual. Ele pode subir ou descer conforme seu desempenho em cada jogo.",
+      "lote": "512"
+    },
+    {
+      "id": "13dc",
+      "chave": "game__twisted",
+      "hash_es": "f4b51baacc0d3b1d",
+      "texto_ptbr": "Circuito Espiral Pequeno",
+      "lote": "512"
+    },
+    {
+      "id": "1728",
+      "chave": "game__twistedinfo",
+      "hash_es": "70352a43c76cf668",
+      "texto_ptbr": "Este percurso para iniciantes contorna a Spiral Mountain e apresenta áreas de terreno acidentado. Cair no fosso pode ser problema, ou pode ser usado a seu favor...",
+      "lote": "518"
+    },
+    {
+      "id": "d1c9",
+      "chave": "game__twistedtip",
+      "hash_es": "08eee2634adf8be4",
+      "texto_ptbr": "Se você tem medo de cair no fosso, sempre pode adicionar flutuadores ao seu veículo...",
+      "lote": "512"
+    },
+    {
+      "id": "1401",
+      "chave": "game__typedebug",
+      "hash_es": "deb9999885f0d88d",
+      "texto_ptbr": "DEBUG: ",
+      "lote": "512"
+    },
+    {
+      "id": "a4b5",
+      "chave": "game__typerace",
+      "hash_es": "cfe870ca64729243",
+      "texto_ptbr": "CORRIDA",
+      "lote": "512"
+    },
+    {
+      "id": "bf8d",
+      "chave": "game__typetask",
+      "hash_es": "dabc3c617f4d026c",
+      "texto_ptbr": "Esporte",
+      "lote": "512"
+    },
+    {
+      "id": "fa2d",
+      "chave": "game__unhappylandings",
+      "hash_es": "10faf922fe13d8de",
+      "texto_ptbr": "Saltadores de Distância",
+      "lote": "512"
+    },
+    {
+      "id": "5780",
+      "chave": "game__upondpadtip",
+      "hash_es": "0d7029674dabe628",
+      "texto_ptbr": "Durante um jogo, aperte Cima no [DPAD] Direcional para ver a posição atual de todos os jogadores.",
+      "lote": "512"
+    },
+    {
+      "id": "0cdd",
+      "chave": "game__uptheoche",
+      "hash_es": "1d1b6a85df3d7bc5",
+      "texto_ptbr": "Dardos: Na Mosca",
+      "lote": "512"
+    },
+    {
+      "id": "da87",
+      "chave": "game__wastingaway",
+      "hash_es": "292e25919a0c0943",
+      "texto_ptbr": "Lixo Fora",
+      "lote": "512"
+    },
+    {
+      "id": "fa55",
+      "chave": "game__waterpolo",
+      "hash_es": "eef03600327d5b51",
+      "texto_ptbr": "Polo Aquático",
+      "lote": "512"
+    },
+    {
+      "id": "9221",
+      "chave": "game__waterpoloinfo",
+      "hash_es": "a50752ae55adf6d4",
+      "texto_ptbr": "O polo aquático consiste em colocar bolas no gol usando barcos. No modo equipe há só uma bola, enquanto no modo solo há até três tipos de bola, com valores diferentes.",
+      "lote": "512"
+    },
+    {
+      "id": "51a2",
+      "chave": "game__waterpolotip",
+      "hash_es": "e5478702cc3d4a98",
+      "texto_ptbr": "Veículos flutuantes são essenciais, ou você vai penar para guiar as bolas até a área do seu gol. Bolas vermelhas valem 1 ponto, verdes 2 e a azul vale 3.",
+      "lote": "512"
+    },
+    {
+      "id": "e6c9",
+      "chave": "game__worldbanjoland",
+      "hash_es": "f8694c750b56d05f",
+      "texto_ptbr": "Banjoland",
+      "lote": "518"
+    },
+    {
+      "id": "1d88",
+      "chave": "game__worldcpu",
+      "hash_es": "c792adf69c4637ae",
+      "texto_ptbr": "LOGBOX 720",
+      "lote": "518"
+    },
+    {
+      "id": "7172",
+      "chave": "game__worldnuttyacres",
+      "hash_es": "b92da323e95b228d",
+      "texto_ptbr": "Nutty Acres",
+      "lote": "518"
+    },
+    {
+      "id": "8df6",
+      "chave": "game__worldspiralmountain",
+      "hash_es": "ea5b0c237897661b",
+      "texto_ptbr": "Spiral Mountain",
+      "lote": "518"
+    },
+    {
+      "id": "d1a9",
+      "chave": "game__worldterrorium",
+      "hash_es": "d450fc0d632332c1",
+      "texto_ptbr": "Terrarium of Terror",
+      "lote": "518"
+    },
+    {
+      "id": "b5d5",
+      "chave": "game__worldtesttrack",
+      "hash_es": "e7f630f5c649fac4",
+      "texto_ptbr": "Test-O-Track",
+      "lote": "518"
+    },
+    {
+      "id": "6955",
+      "chave": "game__worldworldofsport",
+      "hash_es": "f37b8473be784b70",
+      "texto_ptbr": "Jiggosseum",
+      "lote": "518"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "arquivo": "112fc130",
+  "asset": "aid_loctext_banjox_test_aerial",
+  "frases": [
+    {
+      "id": "fb67",
+      "chave": "dialog__line1",
+      "hash_es": "b9d169c9cf2b122b",
+      "texto_ptbr": "Esta é uma mensagem interceptada da Grunty, captada pela antena do seu veículo.",
+      "lote": "606"
+    },
+    {
+      "id": "fb68",
+      "chave": "dialog__line2",
+      "hash_es": "0ba30d4f9b3f9c65",
+      "texto_ptbr": "Sua antena interceptou outra mensagem.",
+      "lote": "606"
+    },
+    {
+      "id": "fb69",
+      "chave": "dialog__line3",
+      "hash_es": "31af0d98f47ce731",
+      "texto_ptbr": "Outra mensagem foi interceptada pela antena do seu veículo.",
+      "lote": "606"
+    }
+  ]
+}

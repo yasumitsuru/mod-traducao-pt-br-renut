@@ -1,0 +1,426 @@
+{
+  "arquivo": "119b6dc0",
+  "asset": "aid_loctext_banjox_challenge_wimpout",
+  "frases": [
+    {
+      "id": "2f51",
+      "chave": "dialog__wimpout_blubber1",
+      "hash_es": "d52b91437a2ccbb9",
+      "texto_ptbr": "Argh, você é ainda mais covarde do que eu pensava!",
+      "lote": "606"
+    },
+    {
+      "id": "2f52",
+      "chave": "dialog__wimpout_blubber2",
+      "hash_es": "5f1cf5625b806c9a",
+      "texto_ptbr": "Voltem, meus camaradas! Com essa atitude vocês não vão levar nenhum tesouro!",
+      "lote": "608"
+    },
+    {
+      "id": "2f53",
+      "chave": "dialog__wimpout_blubber3",
+      "hash_es": "969c0745bdb28a09",
+      "texto_ptbr": "Fechem as escotilhas! Até o Banjo está virando as costas pra gente!",
+      "lote": "606"
+    },
+    {
+      "id": "2f54",
+      "chave": "dialog__wimpout_blubber4",
+      "hash_es": "944fa559b0aab2a7",
+      "texto_ptbr": "Arrr, você nem tem tempo de ajudar o seu Capitão?",
+      "lote": "606"
+    },
+    {
+      "id": "2f55",
+      "chave": "dialog__wimpout_blubber5",
+      "hash_es": "c2bf5055ad0bec5a",
+      "texto_ptbr": "Não vá embora assim, Banjo! Isso é um motim!",
+      "lote": "606"
+    },
+    {
+      "id": "e12b",
+      "chave": "dialog__wimpout_boggy1",
+      "hash_es": "fc6dadac09163f65",
+      "texto_ptbr": "Já vai? Não te culpo, eu fico cansado só de pensar nisso...",
+      "lote": "606"
+    },
+    {
+      "id": "e12c",
+      "chave": "dialog__wimpout_boggy2",
+      "hash_es": "7c31de42879d7517",
+      "texto_ptbr": "Olha só que revelação, você é quase tão preguiçoso quanto eu!",
+      "lote": "606"
+    },
+    {
+      "id": "e12d",
+      "chave": "dialog__wimpout_boggy3",
+      "hash_es": "ccd2a865b0a55f1e",
+      "texto_ptbr": "Nem quer tentar? Eu sei como você se sente...",
+      "lote": "606"
+    },
+    {
+      "id": "e12e",
+      "chave": "dialog__wimpout_boggy4",
+      "hash_es": "57640064b0097b86",
+      "texto_ptbr": "Realmente parece um pouco trabalhoso, né? Tudo bem.",
+      "lote": "606"
+    },
+    {
+      "id": "e12f",
+      "chave": "dialog__wimpout_boggy5",
+      "hash_es": "d74fd82b4a7351a3",
+      "texto_ptbr": "Não te interessa? Ah, cara... Eu odeio ter que fazer as coisas sozinho.",
+      "lote": "606"
+    },
+    {
+      "id": "f1f0",
+      "chave": "dialog__wimpout_bottles1",
+      "hash_es": "445f08f15abc7713",
+      "texto_ptbr": "Desistindo? E eu achando que teria sarcasmo e apelidos condescendentes!",
+      "lote": "606"
+    },
+    {
+      "id": "f1f1",
+      "chave": "dialog__wimpout_bottles2",
+      "hash_es": "4c4712f244b8dada",
+      "texto_ptbr": "Foi algo que eu disse? Banjo? Você volta logo?",
+      "lote": "606"
+    },
+    {
+      "id": "f1f2",
+      "chave": "dialog__wimpout_bottles3",
+      "hash_es": "2b5ab6274d6c6c99",
+      "texto_ptbr": "Bem... tudo bem, você deveria pensar bem nisso antes de começar.",
+      "lote": "606"
+    },
+    {
+      "id": "f1f3",
+      "chave": "dialog__wimpout_bottles4",
+      "hash_es": "52637f0a25499894",
+      "texto_ptbr": "Qual é, não é tão difícil! Eu já morri, isso sim é difícil!",
+      "lote": "606"
+    },
+    {
+      "id": "f1f4",
+      "chave": "dialog__wimpout_bottles5",
+      "hash_es": "9c1a84317482587d",
+      "texto_ptbr": "Precisa de mais tempo para se preparar, né? Espero você de volta aqui logo!",
+      "lote": "606"
+    },
+    {
+      "id": "d21c",
+      "chave": "dialog__wimpout_grunty1",
+      "hash_es": "c7827508cfea45ea",
+      "texto_ptbr": "Contra a velha Grunty não há esperança: o urso e o pássaro tremem feito criança!",
+      "lote": "608"
+    },
+    {
+      "id": "d21d",
+      "chave": "dialog__wimpout_grunty2",
+      "hash_es": "ff6c6e6f725b4df5",
+      "texto_ptbr": "Parece que vocês dois não aguentam o pique, não são páreo para o meu estilo chique!",
+      "lote": "608"
+    },
+    {
+      "id": "d21e",
+      "chave": "dialog__wimpout_grunty3",
+      "hash_es": "36d8f797b5bab178",
+      "texto_ptbr": "Eu só fiquei aqui parada, e o urso e o pássaro fugiram com a alma gelada!",
+      "lote": "606"
+    },
+    {
+      "id": "d21f",
+      "chave": "dialog__wimpout_grunty4",
+      "hash_es": "1023de1bd076ba92",
+      "texto_ptbr": "Eu queria mostrar surpresa, mas ver vocês fugirem é uma beleza!",
+      "lote": "608"
+    },
+    {
+      "id": "d220",
+      "chave": "dialog__wimpout_grunty5",
+      "hash_es": "117d3200553bb210",
+      "texto_ptbr": "Vocês nunca vão me vencer neste jogo; eu levo toda a fama e ainda ponho fogo!",
+      "lote": "608"
+    },
+    {
+      "id": "99e0",
+      "chave": "dialog__wimpout_humba1",
+      "hash_es": "f242a26bfe258259",
+      "texto_ptbr": "Humba não está acostumada a ver Banjo fugir de nada...",
+      "lote": "606"
+    },
+    {
+      "id": "99e1",
+      "chave": "dialog__wimpout_humba2",
+      "hash_es": "bd75fa48435d7858",
+      "texto_ptbr": "Volte, Banjo! Este desafio ser importante!",
+      "lote": "606"
+    },
+    {
+      "id": "99e2",
+      "chave": "dialog__wimpout_humba3",
+      "hash_es": "7079a42d96bd3c0f",
+      "texto_ptbr": "Urso grande e forte não está pronto para encarar o desafio da Humba?",
+      "lote": "606"
+    },
+    {
+      "id": "99e3",
+      "chave": "dialog__wimpout_humba4",
+      "hash_es": "b34ca7c4a5ce5eb3",
+      "texto_ptbr": "Humba ainda vai estar aqui se Banjo mudar de ideia...",
+      "lote": "606"
+    },
+    {
+      "id": "99e4",
+      "chave": "dialog__wimpout_humba5",
+      "hash_es": "566ae09c3a6fba30",
+      "texto_ptbr": "Humba acha que Banjo só precisa de mais um minuto para se preparar, sim?",
+      "lote": "606"
+    },
+    {
+      "id": "f95d",
+      "chave": "dialog__wimpout_jolly1",
+      "hash_es": "8d67c9c1812f9c37",
+      "texto_ptbr": "Ah, não, você está indo embora? Isso não é justo! Não me abandone!",
+      "lote": "606"
+    },
+    {
+      "id": "f95e",
+      "chave": "dialog__wimpout_jolly2",
+      "hash_es": "90bfa8708c61bc71",
+      "texto_ptbr": "Volte e ajude, ursinho de pelúcia, eu sou delicado demais para isso!",
+      "lote": "606"
+    },
+    {
+      "id": "f95f",
+      "chave": "dialog__wimpout_jolly3",
+      "hash_es": "af81909b9e235ca2",
+      "texto_ptbr": "Parece realmente assustador, não parece? Ai de mim...",
+      "lote": "606"
+    },
+    {
+      "id": "f960",
+      "chave": "dialog__wimpout_jolly4",
+      "hash_es": "23bdc5779af0e027",
+      "texto_ptbr": "Bem, isso simplesmente não vai servir. Eu exijo que você me ajude! Vou gritar!",
+      "lote": "606"
+    },
+    {
+      "id": "f961",
+      "chave": "dialog__wimpout_jolly5",
+      "hash_es": "cc0002f276002803",
+      "texto_ptbr": "Aonde você vai? Você ainda não satisfez as minhas necessidades!",
+      "lote": "606"
+    },
+    {
+      "id": "98c3",
+      "chave": "dialog__wimpout_klungo1",
+      "hash_es": "ef91644d0252422d",
+      "texto_ptbr": "Urssso mais nervosssso que Klungo, é só um desssafio bobo!",
+      "lote": "606"
+    },
+    {
+      "id": "98c4",
+      "chave": "dialog__wimpout_klungo2",
+      "hash_es": "9b6f4024cdc8ffaf",
+      "texto_ptbr": "Com medo de participar? Urssso deveria ssser herói!",
+      "lote": "606"
+    },
+    {
+      "id": "98c5",
+      "chave": "dialog__wimpout_klungo3",
+      "hash_es": "38081fbae58fe64a",
+      "texto_ptbr": "Klungo ainda tem desssafio quando urssso voltar... sssi voltar.",
+      "lote": "606"
+    },
+    {
+      "id": "98c6",
+      "chave": "dialog__wimpout_klungo4",
+      "hash_es": "851039f80e8b3d6d",
+      "texto_ptbr": "A adoração sssecreta de Klungo pelo urssso diminuiu um tiquinho...",
+      "lote": "606"
+    },
+    {
+      "id": "98c7",
+      "chave": "dialog__wimpout_klungo5",
+      "hash_es": "4e3508a75b084a6a",
+      "texto_ptbr": "Urssso desissste? Talvez a sssenhora Grunty ganhe o jogo afinal.",
+      "lote": "606"
+    },
+    {
+      "id": "80b5",
+      "chave": "dialog__wimpout_log1",
+      "hash_es": "2252f6eaddafda00",
+      "texto_ptbr": "O que é isso agora? Falhando no último obstáculo?",
+      "lote": "608"
+    },
+    {
+      "id": "80b6",
+      "chave": "dialog__wimpout_log2",
+      "hash_es": "f2e67f05b7bdab86",
+      "texto_ptbr": "Volte e termine isso logo, eu tenho outros jogos para criar!",
+      "lote": "606"
+    },
+    {
+      "id": "80b7",
+      "chave": "dialog__wimpout_log3",
+      "hash_es": "f598177d2810f1c0",
+      "texto_ptbr": "Vou dizer uma coisa a favor da Gruntilda: ela não desiste tão fácil.",
+      "lote": "606"
+    },
+    {
+      "id": "80b8",
+      "chave": "dialog__wimpout_log4",
+      "hash_es": "02c79bbbcf785aac",
+      "texto_ptbr": "Hmmm. Espero não ter errado ao deixar vocês chegarem tão longe...",
+      "lote": "606"
+    },
+    {
+      "id": "80b9",
+      "chave": "dialog__wimpout_log5",
+      "hash_es": "c10ad13e9e002c25",
+      "texto_ptbr": "Você não pode adiar isso para sempre, urso! Spiral Mountain está em jogo!",
+      "lote": "606"
+    },
+    {
+      "id": "6515",
+      "chave": "dialog__wimpout_mrfit1",
+      "hash_es": "b6479f0582b94fa6",
+      "texto_ptbr": "Ah... acho que vou ter que fazer isso sozinho. Ainda bem que estou em forma!",
+      "lote": "606"
+    },
+    {
+      "id": "6516",
+      "chave": "dialog__wimpout_mrfit2",
+      "hash_es": "82d4b353f65ce9f4",
+      "texto_ptbr": "Desistindo? Que triste. Você precisa malhar mais!",
+      "lote": "606"
+    },
+    {
+      "id": "6517",
+      "chave": "dialog__wimpout_mrfit3",
+      "hash_es": "062e9fd59e3ed987",
+      "texto_ptbr": "Volte quando atingir um condicionamento físico comparável ao meu!",
+      "lote": "606"
+    },
+    {
+      "id": "6518",
+      "chave": "dialog__wimpout_mrfit4",
+      "hash_es": "291e4c2da14a047b",
+      "texto_ptbr": "É, é melhor ir embora se você acha que só vai passar vergonha...",
+      "lote": "606"
+    },
+    {
+      "id": "6519",
+      "chave": "dialog__wimpout_mrfit5",
+      "hash_es": "3cef66376eb37ab5",
+      "texto_ptbr": "Bora pra academia, magrelo! E pra garagem também! E maneire nas tortas!",
+      "lote": "606"
+    },
+    {
+      "id": "66d3",
+      "chave": "dialog__wimpout_mumbo1",
+      "hash_es": "e2ad5277765fb7da",
+      "texto_ptbr": "Eekumbokum! Urso com medo como menina pequena, volte quando for mais corajoso.",
+      "lote": "606"
+    },
+    {
+      "id": "66d4",
+      "chave": "dialog__wimpout_mumbo2",
+      "hash_es": "f1a102ef402705ff",
+      "texto_ptbr": "Mumbo acha que urso amoleceu de tanta pizza e televisão.",
+      "lote": "606"
+    },
+    {
+      "id": "66d5",
+      "chave": "dialog__wimpout_mumbo3",
+      "hash_es": "44fbebc96e8afd22",
+      "texto_ptbr": "Desafio muito difícil? Urso ou é preguiçoso ou burro demais para dirigir carro.",
+      "lote": "606"
+    },
+    {
+      "id": "66d6",
+      "chave": "dialog__wimpout_mumbo4",
+      "hash_es": "8eb29c9c53896ebd",
+      "texto_ptbr": "O quê? Urso nem tentar fazer desafio do Mumbo?",
+      "lote": "606"
+    },
+    {
+      "id": "66d7",
+      "chave": "dialog__wimpout_mumbo5",
+      "hash_es": "0fd3740e9efb2520",
+      "texto_ptbr": "Urso vai chorar pela falta de plataforma no jogo. Oomenacka!",
+      "lote": "606"
+    },
+    {
+      "id": "4ca1",
+      "chave": "dialog__wimpout_pikelet1",
+      "hash_es": "9f5d7871641fe8ef",
+      "texto_ptbr": "Volte aqui e faça isso! É uma ordem!",
+      "lote": "606"
+    },
+    {
+      "id": "4ca2",
+      "chave": "dialog__wimpout_pikelet2",
+      "hash_es": "e8ee1a37a2d560c8",
+      "texto_ptbr": "Ei, eu estou te dando a chance de provar o seu valor aqui!",
+      "lote": "606"
+    },
+    {
+      "id": "4ca3",
+      "chave": "dialog__wimpout_pikelet3",
+      "hash_es": "346d05f2e6106a3b",
+      "texto_ptbr": "Bah, vocês não me ajudariam em nada mesmo.",
+      "lote": "606"
+    },
+    {
+      "id": "4ca4",
+      "chave": "dialog__wimpout_pikelet4",
+      "hash_es": "ce98741a6fd788bc",
+      "texto_ptbr": "Não tem músculo para encarar essa, né?",
+      "lote": "606"
+    },
+    {
+      "id": "4ca5",
+      "chave": "dialog__wimpout_pikelet5",
+      "hash_es": "d5a3d9632eb2da95",
+      "texto_ptbr": "Ei! Volte e termine o que começou!",
+      "lote": "606"
+    },
+    {
+      "id": "a27b",
+      "chave": "dialog__wimpout_tt1",
+      "hash_es": "46eacf85868dfbc7",
+      "texto_ptbr": "Isso mesmo, é melhor correr! Eu sou o melhor por padrão!",
+      "lote": "606"
+    },
+    {
+      "id": "a27c",
+      "chave": "dialog__wimpout_tt2",
+      "hash_es": "05059086b58bea87",
+      "texto_ptbr": "Tente de novo mais tarde... ou não tente, se você não tem o que é preciso!",
+      "lote": "606"
+    },
+    {
+      "id": "a27d",
+      "chave": "dialog__wimpout_tt3",
+      "hash_es": "63f78b6c96e4d8b9",
+      "texto_ptbr": "Ora, você nunca conseguiria se sair melhor que eu de qualquer jeito.",
+      "lote": "606"
+    },
+    {
+      "id": "a27e",
+      "chave": "dialog__wimpout_tt4",
+      "hash_es": "4618d962b174f86e",
+      "texto_ptbr": "Eu nunca recusaria um desafio, mas nada é desafiador para mim...",
+      "lote": "606"
+    },
+    {
+      "id": "a27f",
+      "chave": "dialog__wimpout_tt5",
+      "hash_es": "c65dffb4ce1fa6bb",
+      "texto_ptbr": "Até mais, se você tiver coragem de voltar. Perdedor de nascença!",
+      "lote": "606"
+    }
+  ]
+}

@@ -1,0 +1,580 @@
+{
+  "arquivo": "115cdc72",
+  "asset": "aid_loctext_banjox_frontend",
+  "frases": [
+    {
+      "id": "2115",
+      "chave": "frontend__Live_CreateSession_Back",
+      "hash_es": "f9618693ab0e05f9",
+      "texto_ptbr": "Voltar",
+      "lote": "504"
+    },
+    {
+      "id": "dcba",
+      "chave": "frontend__Live_CreateSession_Banner",
+      "hash_es": "3fc9b7657714f210",
+      "texto_ptbr": "Criar partida",
+      "lote": "504"
+    },
+    {
+      "id": "902a",
+      "chave": "frontend__Live_CreateSession_Change",
+      "hash_es": "b322167924121f7b",
+      "texto_ptbr": "Mudar",
+      "lote": "504"
+    },
+    {
+      "id": "8118",
+      "chave": "frontend__Live_CreateSession_Create",
+      "hash_es": "3fe5ff266fc3ceac",
+      "texto_ptbr": "Criar",
+      "lote": "504"
+    },
+    {
+      "id": "4e95",
+      "chave": "frontend__Live_CreateSession_CreatingSession",
+      "hash_es": "78ab17adc782cb70",
+      "texto_ptbr": "Criando partida",
+      "lote": "504"
+    },
+    {
+      "id": "7230",
+      "chave": "frontend__Live_CreateSession_DestroyingSession",
+      "hash_es": "c0ec6111473b5e69",
+      "texto_ptbr": "Encerrando partida",
+      "lote": "504"
+    },
+    {
+      "id": "3bb9",
+      "chave": "frontend__Live_CreateSession_Menu",
+      "hash_es": "3fc9b7657714f210",
+      "texto_ptbr": "Criar partida",
+      "lote": "504"
+    },
+    {
+      "id": "673b",
+      "chave": "frontend__Live_CreateSession_Move",
+      "hash_es": "6624c0d31888ecac",
+      "texto_ptbr": "Mover",
+      "lote": "504"
+    },
+    {
+      "id": "b224",
+      "chave": "frontend__Live_CreateSession_Select",
+      "hash_es": "4ecba858ccb80bc3",
+      "texto_ptbr": "Selecionar",
+      "lote": "504"
+    },
+    {
+      "id": "8c80",
+      "chave": "frontend__Live_CreateSession_SessionCreated",
+      "hash_es": "279d85cc8521ad38",
+      "texto_ptbr": "Partida criada",
+      "lote": "504"
+    },
+    {
+      "id": "36d6",
+      "chave": "frontend__Live_JoinSession_Banner",
+      "hash_es": "12d2c9032515d2e8",
+      "texto_ptbr": "Entrando na partida",
+      "lote": "504"
+    },
+    {
+      "id": "8473",
+      "chave": "frontend__Live_JoinSession_CannotJoin",
+      "hash_es": "238ebc111ac9da61",
+      "texto_ptbr": "Não foi possível entrar na partida",
+      "lote": "504"
+    },
+    {
+      "id": "5ed5",
+      "chave": "frontend__Live_JoinSession_Menu",
+      "hash_es": "12d2c9032515d2e8",
+      "texto_ptbr": "Entrando na partida",
+      "lote": "504"
+    },
+    {
+      "id": "9a15",
+      "chave": "frontend__Live_Lobby_Back",
+      "hash_es": "f9618693ab0e05f9",
+      "texto_ptbr": "Voltar",
+      "lote": "504"
+    },
+    {
+      "id": "95ba",
+      "chave": "frontend__Live_Lobby_Banner",
+      "hash_es": "0af689a5836dc27c",
+      "texto_ptbr": "Sala de espera",
+      "lote": "504"
+    },
+    {
+      "id": "7d30",
+      "chave": "frontend__Live_Lobby_Deleting",
+      "hash_es": "8f48d409458d660d",
+      "texto_ptbr": "Excluindo",
+      "lote": "504"
+    },
+    {
+      "id": "c818",
+      "chave": "frontend__Live_Lobby_Hello",
+      "hash_es": "e633f4fc79badea1",
+      "texto_ptbr": "Olá",
+      "lote": "504"
+    },
+    {
+      "id": "73dd",
+      "chave": "frontend__Live_Lobby_Joined",
+      "hash_es": "60a34e6ed3e08bfb",
+      "texto_ptbr": "Entrou",
+      "lote": "504"
+    },
+    {
+      "id": "b4b9",
+      "chave": "frontend__Live_Lobby_Menu",
+      "hash_es": "0af689a5836dc27c",
+      "texto_ptbr": "Sala de espera",
+      "lote": "504"
+    },
+    {
+      "id": "e03b",
+      "chave": "frontend__Live_Lobby_Move",
+      "hash_es": "6624c0d31888ecac",
+      "texto_ptbr": "Mover",
+      "lote": "504"
+    },
+    {
+      "id": "6b24",
+      "chave": "frontend__Live_Lobby_Select",
+      "hash_es": "4ecba858ccb80bc3",
+      "texto_ptbr": "Selecionar",
+      "lote": "504"
+    },
+    {
+      "id": "e152",
+      "chave": "frontend__Live_Lobby_Start",
+      "hash_es": "b39b9114ac90dce4",
+      "texto_ptbr": "Começar",
+      "lote": "504"
+    },
+    {
+      "id": "8fce",
+      "chave": "frontend__Live_Lobby_WaitingForInput",
+      "hash_es": "bc3645416cfc8c01",
+      "texto_ptbr": "Aguardando comando",
+      "lote": "504"
+    },
+    {
+      "id": "195c",
+      "chave": "frontend__Live_Logon_Back",
+      "hash_es": "f9618693ab0e05f9",
+      "texto_ptbr": "Voltar",
+      "lote": "504"
+    },
+    {
+      "id": "02c1",
+      "chave": "frontend__Live_Logon_Banner",
+      "hash_es": "2e0aafd82647c205",
+      "texto_ptbr": "Login na LIVE",
+      "lote": "504"
+    },
+    {
+      "id": "265c",
+      "chave": "frontend__Live_Logon_EnterPassword",
+      "hash_es": "0bc6305c21cfb8e6",
+      "texto_ptbr": "Digite a senha",
+      "lote": "504"
+    },
+    {
+      "id": "0d67",
+      "chave": "frontend__Live_Logon_IncorrectPassword",
+      "hash_es": "30124a1d7f08a42e",
+      "texto_ptbr": "Senha incorreta",
+      "lote": "504"
+    },
+    {
+      "id": "3400",
+      "chave": "frontend__Live_Logon_Menu",
+      "hash_es": "35e0d0360a0af6d1",
+      "texto_ptbr": "LIVE",
+      "lote": "504"
+    },
+    {
+      "id": "5f82",
+      "chave": "frontend__Live_Logon_Move",
+      "hash_es": "6624c0d31888ecac",
+      "texto_ptbr": "Mover",
+      "lote": "504"
+    },
+    {
+      "id": "0399",
+      "chave": "frontend__Live_Logon_PressA",
+      "hash_es": "937428f2f6b173c5",
+      "texto_ptbr": "Aperte o Botão [A]",
+      "lote": "504"
+    },
+    {
+      "id": "d82b",
+      "chave": "frontend__Live_Logon_Select",
+      "hash_es": "4ecba858ccb80bc3",
+      "texto_ptbr": "Selecionar",
+      "lote": "504"
+    },
+    {
+      "id": "72a2",
+      "chave": "frontend__Live_Logon_SignedOn",
+      "hash_es": "573996d8d40e6d62",
+      "texto_ptbr": "Conectado",
+      "lote": "504"
+    },
+    {
+      "id": "0737",
+      "chave": "frontend__Live_Logon_SigningOn",
+      "hash_es": "f08631cbd7e23bdb",
+      "texto_ptbr": "Conectando",
+      "lote": "504"
+    },
+    {
+      "id": "6b05",
+      "chave": "frontend__Live_Logon_SponsorNotReady",
+      "hash_es": "c646e95dbb6c7d0d",
+      "texto_ptbr": "Patrocinador não está pronto",
+      "lote": "504"
+    },
+    {
+      "id": "b607",
+      "chave": "frontend__Live_Logon_SponsorNotSignedOn",
+      "hash_es": "ab94ff4a12b1faca",
+      "texto_ptbr": "Patrocinador não conectado",
+      "lote": "504"
+    },
+    {
+      "id": "0b3a",
+      "chave": "frontend__Live_Logon_WaitingForOthers",
+      "hash_es": "1bfaae39b1978916",
+      "texto_ptbr": "Aguardando os outros",
+      "lote": "504"
+    },
+    {
+      "id": "8997",
+      "chave": "frontend__Live_MainMenu_Back",
+      "hash_es": "f9618693ab0e05f9",
+      "texto_ptbr": "Voltar",
+      "lote": "504"
+    },
+    {
+      "id": "6dbc",
+      "chave": "frontend__Live_MainMenu_Banner",
+      "hash_es": "155d5f3452656276",
+      "texto_ptbr": "Menu LIVE",
+      "lote": "504"
+    },
+    {
+      "id": "a43b",
+      "chave": "frontend__Live_MainMenu_Menu",
+      "hash_es": "155d5f3452656276",
+      "texto_ptbr": "Menu LIVE",
+      "lote": "504"
+    },
+    {
+      "id": "cfbd",
+      "chave": "frontend__Live_MainMenu_Move",
+      "hash_es": "6624c0d31888ecac",
+      "texto_ptbr": "Mover",
+      "lote": "504"
+    },
+    {
+      "id": "4326",
+      "chave": "frontend__Live_MainMenu_Select",
+      "hash_es": "4ecba858ccb80bc3",
+      "texto_ptbr": "Selecionar",
+      "lote": "504"
+    },
+    {
+      "id": "4710",
+      "chave": "frontend__Live_QuickSearch_Back",
+      "hash_es": "f9618693ab0e05f9",
+      "texto_ptbr": "Voltar",
+      "lote": "504"
+    },
+    {
+      "id": "6d75",
+      "chave": "frontend__Live_QuickSearch_Banner",
+      "hash_es": "7d1cecc2e6278cec",
+      "texto_ptbr": "Busca rápida",
+      "lote": "504"
+    },
+    {
+      "id": "8924",
+      "chave": "frontend__Live_QuickSearch_Continue",
+      "hash_es": "63e2bbaf1c924391",
+      "texto_ptbr": "Continuar",
+      "lote": "504"
+    },
+    {
+      "id": "51b1",
+      "chave": "frontend__Live_QuickSearch_JoiningSession",
+      "hash_es": "12d2c9032515d2e8",
+      "texto_ptbr": "Entrando na partida",
+      "lote": "504"
+    },
+    {
+      "id": "61b4",
+      "chave": "frontend__Live_QuickSearch_Menu",
+      "hash_es": "7d1cecc2e6278cec",
+      "texto_ptbr": "Busca rápida",
+      "lote": "504"
+    },
+    {
+      "id": "8d36",
+      "chave": "frontend__Live_QuickSearch_Move",
+      "hash_es": "6624c0d31888ecac",
+      "texto_ptbr": "Mover",
+      "lote": "504"
+    },
+    {
+      "id": "29ee",
+      "chave": "frontend__Live_QuickSearch_NoResults",
+      "hash_es": "772917a8e203093e",
+      "texto_ptbr": "Sem resultados",
+      "lote": "504"
+    },
+    {
+      "id": "fa51",
+      "chave": "frontend__Live_QuickSearch_Results",
+      "hash_es": "31056106ce607411",
+      "texto_ptbr": "Resultados",
+      "lote": "504"
+    },
+    {
+      "id": "f713",
+      "chave": "frontend__Live_QuickSearch_Searching",
+      "hash_es": "f15c0f663dc4eb0b",
+      "texto_ptbr": "Buscando",
+      "lote": "504"
+    },
+    {
+      "id": "42df",
+      "chave": "frontend__Live_QuickSearch_Select",
+      "hash_es": "4ecba858ccb80bc3",
+      "texto_ptbr": "Selecionar",
+      "lote": "504"
+    },
+    {
+      "id": "e96d",
+      "chave": "frontend__MainMenu_Banner",
+      "hash_es": "8695a937f31a1699",
+      "texto_ptbr": "Menu principal do Banjo",
+      "lote": "504"
+    },
+    {
+      "id": "0547",
+      "chave": "frontend__MainMenu_Live",
+      "hash_es": "35e0d0360a0af6d1",
+      "texto_ptbr": "LIVE",
+      "lote": "504"
+    },
+    {
+      "id": "7fac",
+      "chave": "frontend__MainMenu_Menu",
+      "hash_es": "1e9c027c8f80a394",
+      "texto_ptbr": "Menu principal",
+      "lote": "504"
+    },
+    {
+      "id": "ab2e",
+      "chave": "frontend__MainMenu_Move",
+      "hash_es": "6624c0d31888ecac",
+      "texto_ptbr": "Mover",
+      "lote": "504"
+    },
+    {
+      "id": "2d61",
+      "chave": "frontend__MainMenu_OtherStuff",
+      "hash_es": "65b7e799e0f6a6ea",
+      "texto_ptbr": "Outras coisas",
+      "lote": "504"
+    },
+    {
+      "id": "bed7",
+      "chave": "frontend__MainMenu_Select",
+      "hash_es": "4ecba858ccb80bc3",
+      "texto_ptbr": "Selecionar",
+      "lote": "504"
+    },
+    {
+      "id": "9567",
+      "chave": "frontend__Message_Continue",
+      "hash_es": "63e2bbaf1c924391",
+      "texto_ptbr": "Continuar",
+      "lote": "504"
+    },
+    {
+      "id": "411f",
+      "chave": "frontend__SystemLink_Logon_Back",
+      "hash_es": "f9618693ab0e05f9",
+      "texto_ptbr": "Voltar",
+      "lote": "504"
+    },
+    {
+      "id": "2744",
+      "chave": "frontend__SystemLink_Logon_Banner",
+      "hash_es": "182f550cf0da5f1a",
+      "texto_ptbr": "Login no Link de sistema",
+      "lote": "504"
+    },
+    {
+      "id": "f2b3",
+      "chave": "frontend__SystemLink_Logon_Continue",
+      "hash_es": "63e2bbaf1c924391",
+      "texto_ptbr": "Continuar",
+      "lote": "504"
+    },
+    {
+      "id": "5bc3",
+      "chave": "frontend__SystemLink_Logon_Menu",
+      "hash_es": "861f72d4fb7e7c6f",
+      "texto_ptbr": "Link de sistema",
+      "lote": "504"
+    },
+    {
+      "id": "8745",
+      "chave": "frontend__SystemLink_Logon_Move",
+      "hash_es": "6624c0d31888ecac",
+      "texto_ptbr": "Mover",
+      "lote": "504"
+    },
+    {
+      "id": "281c",
+      "chave": "frontend__SystemLink_Logon_PressA",
+      "hash_es": "937428f2f6b173c5",
+      "texto_ptbr": "Aperte o Botão [A]",
+      "lote": "504"
+    },
+    {
+      "id": "fcae",
+      "chave": "frontend__SystemLink_Logon_Select",
+      "hash_es": "4ecba858ccb80bc3",
+      "texto_ptbr": "Selecionar",
+      "lote": "504"
+    },
+    {
+      "id": "ef7d",
+      "chave": "frontend__SystemLink_Logon_WaitingForOthers",
+      "hash_es": "1bfaae39b1978916",
+      "texto_ptbr": "Aguardando os outros",
+      "lote": "504"
+    },
+    {
+      "id": "3e7a",
+      "chave": "frontend__SystemLink_MainMenu_Back",
+      "hash_es": "f9618693ab0e05f9",
+      "texto_ptbr": "Voltar",
+      "lote": "504"
+    },
+    {
+      "id": "e75f",
+      "chave": "frontend__SystemLink_MainMenu_Banner",
+      "hash_es": "6cc1dcbcbed6b23c",
+      "texto_ptbr": "Menu Link de sistema",
+      "lote": "504"
+    },
+    {
+      "id": "591e",
+      "chave": "frontend__SystemLink_MainMenu_Menu",
+      "hash_es": "6cc1dcbcbed6b23c",
+      "texto_ptbr": "Menu Link de sistema",
+      "lote": "504"
+    },
+    {
+      "id": "84a0",
+      "chave": "frontend__SystemLink_MainMenu_Move",
+      "hash_es": "6624c0d31888ecac",
+      "texto_ptbr": "Mover",
+      "lote": "504"
+    },
+    {
+      "id": "bcc9",
+      "chave": "frontend__SystemLink_MainMenu_Select",
+      "hash_es": "4ecba858ccb80bc3",
+      "texto_ptbr": "Selecionar",
+      "lote": "504"
+    },
+    {
+      "id": "f513",
+      "chave": "frontend__SystemLink_QuickSearch_Back",
+      "hash_es": "f9618693ab0e05f9",
+      "texto_ptbr": "Voltar",
+      "lote": "504"
+    },
+    {
+      "id": "a838",
+      "chave": "frontend__SystemLink_QuickSearch_Banner",
+      "hash_es": "7d1cecc2e6278cec",
+      "texto_ptbr": "Busca rápida",
+      "lote": "504"
+    },
+    {
+      "id": "80a7",
+      "chave": "frontend__SystemLink_QuickSearch_Continue",
+      "hash_es": "63e2bbaf1c924391",
+      "texto_ptbr": "Continuar",
+      "lote": "504"
+    },
+    {
+      "id": "9f74",
+      "chave": "frontend__SystemLink_QuickSearch_JoiningSession",
+      "hash_es": "12d2c9032515d2e8",
+      "texto_ptbr": "Entrando na partida",
+      "lote": "504"
+    },
+    {
+      "id": "0fb7",
+      "chave": "frontend__SystemLink_QuickSearch_Menu",
+      "hash_es": "7d1cecc2e6278cec",
+      "texto_ptbr": "Busca rápida",
+      "lote": "504"
+    },
+    {
+      "id": "3b39",
+      "chave": "frontend__SystemLink_QuickSearch_Move",
+      "hash_es": "6624c0d31888ecac",
+      "texto_ptbr": "Mover",
+      "lote": "504"
+    },
+    {
+      "id": "11d1",
+      "chave": "frontend__SystemLink_QuickSearch_NoResults",
+      "hash_es": "772917a8e203093e",
+      "texto_ptbr": "Sem resultados",
+      "lote": "504"
+    },
+    {
+      "id": "8d74",
+      "chave": "frontend__SystemLink_QuickSearch_Results",
+      "hash_es": "31056106ce607411",
+      "texto_ptbr": "Resultados",
+      "lote": "504"
+    },
+    {
+      "id": "def6",
+      "chave": "frontend__SystemLink_QuickSearch_Searching",
+      "hash_es": "f15c0f663dc4eb0b",
+      "texto_ptbr": "Buscando",
+      "lote": "504"
+    },
+    {
+      "id": "7da2",
+      "chave": "frontend__SystemLink_QuickSearch_Select",
+      "hash_es": "4ecba858ccb80bc3",
+      "texto_ptbr": "Selecionar",
+      "lote": "504"
+    },
+    {
+      "id": "155e",
+      "chave": "frontend__Test",
+      "hash_es": "ac3f091ca34109c5",
+      "texto_ptbr": "Teste",
+      "lote": "504"
+    }
+  ]
+}

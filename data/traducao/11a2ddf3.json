@@ -1,0 +1,223 @@
+{
+  "arquivo": "11a2ddf3",
+  "asset": "aid_loctext_banjox_cpu_actww",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "67858f73d29e6ef6",
+      "texto_ptbr": "Chiiiu, ninguém notar nada errado. Banjo voltar para demonstração profissional de pista?",
+      "lote": "605"
+    },
+    {
+      "id": "b254",
+      "chave": "dialog__game1_fail",
+      "hash_es": "c77648018b6491df",
+      "texto_ptbr": "{MOODSAD}Patrocínio da corrida em frangalhos! Críticos do marketing fininho das &quot;Trolls Bruxas&quot; todos rindo e apontando! Banjo decepcionar Humba...",
+      "lote": "605"
+    },
+    {
+      "id": "9744",
+      "chave": "dialog__game1_intro",
+      "hash_es": "d62f3aed84204850",
+      "texto_ptbr": "{MOODSAD}Ah não, ah não! Gamer de elite Humba precisar de ajuda, rápido!",
+      "lote": "605"
+    },
+    {
+      "id": "8026",
+      "chave": "dialog__game1_introb",
+      "hash_es": "6bdc2ffe247be46c",
+      "texto_ptbr": "O que aconteceu agora, Humba? Você está bem?",
+      "lote": "605"
+    },
+    {
+      "id": "8027",
+      "chave": "dialog__game1_introc",
+      "hash_es": "70454b4c13003599",
+      "texto_ptbr": "{MOODSAD}Klungo bater no chip de gráficos, estragar último desafio de corrida das &quot;Trolls Bruxas&quot;... como explicar isso para empresa matriz objetiva?",
+      "lote": "605"
+    },
+    {
+      "id": "8028",
+      "chave": "dialog__game1_introd",
+      "hash_es": "16d834ca2dba4af9",
+      "texto_ptbr": "Klungo fazer tanto estrago que os pontos de controle se deslocar, todos subir 100 pixels mais alto que antes! Não deixar fãs verem!",
+      "lote": "605"
+    },
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "b5af07680047ff21",
+      "texto_ptbr": "Banjo ajudar! Pegar veículo modificado e ver se corrida ainda dá para terminar. Humba ficar aqui se embelezando para distrair os fãs.",
+      "lote": "605"
+    },
+    {
+      "id": "d532",
+      "chave": "dialog__game1_successa",
+      "hash_es": "414c3272c646d300",
+      "texto_ptbr": "{MOODHAPPY}Super-rápido! Fãs amar clã mais que nunca. Banjo ganhar prêmios, Kazooie virar &quot;Troll Bruxa&quot; honorária. Garotas gamers, uni-vos!",
+      "lote": "605"
+    },
+    {
+      "id": "d534",
+      "chave": "dialog__game1_successc",
+      "hash_es": "ecaf7e40e91a236e",
+      "texto_ptbr": "{MOODHAPPY}Reputação das &quot;Trolls Bruxas&quot; intacta! Banjo cuidar bem do prêmio especial de marketing em forma de Jiggy.",
+      "lote": "605"
+    },
+    {
+      "id": "d536",
+      "chave": "dialog__game1_successe",
+      "hash_es": "d90fa625dfe4037b",
+      "texto_ptbr": "Banjo terminar corrida, mas direção trêmula fazer pista parecer mal projetada! Talvez próxima tentativa merecer recompensa de verdade?",
+      "lote": "605"
+    },
+    {
+      "id": "f828",
+      "chave": "dialog__game2_beaten",
+      "hash_es": "f0e2c04e72c2a4cf",
+      "texto_ptbr": "Voltou para me ajudar a atualizar o sistema de novo, Banjo? Sabia que ele baixa 300 bigabytes por segundo? Eu fico arrepiado...",
+      "lote": "605"
+    },
+    {
+      "id": "daf5",
+      "chave": "dialog__game2_fail",
+      "hash_es": "14a20b4bb2c204d5",
+      "texto_ptbr": "{MOODSAD}Argh! Eu só queria o melhor para este sistema, mas agora não consigo nem atualizar! Onde está a justiça, Banjo?",
+      "lote": "605"
+    },
+    {
+      "id": "d405",
+      "chave": "dialog__game2_intro",
+      "hash_es": "b3b34a74c4549476",
+      "texto_ptbr": "{MOODSAD}Estou preocupado, Banjo. Preciso atualizar a última versão deste software interessantíssimo no Chip Central da C.P.U....",
+      "lote": "605"
+    },
+    {
+      "id": "5507",
+      "chave": "dialog__game2_introb",
+      "hash_es": "31b92f88fee40658",
+      "texto_ptbr": "Uaaaah! Não nos mate de tédio, Quatro-Olhos, vá direto ao ponto!",
+      "lote": "605"
+    },
+    {
+      "id": "5508",
+      "chave": "dialog__game2_introc",
+      "hash_es": "5bbd10397cac0e48",
+      "texto_ptbr": "{MOODSAD}Preciso chegar ao chip e atualizar manualmente com meu laptop, mas tenho medo de esbarrar em Gruntbots! Preciso de proteção!",
+      "lote": "605"
+    },
+    {
+      "id": "5509",
+      "chave": "dialog__game2_introd",
+      "hash_es": "238e1287ec90c1f8",
+      "texto_ptbr": "O que você acha, Kazooie? Já amassamos Gruntbots suficientes por hoje, ou ainda dá para encaixar mais alguns?",
+      "lote": "605"
+    },
+    {
+      "id": "6769",
+      "chave": "dialog__game2_laptop",
+      "hash_es": "aab50afb8d3c9c24",
+      "texto_ptbr": "Rápido, Banjo, preciso do meu laptop! Eca! Argh! Odeio Gruntbots...",
+      "lote": "605"
+    },
+    {
+      "id": "9d67",
+      "chave": "dialog__game2_objectives",
+      "hash_es": "98ad8472f971d93b",
+      "texto_ptbr": "Preciso chegar à área do Chip Central da C.P.U. no porão do sistema. Alguma vez eu mencionei o poder de processamento superior dele?",
+      "lote": "605"
+    },
+    {
+      "id": "7f79",
+      "chave": "dialog__game2_objectivesrepeat1",
+      "hash_es": "dd644c87425c757f",
+      "texto_ptbr": "De certa forma, é até lisonjeiro que a Grunty se importe tanto...",
+      "lote": "605"
+    },
+    {
+      "id": "7f7a",
+      "chave": "dialog__game2_objectivesrepeat2",
+      "hash_es": "f3bbea0fa01500d4",
+      "texto_ptbr": "A atualização vai valer todo esse assédio! Prometo!",
+      "lote": "605"
+    },
+    {
+      "id": "6653",
+      "chave": "dialog__game2_successa",
+      "hash_es": "531506f019c2d79e",
+      "texto_ptbr": "{MOODHAPPY}Uau! Você deve estar muito animado com a atualização do sistema para me trazer aqui tão rápido! Aproveite seus prêmios e depois falamos de tecnologia!",
+      "lote": "605"
+    },
+    {
+      "id": "6655",
+      "chave": "dialog__game2_successc",
+      "hash_es": "41fcdeb23cfa5358",
+      "texto_ptbr": "{MOODHAPPY}Muito bem! Obrigado por me trazer inteiro, Banjo. Mal posso esperar para ver como esta belezinha roda agora...",
+      "lote": "605"
+    },
+    {
+      "id": "6657",
+      "chave": "dialog__game2_successe",
+      "hash_es": "a0029a9022e7d5f2",
+      "texto_ptbr": "Acho que você gosta secretamente de me assustar com esses quase-acidentes... obrigado pela escolta, mas não espere uma grande recompensa!",
+      "lote": "605"
+    },
+    {
+      "id": "ca0d",
+      "chave": "dialog__jinjogreen_greeting",
+      "hash_es": "74b9ab0bd7f2bbb4",
+      "texto_ptbr": "{MOODHAPPY}Bem-vindo! É hora de jogar o tão esperado... Jinjo Instinct!",
+      "lote": "605"
+    },
+    {
+      "id": "de4b",
+      "chave": "dialog__jinjogreen_lose",
+      "hash_es": "2993524857a720f6",
+      "texto_ptbr": "{MOODHAPPY}Ultraaaaa combooooo! Preciso bolar uma pose de vitória bem legal!",
+      "lote": "605"
+    },
+    {
+      "id": "0ce6",
+      "chave": "dialog__jinjogreen_objectives",
+      "hash_es": "5e48c765a3749482",
+      "texto_ptbr": "{MOODHAPPY}Pronto? Lute! Tente me forçar a sair desta arena feita sob medida!",
+      "lote": "605"
+    },
+    {
+      "id": "e726",
+      "chave": "dialog__jinjogreen_win",
+      "hash_es": "9426c0386852cdd3",
+      "texto_ptbr": "{MOODSAD}Eu perdi! Humilhação! Você já deve ter jogado isso antes...",
+      "lote": "605"
+    },
+    {
+      "id": "7f77",
+      "chave": "dialog__jinjored_greeting",
+      "hash_es": "6c00ff867c6d228b",
+      "texto_ptbr": "{MOODHAPPY}Olá, quer correr comigo? Não adianta ficar de rodeios!",
+      "lote": "605"
+    },
+    {
+      "id": "6eb5",
+      "chave": "dialog__jinjored_lose",
+      "hash_es": "606a2f2c67c71ae3",
+      "texto_ptbr": "{MOODHAPPY}Eu venci! Eca, o que é isso? Cheira a Minjo... deve ser você!",
+      "lote": "605"
+    },
+    {
+      "id": "c4d0",
+      "chave": "dialog__jinjored_objectives",
+      "hash_es": "4ecd75126744f21f",
+      "texto_ptbr": "{MOODHAPPY}Vamos! O último a chegar é um Minjo fedorento!",
+      "lote": "605"
+    },
+    {
+      "id": "1250",
+      "chave": "dialog__jinjored_win",
+      "hash_es": "4a2e158791fdf3ad",
+      "texto_ptbr": "{MOODSAD}Você me venceu! Obviamente eu não falava sério sobre o Minjo...",
+      "lote": "605"
+    }
+  ]
+}

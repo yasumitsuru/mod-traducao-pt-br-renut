@@ -1,0 +1,30 @@
+{
+  "arquivo": "11a30dd6",
+  "asset": "aid_loctext_banjox_tt_worldofsport_act3",
+  "frases": [
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "9d67",
+      "chave": "dialog__game2_objectives",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "fac8",
+      "chave": "dialog__game3_objectives",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "5829",
+      "chave": "dialog__game4_objectives",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    }
+  ]
+}

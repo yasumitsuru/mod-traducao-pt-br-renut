@@ -1,0 +1,349 @@
+{
+  "arquivo": "11c7ed5c",
+  "asset": "aid_loctext_banjox_nuttyacres_act2",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "7498b4bcef662174",
+      "texto_ptbr": "Ei. Já tapamos os canos de água. Curioso para ver em quanto tempo você consegue, né?",
+      "lote": "603"
+    },
+    {
+      "id": "b254",
+      "chave": "dialog__game1_fail",
+      "hash_es": "d6098e12c70f330b",
+      "texto_ptbr": "{MOODSAD}Muito, muito lento! Os cocos ficaram tanto tempo sem água que a colheita com certeza está perdida...",
+      "lote": "603"
+    },
+    {
+      "id": "9744",
+      "chave": "dialog__game1_intro",
+      "hash_es": "4ba9d3306ea1dbb4",
+      "texto_ptbr": "{MOODSAD}Dá para acreditar? A Humba me deixa no comando do pomar de cocos, e de repente os canos secam e a gente fica com um desastre nas mãos.",
+      "lote": "603"
+    },
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "4ec1df5c1452f194",
+      "texto_ptbr": "{MOODSAD}Parece que os Gruntbots daquela bruxa decrépita sabotaram os canos da plantação. {PAGEBREAK}Acho que a colheita vai murchar e morrer se não fizermos nada. Ei, não é o tipo de coisa que vocês fazem?",
+      "lote": "603"
+    },
+    {
+      "id": "4128",
+      "chave": "dialog__game1_objectivesb",
+      "hash_es": "3c091950e6b1f446",
+      "texto_ptbr": "Bem... a Kazooie tem uma chave inglesa, mas acho que ela não veio com diploma de encanador. O que você quer que a gente faça?",
+      "lote": "603"
+    },
+    {
+      "id": "4129",
+      "chave": "dialog__game1_objectivesc",
+      "hash_es": "2ed46ea54f56dfbf",
+      "texto_ptbr": "{MOODSAD}Tapem os canos quebrados de novo, eu suponho. Qualquer coisa pesada o bastante serve. {PAGEBREAK}Ainda com cara de quem não entendeu? Ai... que tal as pedras do pomar? {PAGEBREAK}Certo, o resto é com vocês. Tapem todos os vazamentos antes que os cocos sequem. Eu fico olhando.",
+      "lote": "603"
+    },
+    {
+      "id": "1938",
+      "chave": "dialog__game1_objectivesrepeat1",
+      "hash_es": "a3e2390f5d793a0a",
+      "texto_ptbr": "{MOODSAD}Os cocos estão secando rápido! Eu bem que enfiava uns Gruntbots idiotas desses cano abaixo...",
+      "lote": "603"
+    },
+    {
+      "id": "1939",
+      "chave": "dialog__game1_objectivesrepeat2",
+      "hash_es": "b5d982ee268d66f0",
+      "texto_ptbr": "{MOODSAD}Vamos tapar esses canos! Esses cocos que supostamente ganham prêmios estão começando a murchar!",
+      "lote": "603"
+    },
+    {
+      "id": "d532",
+      "chave": "dialog__game1_successa",
+      "hash_es": "bf3ef8d1df7bc366",
+      "texto_ptbr": "{MOODHAPPY}Pronto. Canos consertados, colheita salva. Por mais que eu odeie admitir, não sei se eu teria feito melhor...",
+      "lote": "603"
+    },
+    {
+      "id": "d534",
+      "chave": "dialog__game1_successc",
+      "hash_es": "014b984fb7136361",
+      "texto_ptbr": "Parece que você fez um bom trabalho salvando a colheita e ganhando um Jiggy. A questão é: daria para fazer ainda mais rápido?",
+      "lote": "603"
+    },
+    {
+      "id": "d536",
+      "chave": "dialog__game1_successe",
+      "hash_es": "fd7b9726232a9e6f",
+      "texto_ptbr": "Caramba, quanto tempo leva para consertar uns canos? Serviço feito, mas nessa velocidade você não vai ganhar lá grandes prêmios.",
+      "lote": "603"
+    },
+    {
+      "id": "ba67",
+      "chave": "dialog__game2_allwona",
+      "hash_es": "57b543a5febe3253",
+      "texto_ptbr": "{MOODSAD}Argh! Nem dá para fingir que deixei você ganhar, levei uma surra real! Pegue o seu prêmio e não falemos mais nisso. Combinado?",
+      "lote": "603"
+    },
+    {
+      "id": "ba69",
+      "chave": "dialog__game2_allwonc",
+      "hash_es": "a65e645899a13ae9",
+      "texto_ptbr": "{MOODSAD}O quê?! Eu perdi? Digo... eu deixei você ganhar, claro. Fique com o Jiggy, mas seu ranking ainda é bem fraco. É só isso que você tem?",
+      "lote": "603"
+    },
+    {
+      "id": "ba6b",
+      "chave": "dialog__game2_allwone",
+      "hash_es": "b6c2a7ab682c2ad1",
+      "texto_ptbr": "Chama isso de vitória? Foi por um &quot;pelo&quot; de diferença... e com um tempo desses você não ganha Jiggy. É melhor tentar de novo!",
+      "lote": "603"
+    },
+    {
+      "id": "f828",
+      "chave": "dialog__game2_beaten",
+      "hash_es": "9eb46dc8086fe9b2",
+      "texto_ptbr": "{MOODANGRY}Bem, obviamente eu deixei você ganhar. Alguém tinha que deixar. Se quiser correr de novo, desta vez eu vou tentar de verdade!",
+      "lote": "603"
+    },
+    {
+      "id": "d405",
+      "chave": "dialog__game2_intro",
+      "hash_es": "4b8a96182ccc61c1",
+      "texto_ptbr": "Uau, olha esse cara, Banjo. Não lembro de ter ouvido falar que tinha circo na cidade. Tem certeza de que está no jogo certo, Azulão?",
+      "lote": "603"
+    },
+    {
+      "id": "5507",
+      "chave": "dialog__game2_introb",
+      "hash_es": "5981ba2c61b8b85e",
+      "texto_ptbr": "{MOODHAPPY}Na verdade, meu nome é Tomás Troféu, e ganhar é a minha especialidade. Quer que eu prove? {PAGEBREAK}Vamos, uma corrida rápida ao redor da ilha... a menos, é claro, que o urso seja uma galinha.",
+      "lote": "603"
+    },
+    {
+      "id": "621b",
+      "chave": "dialog__game2_lost",
+      "hash_es": "a772fc4b3fff80de",
+      "texto_ptbr": "{MOODHAPPY}Mua ha! Você perdeu... claro! Volte quando tiver habilidade para me derrotar. Ou seja, nunca.",
+      "lote": "603"
+    },
+    {
+      "id": "9d67",
+      "chave": "dialog__game2_objectives",
+      "hash_es": "d4815c00aa1cae8e",
+      "texto_ptbr": "{MOODHAPPY}Os pontos de controle marcam o percurso. {PAGEBREAK}Passe por cada um e, no fim, chegará à linha de chegada... {PAGEBREAK}Onde eu estarei esperando por você! Mua ha!",
+      "lote": "603"
+    },
+    {
+      "id": "4aa9",
+      "chave": "dialog__game2_objectivesb",
+      "hash_es": "616faeccbeab1837",
+      "texto_ptbr": "É impressão minha ou os personagens de videogame perderam muito do charme nos últimos 10 anos?",
+      "lote": "603"
+    },
+    {
+      "id": "f052",
+      "chave": "dialog__game2_race2intro",
+      "hash_es": "e26e70df28e1b537",
+      "texto_ptbr": "{MOODSAD}Ei, você largou na frente. Meus freios devem estar travando! {PAGEBREAK}Mencionei que é melhor de três? Engole a minha poeira!",
+      "lote": "603"
+    },
+    {
+      "id": "18f3",
+      "chave": "dialog__game2_race3intro",
+      "hash_es": "397b9ae4509800dc",
+      "texto_ptbr": "{MOODHAPPY}Ha! Segundo lugar é só o primeiro perdedor! {PAGEBREAK}Mais uma corrida, tenta acompanhar desta vez!",
+      "lote": "603"
+    },
+    {
+      "id": "cd09",
+      "chave": "dialog__game3_beaten",
+      "hash_es": "86fd0a69d949d410",
+      "texto_ptbr": "{MOODHAPPY}Urso já salvar fazenda de bombardeio aleatório, mas pode jogar desafio de novo por diversão. Oomenacka!",
+      "lote": "603"
+    },
+    {
+      "id": "0396",
+      "chave": "dialog__game3_fail",
+      "hash_es": "89bed5428cf727bd",
+      "texto_ptbr": "{MOODSAD}Eekumbokum! Urso gordo muito lento. Bomba fazer grande bum. Oomenacka!",
+      "lote": "603"
+    },
+    {
+      "id": "10c6",
+      "chave": "dialog__game3_intro",
+      "hash_es": "7e9d8be161f88004",
+      "texto_ptbr": "Pode parecer pergunta idiota, Mumbo... mas por que você está parado ao lado de uma bomba tiquetaqueando?",
+      "lote": "603"
+    },
+    {
+      "id": "29e8",
+      "chave": "dialog__game3_introb",
+      "hash_es": "a2031957105a9b2f",
+      "texto_ptbr": "{MOODSAD}Bomba!? Eekumbokum! Mumbo não saber que era bomba! Bomba fazer grande bum, cocos do Mumbo voar mais alto que Nuvem Cucolândia!",
+      "lote": "603"
+    },
+    {
+      "id": "fac8",
+      "chave": "dialog__game3_objectives",
+      "hash_es": "bce514c66172267d",
+      "texto_ptbr": "{MOODSAD}Mumbo ocupado varrendo quintal quando ouvir barulho estranho. {PAGEBREAK}Grande pássaro de metal cair do céu, quase acertar a caveira do xamã.",
+      "lote": "603"
+    },
+    {
+      "id": "542a",
+      "chave": "dialog__game3_objectivesb",
+      "hash_es": "d2d6b11b8839e8d5",
+      "texto_ptbr": "Quase? Que pena, até que teria sido bom para você... {PAGEBREAK}Tá, Cabeça de Osso, e aí o que aconteceu?",
+      "lote": "603"
+    },
+    {
+      "id": "542b",
+      "chave": "dialog__game3_objectivesc",
+      "hash_es": "3023b94bbd4459f8",
+      "texto_ptbr": "{MOODSAD}Mumbo cutucar pássaro de metal com vassoura. Pássaro começar a fazer tique. {PAGEBREAK}Agora Mumbo em grande encrenca. Oomenacka!",
+      "lote": "603"
+    },
+    {
+      "id": "542c",
+      "chave": "dialog__game3_objectivesd",
+      "hash_es": "cbe5782396b05ca3",
+      "texto_ptbr": "Sendo sincero, Mumbo, não temos muita experiência com explosivos potentes. O que você quer que a gente faça?",
+      "lote": "603"
+    },
+    {
+      "id": "542d",
+      "chave": "dialog__game3_objectivese",
+      "hash_es": "826bbc0de93a7984",
+      "texto_ptbr": "{MOODSAD}Urso usar trator do Mumbo para levar bomba a Bottles! {PAGEBREAK}Fumaça vermelha guiar urso até toupeira, ele oficial das forças armadas, saber cuidar disso antes... provavelmente. {PAGEBREAK}Toupeira esperar no aeródromo da Ilha Nutty.",
+      "lote": "603"
+    },
+    {
+      "id": "542e",
+      "chave": "dialog__game3_objectivesf",
+      "hash_es": "e161208f167a6763",
+      "texto_ptbr": "{MOODSAD}Toupeira míope mas esperta. Ele impedir bomba de fazer grande bum! {PAGEBREAK}Urso ser rápido. Se cronômetro da bomba chegar a zero, urso virar tapete bonito. Oomenacka!",
+      "lote": "603"
+    },
+    {
+      "id": "e5ba",
+      "chave": "dialog__game3_objectivesrepeat1",
+      "hash_es": "e3c728f7c913d927",
+      "texto_ptbr": "{MOODSAD}Eekumbokum! Urso chegar ao Bottles antes que bomba explodir!",
+      "lote": "603"
+    },
+    {
+      "id": "e5bb",
+      "chave": "dialog__game3_objectivesrepeat2",
+      "hash_es": "10df796af0b08c2c",
+      "texto_ptbr": "{MOODSAD}Urso não tentar parar bomba, deixar trabalho para toupeira descartável!",
+      "lote": "603"
+    },
+    {
+      "id": "f774",
+      "chave": "dialog__game3_successa",
+      "hash_es": "190ab592cf8b504e",
+      "texto_ptbr": "{MOODHAPPY}Urso fazer ótimo trabalho! Mumbo feliz de viver sem tapete de pele de urso. E tempo bem rápido, urso ganhar grande recompensa. Oomenacka!",
+      "lote": "603"
+    },
+    {
+      "id": "f776",
+      "chave": "dialog__game3_successc",
+      "hash_es": "32279a21ef3a9fe6",
+      "texto_ptbr": "{MOODHAPPY}Tudo pronto, sem bum! Mumbo procurar tapete em outro lugar. Urso ganhar Jiggy, mas poderia ganhar prêmio extra com tempo mais rápido!",
+      "lote": "603"
+    },
+    {
+      "id": "f778",
+      "chave": "dialog__game3_successe",
+      "hash_es": "213c1e4922d230db",
+      "texto_ptbr": "Mumbo não ouvir bum, nem receber tapete de pele de urso. Mas urso ainda demorar muito no trabalho, então sem Jiggy. Eekumbokum!",
+      "lote": "603"
+    },
+    {
+      "id": "c0c4",
+      "chave": "dialog__jinjoblue_greeting",
+      "hash_es": "dc21b04ac2c3a07d",
+      "texto_ptbr": "{MOODHAPPY}Olha só, o velho Banjo! Tá a fim de jogar um Sumô Jinjo?",
+      "lote": "603"
+    },
+    {
+      "id": "1182",
+      "chave": "dialog__jinjoblue_lose",
+      "hash_es": "828e08e7b2217d14",
+      "texto_ptbr": "{MOODHAPPY}Nada mal, mas eu avisei que era bom! Isso mesmo! Talvez você tenha sorte na próxima?",
+      "lote": "603"
+    },
+    {
+      "id": "8d5d",
+      "chave": "dialog__jinjoblue_objectives",
+      "hash_es": "afde803f39a55e85",
+      "texto_ptbr": "{MOODHAPPY}Não ria, sou mais forte do que pareço! O primeiro a ser empurrado para fora do campo de combate perde!",
+      "lote": "607"
+    },
+    {
+      "id": "0f7d",
+      "chave": "dialog__jinjoblue_win",
+      "hash_es": "0ebd71a8f310fbf1",
+      "texto_ptbr": "{MOODSAD}Desta vez você me pegou, grandão. Leve uma Ficha Jinjo de recompensa!",
+      "lote": "603"
+    },
+    {
+      "id": "ca0d",
+      "chave": "dialog__jinjogreen_greeting",
+      "hash_es": "5338ae3dd2857501",
+      "texto_ptbr": "{MOODHAPPY}Vamos, vamos correr! Vamos! Temos que correr! Hora da corrida, vamos!",
+      "lote": "603"
+    },
+    {
+      "id": "de4b",
+      "chave": "dialog__jinjogreen_lose",
+      "hash_es": "9720b5fb764ccee0",
+      "texto_ptbr": "{MOODHAPPY}Não desista, tenho certeza de que você pode me vencer! Bem, quase certeza. Bem, talvez não exatamente certeza. Bem...",
+      "lote": "603"
+    },
+    {
+      "id": "0ce6",
+      "chave": "dialog__jinjogreen_objectives",
+      "hash_es": "b7fc31e2b8048f4e",
+      "texto_ptbr": "{MOODHAPPY}Siga o percurso, o primeiro a voltar é o vencedor!",
+      "lote": "603"
+    },
+    {
+      "id": "e726",
+      "chave": "dialog__jinjogreen_win",
+      "hash_es": "c430ef20ede560ee",
+      "texto_ptbr": "{MOODSAD}Uau, já voltou? Leve esta Ficha, você mereceu!",
+      "lote": "603"
+    },
+    {
+      "id": "9fae",
+      "chave": "dialog__jinjopink_greeting",
+      "hash_es": "b528ebe733de55cd",
+      "texto_ptbr": "{MOODSAD}Este lugar fede! Você acha fácil essa vida de ficar parado no pântano tentando chamar a atenção das pessoas... que tal me levar a um lugar um pouco mais perfumado?",
+      "lote": "603"
+    },
+    {
+      "id": "0b6c",
+      "chave": "dialog__jinjopink_lose",
+      "hash_es": "2baed5a5716189f1",
+      "texto_ptbr": "{MOODSAD}Ah, tá de brincadeira? Tenho que ficar aqui? Droga! Volte alguma hora para me ajudar a tentar a liberdade de novo!",
+      "lote": "603"
+    },
+    {
+      "id": "cec7",
+      "chave": "dialog__jinjopink_objectives",
+      "hash_es": "495441c664bb2ad5",
+      "texto_ptbr": "{MOODSAD}Preciso ficar num lugar mais alto e menos fedido, digamos... no topo de uma pilha enorme de cocos. Vamos, imediatamente! Eu exijo!",
+      "lote": "603"
+    },
+    {
+      "id": "7427",
+      "chave": "dialog__jinjopink_win",
+      "hash_es": "853e1b49c406799c",
+      "texto_ptbr": "{MOODHAPPY}Ótimo! Isto é melhor que meu antigo lar, e muito. Valeu, Banjo! Desculpa se eu fui meio diva antes.",
+      "lote": "603"
+    }
+  ]
+}

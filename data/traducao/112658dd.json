@@ -1,0 +1,167 @@
+{
+  "arquivo": "112658dd",
+  "asset": "aid_loctext_banjox_ui_ingame_challengereqs",
+  "frases": [
+    {
+      "id": "f6fd",
+      "chave": "chalreq__bigwheelie_distance",
+      "hash_es": "4d5af5394cf3ed9a",
+      "texto_ptbr": "Distância",
+      "lote": "001"
+    },
+    {
+      "id": "0fc8",
+      "chave": "chalreq__builder_status",
+      "hash_es": "a2945cf02739d6ef",
+      "texto_ptbr": "% Concluído",
+      "lote": "001"
+    },
+    {
+      "id": "4e22",
+      "chave": "chalreq__collect_numcollected",
+      "hash_es": "068d3e07becef2c6",
+      "texto_ptbr": "Objetos: ",
+      "lote": "001"
+    },
+    {
+      "id": "813c",
+      "chave": "chalreq__collect_numtocollect",
+      "hash_es": "8a5edab282632443",
+      "texto_ptbr": "/",
+      "lote": "001"
+    },
+    {
+      "id": "73f8",
+      "chave": "chalreq__countmanoeuvres_numcompleted",
+      "hash_es": "fa37b9c43230b249",
+      "texto_ptbr": "Concluídas:",
+      "lote": "001"
+    },
+    {
+      "id": "2159",
+      "chave": "chalreq__destroyobjects_numlefttodestroy",
+      "hash_es": "5b0483e8e0192496",
+      "texto_ptbr": "Restantes:",
+      "lote": "001"
+    },
+    {
+      "id": "e7b3",
+      "chave": "chalreq__distance_distance",
+      "hash_es": "4d5af5394cf3ed9a",
+      "texto_ptbr": "Distância",
+      "lote": "001"
+    },
+    {
+      "id": "c433",
+      "chave": "chalreq__fastestspeed_fastestspeed",
+      "hash_es": "d5db5062664890ae",
+      "texto_ptbr": "Vel. máxima",
+      "lote": "001"
+    },
+    {
+      "id": "4c82",
+      "chave": "chalreq__fastestspeed_timeleft",
+      "hash_es": "203d59b0f54c1e83",
+      "texto_ptbr": "Tempo restante",
+      "lote": "001"
+    },
+    {
+      "id": "880c",
+      "chave": "chalreq__getthemout_blocksleft",
+      "hash_es": "d02cf81adacab93d",
+      "texto_ptbr": "Blocos restantes",
+      "lote": "001"
+    },
+    {
+      "id": "42bd",
+      "chave": "chalreq__objectinteract_numinteractedwith",
+      "hash_es": "068d3e07becef2c6",
+      "texto_ptbr": "Objetos: ",
+      "lote": "001"
+    },
+    {
+      "id": "3637",
+      "chave": "chalreq__objectinteract_numtointeractwith",
+      "hash_es": "8a5edab282632443",
+      "texto_ptbr": "/",
+      "lote": "001"
+    },
+    {
+      "id": "57a4",
+      "chave": "chalreq__pickup_blocksheld",
+      "hash_es": "f72ce033bdc21824",
+      "texto_ptbr": "Ovos pegos",
+      "lote": "001"
+    },
+    {
+      "id": "5643",
+      "chave": "chalreq__pickup_timeleft",
+      "hash_es": "203d59b0f54c1e83",
+      "texto_ptbr": "Tempo restante",
+      "lote": "001"
+    },
+    {
+      "id": "38f8",
+      "chave": "chalreq__protect_timeleft",
+      "hash_es": "203d59b0f54c1e83",
+      "texto_ptbr": "Tempo restante",
+      "lote": "001"
+    },
+    {
+      "id": "7943",
+      "chave": "chalreq__repair_numconnected",
+      "hash_es": "2cac537ec82e81fc",
+      "texto_ptbr": "Conexões: ",
+      "lote": "001"
+    },
+    {
+      "id": "2b5d",
+      "chave": "chalreq__repair_numtoconnect",
+      "hash_es": "8a5edab282632443",
+      "texto_ptbr": "/",
+      "lote": "001"
+    },
+    {
+      "id": "6455",
+      "chave": "chalreq__roundcourse_gatesleft",
+      "hash_es": "9e1182cc5c97a11c",
+      "texto_ptbr": "Portões restantes",
+      "lote": "001"
+    },
+    {
+      "id": "6f4c",
+      "chave": "chalreq__timer_timelimit",
+      "hash_es": "a8538447487b603d",
+      "texto_ptbr": "Tempo limite",
+      "lote": "001"
+    },
+    {
+      "id": "3ff8",
+      "chave": "chalreq__upintheair_timeinair",
+      "hash_es": "126cfe92f85cda59",
+      "texto_ptbr": "Tempo no ar",
+      "lote": "001"
+    },
+    {
+      "id": "e650",
+      "chave": "chalreq__upintheair_timeleft",
+      "hash_es": "203d59b0f54c1e83",
+      "texto_ptbr": "Tempo restante",
+      "lote": "001"
+    },
+    {
+      "id": "a6ea",
+      "chave": "chalreq__weighty_regionweight",
+      "hash_es": "f4f1c74b3278bea6",
+      "texto_ptbr": "Massa da região",
+      "lote": "001"
+    },
+    {
+      "id": "b0c6",
+      "chave": "chalreq__weighty_vehicleweight",
+      "hash_es": "548a7360d4f64e00",
+      "texto_ptbr": "Massa do veículo",
+      "lote": "001"
+    }
+  ]
+}

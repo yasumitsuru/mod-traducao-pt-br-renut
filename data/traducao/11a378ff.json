@@ -1,0 +1,594 @@
+{
+  "arquivo": "11a378ff",
+  "asset": "aid_loctext_banjox_nuttyacres_act5",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "c2044f96f6c57c91",
+      "texto_ptbr": "{MOODHAPPY}A estátua do &quot;Coco de Ouro&quot; e o nosso orgulho de produtores de cocos continuam intactos. Quer enfrentar os Gruntbots de novo por diversão?",
+      "lote": "603"
+    },
+    {
+      "id": "b254",
+      "chave": "dialog__game1_fail",
+      "hash_es": "6255e3c0d91de054",
+      "texto_ptbr": "{MOODSAD}Não, a preciosa estátua! Graças àquela bruxa, os céticos que passarem nunca mais vão se convencer da firmeza dos nossos cocos...",
+      "lote": "603"
+    },
+    {
+      "id": "9744",
+      "chave": "dialog__game1_intro",
+      "hash_es": "e53f457bcacb3007",
+      "texto_ptbr": "Por curiosidade, Bottles, qual é a história desse troféu dourado enorme no curral?",
+      "lote": "603"
+    },
+    {
+      "id": "8026",
+      "chave": "dialog__game1_introb",
+      "hash_es": "72af9b006e68436e",
+      "texto_ptbr": "{MOODHAPPY}Que bom que perguntou! Por cinco anos seguidos, a Fazenda Nutty Acres ganhou o prestigioso prêmio &quot;Coco de Ouro&quot;, dado ao fornecedor dos cocos mais duros do mercado! {PAGEBREAK}Suponho que, com a Grunty à solta, a estátua precise de proteção em tempo integral. Posso te oferecer o emprego, Banjo?",
+      "lote": "603"
+    },
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "66fc22d280936205",
+      "texto_ptbr": "Você tinha razão em se preocupar, Quatro-Olhos. Gruntbots às seis horas!",
+      "lote": "603"
+    },
+    {
+      "id": "4128",
+      "chave": "dialog__game1_objectivesb",
+      "hash_es": "f467a8365f2f86a0",
+      "texto_ptbr": "{MOODSAD}Oh, calamidade! Aquela bruxa invejosa mandou um esquadrão de robôs capangas destruir a estátua!",
+      "lote": "603"
+    },
+    {
+      "id": "4129",
+      "chave": "dialog__game1_objectivesc",
+      "hash_es": "5f41cc7d60c08135",
+      "texto_ptbr": "Já são seis horas? Espero que a gente não tenha perdido o almoço, Kazooie...",
+      "lote": "603"
+    },
+    {
+      "id": "d532",
+      "chave": "dialog__game1_successa",
+      "hash_es": "f00b3b16efb1b0b1",
+      "texto_ptbr": "{MOODHAPPY}Os Gruntbots viraram sucata e nossa estátua continua de pé! Você não poderia ter feito melhor, Banjo. Viva!",
+      "lote": "603"
+    },
+    {
+      "id": "d534",
+      "chave": "dialog__game1_successc",
+      "hash_es": "3496abf986a017a4",
+      "texto_ptbr": "{MOODHAPPY}O esquadrão virou sucata, a estátua sobreviveu e o Jiggy é seu! Só queria que a estátua não tivesse levado tanto dano...",
+      "lote": "603"
+    },
+    {
+      "id": "d536",
+      "chave": "dialog__game1_successe",
+      "hash_es": "46d2e71d38bc277f",
+      "texto_ptbr": "O esquadrão caiu e nossa estátua continua de pé... mas foi por pouco demais, então você não ganha o Jiggy. Lembre-se: atire quando vir o vermelho dos olhos deles!",
+      "lote": "603"
+    },
+    {
+      "id": "f828",
+      "chave": "dialog__game2_beaten",
+      "hash_es": "afd217211ce82b62",
+      "texto_ptbr": "Banjo fazer ótimo trabalho evitando desastre. Agora Humba não ter certeza se ouvir tremores de novo ou ser só imaginação...",
+      "lote": "603"
+    },
+    {
+      "id": "daf5",
+      "chave": "dialog__game2_fail",
+      "hash_es": "e09709254c65c592",
+      "texto_ptbr": "{MOODSAD}Gases sufocantes arruinar colheita, dar a Humba grande dor de cabeça! Fechar olhos agora e esperar que tudo ser só sonho ruim...",
+      "lote": "603"
+    },
+    {
+      "id": "d405",
+      "chave": "dialog__game2_intro",
+      "hash_es": "e602c74e60b5f1ca",
+      "texto_ptbr": "Que barulho de tremor é esse, Humba? Pensei que fosse a magia duvidosa do Mumbo, mas pela sua cara é pior que isso!",
+      "lote": "603"
+    },
+    {
+      "id": "5507",
+      "chave": "dialog__game2_introb",
+      "hash_es": "ec3600871d520814",
+      "texto_ptbr": "{MOODSAD}Nada a ver com o marido imprestável desta vez. Vulcão fazer barulhos ruins há dias... o que acontecer se erupção vier?",
+      "lote": "607"
+    },
+    {
+      "id": "9d67",
+      "chave": "dialog__game2_objectives",
+      "hash_es": "85fb4764f2ad730b",
+      "texto_ptbr": "{MOODSAD}Ah, não! Humba mencionar erupção e azarar a ilha inteira!",
+      "lote": "603"
+    },
+    {
+      "id": "4aa9",
+      "chave": "dialog__game2_objectivesb",
+      "hash_es": "9358923686da6e22",
+      "texto_ptbr": "{MOODSAD}Situação muito ruim... rochas escaldantes cair do céu.",
+      "lote": "603"
+    },
+    {
+      "id": "4aaa",
+      "chave": "dialog__game2_objectivesc",
+      "hash_es": "1e6740672d5fcf9f",
+      "texto_ptbr": "{MOODSAD}Pior ainda, rocha vulcânica soltar gases nojentos e envenenar o ar dentro do Globo de Jogo inteiro!",
+      "lote": "603"
+    },
+    {
+      "id": "4aab",
+      "chave": "dialog__game2_objectivesd",
+      "hash_es": "eaebe0b5287b00c6",
+      "texto_ptbr": "{MOODSAD}Não saber o quanto gases afetar pessoas, mas ser ruim o bastante para sufocar coqueiros e arruinar colheita com certeza!",
+      "lote": "603"
+    },
+    {
+      "id": "4aac",
+      "chave": "dialog__game2_objectivese",
+      "hash_es": "b2f42570a0a45d3b",
+      "texto_ptbr": "Vocês têm muita sorte... já pensaram em se mudar?",
+      "lote": "603"
+    },
+    {
+      "id": "4aad",
+      "chave": "dialog__game2_objectivesf",
+      "hash_es": "bb2b1c38a176f174",
+      "texto_ptbr": "{MOODSAD}Por favor, Banjo e Kazooie fazer o possível para deixar rochas de fogo inofensivas e salvar fazenda. {PAGEBREAK}Humba traumatizada demais por azarar Nutty Acres para ajudar!",
+      "lote": "603"
+    },
+    {
+      "id": "7f79",
+      "chave": "dialog__game2_objectivesrepeat1",
+      "hash_es": "3217583be6b41461",
+      "texto_ptbr": "Situação esquentando, Banjo achar jeito de esfriar de novo!",
+      "lote": "603"
+    },
+    {
+      "id": "7f7a",
+      "chave": "dialog__game2_objectivesrepeat2",
+      "hash_es": "c0653d3aba1a083e",
+      "texto_ptbr": "Levar rochas para água ou água para rochas antes que gás se espalhar demais!",
+      "lote": "603"
+    },
+    {
+      "id": "6653",
+      "chave": "dialog__game2_successa",
+      "hash_es": "5c438f85e08353ba",
+      "texto_ptbr": "{MOODHAPPY}Nutty Acres já salvo? Trabalho incrível, Humba não se sentir tão culpada! Banjo ganhar grandes agradecimentos e recompensa maior ainda!",
+      "lote": "603"
+    },
+    {
+      "id": "6655",
+      "chave": "dialog__game2_successc",
+      "hash_es": "fc33de5ac7e2d0bd",
+      "texto_ptbr": "Ilha toda salva de novo, mais ou menos! Sorte Humba guardar Jiggy para pagar heróis em emergência aleatória.",
+      "lote": "603"
+    },
+    {
+      "id": "6657",
+      "chave": "dialog__game2_successe",
+      "hash_es": "c1e0f4011e2f077a",
+      "texto_ptbr": "Banjo nos salvar no fim... mas não parecer ter muito treino para serviço de emergência! Ter que ser mais rápido para ganhar grande recompensa.",
+      "lote": "603"
+    },
+    {
+      "id": "cd09",
+      "chave": "dialog__game3_beaten",
+      "hash_es": "92a592d7edc99e6e",
+      "texto_ptbr": "{MOODSAD}Não posso ter paz para me afundar na minha autopiedade? Você quer esfregar isso no meu nariz enorme e tentar fazer ainda melhor?",
+      "lote": "603"
+    },
+    {
+      "id": "0396",
+      "chave": "dialog__game3_fail",
+      "hash_es": "d4fbc30264db8e8c",
+      "texto_ptbr": "{MOODHAPPY}Isso! Vamos! Mais um ano, mais um troféu de &quot;Jornaleiro do Ano&quot; para o Sr. Em Forma!",
+      "lote": "603"
+    },
+    {
+      "id": "10c6",
+      "chave": "dialog__game3_intro",
+      "hash_es": "92fc10ca63aabdc7",
+      "texto_ptbr": "Você está todo convencido, Sr. Em Forma. Seu agasalho voltou da lavanderia para você tirar a fantasia de caipira?",
+      "lote": "603"
+    },
+    {
+      "id": "29e8",
+      "chave": "dialog__game3_introb",
+      "hash_es": "09b040a9e264f07a",
+      "texto_ptbr": "{MOODHAPPY}O Mumbo me contrata porque sou, sem dúvida, o melhor coletor de cocos do ramo. Chega de piadas baratas, estão a fim de um desafio de verdade?",
+      "lote": "603"
+    },
+    {
+      "id": "fac8",
+      "chave": "dialog__game3_objectives",
+      "hash_es": "b53ae2da7a180b62",
+      "texto_ptbr": "{MOODHAPPY}Sim, o Mumbo nos põe à prova todo ano e dá a um de nós o troféu de &quot;Jornaleiro do Ano&quot;. {PAGEBREAK}E eu ganho sempre, sem falhar nunca!",
+      "lote": "603"
+    },
+    {
+      "id": "542a",
+      "chave": "dialog__game3_objectivesb",
+      "hash_es": "a7b6af69a6f0fc85",
+      "texto_ptbr": "Pelo que a gente viu, a competição não é lá muito acirrada.",
+      "lote": "603"
+    },
+    {
+      "id": "542b",
+      "chave": "dialog__game3_objectivesc",
+      "hash_es": "89e3f05064f8cb04",
+      "texto_ptbr": "{MOODHAPPY}Não estou ouvindo! Em cima das caixas você vai encontrar uma pilha de cocos de vários tamanhos. {PAGEBREAK}Quanto maior o coco, mais pontos ele vale.",
+      "lote": "603"
+    },
+    {
+      "id": "542c",
+      "chave": "dialog__game3_objectivesd",
+      "hash_es": "58de08268c01d820",
+      "texto_ptbr": "{MOODHAPPY}Só precisa levar o máximo de cocos possível de volta ao Aspira-Cocos no tempo disponível. {PAGEBREAK}O verdadeiro desafio é tentar bater o meu próprio recorde... {PAGEBREAK}Não que você tenha muita chance. Você consegue fazer uma flexão sem ajuda profissional?",
+      "lote": "603"
+    },
+    {
+      "id": "e5ba",
+      "chave": "dialog__game3_objectivesrepeat1",
+      "hash_es": "1953391bde9a4b8c",
+      "texto_ptbr": "Vamos, Banjo, seja competitivo! Leve esses cocos de volta para a fazenda!",
+      "lote": "603"
+    },
+    {
+      "id": "e5bb",
+      "chave": "dialog__game3_objectivesrepeat2",
+      "hash_es": "3897b88b3ff2127b",
+      "texto_ptbr": "Mais rápido! Você consegue! Espera, por que eu estou torcendo por você?",
+      "lote": "603"
+    },
+    {
+      "id": "f774",
+      "chave": "dialog__game3_successa",
+      "hash_es": "61a839f5b2a53fa3",
+      "texto_ptbr": "{MOODHAPPY}Caramba! Que pontuação gigantesca! Você conquistou meu respeito relutante, e todo tipo de prêmio também!",
+      "lote": "603"
+    },
+    {
+      "id": "f776",
+      "chave": "dialog__game3_successc",
+      "hash_es": "ef75dcc2acf31448",
+      "texto_ptbr": "Bom, magrelo, já vi melhores e já vi piores. Essa pontuação pode ter rendido um Jiggy, mas se superar é uma meta digna!",
+      "lote": "603"
+    },
+    {
+      "id": "f778",
+      "chave": "dialog__game3_successe",
+      "hash_es": "026b5d2a33277a44",
+      "texto_ptbr": "{MOODSAD}Hmm... não é de todo ruim, mas não posso dizer que foi bom o bastante para um Jiggy. Arrume um personal trainer e volte quando estiver super em forma!",
+      "lote": "603"
+    },
+    {
+      "id": "a1ea",
+      "chave": "dialog__game4_beaten",
+      "hash_es": "a9a557f57a478f72",
+      "texto_ptbr": "Urso já derrotar Gruntbots, lembrar? Mas urso poder fazer desafio de novo por diversão! Oomenacka!",
+      "lote": "603"
+    },
+    {
+      "id": "2c37",
+      "chave": "dialog__game4_fail",
+      "hash_es": "df09e1c7e2dcd283",
+      "texto_ptbr": "{MOODSAD}Nããão! Urso demorar muito! Gruntbots destruir fazenda agora com certeza! Por que todo mundo querer destruir fazenda? O que Mumbo fazer errado?",
+      "lote": "603"
+    },
+    {
+      "id": "4d87",
+      "chave": "dialog__game4_intro",
+      "hash_es": "23b1a4daf4f19538",
+      "texto_ptbr": "{MOODSAD}Eekumbokum! Grande vergonha! Mumbo preso na ilha e não conseguir nadar. Urso trazer boias? Rápido, alguém vem por aqui...",
+      "lote": "603"
+    },
+    {
+      "id": "5829",
+      "chave": "dialog__game4_objectives",
+      "hash_es": "15a4bff77b6fa76a",
+      "texto_ptbr": "Parece que ficar preso é o menor dos seus problemas, Cabeça Oca. {PAGEBREAK}Tem uma armada de Gruntbots vindo na nossa direção!",
+      "lote": "603"
+    },
+    {
+      "id": "5dab",
+      "chave": "dialog__game4_objectivesb",
+      "hash_es": "e3d02995fce3451d",
+      "texto_ptbr": "Urso acabar com barcos Gruntbot, Mumbo dar recompensa! Oomenacka!",
+      "lote": "603"
+    },
+    {
+      "id": "4bfb",
+      "chave": "dialog__game4_objectivesrepeat1",
+      "hash_es": "8e3865183851a214",
+      "texto_ptbr": "{MOODANGRY}Rápido, urso, atirar em todos os barcos! Gruntbots má notícia!",
+      "lote": "603"
+    },
+    {
+      "id": "4bfc",
+      "chave": "dialog__game4_objectivesrepeat2",
+      "hash_es": "ec716ba4dc75c141",
+      "texto_ptbr": "{MOODANGRY}Como se Mumbo não tivesse problemas suficientes! Urso salvar a dignidade de Mumbo!",
+      "lote": "603"
+    },
+    {
+      "id": "8895",
+      "chave": "dialog__game4_successa",
+      "hash_es": "39492fde4e819cc7",
+      "texto_ptbr": "{MOODHAPPY}Urso acabar com Gruntbots em tempo recorde! Mumbo feliz, dar grande prêmio... e também lembrar como nadar. Oomenacka!",
+      "lote": "603"
+    },
+    {
+      "id": "8897",
+      "chave": "dialog__game4_successc",
+      "hash_es": "3aa76cbb05dd152c",
+      "texto_ptbr": "Urso acabar com todos os Gruntbots. Nada mal! Urso ganhar Jiggy, mas ainda poder fazer tempo mais rápido.",
+      "lote": "603"
+    },
+    {
+      "id": "8899",
+      "chave": "dialog__game4_successe",
+      "hash_es": "43f502ad2382c0db",
+      "texto_ptbr": "Urso acabar com Gruntbots, mas por pouco. Mumbo achar lento demais para Jiggy. Urso precisar de motivação! Oomenacka!",
+      "lote": "603"
+    },
+    {
+      "id": "76cb",
+      "chave": "dialog__game5_beaten",
+      "hash_es": "dd789da17bdb43f0",
+      "texto_ptbr": "{MOODHAPPY}Nham! Ovo encher barriga de Klungo. Mas se ursso quiser tentar de novo, Klungo bem certo de que pode abrir espaço para mais...",
+      "lote": "603"
+    },
+    {
+      "id": "1384",
+      "chave": "dialog__game5_eggcooked",
+      "hash_es": "c9f4f170a905972c",
+      "texto_ptbr": "Mmm, cheirar a ovo cozido. Levar a Klungo para o desjejum!",
+      "lote": "607"
+    },
+    {
+      "id": "54d8",
+      "chave": "dialog__game5_fail",
+      "hash_es": "266cb5d4698c3463",
+      "texto_ptbr": "{MOODSAD}Buaá! Ursso quebrar ovo de Klungo. Agora só restar comida do Mumbo para comer. Melhor Klungo procurar Loggo.",
+      "lote": "603"
+    },
+    {
+      "id": "8a48",
+      "chave": "dialog__game5_intro",
+      "hash_es": "fdb252f0b7379ce0",
+      "texto_ptbr": "{MOODSAD}Ugh... Klungo querer desjejum, mas ovo mole sempre dar gases ruins. Dingpot costumava cozinhar. Ursso saber cozinhar alguma coisa?",
+      "lote": "603"
+    },
+    {
+      "id": "b58a",
+      "chave": "dialog__game5_objectives",
+      "hash_es": "5595eda295b23b78",
+      "texto_ptbr": "Cozinhar? A gente parece chef de omelete para você, palhaço?",
+      "lote": "603"
+    },
+    {
+      "id": "672c",
+      "chave": "dialog__game5_objectivesb",
+      "hash_es": "193fc71ddefe6945",
+      "texto_ptbr": "{MOODSAD}Por favor... ursso e pássaro cozinhar ovo bom e trazer para Klungo. {PAGEBREAK}Klungo com tanta fome, estar definhando.",
+      "lote": "603"
+    },
+    {
+      "id": "672d",
+      "chave": "dialog__game5_objectivesc",
+      "hash_es": "18afc662a0c3965f",
+      "texto_ptbr": "Hã... vamos acreditar em você, Klungo. Vamos, Kazooie, põe o chapéu de chef e começa a fritar!",
+      "lote": "603"
+    },
+    {
+      "id": "b23c",
+      "chave": "dialog__game5_objectivesrepeat1",
+      "hash_es": "2c82014955805ad4",
+      "texto_ptbr": "{MOODSAD}Klungo morrendo de fome! Ursso achar lugar quente o bastante para fritar ovo!",
+      "lote": "603"
+    },
+    {
+      "id": "b23d",
+      "chave": "dialog__game5_objectivesrepeat2",
+      "hash_es": "5118aea99dada99b",
+      "texto_ptbr": "{MOODSAD}Pobre Klungo, não perceber que trabalhar para os bonsss ser tão difícil...",
+      "lote": "603"
+    },
+    {
+      "id": "19b6",
+      "chave": "dialog__game5_successa",
+      "hash_es": "42b3708b889d5f76",
+      "texto_ptbr": "{MOODHAPPY}Nham! Ovo feito a p.e.r.f.e.i.s.s.ã.o. Ursso ganhar prêmio máximo, Klungo continuar o resto do dia. Klungo fazer piada de ovo hilariantesss.",
+      "lote": "603"
+    },
+    {
+      "id": "19b8",
+      "chave": "dialog__game5_successc",
+      "hash_es": "d36342da8a80f297",
+      "texto_ptbr": "Hmmm, ovo estranhamente borrachudo. Klungo comer de qualquer jeito! Ursso ganhar Jiggy, mas cozinhar ovo direito da próxima vez.",
+      "lote": "603"
+    },
+    {
+      "id": "19ba",
+      "chave": "dialog__game5_successe",
+      "hash_es": "98f6edba1bc7f8e4",
+      "texto_ptbr": "{MOODSAD}Klungo pedir ovo frito dos dois lados, não ovo estrelado! Sem Jiggy para ursso inútil!",
+      "lote": "603"
+    },
+    {
+      "id": "4bac",
+      "chave": "dialog__game6_beaten",
+      "hash_es": "4d9a55d187617252",
+      "texto_ptbr": "{MOODHAPPY}Mr. Patch murchou, foi de vez... talvez. Banjo querer derrotar ele de novo por diversão, Humba tornar possível!",
+      "lote": "603"
+    },
+    {
+      "id": "7d79",
+      "chave": "dialog__game6_fail",
+      "hash_es": "44798a904a52af86",
+      "texto_ptbr": "{MOODSAD}Cocos ficar sem luz do sol e começar a amolecer. Não ser mais os mais duros do mundo! Como Humba comprar sapatos e bolsa novos agora?",
+      "lote": "603"
+    },
+    {
+      "id": "c709",
+      "chave": "dialog__game6_intro",
+      "hash_es": "36e3a1aed3515f76",
+      "texto_ptbr": "{MOODHAPPY}Banjo também vir admirar a vista? Nutty Acres todo em paz hoje. Fazenda não parecer ameaçada... por uma vez.",
+      "lote": "603"
+    },
+    {
+      "id": "12eb",
+      "chave": "dialog__game6_objectives",
+      "hash_es": "7f5307bb53d9cedd",
+      "texto_ptbr": "Espera, Humba sentir uma sombra se aproximando... olha!",
+      "lote": "603"
+    },
+    {
+      "id": "70ad",
+      "chave": "dialog__game6_objectivesb",
+      "hash_es": "029dd1f7356bd623",
+      "texto_ptbr": "Não me diga, a Grunty trouxe de volta um chefão velho e surrado do Banjo para causar estragos na sua ilha paradisíaca?",
+      "lote": "603"
+    },
+    {
+      "id": "70ae",
+      "chave": "dialog__game6_objectivesc",
+      "hash_es": "133d0d2f0e708ce5",
+      "texto_ptbr": "Sim! Pássaro também ter premonição? {PAGEBREAK}Não importar. Grunty consertar Mr. Patch, agora ele fazer sombra sobre o coqueiral inteiro! {PAGEBREAK}Plantas sem luz do sol, cocos não crescer!",
+      "lote": "603"
+    },
+    {
+      "id": "70af",
+      "chave": "dialog__game6_objectivesd",
+      "hash_es": "00e0ec3984ca46c4",
+      "texto_ptbr": "Ah, qualé. Não estouramos o traseiro inflado dele anos atrás? {PAGEBREAK}Acho que já entendemos a ideia geral. Salve os cocos, salve o mundo...",
+      "lote": "603"
+    },
+    {
+      "id": "187d",
+      "chave": "dialog__game6_objectivesrepeat1",
+      "hash_es": "458f6ed2478b0102",
+      "texto_ptbr": "{MOODSAD}Banjo ter que livrar ilha do inflável mau!",
+      "lote": "603"
+    },
+    {
+      "id": "187e",
+      "chave": "dialog__game6_objectivesrepeat2",
+      "hash_es": "836fca1815f1ac47",
+      "texto_ptbr": "{MOODSAD}Mr. Patch mau usar truques novos quando ficar mais furioso!",
+      "lote": "603"
+    },
+    {
+      "id": "aad7",
+      "chave": "dialog__game6_successa",
+      "hash_es": "4b92bee048cf79f6",
+      "texto_ptbr": "{MOODHAPPY}Bum! Urso e pássaro no topo das paradas! Mr. Patch murchou e os cocos têm sol de novo. No fim, vamos ter colheita recorde!",
+      "lote": "603"
+    },
+    {
+      "id": "aad9",
+      "chave": "dialog__game6_successc",
+      "hash_es": "dec52ce156197e64",
+      "texto_ptbr": "{MOODHAPPY}Mr. Patch estourou, mas cocos ficaram sem luz por muito tempo. Humba agradecida e dar Jiggy, mas pensar que trabalho seria mais rápido...",
+      "lote": "603"
+    },
+    {
+      "id": "aadb",
+      "chave": "dialog__game6_successe",
+      "hash_es": "423b8329690607d9",
+      "texto_ptbr": "Mr. Patch estourou, mas trabalho demorar demais e cocos sofrer. Sem Jiggy para urso e pássaro desta vez. Esforçar mais!",
+      "lote": "603"
+    },
+    {
+      "id": "fad8",
+      "chave": "dialog__jinjoorange_greeting",
+      "hash_es": "f9c78507de4364ba",
+      "texto_ptbr": "{MOODHAPPY}Esta água parece ótima para navegar! Sim, quase toda água parece, mas esta parece... hã... melhor. Que tal uma corrida de barco?",
+      "lote": "603"
+    },
+    {
+      "id": "6196",
+      "chave": "dialog__jinjoorange_lose",
+      "hash_es": "cb17f765dac9a8c4",
+      "texto_ptbr": "{MOODHAPPY}Você precisa melhorar sua flutuação, bola de pelos! Eu venci! Corra contra mim até me vencer, eu não canso.",
+      "lote": "603"
+    },
+    {
+      "id": "9c71",
+      "chave": "dialog__jinjoorange_objectives",
+      "hash_es": "02230f91461239df",
+      "texto_ptbr": "{MOODHAPPY}Vamos para a H2O! Chegue antes de mim para ganhar uma recompensa!",
+      "lote": "603"
+    },
+    {
+      "id": "ad11",
+      "chave": "dialog__jinjoorange_win",
+      "hash_es": "b508ce3138a33bc1",
+      "texto_ptbr": "{MOODHAPPY}Você é rápido para um mamífero terrestre! Pegue isto!",
+      "lote": "603"
+    },
+    {
+      "id": "9fae",
+      "chave": "dialog__jinjopink_greeting",
+      "hash_es": "219ef96734958f00",
+      "texto_ptbr": "{MOODHAPPY}Bem, você não parece mesmo um Jinjo. Será que isso significa que você é mais rápido ou mais lento? Só tem um jeito de descobrir!",
+      "lote": "603"
+    },
+    {
+      "id": "0b6c",
+      "chave": "dialog__jinjopink_lose",
+      "hash_es": "4ca75fcd2fd508bf",
+      "texto_ptbr": "{MOODHAPPY}Não, simplesmente não estou sentindo necessidade de velocidade! Volte para tentar de novo quando quiser.",
+      "lote": "603"
+    },
+    {
+      "id": "cec7",
+      "chave": "dialog__jinjopink_objectives",
+      "hash_es": "2d1076765131c5e8",
+      "texto_ptbr": "{MOODHAPPY}Alcance a velocidade indicada no velocímetro e eu te recompenso com algo especial!",
+      "lote": "603"
+    },
+    {
+      "id": "7427",
+      "chave": "dialog__jinjopink_win",
+      "hash_es": "85da563127cdde0b",
+      "texto_ptbr": "{MOODHAPPY}Isso foi bem... interessante de assistir. Aqui, pegue isto!",
+      "lote": "603"
+    },
+    {
+      "id": "e358",
+      "chave": "dialog__jinjoyellow_greeting",
+      "hash_es": "24aca28d264ce005",
+      "texto_ptbr": "{MOODHAPPY}Está olhando para mim, urso? Está olhando para mim? Não vejo mais ninguém aqui.",
+      "lote": "603"
+    },
+    {
+      "id": "0a16",
+      "chave": "dialog__jinjoyellow_lose",
+      "hash_es": "727e08cbf984c4ae",
+      "texto_ptbr": "{MOODHAPPY}Eu te derrubei, urso! Isso! Não está se sentindo tão sortudo agora?",
+      "lote": "603"
+    },
+    {
+      "id": "a4f1",
+      "chave": "dialog__jinjoyellow_objectives",
+      "hash_es": "34bbe5adcead6bd4",
+      "texto_ptbr": "{MOODHAPPY}Meu olhar de mil jardas não te intimida, é? Hora do desafio! Veja se consegue me tirar do coqueiral!",
+      "lote": "603"
+    },
+    {
+      "id": "4591",
+      "chave": "dialog__jinjoyellow_win",
+      "hash_es": "4a492bf6f26d99bf",
+      "texto_ptbr": "{MOODSAD}Você me venceu com justiça! Mas eu ainda tenho a minha atitude.",
+      "lote": "603"
+    }
+  ]
+}

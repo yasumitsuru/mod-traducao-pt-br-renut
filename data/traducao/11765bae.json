@@ -1,0 +1,1078 @@
+{
+  "arquivo": "11765bae",
+  "asset": "aid_loctext_banjox_ui_ingame_movie",
+  "frases": [
+    {
+      "id": "1f44",
+      "chave": "movie__banjoland_blubber_01",
+      "hash_es": "180b1b901b519d61",
+      "texto_ptbr": "Capitão Blubber",
+      "lote": "517"
+    },
+    {
+      "id": "1f45",
+      "chave": "movie__banjoland_blubber_02",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "1f46",
+      "chave": "movie__banjoland_blubber_03",
+      "hash_es": "9c5d432bca5e7ff9",
+      "texto_ptbr": "o ex-marinheiro iludido",
+      "lote": "517"
+    },
+    {
+      "id": "1f47",
+      "chave": "movie__banjoland_blubber_04",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "1f48",
+      "chave": "movie__banjoland_blubber_05",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "f69e",
+      "chave": "movie__banjoland_boggy_01",
+      "hash_es": "134d042eefaaf386",
+      "texto_ptbr": "Boggy",
+      "lote": "517"
+    },
+    {
+      "id": "f69f",
+      "chave": "movie__banjoland_boggy_02",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "f6a0",
+      "chave": "movie__banjoland_boggy_03",
+      "hash_es": "9c93a4b366c8baa4",
+      "texto_ptbr": "o zelador desmotivado",
+      "lote": "517"
+    },
+    {
+      "id": "f6a1",
+      "chave": "movie__banjoland_boggy_04",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "f6a2",
+      "chave": "movie__banjoland_boggy_05",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "05a3",
+      "chave": "movie__banjoland_bottles_01",
+      "hash_es": "0acb0c1610910fca",
+      "texto_ptbr": "Bottles",
+      "lote": "517"
+    },
+    {
+      "id": "05a4",
+      "chave": "movie__banjoland_bottles_02",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "05a5",
+      "chave": "movie__banjoland_bottles_03",
+      "hash_es": "ac9d4db9375e1410",
+      "texto_ptbr": "o curador pomposo",
+      "lote": "517"
+    },
+    {
+      "id": "05a6",
+      "chave": "movie__banjoland_bottles_04",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "05a7",
+      "chave": "movie__banjoland_bottles_05",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "88b6",
+      "chave": "movie__banjoland_klungo_01",
+      "hash_es": "a43687ed82c3c261",
+      "texto_ptbr": "Klungo",
+      "lote": "517"
+    },
+    {
+      "id": "88b7",
+      "chave": "movie__banjoland_klungo_02",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "88b8",
+      "chave": "movie__banjoland_klungo_03",
+      "hash_es": "c00d7e94c3588a7d",
+      "texto_ptbr": "o capanga comum... de novo",
+      "lote": "517"
+    },
+    {
+      "id": "88b9",
+      "chave": "movie__banjoland_klungo_04",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "88ba",
+      "chave": "movie__banjoland_klungo_05",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "1d08",
+      "chave": "movie__banjoland_mrfit_01",
+      "hash_es": "a9561572b09b69aa",
+      "texto_ptbr": "Sr. Em Forma",
+      "lote": "517"
+    },
+    {
+      "id": "1d09",
+      "chave": "movie__banjoland_mrfit_02",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "1d0a",
+      "chave": "movie__banjoland_mrfit_03",
+      "hash_es": "ad1d8414f9d14a42",
+      "texto_ptbr": "o recepcionista efusivo",
+      "lote": "517"
+    },
+    {
+      "id": "1d0b",
+      "chave": "movie__banjoland_mrfit_04",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "1d0c",
+      "chave": "movie__banjoland_mrfit_05",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "8646",
+      "chave": "movie__banjoland_mumbo_01",
+      "hash_es": "18f5384d58bcb1bb",
+      "texto_ptbr": "E",
+      "lote": "517"
+    },
+    {
+      "id": "8647",
+      "chave": "movie__banjoland_mumbo_02",
+      "hash_es": "8029bfc6aae22a8e",
+      "texto_ptbr": "Mumbo Jumbo",
+      "lote": "517"
+    },
+    {
+      "id": "8648",
+      "chave": "movie__banjoland_mumbo_03",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "8649",
+      "chave": "movie__banjoland_mumbo_04",
+      "hash_es": "845184cd91c8684c",
+      "texto_ptbr": "o das ideias",
+      "lote": "517"
+    },
+    {
+      "id": "864a",
+      "chave": "movie__banjoland_mumbo_05",
+      "hash_es": "0194a3dffc5267ca",
+      "texto_ptbr": "acima da sua posição",
+      "lote": "517"
+    },
+    {
+      "id": "6412",
+      "chave": "movie__banjoland_welcome_01",
+      "hash_es": "d2d5ef7489e4d8b4",
+      "texto_ptbr": "Bem-vindos a",
+      "lote": "517"
+    },
+    {
+      "id": "6413",
+      "chave": "movie__banjoland_welcome_02",
+      "hash_es": "d2290f9322647e23",
+      "texto_ptbr": "Estrelando...",
+      "lote": "517"
+    },
+    {
+      "id": "4082",
+      "chave": "movie__cpu_bottles_01",
+      "hash_es": "0acb0c1610910fca",
+      "texto_ptbr": "Bottles",
+      "lote": "517"
+    },
+    {
+      "id": "4083",
+      "chave": "movie__cpu_bottles_02",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "4084",
+      "chave": "movie__cpu_bottles_03",
+      "hash_es": "4381c9e63501aa82",
+      "texto_ptbr": "o geek pálido e técnico",
+      "lote": "517"
+    },
+    {
+      "id": "4085",
+      "chave": "movie__cpu_bottles_04",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "4086",
+      "chave": "movie__cpu_bottles_05",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "a7b2",
+      "chave": "movie__cpu_humba_01",
+      "hash_es": "3b6f52aa7955346f",
+      "texto_ptbr": "Com",
+      "lote": "517"
+    },
+    {
+      "id": "a7b3",
+      "chave": "movie__cpu_humba_02",
+      "hash_es": "4d3def2186c9d95a",
+      "texto_ptbr": "Humba Wumba",
+      "lote": "517"
+    },
+    {
+      "id": "a7b4",
+      "chave": "movie__cpu_humba_03",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "a7b5",
+      "chave": "movie__cpu_humba_04",
+      "hash_es": "3c65a5a11491d272",
+      "texto_ptbr": "a jogadora destemida",
+      "lote": "517"
+    },
+    {
+      "id": "a7b6",
+      "chave": "movie__cpu_humba_05",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "da6f",
+      "chave": "movie__cpu_jolly_01",
+      "hash_es": "34525089052b738b",
+      "texto_ptbr": "Convidado especial",
+      "lote": "517"
+    },
+    {
+      "id": "da70",
+      "chave": "movie__cpu_jolly_02",
+      "hash_es": "6c50467991adab86",
+      "texto_ptbr": "Jolly Dodger",
+      "lote": "517"
+    },
+    {
+      "id": "da71",
+      "chave": "movie__cpu_jolly_03",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "da72",
+      "chave": "movie__cpu_jolly_04",
+      "hash_es": "183acda367492318",
+      "texto_ptbr": "o famoso",
+      "lote": "517"
+    },
+    {
+      "id": "da73",
+      "chave": "movie__cpu_jolly_05",
+      "hash_es": "5926e12b542f31fe",
+      "texto_ptbr": "fenômeno da programação",
+      "lote": "517"
+    },
+    {
+      "id": "63b5",
+      "chave": "movie__cpu_klungo_01",
+      "hash_es": "a43687ed82c3c261",
+      "texto_ptbr": "Klungo",
+      "lote": "517"
+    },
+    {
+      "id": "63b6",
+      "chave": "movie__cpu_klungo_02",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "63b7",
+      "chave": "movie__cpu_klungo_03",
+      "hash_es": "88dd0bce1f4697d2",
+      "texto_ptbr": "o departamento de manutenção",
+      "lote": "517"
+    },
+    {
+      "id": "63b8",
+      "chave": "movie__cpu_klungo_04",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "63b9",
+      "chave": "movie__cpu_klungo_05",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "7d65",
+      "chave": "movie__cpu_mumbo_01",
+      "hash_es": "8029bfc6aae22a8e",
+      "texto_ptbr": "Mumbo Jumbo",
+      "lote": "517"
+    },
+    {
+      "id": "7d66",
+      "chave": "movie__cpu_mumbo_02",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "7d67",
+      "chave": "movie__cpu_mumbo_03",
+      "hash_es": "b37ef4892ae29246",
+      "texto_ptbr": "o atendente do suporte",
+      "lote": "517"
+    },
+    {
+      "id": "7d68",
+      "chave": "movie__cpu_mumbo_04",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "7d69",
+      "chave": "movie__cpu_mumbo_05",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "0b73",
+      "chave": "movie__cpu_pikelet_01",
+      "hash_es": "6dea71c2d130fd97",
+      "texto_ptbr": "Apresentando",
+      "lote": "517"
+    },
+    {
+      "id": "0b74",
+      "chave": "movie__cpu_pikelet_02",
+      "hash_es": "5e607885e16d8204",
+      "texto_ptbr": "Pikelet",
+      "lote": "517"
+    },
+    {
+      "id": "0b75",
+      "chave": "movie__cpu_pikelet_03",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "0b76",
+      "chave": "movie__cpu_pikelet_04",
+      "hash_es": "792bad70dc13c305",
+      "texto_ptbr": "o gerente carinhoso e solidário",
+      "lote": "517"
+    },
+    {
+      "id": "0b77",
+      "chave": "movie__cpu_pikelet_05",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "9ef1",
+      "chave": "movie__cpu_welcome_01",
+      "hash_es": "d2d5ef7489e4d8b4",
+      "texto_ptbr": "Bem-vindos a",
+      "lote": "517"
+    },
+    {
+      "id": "9ef2",
+      "chave": "movie__cpu_welcome_02",
+      "hash_es": "bf36ff6524cbf2d2",
+      "texto_ptbr": "Estrelando...",
+      "lote": "517"
+    },
+    {
+      "id": "d46c",
+      "chave": "movie__nuttyacres_bottles_01",
+      "hash_es": "0acb0c1610910fca",
+      "texto_ptbr": "Bottles",
+      "lote": "517"
+    },
+    {
+      "id": "d46d",
+      "chave": "movie__nuttyacres_bottles_02",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "d46e",
+      "chave": "movie__nuttyacres_bottles_03",
+      "hash_es": "e52bb757f6dec184",
+      "texto_ptbr": "o piloto recluso",
+      "lote": "517"
+    },
+    {
+      "id": "d46f",
+      "chave": "movie__nuttyacres_bottles_04",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "d470",
+      "chave": "movie__nuttyacres_bottles_05",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "391c",
+      "chave": "movie__nuttyacres_humba_01",
+      "hash_es": "4d3def2186c9d95a",
+      "texto_ptbr": "Humba Wumba",
+      "lote": "517"
+    },
+    {
+      "id": "391d",
+      "chave": "movie__nuttyacres_humba_02",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "391e",
+      "chave": "movie__nuttyacres_humba_03",
+      "hash_es": "9e6b0a6d53c585d2",
+      "texto_ptbr": "a sofrida esposa do Mumbo",
+      "lote": "517"
+    },
+    {
+      "id": "391f",
+      "chave": "movie__nuttyacres_humba_04",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "3920",
+      "chave": "movie__nuttyacres_humba_05",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "225f",
+      "chave": "movie__nuttyacres_klungo_01",
+      "hash_es": "a43687ed82c3c261",
+      "texto_ptbr": "Klungo",
+      "lote": "517"
+    },
+    {
+      "id": "2260",
+      "chave": "movie__nuttyacres_klungo_02",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "2261",
+      "chave": "movie__nuttyacres_klungo_03",
+      "hash_es": "fadaabd998693417",
+      "texto_ptbr": "o peão de mão pesada",
+      "lote": "517"
+    },
+    {
+      "id": "2262",
+      "chave": "movie__nuttyacres_klungo_04",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "2263",
+      "chave": "movie__nuttyacres_klungo_05",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "a591",
+      "chave": "movie__nuttyacres_mrfit_01",
+      "hash_es": "a9561572b09b69aa",
+      "texto_ptbr": "Sr. Em Forma",
+      "lote": "517"
+    },
+    {
+      "id": "a592",
+      "chave": "movie__nuttyacres_mrfit_02",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "a593",
+      "chave": "movie__nuttyacres_mrfit_03",
+      "hash_es": "cb5da9caad1a2796",
+      "texto_ptbr": "o outro peão",
+      "lote": "517"
+    },
+    {
+      "id": "a594",
+      "chave": "movie__nuttyacres_mrfit_04",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "a595",
+      "chave": "movie__nuttyacres_mrfit_05",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "0ecf",
+      "chave": "movie__nuttyacres_mumbo_01",
+      "hash_es": "8029bfc6aae22a8e",
+      "texto_ptbr": "Mumbo Jumbo",
+      "lote": "517"
+    },
+    {
+      "id": "0ed0",
+      "chave": "movie__nuttyacres_mumbo_02",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "0ed1",
+      "chave": "movie__nuttyacres_mumbo_03",
+      "hash_es": "0e092ff4b25aca15",
+      "texto_ptbr": "o dono da fazenda",
+      "lote": "517"
+    },
+    {
+      "id": "0ed2",
+      "chave": "movie__nuttyacres_mumbo_04",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "0ed3",
+      "chave": "movie__nuttyacres_mumbo_05",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "1b97",
+      "chave": "movie__nuttyacres_tt_01",
+      "hash_es": "5ba73eeb5bee9271",
+      "texto_ptbr": "E apresentando",
+      "lote": "517"
+    },
+    {
+      "id": "1b98",
+      "chave": "movie__nuttyacres_tt_02",
+      "hash_es": "405b247d536a5d15",
+      "texto_ptbr": "Tomás Troféu",
+      "lote": "517"
+    },
+    {
+      "id": "1b99",
+      "chave": "movie__nuttyacres_tt_03",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "1b9a",
+      "chave": "movie__nuttyacres_tt_04",
+      "hash_es": "bf81924646d05398",
+      "texto_ptbr": "o competitivo até doer",
+      "lote": "517"
+    },
+    {
+      "id": "1b9b",
+      "chave": "movie__nuttyacres_tt_05",
+      "hash_es": "8525e7d480a705e4",
+      "texto_ptbr": "mecânico de fazenda",
+      "lote": "517"
+    },
+    {
+      "id": "32db",
+      "chave": "movie__nuttyacres_welcome_01",
+      "hash_es": "d2d5ef7489e4d8b4",
+      "texto_ptbr": "Bem-vindos a",
+      "lote": "517"
+    },
+    {
+      "id": "32dc",
+      "chave": "movie__nuttyacres_welcome_02",
+      "hash_es": "d2290f9322647e23",
+      "texto_ptbr": "Estrelando...",
+      "lote": "517"
+    },
+    {
+      "id": "7e24",
+      "chave": "movie__terrorium_blubber_01",
+      "hash_es": "180b1b901b519d61",
+      "texto_ptbr": "Capitão Blubber",
+      "lote": "517"
+    },
+    {
+      "id": "7e25",
+      "chave": "movie__terrorium_blubber_02",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "7e26",
+      "chave": "movie__terrorium_blubber_03",
+      "hash_es": "d77e3371b1de7d69",
+      "texto_ptbr": "o aventureiro charmoso",
+      "lote": "517"
+    },
+    {
+      "id": "7e27",
+      "chave": "movie__terrorium_blubber_04",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "7e28",
+      "chave": "movie__terrorium_blubber_05",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "1d7e",
+      "chave": "movie__terrorium_boggy_01",
+      "hash_es": "134d042eefaaf386",
+      "texto_ptbr": "Boggy",
+      "lote": "517"
+    },
+    {
+      "id": "1d7f",
+      "chave": "movie__terrorium_boggy_02",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "1d80",
+      "chave": "movie__terrorium_boggy_03",
+      "hash_es": "702b864509ca218b",
+      "texto_ptbr": "o suposto extraterrestre",
+      "lote": "517"
+    },
+    {
+      "id": "1d81",
+      "chave": "movie__terrorium_boggy_04",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "1d82",
+      "chave": "movie__terrorium_boggy_05",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "d773",
+      "chave": "movie__terrorium_humba_01",
+      "hash_es": "4d3def2186c9d95a",
+      "texto_ptbr": "Humba Wumba",
+      "lote": "517"
+    },
+    {
+      "id": "d774",
+      "chave": "movie__terrorium_humba_02",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "d775",
+      "chave": "movie__terrorium_humba_03",
+      "hash_es": "4310cbde35990184",
+      "texto_ptbr": "a conservacionista sem-vergonha",
+      "lote": "517"
+    },
+    {
+      "id": "d776",
+      "chave": "movie__terrorium_humba_04",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "d777",
+      "chave": "movie__terrorium_humba_05",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "0a30",
+      "chave": "movie__terrorium_jolly_01",
+      "hash_es": "18f5384d58bcb1bb",
+      "texto_ptbr": "E",
+      "lote": "517"
+    },
+    {
+      "id": "0a31",
+      "chave": "movie__terrorium_jolly_02",
+      "hash_es": "6c50467991adab86",
+      "texto_ptbr": "Jolly Dodger",
+      "lote": "517"
+    },
+    {
+      "id": "0a32",
+      "chave": "movie__terrorium_jolly_03",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "0a33",
+      "chave": "movie__terrorium_jolly_04",
+      "hash_es": "0ca952e1d30caf21",
+      "texto_ptbr": "o dócil, hesitante",
+      "lote": "517"
+    },
+    {
+      "id": "0a34",
+      "chave": "movie__terrorium_jolly_05",
+      "hash_es": "e4bdcec93ea47a6a",
+      "texto_ptbr": "robô capacho",
+      "lote": "517"
+    },
+    {
+      "id": "8b96",
+      "chave": "movie__terrorium_klungo_01",
+      "hash_es": "a43687ed82c3c261",
+      "texto_ptbr": "Klungo",
+      "lote": "517"
+    },
+    {
+      "id": "8b97",
+      "chave": "movie__terrorium_klungo_02",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "8b98",
+      "chave": "movie__terrorium_klungo_03",
+      "hash_es": "2f7954cbfe48d167",
+      "texto_ptbr": "o empresário improvável",
+      "lote": "517"
+    },
+    {
+      "id": "8b99",
+      "chave": "movie__terrorium_klungo_04",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "8b9a",
+      "chave": "movie__terrorium_klungo_05",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "2f74",
+      "chave": "movie__terrorium_pikelet_01",
+      "hash_es": "5e607885e16d8204",
+      "texto_ptbr": "Pikelet",
+      "lote": "517"
+    },
+    {
+      "id": "2f75",
+      "chave": "movie__terrorium_pikelet_02",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "2f76",
+      "chave": "movie__terrorium_pikelet_03",
+      "hash_es": "744fffadc049fee9",
+      "texto_ptbr": "o mercenário mercenário",
+      "lote": "517"
+    },
+    {
+      "id": "2f77",
+      "chave": "movie__terrorium_pikelet_04",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "2f78",
+      "chave": "movie__terrorium_pikelet_05",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "c2f2",
+      "chave": "movie__terrorium_welcome_01",
+      "hash_es": "d2d5ef7489e4d8b4",
+      "texto_ptbr": "Bem-vindos a",
+      "lote": "517"
+    },
+    {
+      "id": "c2f3",
+      "chave": "movie__terrorium_welcome_02",
+      "hash_es": "d2290f9322647e23",
+      "texto_ptbr": "Estrelando...",
+      "lote": "517"
+    },
+    {
+      "id": "f990",
+      "chave": "movie__worldofsport_blubber_01",
+      "hash_es": "180b1b901b519d61",
+      "texto_ptbr": "Capitão Blubber",
+      "lote": "517"
+    },
+    {
+      "id": "f991",
+      "chave": "movie__worldofsport_blubber_02",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "f992",
+      "chave": "movie__worldofsport_blubber_03",
+      "hash_es": "c71b1f7eb7536875",
+      "texto_ptbr": "o fã de esportes aquáticos",
+      "lote": "517"
+    },
+    {
+      "id": "f993",
+      "chave": "movie__worldofsport_blubber_04",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "f994",
+      "chave": "movie__worldofsport_blubber_05",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "cdea",
+      "chave": "movie__worldofsport_boggy_01",
+      "hash_es": "134d042eefaaf386",
+      "texto_ptbr": "Boggy",
+      "lote": "517"
+    },
+    {
+      "id": "cdeb",
+      "chave": "movie__worldofsport_boggy_02",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "cdec",
+      "chave": "movie__worldofsport_boggy_03",
+      "hash_es": "5f70e1d89804de2b",
+      "texto_ptbr": "o gordito acanhado",
+      "lote": "517"
+    },
+    {
+      "id": "cded",
+      "chave": "movie__worldofsport_boggy_04",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "cdee",
+      "chave": "movie__worldofsport_boggy_05",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "dfef",
+      "chave": "movie__worldofsport_bottles_01",
+      "hash_es": "0acb0c1610910fca",
+      "texto_ptbr": "Bottles",
+      "lote": "517"
+    },
+    {
+      "id": "dff0",
+      "chave": "movie__worldofsport_bottles_02",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "dff1",
+      "chave": "movie__worldofsport_bottles_03",
+      "hash_es": "734798e687848622",
+      "texto_ptbr": "o menos propenso a vencer",
+      "lote": "517"
+    },
+    {
+      "id": "dff2",
+      "chave": "movie__worldofsport_bottles_04",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "dff3",
+      "chave": "movie__worldofsport_bottles_05",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "f454",
+      "chave": "movie__worldofsport_mrfit_01",
+      "hash_es": "a9561572b09b69aa",
+      "texto_ptbr": "Sr. Em Forma",
+      "lote": "517"
+    },
+    {
+      "id": "f455",
+      "chave": "movie__worldofsport_mrfit_02",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "f456",
+      "chave": "movie__worldofsport_mrfit_03",
+      "hash_es": "d9fe802646f8fcde",
+      "texto_ptbr": "o desafiante animado",
+      "lote": "517"
+    },
+    {
+      "id": "f457",
+      "chave": "movie__worldofsport_mrfit_04",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "f458",
+      "chave": "movie__worldofsport_mrfit_05",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "aae0",
+      "chave": "movie__worldofsport_pikelet_01",
+      "hash_es": "18f5384d58bcb1bb",
+      "texto_ptbr": "E",
+      "lote": "517"
+    },
+    {
+      "id": "aae1",
+      "chave": "movie__worldofsport_pikelet_02",
+      "hash_es": "5e607885e16d8204",
+      "texto_ptbr": "Pikelet",
+      "lote": "517"
+    },
+    {
+      "id": "aae2",
+      "chave": "movie__worldofsport_pikelet_03",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "aae3",
+      "chave": "movie__worldofsport_pikelet_04",
+      "hash_es": "1d5d7e17cb266e6e",
+      "texto_ptbr": "o técnico mão na massa",
+      "lote": "517"
+    },
+    {
+      "id": "aae4",
+      "chave": "movie__worldofsport_pikelet_05",
+      "hash_es": "f3027c82739551d1",
+      "texto_ptbr": "com algo a provar",
+      "lote": "517"
+    },
+    {
+      "id": "293a",
+      "chave": "movie__worldofsport_tt_01",
+      "hash_es": "405b247d536a5d15",
+      "texto_ptbr": "Tomás Troféu",
+      "lote": "517"
+    },
+    {
+      "id": "293b",
+      "chave": "movie__worldofsport_tt_02",
+      "hash_es": "ea3dc747f15400ac",
+      "texto_ptbr": "como",
+      "lote": "517"
+    },
+    {
+      "id": "293c",
+      "chave": "movie__worldofsport_tt_03",
+      "hash_es": "04ad2e0fb0be1b92",
+      "texto_ptbr": "o detentor de vários recordes",
+      "lote": "517"
+    },
+    {
+      "id": "293d",
+      "chave": "movie__worldofsport_tt_04",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "293e",
+      "chave": "movie__worldofsport_tt_05",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "3e5e",
+      "chave": "movie__worldofsport_welcome_01",
+      "hash_es": "d2d5ef7489e4d8b4",
+      "texto_ptbr": "Bem-vindos a",
+      "lote": "517"
+    },
+    {
+      "id": "3e5f",
+      "chave": "movie__worldofsport_welcome_02",
+      "hash_es": "3b0a1e7603baa20b",
+      "texto_ptbr": "Estrelando...",
+      "lote": "517"
+    }
+  ]
+}

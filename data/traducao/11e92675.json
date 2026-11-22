@@ -1,0 +1,146 @@
+{
+  "arquivo": "11e92675",
+  "asset": "aid_loctext_banjox_spiralmountain_act2",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "69cffaf31af7fae0",
+      "texto_ptbr": "Você já provou seu valor uma vez, mas fique à vontade para me impressionar de novo! A emoção nunca acaba!",
+      "lote": "509"
+    },
+    {
+      "id": "b254",
+      "chave": "dialog__game1_fail",
+      "hash_es": "0475bf3d0abeb9e1",
+      "texto_ptbr": "Decepcionante... a esta altura do jogo, eu esperava que seu talento estivesse tão polido que eu pudesse ver meu monitor refletido nele.",
+      "lote": "509"
+    },
+    {
+      "id": "5b15",
+      "chave": "dialog__game1_info1",
+      "hash_es": "c8e4cb7bc5f8f86b",
+      "texto_ptbr": "Vamos começar com uma tarefa relativamente fácil. Fique dentro da área marcada até a contagem chegar a zero.",
+      "lote": "509"
+    },
+    {
+      "id": "5b16",
+      "chave": "dialog__game1_info2",
+      "hash_es": "72430bb751e4e10a",
+      "texto_ptbr": "Agora, a sua próxima prova. Pegue o olho da Grunty e ponha onde ele pertence! Isso mesmo, no lixo. Ah, muito bem, na 'caçamba de entulho'. Suspiro...",
+      "lote": "509"
+    },
+    {
+      "id": "5b17",
+      "chave": "dialog__game1_info3",
+      "hash_es": "c56c8b0a1151d5a4",
+      "texto_ptbr": "Muito eficiente! Agora vamos atirar em alguns alvos. Destrua todos para avançar no desafio.",
+      "lote": "509"
+    },
+    {
+      "id": "5b18",
+      "chave": "dialog__game1_info4",
+      "hash_es": "74dc2db83dea5c2b",
+      "texto_ptbr": "Muito bem, vamos continuar. Siga a rota marcada, passando por cada ponto de controle.",
+      "lote": "509"
+    },
+    {
+      "id": "5b19",
+      "chave": "dialog__game1_info5",
+      "hash_es": "0061401a75acae3f",
+      "texto_ptbr": "Quase lá! Pegue todos os favos de mel e traga-os para mim. Não é pouco original! Como ousa! É... hã... satírico.",
+      "lote": "513"
+    },
+    {
+      "id": "5b1a",
+      "chave": "dialog__game1_info6",
+      "hash_es": "66296997ebaa81c9",
+      "texto_ptbr": "A última etapa. Está sentindo a emoção crescer? Empurre todos os vegetais de olhos grandes e tamanho de uma mordida para fora da área marcada!",
+      "lote": "509"
+    },
+    {
+      "id": "9744",
+      "chave": "dialog__game1_intro",
+      "hash_es": "e791223a3f51463e",
+      "texto_ptbr": "A menos que meus pixels me enganem, parece que você chegou ao desafio final, urso. Aplaudo a combinação de força de vontade e pura sorte cega que o trouxe até aqui.",
+      "lote": "509"
+    },
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "22ebcb2fd4c15c68",
+      "texto_ptbr": "Este desafio não se parece com nada que você já tenha tentado. Há 6 tarefas a completar. {PAGEBREAK}O cronômetro acumulado mede seu desempenho nas 6 tarefas. Mas! Pausa para o drama... só será permitido um veículo!",
+      "lote": "509"
+    },
+    {
+      "id": "d532",
+      "chave": "dialog__game1_successa",
+      "hash_es": "9ee07d32cdbf4e93",
+      "texto_ptbr": "Meus olhos quase saltam da tela! Uma atuação dessas ganha a mais alta recompensa!",
+      "lote": "509"
+    },
+    {
+      "id": "d534",
+      "chave": "dialog__game1_successc",
+      "hash_es": "ce17066da0b52422",
+      "texto_ptbr": "Você se saiu bem, Banjo. O prêmio é seu, mas lembre-se: até os esforços mais determinados podem ser superados!",
+      "lote": "509"
+    },
+    {
+      "id": "d536",
+      "chave": "dialog__game1_successe",
+      "hash_es": "0c635e941b3cbca9",
+      "texto_ptbr": "Para uma tarefa tão difícil, seu esforço foi louvável. Porém, o verdadeiro prêmio continua fora de alcance desta vez.",
+      "lote": "509"
+    },
+    {
+      "id": "40bd",
+      "chave": "dialog__game1_won1",
+      "hash_es": "bfb5a1024832eae9",
+      "texto_ptbr": "Hora de descansar depois dessa introdução simples e, claro, não seria um jogo de Banjo-Kazooie sem algumas perguntas de quiz perto do final. Responda corretamente para atrasar o relógio do desafio!",
+      "lote": "513"
+    },
+    {
+      "id": "40be",
+      "chave": "dialog__game1_won2",
+      "hash_es": "a44f54adca8c0e2b",
+      "texto_ptbr": "Sim, a Spiral Mountain já parece mais arrumada. De volta ao quiz!",
+      "lote": "518"
+    },
+    {
+      "id": "40bf",
+      "chave": "dialog__game1_won3",
+      "hash_es": "b5cd19fa3fb30332",
+      "texto_ptbr": "Belos disparos! Vejamos se você é tão rápido no gatilho no meu quiz relâmpago.",
+      "lote": "509"
+    },
+    {
+      "id": "40c0",
+      "chave": "dialog__game1_won4",
+      "hash_es": "82c13d150f3d096e",
+      "texto_ptbr": "Estou começando a achar que coloquei a dificuldade desses desafios baixa demais. Vamos aumentar as perguntas do quiz!",
+      "lote": "509"
+    },
+    {
+      "id": "40c1",
+      "chave": "dialog__game1_won5",
+      "hash_es": "5a9f223373acb196",
+      "texto_ptbr": "Vejo que a parte física ainda não é problema. Pronto para mais algumas bolas curvas mentais?",
+      "lote": "509"
+    },
+    {
+      "id": "9dd9",
+      "chave": "dialog__grunty_challenge",
+      "hash_es": "07c1ca0f2277edfa",
+      "texto_ptbr": "Seis dos Melhores? Mais parecem Seis dos Piores! Se você terminou com essa farsa, prepare-se para ser amaldiçoado!",
+      "lote": "509"
+    },
+    {
+      "id": "40d2",
+      "chave": "dialog__grunty_dismiss",
+      "hash_es": "d05175827b4010f0",
+      "texto_ptbr": "Volte para o desafio, o S.J. está chamando! Satisfaça-o, e depois acertaremos as contas!",
+      "lote": "509"
+    }
+  ]
+}

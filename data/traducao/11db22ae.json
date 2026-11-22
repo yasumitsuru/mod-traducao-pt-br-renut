@@ -1,0 +1,55 @@
+{
+  "arquivo": "11db22ae",
+  "asset": "aid_loctext_banjox_jinjos",
+  "frases": [
+    {
+      "id": "f092",
+      "chave": "dialog__instructions_jinjocombat",
+      "hash_es": "2ad93ebdac8df3be",
+      "texto_ptbr": "Este é um desafio de Combate Jinjo. Empurre o Jinjo para fora da área de combate antes que ele faça o mesmo com você, e ganhará uma ficha válida no Palácio do Bingo do Rei Jingaling em Showdown Town!",
+      "lote": "606"
+    },
+    {
+      "id": "5006",
+      "chave": "dialog__instructions_jinjofetch",
+      "hash_es": "e249487fb6ebab5c",
+      "texto_ptbr": "Este é um desafio de Busca Jinjo. Ouça a descrição, encontre o item perdido e traga-o de volta. Você ganhará uma Ficha Jinjo, que pode valer grandes prêmios no Palácio do Bingo em Showdown Town!",
+      "lote": "606"
+    },
+    {
+      "id": "ddfc",
+      "chave": "dialog__instructions_jinjofetchclose",
+      "hash_es": "2b63b77fd4a6b827",
+      "texto_ptbr": "Aha, ali está! Pegue rápido e volte correndo para cá!",
+      "lote": "606"
+    },
+    {
+      "id": "3e55",
+      "chave": "dialog__instructions_jinjohurling",
+      "hash_es": "b98c24423cc88556",
+      "texto_ptbr": "Este é um desafio de Arremesso de Jinjo. Dê uma pancada no Jinjo para mandá-lo o mais longe possível e, se ele atingir a distância exigida, você ganhará uma Ficha Jinjo. Leve-a ao Palácio do Bingo em Showdown Town!",
+      "lote": "606"
+    },
+    {
+      "id": "5537",
+      "chave": "dialog__instructions_jinjorace",
+      "hash_es": "f71be2b88e460f0f",
+      "texto_ptbr": "Este é um desafio de Corrida Jinjo. Vença o Jinjo competitivo até a linha de chegada e ele entregará uma ficha. Na próxima vez que visitar Showdown Town, veja o que pode ganhar no Bingo Jinjo!",
+      "lote": "606"
+    },
+    {
+      "id": "572d",
+      "chave": "dialog__instructions_jinjospeed",
+      "hash_es": "1a3c3c35a896e852",
+      "texto_ptbr": "Este é um desafio de Velocidade Jinjo. Alcance a velocidade indicada no velocímetro para ganhar uma Ficha Jinjo. Essas fichas podem ser usadas para jogar bingo em Showdown Town e concorrer a prêmios ainda maiores!",
+      "lote": "606"
+    },
+    {
+      "id": "70b2",
+      "chave": "dialog__instructions_jinjotaxi",
+      "hash_es": "b0e5f652005ccea4",
+      "texto_ptbr": "Este é um desafio de Táxi Jinjo. O Jinjo precisa chegar rápido a algum lugar, e você é o urso certo para o trabalho. Faça isso no tempo permitido e ganhará uma Ficha Jinjo para usar em Showdown Town!",
+      "lote": "606"
+    }
+  ]
+}

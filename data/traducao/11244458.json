@@ -1,0 +1,69 @@
+{
+  "arquivo": "11244458",
+  "asset": "aid_loctext_banjox_showdowntown_warppads",
+  "frases": [
+    {
+      "id": "dfd6",
+      "chave": "dialog__warppad_firstactivation",
+      "hash_es": "1f1b04248e2994a7",
+      "texto_ptbr": "Vejo que você descobriu uma Plataforma de Teleporte! Não serve de muito por enquanto, mas encontre outra e poderá viajar instantaneamente entre elas, como um atalho. Muito conveniente.",
+      "lote": "505"
+    },
+    {
+      "id": "6351",
+      "chave": "dialog__warppad_onfoot",
+      "hash_es": "2f53ac2622354035",
+      "texto_ptbr": "Infelizmente não. O sistema de Teleporte foi feito para transportar veículos, não um bando de bichos correndo a pé como... bem, como bichos. Volte para o seu Carrinho e tente de novo!",
+      "lote": "505"
+    },
+    {
+      "id": "586a",
+      "chave": "dialog__warppad_secondactivation",
+      "hash_es": "74f87d882f727957",
+      "texto_ptbr": "Aha, outra Plataforma de Teleporte! Estacione o Carrinho nela e você poderá pular de um Teleporte a outro por toda Showdown Town. Experimente!",
+      "lote": "518"
+    },
+    {
+      "id": "2e1d",
+      "chave": "warppad__0",
+      "hash_es": "bd951ea4d20b2a65",
+      "texto_ptbr": "Praça da Cidade: Motores do Mumbo",
+      "lote": "505"
+    },
+    {
+      "id": "2e1e",
+      "chave": "warppad__1",
+      "hash_es": "650fa33b6873ed3c",
+      "texto_ptbr": "Distrito dos Teatros",
+      "lote": "505"
+    },
+    {
+      "id": "2e1f",
+      "chave": "warppad__2",
+      "hash_es": "5bafb035d2304cf3",
+      "texto_ptbr": "Orla: Palácio do Bingo do Rei Jingaling",
+      "lote": "505"
+    },
+    {
+      "id": "2e20",
+      "chave": "warppad__3",
+      "hash_es": "24131a24a91ec8ac",
+      "texto_ptbr": "Beira do Lago: Casa do Tomás Troféu",
+      "lote": "505"
+    },
+    {
+      "id": "2e21",
+      "chave": "warppad__4",
+      "hash_es": "92c19d5243e827d0",
+      "texto_ptbr": "Docas: Academia do Boggy",
+      "lote": "505"
+    },
+    {
+      "id": "2e22",
+      "chave": "warppad__5",
+      "hash_es": "7c094d364fe692a3",
+      "texto_ptbr": "Bairro Alto",
+      "lote": "505"
+    }
+  ]
+}

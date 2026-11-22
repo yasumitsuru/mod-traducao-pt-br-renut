@@ -1,0 +1,538 @@
+{
+  "arquivo": "112303c4",
+  "asset": "aid_loctext_banjox_cpu_act4",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "69b228229248e8ad",
+      "texto_ptbr": "Fica por aqui, ursinho de pelúcia! Nunca se sabe quando esses Gruntbots vão voltar!",
+      "lote": "605"
+    },
+    {
+      "id": "b254",
+      "chave": "dialog__game1_fail",
+      "hash_es": "6b99972a4c346788",
+      "texto_ptbr": "{MOODSAD}Ah, seu urso horrível! Como vou terminar minha obra-prima de programação agora? Estou com vontade de... bater o pé! Duas vezes!",
+      "lote": "605"
+    },
+    {
+      "id": "9744",
+      "chave": "dialog__game1_intro",
+      "hash_es": "688bbf957fcd772b",
+      "texto_ptbr": "{MOODSAD}Opa! Você viu? A Grunty mandou um time de Gruntbots atacar os elementos mais importantes do console!",
+      "lote": "605"
+    },
+    {
+      "id": "8026",
+      "chave": "dialog__game1_introb",
+      "hash_es": "6cb4fef085737313",
+      "texto_ptbr": "{MOODSAD}Técnicos essenciais como eu normalmente escapam pela escotilha de acesso, mas desta vez não! Ah, não! Ela está... meio... emperrada.",
+      "lote": "605"
+    },
+    {
+      "id": "8027",
+      "chave": "dialog__game1_introc",
+      "hash_es": "051f0d6f6a3ef63b",
+      "texto_ptbr": "Você não pode resolver isso sozinho, Jolly? Alguém nos disse que você é o melhor do ramo! Pode ter sido você, na verdade.",
+      "lote": "605"
+    },
+    {
+      "id": "8028",
+      "chave": "dialog__game1_introd",
+      "hash_es": "ca32d8889be86ef1",
+      "texto_ptbr": "Você está maluco, meu caro? Não posso arriscar danos a estes preciosos dedos de programador! Mesmo que estejam segurados!",
+      "lote": "605"
+    },
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "f56d72aa43f6657f",
+      "texto_ptbr": "Os Gruntbots estão mirando os chips de gráficos, áudio e energia. Você não pode deixar que danifiquem eles!",
+      "lote": "605"
+    },
+    {
+      "id": "1938",
+      "chave": "dialog__game1_objectivesrepeat1",
+      "hash_es": "20e77099284d9e71",
+      "texto_ptbr": "Detenha eles, Banjo! Esses chips são instrumentos delicados!",
+      "lote": "605"
+    },
+    {
+      "id": "1939",
+      "chave": "dialog__game1_objectivesrepeat2",
+      "hash_es": "62f0164193791da7",
+      "texto_ptbr": "Essas bestas! O menor esbarrão pode causar dano permanente!",
+      "lote": "605"
+    },
+    {
+      "id": "d532",
+      "chave": "dialog__game1_successa",
+      "hash_es": "9e367194b2b36361",
+      "texto_ptbr": "{MOODHAPPY}Liberdade total para criar código mágico e sem bugs! Eu não teria feito surgir seu merecido pacote de prêmios sem isso!",
+      "lote": "605"
+    },
+    {
+      "id": "d534",
+      "chave": "dialog__game1_successc",
+      "hash_es": "ee457fd42fdf9b45",
+      "texto_ptbr": "Salvo pelo urso! Meu herói! Mas tente dar tudo de si por mim da próxima vez. Sou totalmente fabuloso e único!",
+      "lote": "605"
+    },
+    {
+      "id": "d536",
+      "chave": "dialog__game1_successe",
+      "hash_es": "7f9633818ceff95b",
+      "texto_ptbr": "Foi por pouco! Essas criaturas horríveis quase conseguiram. Você pode ganhar mais que a recompensa básica se caprichar mais!",
+      "lote": "608"
+    },
+    {
+      "id": "f828",
+      "chave": "dialog__game2_beaten",
+      "hash_es": "fbb8f6159c5e9a00",
+      "texto_ptbr": "Urso vir ver ventiladores? Mumbo começar a ficar todo suado...",
+      "lote": "605"
+    },
+    {
+      "id": "daf5",
+      "chave": "dialog__game2_fail",
+      "hash_es": "9fa5ed679affc21a",
+      "texto_ptbr": "{MOODSAD}Gosma ficar crítica... Banjo não conseguir desta vez!",
+      "lote": "605"
+    },
+    {
+      "id": "d405",
+      "chave": "dialog__game2_intro",
+      "hash_es": "63117b7434b586e8",
+      "texto_ptbr": "{MOODSAD}Ventiladores todos travar, Mumbo não achar sistema reserva para manter a gosma fria. Nem magia de xamã salvar Mumbo da guilhotina do suporte técnico agora. Urso ter alguma ideia?",
+      "lote": "605"
+    },
+    {
+      "id": "5507",
+      "chave": "dialog__game2_introb",
+      "hash_es": "46c1773cfd31b313",
+      "texto_ptbr": "Um atendente de suporte sem ideia do que fazer? Você não está fazendo muito para se livrar do estereótipo, Mumbo.",
+      "lote": "605"
+    },
+    {
+      "id": "5508",
+      "chave": "dialog__game2_introc",
+      "hash_es": "91b056154fbeea08",
+      "texto_ptbr": "{MOODSAD}Mumbo normalmente lidar com equipamento de ponta. Desconto de metade do preço nas dicas de manutenção se urso e pássaro ajudar?",
+      "lote": "605"
+    },
+    {
+      "id": "5509",
+      "chave": "dialog__game2_introd",
+      "hash_es": "7c6f3ca26f5a833c",
+      "texto_ptbr": "Tanto faz, Ossudo. Vamos resolver seu equipamento velho e surrado e salvar o dia, como sempre. Vamos, Banjo!",
+      "lote": "605"
+    },
+    {
+      "id": "9d67",
+      "chave": "dialog__game2_objectives",
+      "hash_es": "a4dd57775c74e183",
+      "texto_ptbr": "{MOODSAD}Ventiladores normalmente esfriar a gosma, mas ventiladores estúpidos não soprar! Agora ter que usar a gosma para esfriar ventiladores antes que tudo pegar fogo!",
+      "lote": "605"
+    },
+    {
+      "id": "4aa9",
+      "chave": "dialog__game2_objectivesb",
+      "hash_es": "d4ff92a839540cd3",
+      "texto_ptbr": "Tente se acalmar um pouco, Mumbo. A gente cuida disso!",
+      "lote": "605"
+    },
+    {
+      "id": "7f79",
+      "chave": "dialog__game2_objectivesrepeat1",
+      "hash_es": "a4ea336300cd6693",
+      "texto_ptbr": "Urso esfriar ventiladores, depois ventiladores esfriar a gosma!",
+      "lote": "605"
+    },
+    {
+      "id": "7f7a",
+      "chave": "dialog__game2_objectivesrepeat2",
+      "hash_es": "ef5a8c0eeff1a086",
+      "texto_ptbr": "Ventiladores precisar de refresco líquido! Mumbo também precisar...",
+      "lote": "605"
+    },
+    {
+      "id": "6653",
+      "chave": "dialog__game2_successa",
+      "hash_es": "9e7db5e40553fdd2",
+      "texto_ptbr": "{MOODHAPPY}Urso fazer ótimo trabalho. Mumbo se achar o fã número um do urso... Oomenacka. Quer dizer, ventilador. Ruim.",
+      "lote": "605"
+    },
+    {
+      "id": "6655",
+      "chave": "dialog__game2_successc",
+      "hash_es": "5e08982367de786c",
+      "texto_ptbr": "Bom trabalho, urso. Podia ser melhor, mas pelo menos serviço ficar pronto. Jiggy do Mumbo somar à pilha grande.",
+      "lote": "605"
+    },
+    {
+      "id": "6657",
+      "chave": "dialog__game2_successe",
+      "hash_es": "4cabc362b0a901a8",
+      "texto_ptbr": "Ufa! Mumbo suar como Boggy em bicicleta ergométrica. Urso não demorar tanto na próxima e talvez ganhar recompensa melhor!",
+      "lote": "605"
+    },
+    {
+      "id": "cd09",
+      "chave": "dialog__game3_beaten",
+      "hash_es": "6d16a992f4b268c7",
+      "texto_ptbr": "Ele está rodando como um sonho, um lindo sonho binário! Você voltou para acionar mais interruptores?",
+      "lote": "605"
+    },
+    {
+      "id": "0396",
+      "chave": "dialog__game3_fail",
+      "hash_es": "0e36a11bf05e3cd8",
+      "texto_ptbr": "{MOODSAD}Ah não, que decepção. Estou começando a achar que este velho treco teria dificuldade para rodar uma aventura de texto...",
+      "lote": "605"
+    },
+    {
+      "id": "10c6",
+      "chave": "dialog__game3_intro",
+      "hash_es": "9988e2f043edda90",
+      "texto_ptbr": "Se eu tivesse músculo para acionar os interruptores de reforço de polígonos, faria este treco rodar como uma máquina de verdade da nova-nova geração!",
+      "lote": "605"
+    },
+    {
+      "id": "29e8",
+      "chave": "dialog__game3_introb",
+      "hash_es": "041666c81d7e0fbd",
+      "texto_ptbr": "Bem, Banjo, parece que vamos nos esforçar pelo nosso querido Garoto Óculos de novo.",
+      "lote": "605"
+    },
+    {
+      "id": "29e9",
+      "chave": "dialog__game3_introc",
+      "hash_es": "507c93e09efc214c",
+      "texto_ptbr": "Cof. Admito que meu foco nas disciplinas mentais costuma jogar contra mim nessas situações.",
+      "lote": "605"
+    },
+    {
+      "id": "fac8",
+      "chave": "dialog__game3_objectives",
+      "hash_es": "6b1abde6d46db520",
+      "texto_ptbr": "Preciso que vocês acionem todos os interruptores de reforço de polígonos, mas vai precisar de algo bem pesado para disparar eles.",
+      "lote": "605"
+    },
+    {
+      "id": "542a",
+      "chave": "dialog__game3_objectivesb",
+      "hash_es": "b394404c5e8fb9b7",
+      "texto_ptbr": "Trabalho pesado? Você estava certa, Kazooie, é por isso que ele precisa da gente!",
+      "lote": "605"
+    },
+    {
+      "id": "542b",
+      "chave": "dialog__game3_objectivesc",
+      "hash_es": "954c448868bfc69c",
+      "texto_ptbr": "Sim, mas quando estiverem funcionando, vão dar o aumento de FPS necessário para fazer desta máquina o rei do montinho!",
+      "lote": "605"
+    },
+    {
+      "id": "542c",
+      "chave": "dialog__game3_objectivesd",
+      "hash_es": "a8e819c45c2b15a2",
+      "texto_ptbr": "Eu, hã... não entendi nada do que você acabou de falar.",
+      "lote": "605"
+    },
+    {
+      "id": "542d",
+      "chave": "dialog__game3_objectivese",
+      "hash_es": "f14a70b1871053ef",
+      "texto_ptbr": "É só procurar peças pesadas para adicionar ao veículo e maximizar o peso. Rápido, estou com comichão por interruptores!",
+      "lote": "605"
+    },
+    {
+      "id": "e5ba",
+      "chave": "dialog__game3_objectivesrepeat1",
+      "hash_es": "bae93fda9cca0dd9",
+      "texto_ptbr": "Tentem colocar peças bem pesadas! Os interruptores são duros...",
+      "lote": "605"
+    },
+    {
+      "id": "e5bb",
+      "chave": "dialog__game3_objectivesrepeat2",
+      "hash_es": "f0818d5c9368a7ed",
+      "texto_ptbr": "Mais pesado! Mais pesado! Afinal, quem projetou esses interruptores?",
+      "lote": "605"
+    },
+    {
+      "id": "f774",
+      "chave": "dialog__game3_successa",
+      "hash_es": "3aa97f9cc85086c0",
+      "texto_ptbr": "{MOODHAPPY}Brilhante! Vocês ajudaram tanto que talvez eu até dê o crédito de co-designer do meu supercomputador que vai mudar o mundo!",
+      "lote": "605"
+    },
+    {
+      "id": "f776",
+      "chave": "dialog__game3_successc",
+      "hash_es": "de71034f74fd1fa8",
+      "texto_ptbr": "Sim! Hora de executar meu plano. Esta será a máquina dos sonhos dos gamers. Todos vão se curvar à minha magnífica visão de nerd!",
+      "lote": "605"
+    },
+    {
+      "id": "f778",
+      "chave": "dialog__game3_successe",
+      "hash_es": "159011d14c5baf8c",
+      "texto_ptbr": "Valeu, Banjo. Ei, parece que você teve dificuldade ali. Mostre um pouco de entusiasmo pelo meu projeto favorito e eu desencavo uma recompensa melhor!",
+      "lote": "605"
+    },
+    {
+      "id": "a1ea",
+      "chave": "dialog__game4_beaten",
+      "hash_es": "c433a4b086afd64f",
+      "texto_ptbr": "Ursso voltar para mais uma tentativa de encharcar esssponja?",
+      "lote": "605"
+    },
+    {
+      "id": "2c37",
+      "chave": "dialog__game4_fail",
+      "hash_es": "792c92ed32952cd9",
+      "texto_ptbr": "{MOODSAD}Sssuspiro. Esssponja ainda muito seca, não servir! Klungo esvaziar armário pronto para demisssão... de novo.",
+      "lote": "605"
+    },
+    {
+      "id": "4d87",
+      "chave": "dialog__game4_intro",
+      "hash_es": "5467c0e733f2357b",
+      "texto_ptbr": "Ei, Klungo! Você nunca parece feliz. O que é agora?",
+      "lote": "605"
+    },
+    {
+      "id": "fec9",
+      "chave": "dialog__game4_introb",
+      "hash_es": "3bc848c29817a154",
+      "texto_ptbr": "{MOODSAD}Klungo descuidado, derrubar esssponja de gosma enquanto limpava! Esssponja precisar pingar gosma e lubrificar o Chip Central da C.P.U.",
+      "lote": "605"
+    },
+    {
+      "id": "feca",
+      "chave": "dialog__game4_introc",
+      "hash_es": "9e05de230949dce5",
+      "texto_ptbr": "Hmmm. Se eu não te conhecesse, pensaria que você quer nossa ajuda e tem um Jiggy para oferecer como recompensa...",
+      "lote": "605"
+    },
+    {
+      "id": "fecb",
+      "chave": "dialog__game4_introd",
+      "hash_es": "0814f7668b4cf276",
+      "texto_ptbr": "{MOODSAD}Deixar sssarcasssmo pra pássaro, ursso não bom nisso. Por favor, Klungo precisar de ajuda ou provavelmente ser demitido!",
+      "lote": "605"
+    },
+    {
+      "id": "5829",
+      "chave": "dialog__game4_objectives",
+      "hash_es": "218a20ec5a244c91",
+      "texto_ptbr": "Ursso pegar esssponja e encharcar na gosma molhadinha! Fácil!",
+      "lote": "605"
+    },
+    {
+      "id": "5dab",
+      "chave": "dialog__game4_objectivesb",
+      "hash_es": "7273a30f872223a2",
+      "texto_ptbr": "Não sei por que a gente está ajudando ele, Banjo. Ele vai ser estabanado de novo no próximo nível e quebrar outra coisa.",
+      "lote": "605"
+    },
+    {
+      "id": "4bfb",
+      "chave": "dialog__game4_objectivesrepeat1",
+      "hash_es": "93a5adf947525c2a",
+      "texto_ptbr": "Ursso dar banho grande na esssponja pra ela não secar.",
+      "lote": "605"
+    },
+    {
+      "id": "4bfc",
+      "chave": "dialog__game4_objectivesrepeat2",
+      "hash_es": "ecbd277491fd922a",
+      "texto_ptbr": "Ursso levar esssponja até a gosma! Ou a gosma até esssponja...",
+      "lote": "605"
+    },
+    {
+      "id": "8895",
+      "chave": "dialog__game4_successa",
+      "hash_es": "24d21db061abd8d8",
+      "texto_ptbr": "{MOODHAPPY}Ursso deixar chip grande essstável de novo, num sssegundo. Merecer prêmio máximo por manter Klungo longe da rua!",
+      "lote": "605"
+    },
+    {
+      "id": "8897",
+      "chave": "dialog__game4_successc",
+      "hash_es": "6961f0a02a1995ce",
+      "texto_ptbr": "Gosma agora pingar, pingar, pingar direitinho de novo. Ursso ganhar Jiggy do Klungo, Klungo não ser expulso! Ressssultado!",
+      "lote": "605"
+    },
+    {
+      "id": "8899",
+      "chave": "dialog__game4_successe",
+      "hash_es": "54f9bfdba786a8a4",
+      "texto_ptbr": "Esssponja pingar gosma de novo, mas chip pode estar danificado porque ursso demorar muito. Klungo só dar prêmio pequeno!",
+      "lote": "605"
+    },
+    {
+      "id": "76cb",
+      "chave": "dialog__game5_beaten",
+      "hash_es": "02e56fb1d5854ac6",
+      "texto_ptbr": "Desafio da Corrida do Urso Vermelho muito viciante! Banjo se inscrever de novo?",
+      "lote": "605"
+    },
+    {
+      "id": "54d8",
+      "chave": "dialog__game5_fail",
+      "hash_es": "987b95b684db54c7",
+      "texto_ptbr": "Sem surpresa. Humba e clã jogar Corrida do Urso Vermelho todo dia. Banjo não ter chance!",
+      "lote": "605"
+    },
+    {
+      "id": "8a48",
+      "chave": "dialog__game5_intro",
+      "hash_es": "5d0d9c799a678751",
+      "texto_ptbr": "{MOODHAPPY}Oi, Banjo! Humba e amigos gamers hardcore sempre inventar desafios novos. Querer provar o mais novo?",
+      "lote": "605"
+    },
+    {
+      "id": "d3aa",
+      "chave": "dialog__game5_introb",
+      "hash_es": "433f92fb4ec27310",
+      "texto_ptbr": "Depende, Humba. Não estou muito a fim de surpresas ultimamente.",
+      "lote": "605"
+    },
+    {
+      "id": "d3ab",
+      "chave": "dialog__game5_introc",
+      "hash_es": "8d211118c4906409",
+      "texto_ptbr": "Jogo aéreo novo criado por Humba e pelo clã &quot;Trolls Bruxas&quot;, sem truques! Humba chamar de Corrida do Urso Vermelho.",
+      "lote": "605"
+    },
+    {
+      "id": "d3ac",
+      "chave": "dialog__game5_introd",
+      "hash_es": "7742cdef620b58c6",
+      "texto_ptbr": "Hã, por que &quot;Urso Vermelho&quot;? Espero que não esteja pensando em me humilhar...",
+      "lote": "605"
+    },
+    {
+      "id": "b58a",
+      "chave": "dialog__game5_objectives",
+      "hash_es": "e2ff30e75756b3d2",
+      "texto_ptbr": "Humba cansada de jogos FPS online cheios de perdedores querendo fotos das 'Trolls Bruxas'! Então nós criar corrida especial, só por convite.",
+      "lote": "605"
+    },
+    {
+      "id": "672c",
+      "chave": "dialog__game5_objectivesb",
+      "hash_es": "9ecb9c3836965402",
+      "texto_ptbr": "Achar que Banjo consegue chegar no fim do percurso primeiro? Humba gamer veterana, jogando desde quarta-feira passada!",
+      "lote": "605"
+    },
+    {
+      "id": "19b6",
+      "chave": "dialog__game5_successa",
+      "hash_es": "258e767509aff405",
+      "texto_ptbr": "{MOODHAPPY}Banjo correr melhor que nunca! Quase derrubar estereótipo de garoto gamer ruim. Merecer prêmio grande!",
+      "lote": "605"
+    },
+    {
+      "id": "19b8",
+      "chave": "dialog__game5_successc",
+      "hash_es": "df84e53a385ec878",
+      "texto_ptbr": "Humba perder na própria corrida! Urso e pássaro merecer medalha em forma de Jiggy por bom espetáculo.",
+      "lote": "605"
+    },
+    {
+      "id": "19ba",
+      "chave": "dialog__game5_successe",
+      "hash_es": "07fbec60ebe6e669",
+      "texto_ptbr": "Precisar de tempo mais rápido que isso para ganhar medalha especial! Sério! Regra oficial das &quot;Trolls Bruxas&quot;!",
+      "lote": "605"
+    },
+    {
+      "id": "723b",
+      "chave": "dialog__jinjoblue_intro",
+      "hash_es": "2765a7985d629a20",
+      "texto_ptbr": "{MOODSAD}Estou perdido na música! A canção requintada da cachoeira de gosma!",
+      "lote": "605"
+    },
+    {
+      "id": "1182",
+      "chave": "dialog__jinjoblue_lose",
+      "hash_es": "00d6fbc570f7c3e8",
+      "texto_ptbr": "{MOODSAD}Ai de mim! Logo hoje eu tinha que contratar o pior táxi do mundo!",
+      "lote": "605"
+    },
+    {
+      "id": "8d5d",
+      "chave": "dialog__jinjoblue_objectives",
+      "hash_es": "55e5cb02ecd6cdab",
+      "texto_ptbr": "{MOODSAD}Minha alma anseia por chegar perto da alta cachoeira de gosma, mas eu só fico dando voltas em círculos! Você me leva até lá?",
+      "lote": "605"
+    },
+    {
+      "id": "0f7d",
+      "chave": "dialog__jinjoblue_win",
+      "hash_es": "5b3b81ee62ef202f",
+      "texto_ptbr": "{MOODHAPPY}Você ouve, Banjo? Essas harmonias mágicas da gosma? Como uma ópera cósmica purificando a alma! Ah, tome uma Ficha Jinjo.",
+      "lote": "605"
+    },
+    {
+      "id": "a965",
+      "chave": "dialog__jinjopink_intro",
+      "hash_es": "ba41bf1fea0253a1",
+      "texto_ptbr": "{MOODANGRY}Você sabe como é irritante ser desta cor? Estou fervendo de frustração acumulada! Preciso vencer alguém numa corrida. Você serve!",
+      "lote": "605"
+    },
+    {
+      "id": "0b6c",
+      "chave": "dialog__jinjopink_lose",
+      "hash_es": "1c74f5ddf66f5c6c",
+      "texto_ptbr": "{MOODHAPPY}É incrível, de repente estou tão calmo que você poderia me pintar com bolinhas fluorescentes e eu não me importaria. Valeu!",
+      "lote": "605"
+    },
+    {
+      "id": "cec7",
+      "chave": "dialog__jinjopink_objectives",
+      "hash_es": "ebf594f680fd3e07",
+      "texto_ptbr": "{MOODANGRY}Pronto para correr? Não pegue leve comigo! Isso só vai me deixar furioso!",
+      "lote": "605"
+    },
+    {
+      "id": "7427",
+      "chave": "dialog__jinjopink_win",
+      "hash_es": "9c729084bcb4afc7",
+      "texto_ptbr": "{MOODANGRY}Você venceu e eu estava dando o meu melhor! Raaaarrr! Fúria de Jinjo derretido! Pegue seu prêmio e vá!",
+      "lote": "605"
+    },
+    {
+      "id": "75ce",
+      "chave": "dialog__jinjored_intro",
+      "hash_es": "5864803eb1e4876a",
+      "texto_ptbr": "{MOODHAPPY}Saudações, urso e pássaro. Aqui se arremessa Jinjo. Falo em haiku.",
+      "lote": "605"
+    },
+    {
+      "id": "6eb5",
+      "chave": "dialog__jinjored_lose",
+      "hash_es": "c7de2dc0da39c9eb",
+      "texto_ptbr": "{MOODSAD}Tentativa mediana. A distância alvo parece longe demais. Ou talvez você seja ruim.",
+      "lote": "605"
+    },
+    {
+      "id": "c4d0",
+      "chave": "dialog__jinjored_objectives",
+      "hash_es": "3ef63306526b9bcd",
+      "texto_ptbr": "{MOODHAPPY}Pegue bastante impulso. A distância alvo deve ser superada. Me atire ao espaço.",
+      "lote": "608"
+    },
+    {
+      "id": "1250",
+      "chave": "dialog__jinjored_win",
+      "hash_es": "efa102c029962c2d",
+      "texto_ptbr": "{MOODHAPPY}Vitória sua. Distância superada, ficha ganha. Um pouco enjoado.",
+      "lote": "605"
+    }
+  ]
+}

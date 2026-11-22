@@ -1,0 +1,72 @@
+{
+  "arquivo": "111aea37",
+  "asset": "aid_loctext_banjox_tt_nuttyacres_act5",
+  "frases": [
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "9d67",
+      "chave": "dialog__game2_objectives",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "b648",
+      "chave": "dialog__game2_objectivesrepeat",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "fac8",
+      "chave": "dialog__game3_objectives",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "d869",
+      "chave": "dialog__game3_objectivesrepeat",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "5829",
+      "chave": "dialog__game4_objectives",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "fa8a",
+      "chave": "dialog__game4_objectivesrepeat",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "b58a",
+      "chave": "dialog__game5_objectives",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "1cab",
+      "chave": "dialog__game5_objectivesrepeat",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "12eb",
+      "chave": "dialog__game6_objectives",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "3ecc",
+      "chave": "dialog__game6_objectivesrepeat",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "lote": "514",
+  "descricao": "correções da revisão dos lotes 511/512: falsos amigos, gênero, nomes de circuitos e termos de interface",
+  "traducoes": {
+    "114c6966": {
+      "0264": "Vamos! Dê a volta no circuito antes de todo mundo!",
+      "0cb2": "Parabéns a %s<font color=[white]>! Claro que eu teria feito melhor sozinha, mas não queria deixar vocês todos em ridículo!</font>",
+      "14cb": "Vamos! Dê a volta no circuito antes de todo mundo!",
+      "1a12": "Vamos! Dê a volta no circuito antes de todo mundo!",
+      "1b94": "Vamos! Dê a volta no circuito antes de todo mundo!",
+      "2748": "Vamos! Dê a volta no circuito antes de todo mundo!",
+      "340c": "Bola aí! Esta partida acontece em Banjolândia. Para vencer, coloque a bola no Loggo com o menor número de tacadas. Qualquer toque na bola conta como tacada. Veículos que batem forte são recomendados!",
+      "5a1e": "Vamos! Dê a volta no circuito antes de todo mundo!",
+      "5b3b": "Curto-Circuito",
+      "5c84": "Vamos! Dê a volta no circuito antes de todo mundo!",
+      "6c17": "Cruzeiros Malucos",
+      "6df4": "Encontrou um bom grupo de jogadores em partidas ranqueadas ou de jogador? Aperte o Botão [X] no fim do jogo para formar um grupo.",
+      "6ec3": "Aqui estão algumas informações sobre um jogo. Pode ter bolas, ou permitir que você voe e atire nos amigos, pew pew! Talvez seja uma corrida na água, ou algo com um sapo gigante!",
+      "7447": "Vamos! Dê a volta no circuito antes de todo mundo!",
+      "93a6": "Vamos! Dê a volta no circuito antes de todo mundo!",
+      "9c43": "Muito bem, %s<font color=[white]>! Eu tinha apostado 20 notas com o S.J. em vocês, rapazes e/ou moças. O palácio dele logo será meu. Eu devia pagar uma bebida para todos, mas não vou!</font>",
+      "a8a6": "Se seu veículo sair da zona de segurança da piscina marcada pela luz vermelha, você sofre dano sério. A zona de segurança não chega ao fundo da piscina, então use um veículo que flutue!",
+      "b305": "Curto-Circuito",
+      "b6f2": "O S.J. cria hologramas sobre o líder ou líderes de cada jogo, então fique de olho neles e concentre-se em superá-los!",
+      "c4ce": "Circuito Espiral Grande",
+      "c78e": "Tente derrubar todos os adversários da coroa giratória gigante conhecida como Colina, pois você ganha mais pontos se for o único em jogo. Veículos todo-terreno são boas escolhas aqui.",
+      "c9a5": "A piscina de Banjolândia recebe este jogo de luta. Ganhe pontos sempre que destruir o veículo de um adversário! Use algo que flutue, pois sair da zona de segurança também causa dano.",
+      "cf94": "Uma tradição do Jiggoliseu. Você precisa levar o ovo pelos pontos de controle, então garanta que seu veículo esteja equipado para segurá-lo! Não esqueça de pegar o ovo no início da corrida...",
+      "d3e9": "Pegue a bola e passe pelo aro. Marque o máximo de vezes possível!",
+      "de26": "Vamos! Dê a volta no circuito antes de todo mundo!",
+      "e22d": "Cuidado aqui: acertar qualquer bola de golfe conta como tacada extra. Tente acertar só a sua... a menos que consiga mandar a bola dos outros para longe do buraco, heh.",
+      "e305": "Vamos! Dê a volta no circuito antes de todo mundo!",
+      "f564": "Vamos! Dê a volta no circuito antes de todo mundo!"
+    },
+    "11fbc3ac": {
+      "019a": "Corrida: Aerococo Expresso",
+      "0b1e": "O Mr. Patch, de Banjo-Tooie, está bloqueando a luz do sol bem acima da fazenda. Use um veículo voador com ataque para arrancar os remendos dele e murchar esse balão gasto.",
+      "1a6d": "NÍVEL:",
+      "2ac7": "Táxi Jinjo: este Jinjo precisa chegar a um novo destino dentro do tempo limite. Problemas são esperados no caminho, por isso este táxi está equipado com o poderoso Torpedilo.",
+      "3ea4": "Corrida: Retas Oceânicas",
+      "58cd": "Lavrador do Ano",
+      "6c77": "Cerque!",
+      "8c1b": "Atualização do Sistema",
+      "aa55": "O Mr. Patch está de volta, agora com uma pele brilhante à prova de armas. Use um veículo voador e ache outro jeito de furar esse balão de gás surrado.",
+      "b499": "Táxi Jinjo: Torpedilo",
+      "bdba": "Represa Bum!",
+      "d965": "Retas Aéreas: veículos voadores são obrigatórios aqui!",
+      "f022": "Faça Peso!"
+    }
+  }
+}

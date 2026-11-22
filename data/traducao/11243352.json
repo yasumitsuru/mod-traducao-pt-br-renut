@@ -1,0 +1,531 @@
+{
+  "arquivo": "11243352",
+  "asset": "aid_loctext_banjox_cpu_act5",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "4bbc13e988a618cd",
+      "texto_ptbr": "Que bom que você se importa com meu sistema de segurança, moleque. Nunca é demais tomar cuidado. Quer dar outra volta?",
+      "lote": "605"
+    },
+    {
+      "id": "b254",
+      "chave": "dialog__game1_fail",
+      "hash_es": "7e1f83c8e040d05d",
+      "texto_ptbr": "{MOODANGRY}Eu devia saber! No primeiro sinal de trabalho duro, você se desmonta todo!",
+      "lote": "605"
+    },
+    {
+      "id": "9744",
+      "chave": "dialog__game1_intro",
+      "hash_es": "4b75aa5c7fe7b768",
+      "texto_ptbr": "Ei, escória! Como gerente dedicado e responsável, preciso fazer minha checagem semanal das câmeras de segurança. Se tiver alguma sabotagem industrial rolando, quero tudo gravado!",
+      "lote": "605"
+    },
+    {
+      "id": "8026",
+      "chave": "dialog__game1_introb",
+      "hash_es": "317369c1f014484d",
+      "texto_ptbr": "Certo, então você precisa fazer sua checagem semanal das câmeras. Não estou vendo muito bem onde a gente entra nisso...",
+      "lote": "605"
+    },
+    {
+      "id": "8027",
+      "chave": "dialog__game1_introc",
+      "hash_es": "57d02c9191339891",
+      "texto_ptbr": "Eu pareço gostar de trabalho duro? Preciso de uma carona! Meus técnicos costumam me levar, mas todos fugiram.",
+      "lote": "605"
+    },
+    {
+      "id": "8028",
+      "chave": "dialog__game1_introd",
+      "hash_es": "e31460c7af24d7ed",
+      "texto_ptbr": "Glup. Deixa eu entender direito, você quer que eu te carregue de um canto deste mundo ao outro?",
+      "lote": "605"
+    },
+    {
+      "id": "8029",
+      "chave": "dialog__game1_introe",
+      "hash_es": "61c60bafb4165a23",
+      "texto_ptbr": "Ainda bem que existe a Academia do Boggy, Banjo. Vai precisar estar em plena forma para ir a algum lugar com este saco de banha!",
+      "lote": "605"
+    },
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "785ae309e0566839",
+      "texto_ptbr": "Escuta aqui, estagiário! Temos todas aquelas câmeras de segurança para inspecionar, então pare de conversa e mãos à obra. Anda!",
+      "lote": "605"
+    },
+    {
+      "id": "1938",
+      "chave": "dialog__game1_objectivesrepeat1",
+      "hash_es": "b0fb5fd9bb65eee7",
+      "texto_ptbr": "Achei que você conhecia este lugar! Aff...",
+      "lote": "605"
+    },
+    {
+      "id": "1939",
+      "chave": "dialog__game1_objectivesrepeat2",
+      "hash_es": "c14f58abb8861a09",
+      "texto_ptbr": "Câmeras de segurança, lembra? Me leve bem perto, eu faço o resto.",
+      "lote": "605"
+    },
+    {
+      "id": "d532",
+      "chave": "dialog__game1_successa",
+      "hash_es": "642c55745761b749",
+      "texto_ptbr": "{MOODHAPPY}Ei, nenhum dos meus técnicos é tão rápido! Você parece exausto, então é sorte que eu esteja me sentindo generoso com a recompensa.",
+      "lote": "605"
+    },
+    {
+      "id": "d534",
+      "chave": "dialog__game1_successc",
+      "hash_es": "9ef6a71b55a3e2f1",
+      "texto_ptbr": "Ótimo. Todas as câmeras estão funcionando direitinho, e eu não precisei mexer uma pata! Por isso você ganhou o Jiggy.",
+      "lote": "605"
+    },
+    {
+      "id": "d536",
+      "chave": "dialog__game1_successe",
+      "hash_es": "b2e90376de973e1f",
+      "texto_ptbr": "Finalmente! Achei que eu ia desmaiar de fome antes de terminarmos as rondas. Salário mínimo, que coisa maravilhosa!",
+      "lote": "605"
+    },
+    {
+      "id": "f828",
+      "chave": "dialog__game2_beaten",
+      "hash_es": "99e903949aecba50",
+      "texto_ptbr": "Sem tempo nem pra respirar, ter que correr... Banjo voltar para voltas extras?",
+      "lote": "605"
+    },
+    {
+      "id": "daf5",
+      "chave": "dialog__game2_fail",
+      "hash_es": "162f41e1c485b1be",
+      "texto_ptbr": "{MOODHAPPY}Poder das garotas! Humba deixar todos desafiantes no ponto de partida! Campeonato mundial sem problema!",
+      "lote": "605"
+    },
+    {
+      "id": "d405",
+      "chave": "dialog__game2_intro",
+      "hash_es": "131b353e26f4a7d3",
+      "texto_ptbr": "{MOODHAPPY}Não esperar encontrar Banjo de novo! Humba se classificar para campeonato mundial de corrida. Logo correr contra os melhores do ramo!",
+      "lote": "605"
+    },
+    {
+      "id": "5507",
+      "chave": "dialog__game2_introb",
+      "hash_es": "8b1cb6029f3ebe8d",
+      "texto_ptbr": "Antes que você diga, Kazooie... sim, é uma coincidência incrível a gente esbarrar em um dos seis personagens deste mundo.",
+      "lote": "605"
+    },
+    {
+      "id": "5508",
+      "chave": "dialog__game2_introc",
+      "hash_es": "6aecad3299f1299c",
+      "texto_ptbr": "{MOODHAPPY}Atrevido. Humba precisar se preparar para o torneio &quot;Corrida Oval Tediosa 5&quot;. Banjo participar da corrida de aquecimento?",
+      "lote": "605"
+    },
+    {
+      "id": "5509",
+      "chave": "dialog__game2_introd",
+      "hash_es": "96e91ccb585387e8",
+      "texto_ptbr": "Corrida Oval Tediosa? Quase parece que a gente está andando em círculos aqui, Banjo. Vamos derrotar ela!",
+      "lote": "605"
+    },
+    {
+      "id": "9d67",
+      "chave": "dialog__game2_objectives",
+      "hash_es": "258f78a5086c3225",
+      "texto_ptbr": "Só corrida rápida de aquecimento pra bombear o sangue. Humba melhor piloto do clã, Banjo ver garota gamer de verdade em ação!",
+      "lote": "605"
+    },
+    {
+      "id": "6653",
+      "chave": "dialog__game2_successa",
+      "hash_es": "55e9835d0461585c",
+      "texto_ptbr": "{MOODSAD}Humba deixada no pó, como deve ser! Banjo ter recompensa à altura pela aula de corrida, talvez substituir Humba no campeonato...",
+      "lote": "605"
+    },
+    {
+      "id": "6655",
+      "chave": "dialog__game2_successc",
+      "hash_es": "508b860f1cb4c7cc",
+      "texto_ptbr": "Humba deve ter gosma no tanque de combustível! Melhor praticar mais... Banjo merecer Jiggy pelas boas dicas de corrida.",
+      "lote": "605"
+    },
+    {
+      "id": "6657",
+      "chave": "dialog__game2_successe",
+      "hash_es": "c3db51b3eea9ab15",
+      "texto_ptbr": "Humba vencida! Mas não por distância grande o bastante para Banjo ganhar prêmio grande. Lembrar das regras de corrida das &quot;Trolls Bruxas&quot;?",
+      "lote": "605"
+    },
+    {
+      "id": "cd09",
+      "chave": "dialog__game3_beaten",
+      "hash_es": "779e975ed159032c",
+      "texto_ptbr": "Banjo, meu mamífero favorito! Voltou para detonar mais bugs? Ah, sempre tem bugs. Só não são meus...",
+      "lote": "605"
+    },
+    {
+      "id": "0396",
+      "chave": "dialog__game3_fail",
+      "hash_es": "f22545dd05d5789e",
+      "texto_ptbr": "{MOODSAD}Ainda estamos infestados de bugs! Lá se vai minha reputação fabulosa! Talvez eu me aposente agora e comece a usar tweed e veludo cotelê...",
+      "lote": "605"
+    },
+    {
+      "id": "10c6",
+      "chave": "dialog__game3_intro",
+      "hash_es": "c9d54d5dc175696e",
+      "texto_ptbr": "{MOODSAD}Ah, é você, ursinho de pelúcia! Estou um pouco tenso. Aquela bruxa velha e maliciosa da Grunty está aprontando de novo.",
+      "lote": "605"
+    },
+    {
+      "id": "29e8",
+      "chave": "dialog__game3_introb",
+      "hash_es": "1fe5cda7ee71b1e3",
+      "texto_ptbr": "O que ela está tramando desta vez? Sem dúvida algo que a gente vai precisar resolver pessoalmente...",
+      "lote": "605"
+    },
+    {
+      "id": "29e9",
+      "chave": "dialog__game3_introc",
+      "hash_es": "d4047bbd6ae62ef1",
+      "texto_ptbr": "Seria útil. Veja bem, ela tem invadido o console e agora ele está cheio de bugs nojentos.",
+      "lote": "608"
+    },
+    {
+      "id": "29ea",
+      "chave": "dialog__game3_introd",
+      "hash_es": "a74d7afcbe7c400b",
+      "texto_ptbr": "Obviamente eu corrigi todos os meus bugs faz tempo, e esses bugs são dos outros técnicos. Mas mesmo assim me deixam mal na foto!",
+      "lote": "605"
+    },
+    {
+      "id": "fac8",
+      "chave": "dialog__game3_objectives",
+      "hash_es": "26d9c0ed4d182ab3",
+      "texto_ptbr": "Os bugs estão soltos pelo console todo e precisam ser eliminados. Você provavelmente notou eles, os pequenos... pestinhas.",
+      "lote": "605"
+    },
+    {
+      "id": "542a",
+      "chave": "dialog__game3_objectivesb",
+      "hash_es": "b3b4d3f9bca1ae20",
+      "texto_ptbr": "Eliminados? Ei, Kazooie, a gente podia levar eles para o poderoso &quot;Mata-Bichos&quot; que por acaso fica neste mundo!",
+      "lote": "605"
+    },
+    {
+      "id": "542b",
+      "chave": "dialog__game3_objectivesc",
+      "hash_es": "9ea6282fd2f8823a",
+      "texto_ptbr": "Esse é o plano. Deixem os bugs atordoados e levem eles até o Mata-Bichos para descarte antes que meu bom nome seja manchado!",
+      "lote": "605"
+    },
+    {
+      "id": "e5ba",
+      "chave": "dialog__game3_objectivesrepeat1",
+      "hash_es": "a1a3654a7b0217f1",
+      "texto_ptbr": "Continuem, meus valentes caçadores de bugs! Levem eles até o Mata-Bichos!",
+      "lote": "605"
+    },
+    {
+      "id": "e5bb",
+      "chave": "dialog__game3_objectivesrepeat2",
+      "hash_es": "a469625757da1f3f",
+      "texto_ptbr": "Pelo menos eles não respawnam! Ainda não, pelo menos...",
+      "lote": "605"
+    },
+    {
+      "id": "f774",
+      "chave": "dialog__game3_successa",
+      "hash_es": "b056c0c631d67a5d",
+      "texto_ptbr": "{MOODHAPPY}Banjo, você é tão extravagante! Espero que seu belo pacote de prêmios seja recompensa suficiente por salvar minha reputação preciosa!",
+      "lote": "605"
+    },
+    {
+      "id": "f776",
+      "chave": "dialog__game3_successc",
+      "hash_es": "6415d5124f3e3161",
+      "texto_ptbr": "Zero bugs! Você ganhou esse Jiggy... em nome dos outros técnicos claramente ausentes.",
+      "lote": "605"
+    },
+    {
+      "id": "f778",
+      "chave": "dialog__game3_successe",
+      "hash_es": "d6f33a67389e8bc7",
+      "texto_ptbr": "Bem, a gente chegou lá no fim. Infelizmente os prêmios de verdade ficam reservados para quem tem um pouco mais de pique!",
+      "lote": "605"
+    },
+    {
+      "id": "a1ea",
+      "chave": "dialog__game4_beaten",
+      "hash_es": "0d5ebd8b3b67bcca",
+      "texto_ptbr": "Urso achar que gameplay ainda precisar melhorar? Oomenacka!",
+      "lote": "605"
+    },
+    {
+      "id": "2c37",
+      "chave": "dialog__game4_fail",
+      "hash_es": "8141c1f4dfda5bb9",
+      "texto_ptbr": "Criador de Gameplay inútil, Mumbo registrar reclamação contra vendedor. Jogos ainda ruins e clientes não felizes! Mumbo também não feliz!",
+      "lote": "605"
+    },
+    {
+      "id": "4d87",
+      "chave": "dialog__game4_intro",
+      "hash_es": "e41ef64bc44f19d8",
+      "texto_ptbr": "Eekumbokum. Técnicos não saber fazer bons jogos. Clientes achar jogos um lixo genérico e devolver para reembolso.",
+      "lote": "605"
+    },
+    {
+      "id": "fec9",
+      "chave": "dialog__game4_introb",
+      "hash_es": "4b78b58eb50d00e3",
+      "texto_ptbr": "Ah. Que pena, mas... com certeza você e sua magia dão conta disso sem a gente se envolver, né?",
+      "lote": "605"
+    },
+    {
+      "id": "feca",
+      "chave": "dialog__game4_introc",
+      "hash_es": "b0f7bb56a22a87ff",
+      "texto_ptbr": "Grande demais para magia de xamã consertar! Mumbo recorrer a produto online duvidoso para melhorar gameplay, mas encontrar problema novo.",
+      "lote": "605"
+    },
+    {
+      "id": "5829",
+      "chave": "dialog__game4_objectives",
+      "hash_es": "7afc5b128f73d370",
+      "texto_ptbr": "Mumbo encomendar Criador de Gameplay especial. Parecer bom e bem baratinho, mas treco estúpido chegar em pedaços.",
+      "lote": "605"
+    },
+    {
+      "id": "5dab",
+      "chave": "dialog__game4_objectivesb",
+      "hash_es": "c22ea6faa546dd03",
+      "texto_ptbr": "Pedaços que precisam ser recolhidos e levados para algum lugar?",
+      "lote": "605"
+    },
+    {
+      "id": "5dac",
+      "chave": "dialog__game4_objectivesc",
+      "hash_es": "9a52638daf9dd7ba",
+      "texto_ptbr": "Todo mundo saber que urso adorar coletar coisas. Achar três pedaços, juntar na ordem certa, levar até máquina Criadora.",
+      "lote": "605"
+    },
+    {
+      "id": "4bfb",
+      "chave": "dialog__game4_objectivesrepeat1",
+      "hash_es": "c1f2ab5738435888",
+      "texto_ptbr": "Hmpf. Só três pedaços, urso normalmente coletar centenas...",
+      "lote": "605"
+    },
+    {
+      "id": "4bfc",
+      "chave": "dialog__game4_objectivesrepeat2",
+      "hash_es": "55f6584e1b2fe6f7",
+      "texto_ptbr": "Eekumbokum. Juntar pedaços, levar até máquina, sem problema.",
+      "lote": "605"
+    },
+    {
+      "id": "8895",
+      "chave": "dialog__game4_successa",
+      "hash_es": "88b03b32ce490a25",
+      "texto_ptbr": "{MOODHAPPY}Urso consertar gameplay e redimir indústria dos videogames! Clientes pagantes radiantes! Urso ganhar prêmio grande!",
+      "lote": "605"
+    },
+    {
+      "id": "8897",
+      "chave": "dialog__game4_successc",
+      "hash_es": "01e899fc4c666f15",
+      "texto_ptbr": "Eekumbokum. Urso fazer bom trabalho, jogos alcançar credibilidade mínima enfim. Um Jiggy deve ser prêmio bom o bastante.",
+      "lote": "605"
+    },
+    {
+      "id": "8899",
+      "chave": "dialog__game4_successe",
+      "hash_es": "5e1509f683a42b67",
+      "texto_ptbr": "Urso tão lento que Criador de Gameplay só produzir pouquinho gameplay. Ter que trabalhar mais para recompensa de verdade!",
+      "lote": "605"
+    },
+    {
+      "id": "76cb",
+      "chave": "dialog__game5_beaten",
+      "hash_es": "56b993c4c96a6025",
+      "texto_ptbr": "O Banjo é o salvador do sabor de uva da gosma! Fui eu que pensei nisso. Voltou para ver seu serviço?",
+      "lote": "605"
+    },
+    {
+      "id": "54d8",
+      "chave": "dialog__game5_fail",
+      "hash_es": "e20e212caed8724e",
+      "texto_ptbr": "{MOODSAD}Estamos condenados a rodar com gosma sem sabor! Lá se vai meu cargo de nome importante. Eu me esforcei muito por ele!",
+      "lote": "605"
+    },
+    {
+      "id": "8a48",
+      "chave": "dialog__game5_intro",
+      "hash_es": "5692d02c4eb8bb1c",
+      "texto_ptbr": "Estou aqui como Vice-Presidente Sênior de Saborização da Gosma. A Grunty removeu a pastilha de sabor uva que dá gosto à gosma!",
+      "lote": "605"
+    },
+    {
+      "id": "d3aa",
+      "chave": "dialog__game5_introb",
+      "hash_es": "119d7c5bc2cfe67d",
+      "texto_ptbr": "Esse cargo parece mesmo importante, Bottles. Você inventou?",
+      "lote": "605"
+    },
+    {
+      "id": "d3ab",
+      "chave": "dialog__game5_introc",
+      "hash_es": "83f85f041bff0882",
+      "texto_ptbr": "Não! Olha, por algum motivo a gosma funciona melhor quando tem gosto de uva. Posso contar com vocês para restaurar o sabor da gosma?",
+      "lote": "605"
+    },
+    {
+      "id": "b58a",
+      "chave": "dialog__game5_objectives",
+      "hash_es": "6663c745bbdd79d0",
+      "texto_ptbr": "Tudo o que vocês precisam fazer é pegar a pastilha de sabor da gosma e devolvê-la à unidade de sabor dentro do tanque de gosma. Entendido?",
+      "lote": "605"
+    },
+    {
+      "id": "672c",
+      "chave": "dialog__game5_objectivesb",
+      "hash_es": "79ded242641aad81",
+      "texto_ptbr": "E isso vai envolver fazer coisas que você é fisicamente incapaz de fazer, Bottles?",
+      "lote": "605"
+    },
+    {
+      "id": "672d",
+      "chave": "dialog__game5_objectivesc",
+      "hash_es": "6647b21fd2a3975f",
+      "texto_ptbr": "Sim, está bem! Eu sou só uma toupeira míope. Se eu tentasse nadar pelos tubos de gosma, eu me afogaria em 20 segundos.",
+      "lote": "605"
+    },
+    {
+      "id": "b23c",
+      "chave": "dialog__game5_objectivesrepeat1",
+      "hash_es": "f8ca51b35ce1cd67",
+      "texto_ptbr": "Ninguém quer gosma sem graça! Leve a pastilha de volta para a unidade de sabor!",
+      "lote": "605"
+    },
+    {
+      "id": "b23d",
+      "chave": "dialog__game5_objectivesrepeat2",
+      "hash_es": "b76223eb7f7d7b07",
+      "texto_ptbr": "A Grunty tem que pagar por isso, Banjo! Mas leve a pastilha de volta primeiro...",
+      "lote": "605"
+    },
+    {
+      "id": "19b6",
+      "chave": "dialog__game5_successa",
+      "hash_es": "d6515f114da949a2",
+      "texto_ptbr": "{MOODHAPPY}Eba! O sabor voltou, e tão rápido que duvido que alguém tenha notado que ele sumiu! Grandes ganhos para você, Banjo!",
+      "lote": "605"
+    },
+    {
+      "id": "19b8",
+      "chave": "dialog__game5_successc",
+      "hash_es": "7671ec5f6837d06a",
+      "texto_ptbr": "{MOODHAPPY}A gosma com sabor voltou! Ah, o aroma da produtividade sem obstáculos. Aproveite seu Jiggy, Banjo!",
+      "lote": "605"
+    },
+    {
+      "id": "19ba",
+      "chave": "dialog__game5_successe",
+      "hash_es": "25d896aac517568b",
+      "texto_ptbr": "Obrigado, mas a produção quase parou enquanto você ficava enrolando. Não foi uma atuação à altura de um Jiggy...",
+      "lote": "605"
+    },
+    {
+      "id": "a965",
+      "chave": "dialog__jinjopink_intro",
+      "hash_es": "35239b02a1eacb50",
+      "texto_ptbr": "{MOODHAPPY}Vamos, tente a sorte no arremesso de Jinjo. Meu nome é Hurley. Mano! Estou perdido na ilha! Não, estou brincando.",
+      "lote": "605"
+    },
+    {
+      "id": "0b6c",
+      "chave": "dialog__jinjopink_lose",
+      "hash_es": "25ea4c0f2b90261c",
+      "texto_ptbr": "{MOODSAD}Isso não foi nada demais, mano. Vá praticar. Cuidado para não... sabe... cair num alçapão ou algo assim!",
+      "lote": "605"
+    },
+    {
+      "id": "cec7",
+      "chave": "dialog__jinjopink_objectives",
+      "hash_es": "43cd741a7739cd2c",
+      "texto_ptbr": "{MOODHAPPY}Me arremesse o mais longe que puder e tente bater a distância alvo! Rápido, mano, está quase na hora do almoço!",
+      "lote": "605"
+    },
+    {
+      "id": "7427",
+      "chave": "dialog__jinjopink_win",
+      "hash_es": "6422b60130c03914",
+      "texto_ptbr": "{MOODHAPPY}Show, mano! Pegue seu prêmio e vá. Cuidado com os ursos polares! Cara, eu me mato de rir.",
+      "lote": "605"
+    },
+    {
+      "id": "75ce",
+      "chave": "dialog__jinjored_intro",
+      "hash_es": "10ad051492fb28d5",
+      "texto_ptbr": "{MOODHAPPY}Eu era um lixo total nas corridas. Agora sou demais! Como é, você não acredita em mim?",
+      "lote": "605"
+    },
+    {
+      "id": "6eb5",
+      "chave": "dialog__jinjored_lose",
+      "hash_es": "4470ffee790eec2b",
+      "texto_ptbr": "{MOODHAPPY}Uau, eu sou demais mesmo! Achei que minha mãe estava só exagerando para me animar!",
+      "lote": "605"
+    },
+    {
+      "id": "c4d0",
+      "chave": "dialog__jinjored_objectives",
+      "hash_es": "ce044ae8296dec25",
+      "texto_ptbr": "{MOODHAPPY}Vou provar o quanto sou bom. Vou vencer você por quilômetros! Literalmente!",
+      "lote": "605"
+    },
+    {
+      "id": "1250",
+      "chave": "dialog__jinjored_win",
+      "hash_es": "5a5b83849fdce2d3",
+      "texto_ptbr": "{MOODSAD}Mas... minha mãe disse que eu era muito bom. Ela disse! Isso significa que eu provavelmente também não consigo vencer o T.T. no kickboxing?",
+      "lote": "605"
+    },
+    {
+      "id": "7d4f",
+      "chave": "dialog__jinjoyellow_intro",
+      "hash_es": "1badf6f754c76dd1",
+      "texto_ptbr": "{MOODSAD}Não me ataque! Não é justo, não estou pronto! Ah. Desculpa, estou procurando minha vida extra.",
+      "lote": "605"
+    },
+    {
+      "id": "0a16",
+      "chave": "dialog__jinjoyellow_lose",
+      "hash_es": "6d910ebfe7f617a6",
+      "texto_ptbr": "{MOODSAD}Ah não! Por favor, procure mais, eu me sinto tão vulnerável! E se um piano cair em cima de mim nos próximos minutos?",
+      "lote": "605"
+    },
+    {
+      "id": "a4f1",
+      "chave": "dialog__jinjoyellow_objectives",
+      "hash_es": "1b7d4809e8aeb05b",
+      "texto_ptbr": "{MOODSAD}Eu não me sinto seguro sem minha vida extra. Me ajude a encontrar! Eu vou olhar aqui embaixo, você olha lá em cima!",
+      "lote": "605"
+    },
+    {
+      "id": "4591",
+      "chave": "dialog__jinjoyellow_win",
+      "hash_es": "1118dbc887a99421",
+      "texto_ptbr": "{MOODHAPPY}Minha vida extra! Você é demais! Agora posso viver perigosamente de novo!",
+      "lote": "605"
+    }
+  ]
+}

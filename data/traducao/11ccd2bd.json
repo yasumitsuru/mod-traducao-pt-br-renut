@@ -1,0 +1,335 @@
+{
+  "arquivo": "11ccd2bd",
+  "asset": "aid_loctext_banjox_showdowntown_grunty",
+  "frases": [
+    {
+      "id": "87a7",
+      "chave": "dialog__grunty_25jiggyinsult1",
+      "hash_es": "ed4337c58726db3a",
+      "texto_ptbr": "Ouvir a Kazooie tagarelar te deixou pirado, depois de anos à toa naquele casebre abandonado!",
+      "lote": "505"
+    },
+    {
+      "id": "7cb7",
+      "chave": "dialog__grunty_25jiggyinsult10",
+      "hash_es": "dde6d746baf0dcf0",
+      "texto_ptbr": "Ganhou uns Jiggies, continue, seu zero! Na escola dos idiotas, você é o primeiro!",
+      "lote": "505"
+    },
+    {
+      "id": "87a8",
+      "chave": "dialog__grunty_25jiggyinsult2",
+      "hash_es": "364ea9f2e73490e2",
+      "texto_ptbr": "Quem precisa do Klungo? Quem precisa de ajudante? Ganho este jogo com um braço amarrado num instante!",
+      "lote": "505"
+    },
+    {
+      "id": "87a9",
+      "chave": "dialog__grunty_25jiggyinsult3",
+      "hash_es": "42de4ccddce592bd",
+      "texto_ptbr": "Jinjos e Jiggies? Bottles e Mumbo? Lembre-me por que voltei, seu Dumbo!",
+      "lote": "505"
+    },
+    {
+      "id": "87aa",
+      "chave": "dialog__grunty_25jiggyinsult4",
+      "hash_es": "523dc9df0d79d294",
+      "texto_ptbr": "Tantos anos sem uma briga, e você ainda usa essa roupa feia e antiga?",
+      "lote": "505"
+    },
+    {
+      "id": "87ab",
+      "chave": "dialog__grunty_25jiggyinsult5",
+      "hash_es": "a433cf3abe808ed3",
+      "texto_ptbr": "A Spiral Mountain não é nada especial, mas é da Grunty um imóvel sensacional!",
+      "lote": "518"
+    },
+    {
+      "id": "87ac",
+      "chave": "dialog__grunty_25jiggyinsult6",
+      "hash_es": "e1f1d574aa1283b1",
+      "texto_ptbr": "Meus Gruntbots estão por aí fazendo bagunça, deixando estes mundos cretinos em ruínas, que graça!",
+      "lote": "505"
+    },
+    {
+      "id": "87ad",
+      "chave": "dialog__grunty_25jiggyinsult7",
+      "hash_es": "383cdca8442c272e",
+      "texto_ptbr": "Faço um carro com gravetos e barbante, e ainda supero o seu projeto mais brilhante!",
+      "lote": "505"
+    },
+    {
+      "id": "87ae",
+      "chave": "dialog__grunty_25jiggyinsult8",
+      "hash_es": "20540718f2489172",
+      "texto_ptbr": "O meu corpo nem é meu e o crânio está rachado, mas você não me vence, é fato comprovado!",
+      "lote": "505"
+    },
+    {
+      "id": "87af",
+      "chave": "dialog__grunty_25jiggyinsult9",
+      "hash_es": "5ad90922a119ebf4",
+      "texto_ptbr": "Caçar Jiggies não faz sentido pra mim. Por que nos trazer a este fim de mundo ruim?",
+      "lote": "505"
+    },
+    {
+      "id": "0505",
+      "chave": "dialog__grunty_50jiggyinsult1",
+      "hash_es": "34c33801da467c06",
+      "texto_ptbr": "Tantos Jiggies, deve estar orgulhoso. Pena que sua vitória não passa de um sonho enganoso!",
+      "lote": "505"
+    },
+    {
+      "id": "a5d5",
+      "chave": "dialog__grunty_50jiggyinsult10",
+      "hash_es": "0f508da44cbfba71",
+      "texto_ptbr": "Adoro zombar, é meu passatempo. Ainda não perderam? Andem, sem perder tempo!",
+      "lote": "505"
+    },
+    {
+      "id": "0506",
+      "chave": "dialog__grunty_50jiggyinsult2",
+      "hash_es": "4b38aa9988e774a7",
+      "texto_ptbr": "Você tem uma ave e eu tenho um gatinho. O meu tem estilo, o seu é feinho, coitadinho!",
+      "lote": "505"
+    },
+    {
+      "id": "0507",
+      "chave": "dialog__grunty_50jiggyinsult3",
+      "hash_es": "902a4b0250e553a2",
+      "texto_ptbr": "Espere só a Spiral Mountain ser minha, e a sua choupana vai virar farinha!",
+      "lote": "518"
+    },
+    {
+      "id": "0508",
+      "chave": "dialog__grunty_50jiggyinsult4",
+      "hash_es": "a30afa869651024a",
+      "texto_ptbr": "Você é lento, mole e desengonçado. Eu venço sendo só um crânio descarnado!",
+      "lote": "505"
+    },
+    {
+      "id": "0509",
+      "chave": "dialog__grunty_50jiggyinsult5",
+      "hash_es": "741b66a4bceeaf32",
+      "texto_ptbr": "Não pense que vai ter sucesso na estrada: meus carros são estrelas e os seus, uma piada!",
+      "lote": "505"
+    },
+    {
+      "id": "050a",
+      "chave": "dialog__grunty_50jiggyinsult6",
+      "hash_es": "3c345d8e9ad66ed9",
+      "texto_ptbr": "Obedecer ordens, vocês adoram. Comigo não cola, enfiem isso e vão embora!",
+      "lote": "505"
+    },
+    {
+      "id": "050b",
+      "chave": "dialog__grunty_50jiggyinsult7",
+      "hash_es": "3bc7a0548dbb9628",
+      "texto_ptbr": "Continue nos desafios, urso sem noção, estou confiante demais, nem ligo, não!",
+      "lote": "505"
+    },
+    {
+      "id": "050c",
+      "chave": "dialog__grunty_50jiggyinsult8",
+      "hash_es": "9daf2f18380af0c5",
+      "texto_ptbr": "Você parece estar iludido, o meu triunfo já está decidido!",
+      "lote": "505"
+    },
+    {
+      "id": "050d",
+      "chave": "dialog__grunty_50jiggyinsult9",
+      "hash_es": "154eecb6bf70609a",
+      "texto_ptbr": "Buscar Globos e abrir portas? Que moleza! Vocês dois me dão sono, que tristeza!",
+      "lote": "505"
+    },
+    {
+      "id": "a7cc",
+      "chave": "dialog__grunty_75jiggyinsult1",
+      "hash_es": "569391fe33562dab",
+      "texto_ptbr": "Esse cheiro não é de preocupação, é o que vem depois de um curry de Dingpot: furacão!",
+      "lote": "505"
+    },
+    {
+      "id": "a17c",
+      "chave": "dialog__grunty_75jiggyinsult10",
+      "hash_es": "c9bd1f5a315f4e67",
+      "texto_ptbr": "Você nunca vai me vencer de vez neste jogo: volto como olho ou cérebro, e te pego logo!",
+      "lote": "505"
+    },
+    {
+      "id": "a7cd",
+      "chave": "dialog__grunty_75jiggyinsult2",
+      "hash_es": "0f64415aecc0f356",
+      "texto_ptbr": "O fim está à vista, estou toda animada. Vocês esperam alguma prova complicada?",
+      "lote": "505"
+    },
+    {
+      "id": "a7ce",
+      "chave": "dialog__grunty_75jiggyinsult3",
+      "hash_es": "7065c278bfb7c236",
+      "texto_ptbr": "Que alegria ver seus Jiggies aumentar! Com a escritura na mão, é aluguel que vai pagar!",
+      "lote": "505"
+    },
+    {
+      "id": "a7cf",
+      "chave": "dialog__grunty_75jiggyinsult4",
+      "hash_es": "bfc6ae1d4d706c88",
+      "texto_ptbr": "Você é teimoso, urso, não posso negar. Se isso der errado, o caos vai começar!",
+      "lote": "505"
+    },
+    {
+      "id": "a7d0",
+      "chave": "dialog__grunty_75jiggyinsult5",
+      "hash_es": "2a9b57446465c9f4",
+      "texto_ptbr": "Se você ainda está aqui, meus Gruntbots estão falhando! Era pra ser moleza, e eu aqui, me estressando!",
+      "lote": "505"
+    },
+    {
+      "id": "a7d1",
+      "chave": "dialog__grunty_75jiggyinsult6",
+      "hash_es": "10f051bb0dd1b56f",
+      "texto_ptbr": "Você era tão gordo e tão desleixado, que chegar até aqui é um espanto, coitado!",
+      "lote": "505"
+    },
+    {
+      "id": "a7d2",
+      "chave": "dialog__grunty_75jiggyinsult7",
+      "hash_es": "04e15df9aba0aa3c",
+      "texto_ptbr": "Falta pouco para o final, e confiar nos seus Jiggies pode ser fatal!",
+      "lote": "505"
+    },
+    {
+      "id": "a7d3",
+      "chave": "dialog__grunty_75jiggyinsult8",
+      "hash_es": "a9b5c21d21e8fe0d",
+      "texto_ptbr": "Seu passo não será tão leve nas manobras, quando a Spiral Mountain virar canteiro de obras!",
+      "lote": "518"
+    },
+    {
+      "id": "a7d4",
+      "chave": "dialog__grunty_75jiggyinsult9",
+      "hash_es": "df91d420a06f75dd",
+      "texto_ptbr": "Você liberou novos distritos em Showdown Town, mas é tanto esquisito que dá pesadelo!",
+      "lote": "518"
+    },
+    {
+      "id": "fc87",
+      "chave": "dialog__grunty_act1gruntychallengebeat",
+      "hash_es": "49ec80ac2c423f1a",
+      "texto_ptbr": "Venceu o meu desafio e se acha inteligente. Seu próximo sucesso: nunca, aproximadamente!",
+      "lote": "505"
+    },
+    {
+      "id": "b15b",
+      "chave": "dialog__grunty_bingolinecompleted1",
+      "hash_es": "7b90bd06b59111f1",
+      "texto_ptbr": "Tenho um probleminha com o Bingo do Jingaling... Prefiro socar a brincar com um Jinjo!",
+      "lote": "505"
+    },
+    {
+      "id": "b15c",
+      "chave": "dialog__grunty_bingolinecompleted2",
+      "hash_es": "49074093399a7550",
+      "texto_ptbr": "Não tem coisa melhor pra fazer? Bingo? Vou te dar uma sapatada pra aprender!",
+      "lote": "505"
+    },
+    {
+      "id": "b15d",
+      "chave": "dialog__grunty_bingolinecompleted3",
+      "hash_es": "771c823ff8464c24",
+      "texto_ptbr": "Uma partida de Bingo no Palácio, que alegria? Só de pensar me dá raiva e agonia!",
+      "lote": "505"
+    },
+    {
+      "id": "b15e",
+      "chave": "dialog__grunty_bingolinecompleted4",
+      "hash_es": "bdf302a43b81a8b5",
+      "texto_ptbr": "Fez uma linha no Bingo? Que beleza! Agora enfie a cabeça num torno, com certeza!",
+      "lote": "505"
+    },
+    {
+      "id": "b15f",
+      "chave": "dialog__grunty_bingolinecompleted5",
+      "hash_es": "8d2414c1c6f523d1",
+      "texto_ptbr": "Odeio Bingo e odeio tudo, me deixa mais irada que jogo da velha ou Ludo!",
+      "lote": "505"
+    },
+    {
+      "id": "ab66",
+      "chave": "dialog__grunty_insult1",
+      "hash_es": "88a7a0d482de6e3f",
+      "texto_ptbr": "Um urso, um pássaro e um Senhor dos Jogos? Que alegria ter rivais tão fracos e sem fogo!",
+      "lote": "505"
+    },
+    {
+      "id": "1856",
+      "chave": "dialog__grunty_insult10",
+      "hash_es": "807ec2b6e899ef09",
+      "texto_ptbr": "A corrida começou, o jogo começou, e a chance do Banjo já acabou!",
+      "lote": "505"
+    },
+    {
+      "id": "ab67",
+      "chave": "dialog__grunty_insult2",
+      "hash_es": "25cf95e5123ee250",
+      "texto_ptbr": "É impressão minha, ou o seu nariz é quadrado? Os fãs vão odiar, urso feio e desajeitado!",
+      "lote": "505"
+    },
+    {
+      "id": "ab68",
+      "chave": "dialog__grunty_insult3",
+      "hash_es": "a245c96c0557ba4e",
+      "texto_ptbr": "Você se acha um campeão brigão, mas eu só vejo um perdedor pulguento, que ilusão!",
+      "lote": "505"
+    },
+    {
+      "id": "ab69",
+      "chave": "dialog__grunty_insult4",
+      "hash_es": "75de0f317e58a64e",
+      "texto_ptbr": "Sem as suas habilidades especiais, só tem essa chave inglesa idiota e nada mais!",
+      "lote": "505"
+    },
+    {
+      "id": "ab6a",
+      "chave": "dialog__grunty_insult5",
+      "hash_es": "9f924d3d9f48dc9c",
+      "texto_ptbr": "Ei, urso, vá me buscar uma bebida. Estou com calor e a axila, fedida!",
+      "lote": "505"
+    },
+    {
+      "id": "ab6b",
+      "chave": "dialog__grunty_insult6",
+      "hash_es": "3d39267161ad2874",
+      "texto_ptbr": "Voltei de tão longe para te derrubar, chutar seu traseiro e a coroa recuperar!",
+      "lote": "505"
+    },
+    {
+      "id": "ab6c",
+      "chave": "dialog__grunty_insult7",
+      "hash_es": "1ec86cba3f8d6fb0",
+      "texto_ptbr": "Sua amiga emplumada virou piada. Cadê as falas &quot;engraçadas&quot;? Não sobrou nada!",
+      "lote": "505"
+    },
+    {
+      "id": "ab6d",
+      "chave": "dialog__grunty_insult8",
+      "hash_es": "2578d017efc2c607",
+      "texto_ptbr": "Esta cidade é uma grande confusão. Dava um tapa no urbanista, de supetão!",
+      "lote": "505"
+    },
+    {
+      "id": "ab6e",
+      "chave": "dialog__grunty_insult9",
+      "hash_es": "4d8892790fb853ab",
+      "texto_ptbr": "Depois de muito pensar, vou tratar esta farsa como férias, pra relaxar!",
+      "lote": "505"
+    },
+    {
+      "id": "ac7c",
+      "chave": "dialog__grunty_safehouse1open",
+      "hash_es": "33737519ef8d32a5",
+      "texto_ptbr": "O Esconderijo está aberto, a polícia vem chegando, e eu fico aqui, inocente, assobiando!",
+      "lote": "505"
+    }
+  ]
+}

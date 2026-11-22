@@ -1,0 +1,328 @@
+{
+  "arquivo": "11aa2945",
+  "asset": "aid_loctext_banjox_nuttyacres_act6",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "e8af145e34900555",
+      "texto_ptbr": "{MOODHAPPY}Ora, se não é o Marechal do Ar Banjo. Veio nos deslumbrar com outra aula magistral de voo?",
+      "lote": "603"
+    },
+    {
+      "id": "b254",
+      "chave": "dialog__game1_fail",
+      "hash_es": "cd6b923f2beae7c0",
+      "texto_ptbr": "{MOODSAD}Que apresentação fraca! Vamos, Banjo, já vimos do que você é capaz!",
+      "lote": "603"
+    },
+    {
+      "id": "9744",
+      "chave": "dialog__game1_intro",
+      "hash_es": "034c16b84c0d9295",
+      "texto_ptbr": "{MOODHAPPY}Pip pip! Quer usar essas habilidades de voo para algo bom, Banjo? A Aerococo está sempre procurando novos recrutas! {PAGEBREAK}Para ganhar um lugar nas nossas fileiras distintas, basta vencer uma corrida aérea ao redor da ilha...",
+      "lote": "603"
+    },
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "6bec953fd6066706",
+      "texto_ptbr": "{MOODHAPPY}Siga os portões aéreos e chegue ao fim do percurso antes de mim. {PAGEBREAK}Convidei alguns amigos para você não ficar tão sozinho lá em cima!",
+      "lote": "603"
+    },
+    {
+      "id": "d532",
+      "chave": "dialog__game1_successa",
+      "hash_es": "f755692c4f59045f",
+      "texto_ptbr": "{MOODHAPPY}Voo superlativo! Você venceu todos nós! Eu te ofereceria suas asas, mas acho que você prefere o Jiggy e os prêmios extras?",
+      "lote": "603"
+    },
+    {
+      "id": "d534",
+      "chave": "dialog__game1_successc",
+      "hash_es": "04e544b4c7baf722",
+      "texto_ptbr": "{MOODHAPPY}Uma tentativa audaciosa! Belo voo, Banjo! Você mereceu esse Jiggy, é um talento nato!",
+      "lote": "603"
+    },
+    {
+      "id": "d536",
+      "chave": "dialog__game1_successe",
+      "hash_es": "d6eabdf6baecfda3",
+      "texto_ptbr": "Nada mal, mas não o bastante para ganhar o Jiggy desta vez. Lembre-se, Banjo: um piloto de nascença nunca desiste!",
+      "lote": "603"
+    },
+    {
+      "id": "f828",
+      "chave": "dialog__game2_beaten",
+      "hash_es": "2a013a705d4793ff",
+      "texto_ptbr": "{MOODSAD}Tá, eu já descobri. Você deve ter pegado um vento de cauda de sorte da última vez. Duvido seriamente que consiga de novo!",
+      "lote": "603"
+    },
+    {
+      "id": "daf5",
+      "chave": "dialog__game2_fail",
+      "hash_es": "9d537be5ea2bf124",
+      "texto_ptbr": "{MOODHAPPY}Uau. Como você consegue ser tão ruim em tantas coisas diferentes? Pode tentar de novo, mas não sei se adianta...",
+      "lote": "603"
+    },
+    {
+      "id": "d405",
+      "chave": "dialog__game2_intro",
+      "hash_es": "7e0886f11385555d",
+      "texto_ptbr": "{MOODHAPPY}Ah, o urso fracassado e sua amiga pescoço de lápis... {PAGEBREAK}Sabia que nem todas as minhas habilidades são de velocidade? Na verdade, motores nem são necessários no meu desafio mais recente! Chamo de Festival Roda Livre. Vocês podem ajudar a completar o número de participantes!",
+      "lote": "603"
+    },
+    {
+      "id": "9d67",
+      "chave": "dialog__game2_objectives",
+      "hash_es": "2ef9da816f7d6689",
+      "texto_ptbr": "{MOODHAPPY}As regras são simples. Assim que começar o desafio, o S.J. vai remover todos os controles menos a direção. {PAGEBREAK}Vá em Roda Livre o mais longe possível, e a distância será medida quando você finalmente parar.",
+      "lote": "603"
+    },
+    {
+      "id": "6653",
+      "chave": "dialog__game2_successa",
+      "hash_es": "71bdc992ce91bf40",
+      "texto_ptbr": "{MOODSAD}Não acredito, você foi mais longe que eu! Seu peso enorme deve ter te dado vantagem por uma vez! Vá, pegue seus prêmios e me deixe lamentar meu saudoso recorde mundial...",
+      "lote": "603"
+    },
+    {
+      "id": "6655",
+      "chave": "dialog__game2_successc",
+      "hash_es": "e07e4bda36c0c437",
+      "texto_ptbr": "Nada mal, urso. Acho que você merece esse Jiggy só por chegar perto da minha pontuação imbatível!",
+      "lote": "603"
+    },
+    {
+      "id": "6657",
+      "chave": "dialog__game2_successe",
+      "hash_es": "2ed3d55ccb10b583",
+      "texto_ptbr": "{MOODHAPPY}Ha! O que foi isso? Até aquele palhaço do Klungo rolaria mais longe tropeçando nos próprios pés! Não espere grandes prêmios...",
+      "lote": "603"
+    },
+    {
+      "id": "cd09",
+      "chave": "dialog__game3_beaten",
+      "hash_es": "621131dd9b703f93",
+      "texto_ptbr": "{MOODHAPPY}Ursso bom na corrida da última vez, querer ir de novo?",
+      "lote": "603"
+    },
+    {
+      "id": "0396",
+      "chave": "dialog__game3_fail",
+      "hash_es": "adcef533d0e6620b",
+      "texto_ptbr": "{MOODSAD}Klungo não esperar mesmo que ursso perdesse! Sentir-se estranhamente decepcionado e desapontado...",
+      "lote": "603"
+    },
+    {
+      "id": "10c6",
+      "chave": "dialog__game3_intro",
+      "hash_es": "b7e1cd5ccc92e242",
+      "texto_ptbr": "{MOODSAD}Temporada seca deixar Klungo todo quente e suado...",
+      "lote": "603"
+    },
+    {
+      "id": "29e8",
+      "chave": "dialog__game3_introb",
+      "hash_es": "542cba73f01c35b0",
+      "texto_ptbr": "Informação demais! E eu achava que você não podia cheirar pior.",
+      "lote": "603"
+    },
+    {
+      "id": "29e9",
+      "chave": "dialog__game3_introc",
+      "hash_es": "c4302c21da54599d",
+      "texto_ptbr": "{MOODHAPPY}Pelo menos leito de rio seco virar boa pista de corrida com muitos choquesss! Ursso querer se juntar a Klungo para um pouco de confusão?",
+      "lote": "603"
+    },
+    {
+      "id": "fac8",
+      "chave": "dialog__game3_objectives",
+      "hash_es": "29748e15f79b5f03",
+      "texto_ptbr": "{MOODHAPPY}Corrida simples, seguir os pontos de controle ao longo do rio. {PAGEBREAK}Primeiro a completar o número de voltas indicado ser vencedor!",
+      "lote": "603"
+    },
+    {
+      "id": "f774",
+      "chave": "dialog__game3_successa",
+      "hash_es": "f34ed9586f25732c",
+      "texto_ptbr": "{MOODSAD}Ursso rápido demais para Klungo desengonçado... ursso ganhar o melhor prêmio disponível!",
+      "lote": "603"
+    },
+    {
+      "id": "f776",
+      "chave": "dialog__game3_successc",
+      "hash_es": "80affab671202023",
+      "texto_ptbr": "Bem rápido, mas Klungo saber que ursso pode ir mais rápido. Ursso ganhar Jiggy de qualquer jeito, mas dever tentar melhorar o tempo...",
+      "lote": "603"
+    },
+    {
+      "id": "f778",
+      "chave": "dialog__game3_successe",
+      "hash_es": "08b17df58deffe5f",
+      "texto_ptbr": "Ursso fazer bem, mas não rápido o bastante para Jiggy. Klungo querer emoçõesss e tombosss!",
+      "lote": "603"
+    },
+    {
+      "id": "a1ea",
+      "chave": "dialog__game4_beaten",
+      "hash_es": "0ff9b055ec950e34",
+      "texto_ptbr": "{MOODHAPPY}Banjo já ajudar Humba e Mumbo a embarcar cocos, mas poder tentar de novo para conseguir tempo melhor...",
+      "lote": "603"
+    },
+    {
+      "id": "2c37",
+      "chave": "dialog__game4_fail",
+      "hash_es": "1011f3d545dddc5d",
+      "texto_ptbr": "{MOODSAD}Barco partir sem os cocos de Nutty Acres! Opa, sem pagamento para os jornaleiros de novo!",
+      "lote": "603"
+    },
+    {
+      "id": "4d87",
+      "chave": "dialog__game4_intro",
+      "hash_es": "448c04a8686e74e6",
+      "texto_ptbr": "O que foi, Humba? Você parece um pouco estressada...",
+      "lote": "603"
+    },
+    {
+      "id": "fec9",
+      "chave": "dialog__game4_introb",
+      "hash_es": "285501909a3606df",
+      "texto_ptbr": "{MOODANGRY}Marido bobo desaparecer justo quando barco de carga chegar para buscar a colheita de cocos de Nutty Acres!",
+      "lote": "603"
+    },
+    {
+      "id": "feca",
+      "chave": "dialog__game4_introc",
+      "hash_es": "c02ea1f61b40e076",
+      "texto_ptbr": "{MOODANGRY}Só Mumbo aprovar cocos para embarque. Barco não esperar, então cocos não ir a lugar nenhum!",
+      "lote": "603"
+    },
+    {
+      "id": "a9c6",
+      "chave": "dialog__game4_nutsapproved",
+      "hash_es": "eca759aad0b07bf2",
+      "texto_ptbr": "{MOODHAPPY}Cocos todos prontos! Banjo levar para barco agora, rapidinho!",
+      "lote": "603"
+    },
+    {
+      "id": "5829",
+      "chave": "dialog__game4_objectives",
+      "hash_es": "44dfa6fb93d50cd6",
+      "texto_ptbr": "Banjo precisar levar todos os cocos ao Mumbo para aprovação. {PAGEBREAK}Marido inútil provavelmente caçando caranguejos nas dunas de Nutty Acres. Quando cocos aprovados, ter que levar ao cais antes que barco partir. {PAGEBREAK}Garantir que todos os cocos estejam a bordo, senão fazenda ter grande prejuízo!",
+      "lote": "603"
+    },
+    {
+      "id": "8895",
+      "chave": "dialog__game4_successa",
+      "hash_es": "45e10b4343ebfb48",
+      "texto_ptbr": "{MOODHAPPY}Banjo embarcar todos os cocos! Fazenda ter grande bônus este ano, então Banjo ganhar grande recompensa também!",
+      "lote": "603"
+    },
+    {
+      "id": "8897",
+      "chave": "dialog__game4_successc",
+      "hash_es": "ed83f4408189519c",
+      "texto_ptbr": "{MOODHAPPY}Banjo fazer bem em levar todos os cocos ao barco! Pegar Jiggy, mas talvez tentar de novo para tempo ainda mais rápido?",
+      "lote": "603"
+    },
+    {
+      "id": "8899",
+      "chave": "dialog__game4_successe",
+      "hash_es": "8c2f9259c13156ea",
+      "texto_ptbr": "Banjo fazer bem, todos os cocos no barco, mas trabalho demorar tanto que Humba não recompensar com Jiggy desta vez. Desculpa!",
+      "lote": "603"
+    },
+    {
+      "id": "76cb",
+      "chave": "dialog__game5_beaten",
+      "hash_es": "43dae0da58251c6c",
+      "texto_ptbr": "{MOODHAPPY}Ei, magrelo. Você é o rei das ondas, não vou negar. Veio atrás de um tempo ainda mais rápido?",
+      "lote": "603"
+    },
+    {
+      "id": "54d8",
+      "chave": "dialog__game5_fail",
+      "hash_es": "779ae2bfd3edc471",
+      "texto_ptbr": "{MOODSAD}Então navegar não é muito a sua praia, Banjo? Deixa pra lá, pelo menos eu não cheguei em último!",
+      "lote": "603"
+    },
+    {
+      "id": "8a48",
+      "chave": "dialog__game5_intro",
+      "hash_es": "436a87e937677013",
+      "texto_ptbr": "{MOODSAD}Isso já está começando a cansar! Aquele T.T. acha que pode me vencer em tudo!",
+      "lote": "603"
+    },
+    {
+      "id": "d3aa",
+      "chave": "dialog__game5_introb",
+      "hash_es": "49580e608f541ae8",
+      "texto_ptbr": "Confia em mim, Cara de Mocotó. Se um dia fizerem um concurso de bico mais comprido, você ganha fácil.",
+      "lote": "603"
+    },
+    {
+      "id": "d3ab",
+      "chave": "dialog__game5_introc",
+      "hash_es": "fdbd717ddcdbc0f6",
+      "texto_ptbr": "{MOODSAD}Bem, chega! Ele me venceu em terra e no ar, então vamos ver como ele se sai no mar! {PAGEBREAK}Uma corrida de barco ao redor da ilha... desta vez o Sr. Em Forma é quem vai rir. Vamos testar o percurso?",
+      "lote": "603"
+    },
+    {
+      "id": "b58a",
+      "chave": "dialog__game5_objectives",
+      "hash_es": "a40587a9cc76109d",
+      "texto_ptbr": "{MOODHAPPY}Siga o percurso ao redor da ilha e não deixe de passar por todos os portões. {PAGEBREAK}Parece que o resto dos jornaleiros está aqui, então essa vitória vai ser de saborear!",
+      "lote": "603"
+    },
+    {
+      "id": "19b6",
+      "chave": "dialog__game5_successa",
+      "hash_es": "8d664bc612cf9187",
+      "texto_ptbr": "{MOODSAD}Não acredito! Se não é o T.T. me vencendo, é você! Ai... acho que é melhor eu entregar os prêmios de primeiro lugar.",
+      "lote": "603"
+    },
+    {
+      "id": "19b8",
+      "chave": "dialog__game5_successc",
+      "hash_es": "1cdc95a9646ecc06",
+      "texto_ptbr": "Nada mal, magrelo, nada mal mesmo. Fique com o Jiggy por enquanto e volte alguma hora para cortar mais alguns segundos do seu recorde.",
+      "lote": "603"
+    },
+    {
+      "id": "19ba",
+      "chave": "dialog__game5_successe",
+      "hash_es": "a7c2321d7ea54157",
+      "texto_ptbr": "{MOODHAPPY}Uma corrida nada mal... mas também nada demais. Você precisa içar essas velas se ainda quer o Jiggy!",
+      "lote": "603"
+    },
+    {
+      "id": "fad8",
+      "chave": "dialog__jinjoorange_greeting",
+      "hash_es": "c0f4e209dfcdf4e6",
+      "texto_ptbr": "{MOODHAPPY}Eu não esperava visitas, mas é sempre um prazer! Interessado em uma rodada de Arremesso de Jinjo?",
+      "lote": "603"
+    },
+    {
+      "id": "6196",
+      "chave": "dialog__jinjoorange_lose",
+      "hash_es": "85ba2736f607ca02",
+      "texto_ptbr": "{MOODSAD}Isso foi bem lamentável, urso! Achei que a essa altura você já saberia arremessar um Jinjo! Volte e tente de novo mais tarde.",
+      "lote": "603"
+    },
+    {
+      "id": "9c71",
+      "chave": "dialog__jinjoorange_objectives",
+      "hash_es": "ab3db070764dfa7a",
+      "texto_ptbr": "{MOODHAPPY}Vamos nessa! Venha direto para cima de mim e use o seu impulso para me arremessar além da distância alvo!",
+      "lote": "603"
+    },
+    {
+      "id": "ad11",
+      "chave": "dialog__jinjoorange_win",
+      "hash_es": "125e64388a2a754d",
+      "texto_ptbr": "{MOODHAPPY}Você conseguiu! Três vivas para uma decolagem e um pouso bem-sucedidos!",
+      "lote": "603"
+    }
+  ]
+}

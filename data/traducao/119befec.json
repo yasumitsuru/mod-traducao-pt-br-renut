@@ -1,0 +1,62 @@
+{
+  "arquivo": "119befec",
+  "asset": "aid_loctext_banjox_ui_ingame_dialog_test",
+  "frases": [
+    {
+      "id": "a51f",
+      "chave": "dialog__test1",
+      "hash_es": "691548508387b61f",
+      "texto_ptbr": "Blá Blá Blá",
+      "lote": "606"
+    },
+    {
+      "id": "a520",
+      "chave": "dialog__test2",
+      "hash_es": "90041dbc9ae9392b",
+      "texto_ptbr": "Blá blá blá",
+      "lote": "606"
+    },
+    {
+      "id": "a521",
+      "chave": "dialog__test3",
+      "hash_es": "b6a4dc1794991291",
+      "texto_ptbr": "zzzzzzzZZZZZZZZzzzzzzz",
+      "lote": "606"
+    },
+    {
+      "id": "a522",
+      "chave": "dialog__test4",
+      "hash_es": "976edf0ae0856213",
+      "texto_ptbr": "Uhuuuuuuuuu!  Uma string de texto bem longa para ver o que acontece com a quebra de linha...agora ainda maior para ver o que acontece com a rolagem!",
+      "lote": "606"
+    },
+    {
+      "id": "a523",
+      "chave": "dialog__test5",
+      "hash_es": "fcb3f67ea5935f7e",
+      "texto_ptbr": "Hã-hã",
+      "lote": "606"
+    },
+    {
+      "id": "a524",
+      "chave": "dialog__test6",
+      "hash_es": "724940b1b424b253",
+      "texto_ptbr": "...Insira o texto da conversa aqui...",
+      "lote": "606"
+    },
+    {
+      "id": "af6f",
+      "chave": "dialog__test_mrfit",
+      "hash_es": "78422ba54f099080",
+      "texto_ptbr": "Olá! Eu sou o Sr. Em Forma, mas não tenho nada para você fazer aqui, então vá embora e me deixe em paz!",
+      "lote": "606"
+    },
+    {
+      "id": "50b9",
+      "chave": "dialog__testja",
+      "hash_es": "eb55d4454f32bc7e",
+      "texto_ptbr": "Um texto entediante qualquer para fins de teste...",
+      "lote": "606"
+    }
+  ]
+}

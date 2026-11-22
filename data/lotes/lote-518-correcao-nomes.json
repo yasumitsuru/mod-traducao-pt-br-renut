@@ -1,0 +1,231 @@
+{
+  "lote": "518",
+  "descricao": "correção retroativa: restaura nomes oficiais de fases, mundos e áreas jogáveis",
+  "traducoes": {
+    "1107e839": {
+      "50bc": "Parabéns, você derrotou a Grunty... de novo. Aperte o Botão [A] se quiser ver a cena final, ou o Botão [B] para ficar à vontade em Spiral Mountain.",
+      "3267": "Espera, você tem um plano? Um plano de verdade desta vez? E a gente achando que você só ficava à toa em Showdown Town.",
+      "326a": "Adeus, Spiral Mountain; olá, Bosques da Grunty! Vocês dois, preparem-se para conhecer seus criadores!"
+    },
+    "110f9757": {
+      "5693": "Últimos resultados ......... Futebol: S.J. City 10 - Grunty Rovers 0 ... Grottenham Coldspur 1 - Condado de Dullby 3 ... Vila Jinjo 2 - Cidade Dingpot 1 ... Twycross Atlético 4 - Trashton Villa 0 ......... Dardos: A Sra. 'Mosca' Bottles é a nova campeã dos dardos e derrotou Gruntilda 'Queixo Duplo' Winkybunion, mesmo sem a Sra. B conseguir enxergar o alvo ......... Tênis: A. Jinjo venceu G. Talbot por 6-0, 6-1, 6-0 ......... Basquete: Piratas do Blubber 98 - Touros do Boggy 25 ... Calor da Humba 120 - Magia do Mumbo 78 ... Tigres do Troféu 101 - Mavericks do Sr. Em Forma 100 ......... Alguém está mesmo lendo isto? ......... Boxe: Franklin 'Punhos Peludos' Fizzlybear venceu o Professor 'Saco de Pancada' Pester por nocaute técnico aos 12 segundos do round 1 ......... Golfe: Copa Passatempo de Fim de Semana Frustrante, rodada 2 - 'Boa Madeira' Nabnut -5 ... 'Águia' Eyrie -3 ... Chris P. Putter -1 ... 'Divot' Mayles Jr. +1 ... 'Ferro-Velho' Price +4 ... G. Kirkhope +15 ......... Atletismo: O Sr. Em Forma bateu o recorde no salto em distância com 13,7 metros, mas foi superado pelo Tomás Troféu logo no salto seguinte, com 14 metros ......... Sinuca: 'Tacada de Sorte' Banjo venceu 'Canhão' Klungo por 3-2 ... Jolly 'A Bola Marrom' Dodger venceu Merry Maggie 'Mira Mal' por 3-0 ... 'Tacada Saltitante' Jamjars venceu Babs 'Polidora de Bolas' Buffbrass por 3-1 ......... Banjo-Kazooie: Nuts and Bolts deve ser muito chato se você ainda está lendo isto em vez de jogar ......... Críquete: Ninguém nos EUA entende as regras, mas Boringshire venceu South Yawnshire por uma entrada e 265 corridas e levou para casa uma velha taça empoeirada, entregue por um homem ainda mais velho ......... Beisebol: Pikelet Brown Sox 3 - Anjos da Tooty 7 ... Gigantes Jinjo 9 - Dodgers Minjo 6 ... Bandidos do Jolly 11 - Cardeais da Canary Mary 2 ......... E por fim, a vitrine do calendário esportivo .................. Dominó: Na Maratona de Dominó nº 134 de Showdown Town, realizada na Velha Chaleira Vazia, Lord Woo Fak Fak venceu Weldar depois de 5 anos e 172 dias de jogo, porque Weldar enferrujou até sumir. Fak Fak leva o primeiro prêmio de 50 centavos e um saco de torresmo.................."
+    },
+    "111382ea": {
+      "2f6b": "Coletar notas musicais pode parecer um tanto antiquado, mas elas são a única forma de moeda em Showdown Town."
+    },
+    "11159462": {
+      "d6c4": "Bem-vindos ao principal empório de acessórios para veículos de Showdown Town. Concorrência feroz! Humba nunca mentir!"
+    },
+    "111dc2ac": {
+      "3387": "Seja grato por eu ter trazido você a Showdown Town e não à Cidade Country. Lá é bem menos agradável. A música! As danças coreografadas!",
+      "3b80": "Você alcançou um marco importante! Há Jiggies suficientes depositados para reabrir a passagem para Spiral Mountain, onde o seu desafio final aguarda. {PAGEBREAK}Você pode ir agora mesmo forçar a Gruntilda a um confronto ou ficar por aqui para completar os Atos restantes dos Mundos de Jogo... a escolha é sua.",
+      "ddcf": "Você pode estar limitado a um único veículo em Showdown Town, mas não deixe isso impedir que experimente as melhores peças novas para criar máquinas poderosas para usar nos Mundos de Jogo!",
+      "ddd5": "Os Jinjos dos Mundos de Jogo são bem mais independentes que os poucos que restam em Showdown Town, que talvez precisem de ajuda para escapar da situação atual."
+    },
+    "1120c047": {
+      "8139": "Pronto para visitar outro mundo? As muitas atrações duvidosas de Banjoland esperam por você. Suba até a minha fábrica, pegue o Globo de Jogo recém-liberado e leve-o até o pedestal!",
+      "a3f8": "Quer encarar o seu próximo Mundo de Jogo? O Globo de Jogo que dá acesso ao ambiente de alta tecnologia de LOGBOX 720 foi liberado na minha fábrica. Pegue o Globo e encontre o pedestal!",
+      "59e2": "Acho que está na hora de soltar você num Mundo de Jogo em escala real. O Globo de Jogo de Nutty Acres foi liberado. Venha buscá-lo na minha fábrica e depois leve-o ao pedestal!",
+      "6c19": "O Terrarium of Terror... parece sinistro? Receio que seja para lá que você vai agora. O Globo de Jogo foi liberado na minha fábrica, então busque-o logo e leve-o ao pedestal!",
+      "2dc5": "Se você está com espírito esportivo, talvez goste de se aventurar num mundo que chamo de Jiggosseum. Como agora você já alcança o pedestal que abre o caminho, liberei o Globo de Jogo dele para retirada!"
+    },
+    "11244458": {
+      "586a": "Aha, outra Plataforma de Teleporte! Estacione o Carrinho nela e você poderá pular de um Teleporte a outro por toda Showdown Town. Experimente!"
+    },
+    "112a5409": {
+      "b2de": "Test-O-Track",
+      "4267": "Tem certeza de que quer sair do tutorial e voltar a Showdown Town?"
+    },
+    "113b4c15": {
+      "0ad5": "Você entrou em um novo grupo! Uma partida de liga está em andamento. Você pode jogar em Test-O-Track até ela terminar.",
+      "7420": "Seu grupo começou uma partida sem você. Sorte sua que pode queimar pneus em Test-O-Track!",
+      "8055": "Bem-vindo! Este é o meu centro de competições multijogador, onde você pode batalhar no Xbox LIVE. {PAGEBREAK}Criei um grupo só com você, mas você pode entrar em outros ou convidar amigos para formar grupos maiores. {PAGEBREAK}O mundo em que você está agora é a Test-O-Track; aperte o Botão [BACK] Voltar para entrar ou sair dele. Você pode usá-la para se divertir enquanto espera as partidas começarem! {PAGEBREAK}Um segundo jogador pode entrar ao fazer login em outro controle e apertar o Botão [A].",
+      "5426": "Bem-vindo! Este é o meu centro de cooperação multijogador, onde você pode formar duplas para vencer a Equipe Tomás nas corridas e a Equipe Grunty nos esportes! {PAGEBREAK}Criei um grupo só com você, então convide um amigo, entre no grupo dele ou encontre um parceiro para começar. {PAGEBREAK}O mundo em que você está agora é a Test-O-Track; aperte o Botão [BACK] Voltar para entrar ou sair dele. Você pode usá-la para se divertir enquanto espera as partidas começarem! {PAGEBREAK}Um segundo jogador pode entrar ao fazer login em outro controle e apertar o Botão [A].",
+      "f430": "Ir para Test-O-Track",
+      "919e": "Jogando em Test-O-Track"
+    },
+    "114483e7": {
+      "b1ea": "Ir a Showdown Town",
+      "9b6e": "Placares de Banjoland",
+      "7a6d": "Placares de LOGBOX 720",
+      "bab7": "Placares de Nutty Acres",
+      "f1bb": "Placares de Spiral Mountain",
+      "864e": "Placares do Terrarium of Terror",
+      "17da": "Placares do Jiggosseum",
+      "cc1e": "Visite a Loja da Humba na praça principal de Showdown Town para comprar projetos e peças de veículo adicionais.",
+      "cc1f": "Procure o Bottles em Showdown Town se precisar de informações sobre coisas que você viu, esqueceu ou simplesmente não faz ideia do que sejam.",
+      "cc24": "Em Showdown Town, só o Carrinho pode ser usado. Não vou mudar de ideia! Todos os outros veículos podem ser usados dentro dos Mundos de Jogo.",
+      "cc42": "Dizem por aí que assar rosbife no vulcão de Nutty Acres é considerado uma verdadeira façanha.",
+      "cc43": "Showdown Town é formada por seis distritos: Centro, Distrito dos Teatros, Orla, Lago, Docas e Bairro Alto.",
+      "cc44": "Se achar que o Banjo precisa melhorar a velocidade, a resistência a dano ou a capacidade de levantar peso, vá treinar na Academia do Boggy, em Showdown Town.",
+      "cc60": "Fique de olho nas Portas especiais dos Atos da Grunty. Superar os desafios que há além delas é a chave para chegar a novas áreas de Showdown Town.",
+      "cc66": "Notas são a moeda do jogo. Use-as para comprar peças do Mumbo e projetos da Humba, ou para subornar certos moradores duvidosos de Showdown Town.",
+      "8250": "Colete as Caixas do Mumbo por Showdown Town e leve-as aos Motores do Mumbo para adicionar novas peças de veículo à Loja de Peças da garagem.",
+      "8251": "Visite os Motores do Mumbo em Showdown Town para construir e ajustar seus próprios veículos.",
+      "8253": "O mapa de Showdown Town mostra as Máquinas de Jiggies que têm Jiggies esperando para serem coletados e as Portas dos Atos que ainda têm Jiggies a conquistar.",
+      "576b": "Você pode ocultar o menu multijogador pressionando o botão [BACK] BACK se quiser apenas jogar em Test-O-Track e visitar os Motores do Mumbo.",
+      "52ea": "Demo Nutty Acres",
+      "26e5": "Test-O-Track",
+      "d9e8": "Test-O-Track",
+      "a5d6": "Sair para Showdown Town",
+      "73da": "Aviso: tem certeza de que quer sair para Showdown Town? Você perderá qualquer progresso não salvo.",
+      "fecd": "Estatísticas de Banjoland",
+      "828c": "Estatísticas de LOGBOX 720",
+      "89f6": "Estatísticas de Nutty Acres",
+      "da85": "Estatísticas de Showdown Town",
+      "487a": "Estatísticas de Spiral Mountain",
+      "e9ad": "Estatísticas do Terrarium of Terror",
+      "b2d9": "Estatísticas do Jiggosseum",
+      "2729": "Sair de Test-O-Track",
+      "bf57": "Tem certeza de que quer sair de Test-O-Track?",
+      "71e9": "Voltar a Showdown Town",
+      "74d8": "Banjoland",
+      "0c57": "LOGBOX 720",
+      "c161": "Nutty Acres",
+      "98b0": "Showdown Town",
+      "3d65": "Spiral Mountain",
+      "5fb8": "Terrarium of Terror",
+      "7104": "Jiggosseum"
+    },
+    "1149a294": {
+      "15ea": "Showdown Town",
+      "9739": "Test-O-Track"
+    },
+    "114c6966": {
+      "4982": "Uma batalha aérea em Test-O-Track. Ganhe pontos destruindo os veículos dos adversários! Vence o jogador com mais pontos quando o tempo acabar. Sair da zona de segurança também causa dano.",
+      "1027": "Esta corrida aérea sobre Nutty Acres permite testar sua habilidade em construir e pilotar aviões rápidos. Por algum motivo, carros e barcos não se dão bem neste circuito.",
+      "1727": "Pegue o jeito de voar pelos céus de Nutty Acres. Aviões pequenos levam vantagem na aproximação dos portões da corrida. Não escolha veículos que não voam ou vira piada!",
+      "68e6": "Um jogo do Jiggosseum para lutadores de verdade. Ganhe pontos ao transformar o veículo rival em sucata. Vence o jogador com mais pontos quando o tempo acabar. Fique na zona de segurança!",
+      "c58d": "Ah, a Rainha da Colina. Como o sumô, mas numa coroa gigante. Ficar na coroa rende pontos, principalmente se você estiver sozinho. A coroa se move por Banjoland, então escolha bem suas peças!",
+      "2ad9": "O detalhe do aro do Jiggosseum é que, a cada cesta, ele sobe até uma altura máxima. Você vai precisar de um veículo feito para transportar e arremessar as bolas.",
+      "c9a5": "A piscina de Banjoland recebe este jogo de luta. Ganhe pontos sempre que destruir o veículo de um adversário! Use algo que flutue, pois sair da zona de segurança também causa dano.",
+      "9543": "Use o tempo em Test-O-Track para testar seus veículos, não só para congelar outros jogadores e empurrá-los para a água...",
+      "bc02": "Este jogo do Jiggosseum desafia você a lançar seu veículo pela rampa e aterrissar nas zonas de pontos do piso da arena. A pontuação total ao fim de cinco rodadas decide o vencedor.",
+      "305e": "Esta é a corrida para exibir seus carros mais rápidos. As curvas em cada ponta da reta de Test-O-Track são bem fechadas, então construa algo que faça curva bem. Cuidado com o tráfego!",
+      "cf94": "Uma tradição do Jiggosseum. Você precisa levar o ovo pelos pontos de controle, então garanta que seu veículo esteja equipado para segurá-lo! Não esqueça de pegar o ovo no início da corrida...",
+      "15b7": "O futebol do Jiggosseum, ou soccer para alguns, consiste em colocar bolas no gol. No modo equipe há só uma bola, enquanto no modo solo há até três tipos de bola, com valores diferentes.",
+      "4dbb": "Rodar em Roda Livre em Banjoland testa o quão longe você chega quando a força do veículo é cortada. Você só pode usar o impulso da rampa, então construa algo que role bem!",
+      "340c": "Bola aí! Esta partida acontece em Banjoland. Para vencer, coloque a bola no Loggo com o menor número de tacadas. Qualquer toque na bola conta como tacada. Veículos que batem forte são recomendados!",
+      "7f3b": "O S.J. pegou o circuito de velocidade do Jiggosseum... e acrescentou barreiras. Use o veículo do S.J. ou construa outro que salte as barreiras, ou não vai muito longe.",
+      "e890": "Este jogo, no Jiggosseum, consiste em descer a rampa o mais longe possível. Sua pontuação após três saltos decide quem cobriu a maior distância total.",
+      "3d88": "Esta luta acontece no Terrarium of Terror, com gravidade baixa! Veículos voadores são melhores se você quer vencer. Ganha-se pontos ao reduzir o veículo do adversário a sucata.",
+      "b4a6": "Esta corrida acontece no Terrarium of Terror, e algum bobo diminuiu a gravidade! É traiçoeira, então tente aprender o percurso com o veículo do S.J. antes de sair com suas próprias criações.",
+      "14e3": "Este cruzeiro animado pelo mar ao redor de Nutty Acres é o paraíso para quem gosta de barcos rápidos. Aviões também funcionam bem no modo personalizado.",
+      "8424": "Veículos flutuantes são necessários neste circuito, situado nas águas de Nutty Acres. Quanto mais rápidos, melhor!",
+      "8cc1": "Use barcos rápidos e com boa capacidade de curva neste percurso, na piscina de Banjoland. Navegar com esperteza pela Cabeça de Tartaruga do Tanktup e fazer linhas suaves pelo Balde Enferrujado rende bons tempos por volta.",
+      "1a6b": "Quando estiver num grupo, você pode desbloquear o projeto do seu veículo atual. Assim, os outros podem encontrar você em Test-O-Track e apertar o Botão [B] para pegar uma cópia do projeto.",
+      "f607": "É uma boa corrida para iniciantes, principalmente com o veículo do S.J. Depois de muitas voltas ao redor da CPU principal do LOGBOX 720, o portão final fica sobre um disco de jogo giratório.",
+      "b58e": "Este circuito do Jiggosseum foi feito para testar seus carros mais rápidos nas curvas suaves. No modo personalizado, aviões também funcionam bem.",
+      "a048": "Enquanto estiver na plataforma elevada do Jiggosseum, você ganha pontos. Derrube o máximo de veículos rivais que puder!",
+      "80d9": "Este circuito do LOGBOX 720 é para veículos que vão bem na terra, no ar e na gosma aquosa. Melhor jogar com o veículo do S.J. até você ficar bom em construir o seu.",
+      "f11a": "Esta corrida difícil percorre a bela rota de Spiral Mountain, com um trecho em que os veículos precisam voar ou planar pelo grande vão até a antiga toca da Grunty. Cair pelas beiradas também é perigo.",
+      "1728": "Este percurso para iniciantes contorna a Spiral Mountain e apresenta áreas de terreno acidentado. Cair no fosso pode ser problema, ou pode ser usado a seu favor...",
+      "e6c9": "Banjoland",
+      "1d88": "LOGBOX 720",
+      "7172": "Nutty Acres",
+      "8df6": "Spiral Mountain",
+      "d1a9": "Terrarium of Terror",
+      "b5d5": "Test-O-Track",
+      "6955": "Jiggosseum"
+    },
+    "1170b914": {
+      "8b87": "Urso não acessar guias daqui. Precisar entrar na garagem direito por Showdown Town para ver o brilhante material de treinamento do Mumbo.",
+      "f3e8": "Urso não ir a Test-O-Track do xamã até ter veículo na garagem para testar!"
+    },
+    "11a8e97b": {
+      "2461": "Pelos poderes dos videogames investidos em mim por mim mesmo, declaro Banjo o legítimo dono de Spiral Mountain, para todo o sempre."
+    },
+    "11b5ef5f": {
+      "b11c": "O Carrinho é o único veículo permitido em Showdown Town. Ganhe Jiggies em jogos com a bruxa para melhorar o Carrinho com novas peças de veículo, e assim chegar a novas áreas da cidade.",
+      "36cd": "O Klungo's Arcade fica no píer da Orla. Dizem que o jogo dele pode ser um campeão mundial! Foi ele mesmo que me contou.",
+      "be59": "A Sra. Bottles foi atropelada pela Grunty em um dos veículos dela. Peraí, eu disse antes que ela estava a salvo em casa, em Spiral Mountain, não disse? Hã...",
+      "caf3": "Todo passeio do Banjo precisa de notas musicais. Em Showdown Town, elas servem de moeda para todo tipo de coisa, de compra de projetos a suborno... supostamente.",
+      "4f89": "O Mapa de Showdown Town. É um lugar enorme e você não vai ver tudo no começo, então uma ajudinha pode cair bem.",
+      "415c": "Você sabe que armas são proibidas em Showdown Town, né? Pois é, apesar do nome. Só os policiais têm o direito de armar os seus veículos, e você não é um, então nada disso!",
+      "17fe": "Sssuper! Fase novinha do incrível jogo de Klungo, &quot;Herói Klungo Sssalva o Mundo&quot;, agora pronta para jogar... todosss os desafiantesss bem-vindosss no Klungo's Arcade no píer!",
+      "c47e": "Klungo's Arcade",
+      "0d7a": "Mapa de Showdown Town",
+      "4a05": "Klungo's Arcade"
+    },
+    "11ccd2bd": {
+      "87ab": "A Spiral Mountain não é nada especial, mas é da Grunty um imóvel sensacional!",
+      "0507": "Espere só a Spiral Mountain ser minha, e a sua choupana vai virar farinha!",
+      "a7d3": "Seu passo não será tão leve nas manobras, quando a Spiral Mountain virar canteiro de obras!",
+      "a7d4": "Você liberou novos distritos em Showdown Town, mas é tanto esquisito que dá pesadelo!"
+    },
+    "11cf84ff": {
+      "5523": "Já jogou o Klungo's Arcade? Nossa, deve ser o pior jogo do &quot;mudno&quot;.",
+      "2d2d": "Tem quem diga que há fantasmas aqui em Showdown Town. Fantasmas! Daqui a pouco vão dizer que a polícia é um pouquinho corrupta!"
+    },
+    "11e0cae5": {
+      "a2fd": "Urso se acostumar com Carrinho. S.J. não deixar urso levar outro veículo para Showdown Town. {PAGEBREAK}Apertar Botão [Y] para entrar ou sair de veículos. Se urso perder veículo ou ele estar longe demais, segurar Botão [Y] para chamar veículo rápido. Muito útil!",
+      "c3a9": "Ah, vejo que voltou! O Jiggy que você ganhou agora precisa ser retirado da Máquina de Jiggies específica de Nutty Acres. {PAGEBREAK}Use a sua chave inglesa para liberar o Jiggy da Máquina de Jiggies e depois leve-o ao Banco de Jiggies para guardá-lo em segurança.",
+      "4794": "Ah, viu? Depositar o seu primeiro Jiggy abriu outra porta, o Ato 2 de Nutty Acres! {PAGEBREAK}Acho que você pegou o básico, então vou deixá-lo explorar, bater papo e aumentar a sua conta de Jiggies. Boa sorte, urso de ontem!",
+      "9704": "Então parece que você frustrou os planos de dominação da Grunty no mundo sonolento de Nutty Acres. Eu suspeitava que conseguiria. {PAGEBREAK}Ela estava usando Rodas de Alta Aderência, então, pela sua vitória, concedi a você um conjunto igual. Farei o mesmo com qualquer componente especial que ela usar em batalha. {PAGEBREAK}O seu Carrinho foi melhorado, e as suas esplêndidas rodas novas permitirão subir as encostas verdes e escorregadias. Pode ir!",
+      "9705": "Ah, vejo que você derrotou a Grunty em meio às entranhas de LOGBOX 720. Os Blocos Flutuantes dela agora são seus! {PAGEBREAK}Instalei-os no seu Carrinho para que você possa navegar por trechos de água. Aproveite a exploração!",
+      "ef75": "Ganhe e deposite Jiggies suficientes para abrir a porta final, volte a Spiral Mountain e, quem sabe, vença o jogo.",
+      "f062": "O papel da Grunty no meu maravilhoso jogo é bem simples. Ela deve tentar impedir que vocês dois voltem a Spiral Mountain.",
+      "db04": "Este encantador local é conhecido como Showdown Town.",
+      "6af6": "Já esqueceu? A porta do primeiro Mundo de Jogo está aberta. Pode muito bem atravessá-la. Não há muito mais o que fazer em Showdown Town por enquanto!"
+    },
+    "11e92675": {
+      "40be": "Sim, a Spiral Mountain já parece mais arrumada. De volta ao quiz!"
+    },
+    "11f0cc45": {
+      "b0b4": "Vim resolver suas diferenças, bruxa clichê. Vocês vão jogar um desafio à minha escolha. O vencedor fica com a Spiral Mountain. O perdedor... uma eternidade de trabalho duro na minha fábrica de videogames!",
+      "6a51": "Muitos anos se passaram, e a paz reina em Spiral Mountain.",
+      "bfd3": "Aqui é o DJ Jamjars, na Rádio Spiral Mountain FM!"
+    },
+    "11fbc3ac": {
+      "2bb2": "O Golfe de Ovelhas Infláveis chegou a Banjoland! Escolha um veículo bom em acertar ovelhas e tente pôr as maravilhas de lã no Vaso do Loggo com o menor número de tacadas possível.",
+      "0093": "Banjoland finalmente tem visitantes, e eles precisam muito de diversão. Faça as acrobacias descritas por Mumbo para impressioná-los e ganhar um prêmio.",
+      "9b17": "Uma corrida terrestre contra o T.T. por Nutty Acres. Você vai precisar do seu veículo mais rápido para vencer o gato competitivo demais.",
+      "ec3a": "Esta é uma corrida aérea por Nutty Acres e, como era de se esperar, você vai precisar de um veículo voador rápido.",
+      "3fbe": "Esta é uma corrida aquática em volta da bela paisagem da ilha de Nutty Acres. Não há tempo para admirar a vista, pois você vai usar seu veículo flutuante rápido para garantir o primeiro lugar.",
+      "8bd0": "Duelo em Spiral Mountain",
+      "a4d2": "BANJOLAND",
+      "a2db": "BANJOLAND ATO 1",
+      "a2dc": "BANJOLAND ATO 2",
+      "a2dd": "BANJOLAND ATO 3",
+      "a2de": "BANJOLAND ATO 4",
+      "a2df": "BANJOLAND ATO 5",
+      "a2e0": "BANJOLAND ATO 6",
+      "48d1": "LOGBOX 720",
+      "2e5a": "LOGBOX 720 ATO 1",
+      "2e5b": "LOGBOX 720 ATO 2",
+      "2e5c": "LOGBOX 720 ATO 3",
+      "2e5d": "LOGBOX 720 ATO 4",
+      "2e5e": "LOGBOX 720 ATO 5",
+      "2e5f": "LOGBOX 720 ATO 6",
+      "f09b": "NUTTY ACRES",
+      "ab24": "NUTTY ACRES ATO 1",
+      "ab25": "NUTTY ACRES ATO 2",
+      "ab26": "NUTTY ACRES ATO 3",
+      "ab27": "NUTTY ACRES ATO 4",
+      "ab28": "NUTTY ACRES ATO 5",
+      "ab29": "NUTTY ACRES ATO 6",
+      "56bb": "Um favorito do Jiggosseum: o arremesso de peso. Lance a bola o mais longe possível do alvo. Um veículo rápido, com peso na traseira e capaz de bater forte é o que você procura.",
+      "007d": "Uns arremessos de basquete do Jiggosseum. Você vai precisar de um veículo capaz de acertar as bolas na cesta pelo ar, então acho que o Carrinho não vai ajudar muito.",
+      "8b5b": "Grunty inundou o Jiggosseum e se recusa a sair até ser derrotada no polo aquático. Escolha um veículo aquático flutuante e empurre as bolas para o gol em forma de coroa!",
+      "7c52": "A Tocha do Jiggosseum",
+      "e860": "Transporte a chama pela arena inundada para acender a sagrada Tocha do Jiggosseum. Minha recomendação é um barco flutuante que carregue a tocha.",
+      "7e6a": "Showdown Town",
+      "799f": "SPIRAL MOUNTAIN",
+      "8fb2": "TERRARIUM OF TERROR",
+      "fdbb": "TERRARIUM OF TERROR ATO 1",
+      "fdbc": "TERRARIUM OF TERROR ATO 2",
+      "fdbd": "TERRARIUM OF TERROR ATO 3",
+      "fdbe": "TERRARIUM OF TERROR ATO 4",
+      "fdbf": "TERRARIUM OF TERROR ATO 5",
+      "fdc0": "TERRARIUM OF TERROR ATO 6",
+      "73de": "Test-O-Track",
+      "56be": "JIGGOSSEUM",
+      "6ac7": "JIGGOSSEUM ATO 1",
+      "6ac8": "JIGGOSSEUM ATO 2",
+      "6ac9": "JIGGOSSEUM ATO 3",
+      "6aca": "JIGGOSSEUM ATO 4",
+      "6acb": "JIGGOSSEUM ATO 5",
+      "6acc": "JIGGOSSEUM ATO 6"
+    }
+  }
+}

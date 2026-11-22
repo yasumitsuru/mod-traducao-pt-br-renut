@@ -1,0 +1,18 @@
+{
+  "arquivo": "11794f02",
+  "asset": "aid_loctext_banjox_tt_nuttyacres_act3",
+  "frases": [
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "9427",
+      "chave": "dialog__game1_objectivesrepeat",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    }
+  ]
+}

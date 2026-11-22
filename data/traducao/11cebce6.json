@@ -1,0 +1,251 @@
+{
+  "arquivo": "11cebce6",
+  "asset": "aid_loctext_banjox_nuttyacres_act1",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "22c96c0988ced4b9",
+      "texto_ptbr": "{MOODHAPPY}Mmm, crocante. Urso agora encontrar mais portas abertas em Showdown Town. Oomenacka!",
+      "lote": "603"
+    },
+    {
+      "id": "8c59",
+      "chave": "dialog__game1_beaten2",
+      "hash_es": "a9c1c3bff7d00a00",
+      "texto_ptbr": "{MOODHAPPY}Ursso já pegar Jiggy, então poder jogar de novo para fazer tempo melhor ou voltar de portal para Showdown Town, sssi estiver pronto para continuar...",
+      "lote": "603"
+    },
+    {
+      "id": "7ff5",
+      "chave": "dialog__game1_intro1",
+      "hash_es": "ba664b6879aca72d",
+      "texto_ptbr": "Ah, sim, a Ilha Nutty, lar da Fazenda Nutty Acres. {PAGEBREAK}Na verdade, é bem famosa. É aqui que crescem os cocos mais duros e resistentes do mundo!",
+      "lote": "603"
+    },
+    {
+      "id": "7ef7",
+      "chave": "dialog__game1_intro1b",
+      "hash_es": "89a3e864baf8b33d",
+      "texto_ptbr": "Ei, Kazooie, este lugar não é tão ruim. Olha só a vista!",
+      "lote": "603"
+    },
+    {
+      "id": "7ef8",
+      "chave": "dialog__game1_intro1c",
+      "hash_es": "89e0a0a340f09e43",
+      "texto_ptbr": "Para um lugar criado dentro da cabeça do S.J., eu esperava coisa pior.",
+      "lote": "603"
+    },
+    {
+      "id": "7ef9",
+      "chave": "dialog__game1_intro1d",
+      "hash_es": "7d801383e36f05fa",
+      "texto_ptbr": "...e falando em cocos anormalmente densos, não é o Klungo? O que é esse Jiggy flutuando na cabeça dele?",
+      "lote": "603"
+    },
+    {
+      "id": "7efa",
+      "chave": "dialog__game1_intro1e",
+      "hash_es": "5528d7b2bf884e30",
+      "texto_ptbr": "Creio que você conhece o esquisitão verde. Aproxime-se do Klungo e aperte o Botão [X] para falar.",
+      "lote": "603"
+    },
+    {
+      "id": "7ff6",
+      "chave": "dialog__game1_intro2",
+      "hash_es": "4b28362d9f6e64e0",
+      "texto_ptbr": "Oi, Klungo, quanto tempo...",
+      "lote": "603"
+    },
+    {
+      "id": "7f17",
+      "chave": "dialog__game1_intro2a",
+      "hash_es": "9e64bc54c2139d97",
+      "texto_ptbr": "O que, sinceramente, foi ótimo para nós. Então, cadê a verrugosa?",
+      "lote": "603"
+    },
+    {
+      "id": "7f18",
+      "chave": "dialog__game1_intro2b",
+      "hash_es": "86f82ed9bc2bf104",
+      "texto_ptbr": "{MOODHAPPY}Klungo não trabalhar mais para Grunty. Bruxa ser má e cheirar mal. Klungo comprar desodorante para ela, mas ela nunca usssar. {PAGEBREAK}Klungo agora ser um dos bonsss!",
+      "lote": "603"
+    },
+    {
+      "id": "7f19",
+      "chave": "dialog__game1_intro2c",
+      "hash_es": "845fad98df23765e",
+      "texto_ptbr": "Sério? Que... legal. E é por isso que tem um Jiggy flutuando na sua cabeça?",
+      "lote": "603"
+    },
+    {
+      "id": "7f1a",
+      "chave": "dialog__game1_intro2d",
+      "hash_es": "8c72596ff1f18d05",
+      "texto_ptbr": "{MOODHAPPY}Issso significar que Klungo ter desafio! Vencer desafio de Klungo e ele dar ao ursso um Jiggy dourado bonito.",
+      "lote": "603"
+    },
+    {
+      "id": "64d1",
+      "chave": "dialog__game1_mumboposttask",
+      "hash_es": "2e01169d2fd5d7bd",
+      "texto_ptbr": "{MOODSAD}Hmph... Mumbo ficar sem gás para cozinhar. Perguntar se gás de pântano queimar bem?",
+      "lote": "603"
+    },
+    {
+      "id": "43f2",
+      "chave": "dialog__game1_mumbopretask",
+      "hash_es": "b39eb8dbf09c6230",
+      "texto_ptbr": "{MOODANGRY}Eekumbokum. Xamã pronto para cozinhar, mas esposa boba esconder botijão de gás.",
+      "lote": "603"
+    },
+    {
+      "id": "4304",
+      "chave": "dialog__game1_mumbotalk",
+      "hash_es": "8116d4683763e5ea",
+      "texto_ptbr": "{MOODHAPPY}Eekumbokum, quem quer linguiça? Pode estar um pouco queimada, mas pelo menos urso não passar mal.",
+      "lote": "603"
+    },
+    {
+      "id": "a3e6",
+      "chave": "dialog__game1_mumbotalkb",
+      "hash_es": "cb680078d923208a",
+      "texto_ptbr": "Hã, obrigado pelo convite, Cabeça de Osso, mas acho que vamos pular o almoço.",
+      "lote": "603"
+    },
+    {
+      "id": "a3e7",
+      "chave": "dialog__game1_mumbotalkc",
+      "hash_es": "e072c4c02f0f3706",
+      "texto_ptbr": "{MOODHAPPY}Urso ganhar primeiro desafio. Muito bom! {PAGEBREAK}Urso voltar para ver Klungo? Talvez ele dar recompensa se desafio feito rápido o bastante. Oomenacka!",
+      "lote": "603"
+    },
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "65ff58086e78a44a",
+      "texto_ptbr": "{MOODSAD}Grande fogo na fazenda e cocos queimar fácil! {PAGEBREAK}Ursso chegar rápido à fazenda antes que colheita virar fumaça!",
+      "lote": "603"
+    },
+    {
+      "id": "4127",
+      "chave": "dialog__game1_objectivesa",
+      "hash_es": "9af0703774dd8268",
+      "texto_ptbr": "Em teoria, tudo bem, Bafo de Sardinha... mas mesmo se quiséssemos ajudar, eu perdi o Trote de Garra. {PAGEBREAK}Parece que os seus cocos vão levar uma torra!",
+      "lote": "603"
+    },
+    {
+      "id": "4128",
+      "chave": "dialog__game1_objectivesb",
+      "hash_es": "fba7237f2341ddfd",
+      "texto_ptbr": "{MOODSAD}Dirigir carrinho pequeno e engraçado para chegar rápido à fazenda. {PAGEBREAK}Olhar flecha e mapa para ver que caminho pegar!",
+      "lote": "603"
+    },
+    {
+      "id": "4129",
+      "chave": "dialog__game1_objectivesc",
+      "hash_es": "39142ddf5a38f28e",
+      "texto_ptbr": "{MOODSAD}Rápido! Klungo não querer levar surra, já basta a da bruxa! Ursso salvar fazenda, Klungo entregar Jiggy...",
+      "lote": "603"
+    },
+    {
+      "id": "1938",
+      "chave": "dialog__game1_objectivesrepeat1",
+      "hash_es": "7967e99ef5c2bf4e",
+      "texto_ptbr": "{MOODSAD}Ursso parar de perder tempo! Correr para fazenda, salvar cocos!",
+      "lote": "603"
+    },
+    {
+      "id": "1939",
+      "chave": "dialog__game1_objectivesrepeat2",
+      "hash_es": "7a87e9bde63fd4f2",
+      "texto_ptbr": "{MOODSAD}Ursso achar issso muito difícil, pouca esperança para o resssto do jogo...",
+      "lote": "603"
+    },
+    {
+      "id": "4044",
+      "chave": "dialog__game1_reachedmumbo",
+      "hash_es": "54cab2c3e256479f",
+      "texto_ptbr": "{MOODHAPPY}Fazenda não estar em chamas, afinal, xamã bobo só queimar almoço! Apertar Botão [Y] para sair do carrinho, depois ir até Mumbo e apertar Botão [X] para falar.",
+      "lote": "603"
+    },
+    {
+      "id": "d532",
+      "chave": "dialog__game1_successa",
+      "hash_es": "11f2630358fa6905",
+      "texto_ptbr": "{MOODHAPPY}Essstupendo! Como ursso chegar ao Mumbo tão rápido? Ursso ganhar tudo! Notas, Jiggy, até Troféu T.T.! {PAGEBREAK}Usar portal para voltar a Showdown Town, achar prêmio brilhante na Máquina de Jiggies se ainda não tiver pegado...",
+      "lote": "603"
+    },
+    {
+      "id": "d534",
+      "chave": "dialog__game1_successc",
+      "hash_es": "ba8ff91df1387689",
+      "texto_ptbr": "{MOODHAPPY}Ursso fazer bom trabalho e ganhar primeiro Jiggy. Só não rápido o bastante para o Troféu T.T. também! {PAGEBREAK}Desafio jogável de novo quando quiser. Ursso pegar portal para Showdown Town e já buscar primeiro Jiggy na Máquina de Jiggies? Melhor fazer issso primeiro...",
+      "lote": "603"
+    },
+    {
+      "id": "d536",
+      "chave": "dialog__game1_successe",
+      "hash_es": "6bddf3e066d7abba",
+      "texto_ptbr": "Ursso achar Mumbo no fim, mas demorar muito. Não bom o bastante para recompensa Jiggy desta vez, só Notas... {PAGEBREAK}Melhor tentar de novo se ursso ainda não ganhou Jiggy, senão chegar rápido a beco sem saída!",
+      "lote": "603"
+    },
+    {
+      "id": "ca0d",
+      "chave": "dialog__jinjogreen_greeting",
+      "hash_es": "2defd405d615668d",
+      "texto_ptbr": "{MOODSAD}Soluço, fungada... ah, você me pegou num momento muito triste. Perdi minha maior preciosidade! Viu ela por aí?",
+      "lote": "603"
+    },
+    {
+      "id": "de4b",
+      "chave": "dialog__jinjogreen_lose",
+      "hash_es": "2f727d1da434e620",
+      "texto_ptbr": "{MOODSAD}Acho que se foi de vez. O que o Vovô Jinjo diria? Soluço, fungada... lá vamos nós de novo. Deixe tudo para fora, foi o que minha terapeuta disse...",
+      "lote": "603"
+    },
+    {
+      "id": "0ce6",
+      "chave": "dialog__jinjogreen_objectives",
+      "hash_es": "ed42f9f2171998e0",
+      "texto_ptbr": "{MOODSAD}Meu banjo antigo, está na família há gerações! Eu estava tocando de levinho nos arbustos perto dos cocos do Mumbo ontem, e não o vi mais desde então...",
+      "lote": "603"
+    },
+    {
+      "id": "e726",
+      "chave": "dialog__jinjogreen_win",
+      "hash_es": "932beaf96366ac1a",
+      "texto_ptbr": "{MOODHAPPY}Muito obrigado, Banjo. Vou cuidar melhor dele, prometo. Por outro lado, sempre quis uma guitarra elétrica...",
+      "lote": "603"
+    },
+    {
+      "id": "7f77",
+      "chave": "dialog__jinjored_greeting",
+      "hash_es": "552e86bc3911042b",
+      "texto_ptbr": "{MOODHAPPY}Então, acha que é rápido agora que tem umas rodas, é? Vamos botar à prova. Quão veloz e furioso você é de verdade?",
+      "lote": "603"
+    },
+    {
+      "id": "6eb5",
+      "chave": "dialog__jinjored_lose",
+      "hash_es": "b7a81b072fa066d3",
+      "texto_ptbr": "{MOODHAPPY}Qual é, Banjo? Ainda carregando uns quilinhos a mais? Talvez seja aquela ave gorda e velha! Me avisa se quiser tentar de novo.",
+      "lote": "603"
+    },
+    {
+      "id": "c4d0",
+      "chave": "dialog__jinjored_objectives",
+      "hash_es": "abc3202f200449f5",
+      "texto_ptbr": "{MOODHAPPY}Leve essa geringonça à velocidade marcada no velocímetro e eu como meu... não, não tenho chapéu. Vou te dar um prêmio!",
+      "lote": "603"
+    },
+    {
+      "id": "1250",
+      "chave": "dialog__jinjored_win",
+      "hash_es": "43982287cfcb0d14",
+      "texto_ptbr": "{MOODHAPPY}Uau, você conseguiu... eu tinha certeza de que aquela coisa ia se desintegrar antes de você pegar velocidade suficiente.",
+      "lote": "603"
+    }
+  ]
+}

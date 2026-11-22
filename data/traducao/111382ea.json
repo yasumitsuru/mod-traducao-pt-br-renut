@@ -1,0 +1,90 @@
+{
+  "arquivo": "111382ea",
+  "asset": "aid_loctext_banjox_instructions_general",
+  "frases": [
+    {
+      "id": "6504",
+      "chave": "dialog__instructions_e3vehiclebreakup",
+      "hash_es": "93032ee9e7063d1c",
+      "texto_ptbr": "Seu veículo perdeu algumas peças por causa de danos. Segure o [RS] botão superior direito quando estiver no assento do veículo para ativar a habilidade de conserto com a chave inglesa da Kazooie.",
+      "lote": "503"
+    },
+    {
+      "id": "856a",
+      "chave": "dialog__instructions_foundcomponentsincrate",
+      "hash_es": "442611f90e78968a",
+      "texto_ptbr": "Muito bem! Você encontrou algumas peças de desafio em uma Caixa do Mumbo. Elas só podem ser usadas neste desafio, mas o reforço temporário deve ser útil.",
+      "lote": "503"
+    },
+    {
+      "id": "87a1",
+      "chave": "dialog__instructions_foundjiggytamper",
+      "hash_es": "e9a8f8405f9eac15",
+      "texto_ptbr": "Você encontrou um Interruptor de Adulteração de Jiggies. Ele &quot;massageou&quot; sua pontuação de Jiggies e, na prática, deu a você um Jiggy de graça. Eu sabia que devia ter desativado essas coisas... mas pelo menos você se esforçou!",
+      "lote": "503"
+    },
+    {
+      "id": "119d",
+      "chave": "dialog__instructions_hidereplaycontrols",
+      "hash_es": "846afa57e405c960",
+      "texto_ptbr": "Você pode exibir os controles na tela de novo a qualquer momento pressionando o botão [BACK] BACK.",
+      "lote": "503"
+    },
+    {
+      "id": "c2fa",
+      "chave": "dialog__instructions_ingameeditor",
+      "hash_es": "15fadf7423e478bf",
+      "texto_ptbr": "Esta ser garagem móvel mágica de Mumbo! Parar tempo para urso mudar ou consertar veículo. Tudo funcionar igual aos Motores do Mumbo, mas não salvar mudanças para sempre. Apertar Botão [B] para sair.",
+      "lote": "503"
+    },
+    {
+      "id": "749c",
+      "chave": "dialog__instructions_invehiclerepair",
+      "hash_es": "ff2fced9b41c2685",
+      "texto_ptbr": "Veículo sofrer dano e perder peças! Urso ficar no assento, chegar perto de peças soltas, segurar [RS] botão superior direito para usar habilidade de conserto com chave inglesa.",
+      "lote": "503"
+    },
+    {
+      "id": "1add",
+      "chave": "dialog__instructions_jiggybroken",
+      "hash_es": "416d07fb834a934f",
+      "texto_ptbr": "Um Jiggy quebrou porque sofreu dano demais. Não se preocupe, ele voltará para a Máquina de Jiggies de onde veio.",
+      "lote": "503"
+    },
+    {
+      "id": "be47",
+      "chave": "dialog__instructions_jiggytimedout",
+      "hash_es": "a9933cca28041971",
+      "texto_ptbr": "Um Jiggy foi retirado de uma Máquina de Jiggies, mas não foi depositado com segurança no Banco de Jiggies! Vou devolvê-lo à Máquina de Jiggies por enquanto para não se perder.",
+      "lote": "503"
+    },
+    {
+      "id": "2127",
+      "chave": "dialog__instructions_nopartsingarage",
+      "hash_es": "53cd044d64edf0fa",
+      "texto_ptbr": "Urso ainda não poder entrar na garagem, não ter sido apresentado a Mumbo. Ir jogar no modo um jogador e achar peças se urso querer construir próprio veículo.",
+      "lote": "503"
+    },
+    {
+      "id": "4f9c",
+      "chave": "dialog__instructions_nosummoning",
+      "hash_es": "2d801c1756fd65aa",
+      "texto_ptbr": "Urso não poder chamar veículo durante jogo de Jiggy, isso deixar tudo fácil demais. Sentir muito, urso, vida ser dura!",
+      "lote": "503"
+    },
+    {
+      "id": "2f6b",
+      "chave": "dialog__instructions_notes",
+      "hash_es": "9ed18d2e188e431c",
+      "texto_ptbr": "Coletar notas musicais pode parecer um tanto antiquado, mas elas são a única forma de moeda em Showdown Town.",
+      "lote": "518"
+    },
+    {
+      "id": "9d97",
+      "chave": "dialog__instructions_summonreminder",
+      "hash_es": "f0f6ad7918376e85",
+      "texto_ptbr": "Urso chamar veículo de volta segurando Botão [Y]. Não passar muito tempo a pé, para isso veículos existir!",
+      "lote": "503"
+    }
+  ]
+}

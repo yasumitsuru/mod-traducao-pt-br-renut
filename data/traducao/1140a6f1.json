@@ -1,0 +1,216 @@
+{
+  "arquivo": "1140a6f1",
+  "asset": "aid_loctext_banjox_cpu_act2",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "3f263602b302aff5",
+      "texto_ptbr": "Voltou para tentar o desafio de novo? Vai bater seu tempo anterior fácil, agora que estamos a 1.000 gigaflaps!",
+      "lote": "605"
+    },
+    {
+      "id": "b254",
+      "chave": "dialog__game1_fail",
+      "hash_es": "4828c949c43e40db",
+      "texto_ptbr": "Ah, não! É demais para mim, Banjo! Vou ter que levar para revisão naquela superloja que me rouba...",
+      "lote": "605"
+    },
+    {
+      "id": "9744",
+      "chave": "dialog__game1_intro",
+      "hash_es": "e277083c01c97bfb",
+      "texto_ptbr": "Preciso fazer a manutenção para este console rodar a 1.000 gigaflaps, mas o nível de brilho está machucando meus olhos!",
+      "lote": "605"
+    },
+    {
+      "id": "8026",
+      "chave": "dialog__game1_introb",
+      "hash_es": "4fef01b37366933d",
+      "texto_ptbr": "Ele usa lentes de aumento grudadas na cara e ainda se pergunta por que é míope. Parece que sobrou mais trabalho pesado para nós, Banjo!",
+      "lote": "605"
+    },
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "78e8d214db5b78dd",
+      "texto_ptbr": "As unidades de controle de brilho estão altíssimas. Estou tendo enxaqueca! Não consigo trabalhar nessas condições!",
+      "lote": "605"
+    },
+    {
+      "id": "4128",
+      "chave": "dialog__game1_objectivesb",
+      "hash_es": "f4928cabffbe20e6",
+      "texto_ptbr": "Pare de arranjar desculpas, Nerd. Talvez você só seja incompetente?",
+      "lote": "605"
+    },
+    {
+      "id": "4129",
+      "chave": "dialog__game1_objectivesc",
+      "hash_es": "c5a3c59908d2e5f9",
+      "texto_ptbr": "Não seja cruel! Use sua chave inglesa para consertar a iluminação e eu coloco este console na velocidade máxima! Bem, provavelmente.",
+      "lote": "605"
+    },
+    {
+      "id": "1938",
+      "chave": "dialog__game1_objectivesrepeat1",
+      "hash_es": "1d254bb34d2547ed",
+      "texto_ptbr": "Você tem as ferramentas, então por que está demorando tanto?",
+      "lote": "605"
+    },
+    {
+      "id": "1939",
+      "chave": "dialog__game1_objectivesrepeat2",
+      "hash_es": "20496bc2e3a1f18b",
+      "texto_ptbr": "Sinto cheiro de fumaça... Acho que são minhas retinas! Rápido!",
+      "lote": "605"
+    },
+    {
+      "id": "d532",
+      "chave": "dialog__game1_successa",
+      "hash_es": "0cfcfc472f00d2fc",
+      "texto_ptbr": "Trabalho rápido, Banjo! Isso me deixa bastante tempo para algumas mexidas intensas. Segure seus prêmios e fique bem longe!",
+      "lote": "605"
+    },
+    {
+      "id": "d534",
+      "chave": "dialog__game1_successc",
+      "hash_es": "56e7757666891b24",
+      "texto_ptbr": "Obrigado, Banjo! Agora consigo ver o que estou fazendo... quase. Você ganhou o Jiggy, mas se fosse um pouco mais rápido, levaria um bônus também!",
+      "lote": "605"
+    },
+    {
+      "id": "d536",
+      "chave": "dialog__game1_successe",
+      "hash_es": "0a0c028d06830aef",
+      "texto_ptbr": "Visibilidade enfim... mas vou perder o prazo! Talvez na próxima você faça o serviço bem o bastante para uma recompensa decente!",
+      "lote": "605"
+    },
+    {
+      "id": "f828",
+      "chave": "dialog__game2_beaten",
+      "hash_es": "beaa717e001cc18c",
+      "texto_ptbr": "Banjo tentar bater tempo anterior? Vai, garota! Desculpa, Humba perceber que Banjo não é ursa.",
+      "lote": "605"
+    },
+    {
+      "id": "daf5",
+      "chave": "dialog__game2_fail",
+      "hash_es": "b5315ec6a9a903de",
+      "texto_ptbr": "Como Banjo esperar enfrentar as &quot;Trolls Bruxas&quot; se nem vencer os corredores mais sem noção que Humba achar?",
+      "lote": "605"
+    },
+    {
+      "id": "d405",
+      "chave": "dialog__game2_intro",
+      "hash_es": "9acd423a02d38e8d",
+      "texto_ptbr": "Muitos desafiantes para o superclã de garotas gamers da Humba! Corrida para provar quem tem a melhor coordenação mão-olho, Banjo participar?",
+      "lote": "605"
+    },
+    {
+      "id": "5507",
+      "chave": "dialog__game2_introb",
+      "hash_es": "1bd3646bfc33a138",
+      "texto_ptbr": "É... se você quiser. Também existe um clã de garotos gamers?",
+      "lote": "605"
+    },
+    {
+      "id": "5508",
+      "chave": "dialog__game2_introc",
+      "hash_es": "0be3c7a72d824b3b",
+      "texto_ptbr": "Não. Ninguém querer ver isso. Público-alvo muito específico.",
+      "lote": "605"
+    },
+    {
+      "id": "9d67",
+      "chave": "dialog__game2_objectives",
+      "hash_es": "e65008c6555f83a0",
+      "texto_ptbr": "Vencer competidores amadores no &quot;Grande Prêmio Chips Fora&quot; e Humba deixar Banjo jogar contra o clã &quot;Trolls Bruxas&quot;, com marketing muito esperto.",
+      "lote": "605"
+    },
+    {
+      "id": "4aa9",
+      "chave": "dialog__game2_objectivesb",
+      "hash_es": "4d28864e5a2a61fa",
+      "texto_ptbr": "Kazooie, estou com uma sensação estranha... Acho que é cinismo!",
+      "lote": "605"
+    },
+    {
+      "id": "6653",
+      "chave": "dialog__game2_successa",
+      "hash_es": "2712c0b81b39ac7d",
+      "texto_ptbr": "Chão limpado com garotos inúteis! Banjo levar todos prêmios, aproveitar sucesso até confronto com as 'Trolls Bruxas' da Humba!",
+      "lote": "605"
+    },
+    {
+      "id": "6655",
+      "chave": "dialog__game2_successc",
+      "hash_es": "b99a0e96e825681b",
+      "texto_ptbr": "Nada mal para iniciante. Bom o bastante para um Jiggy, talvez até para jogar contra clã de garotas fabricadas!",
+      "lote": "605"
+    },
+    {
+      "id": "6657",
+      "chave": "dialog__game2_successe",
+      "hash_es": "c0ed3b700e305558",
+      "texto_ptbr": "Humba não esperar disputa tão acirrada contra bando de lesados. Banjo precisar subir no ranking para prêmio melhor!",
+      "lote": "605"
+    },
+    {
+      "id": "d824",
+      "chave": "dialog__jinjogreen_intro",
+      "hash_es": "758e0a01849824e6",
+      "texto_ptbr": "{MOODHAPPY}Taxi! Aqui, meu sol! Você é um urso-taxi, não é?",
+      "lote": "605"
+    },
+    {
+      "id": "de4b",
+      "chave": "dialog__jinjogreen_lose",
+      "hash_es": "a545de63ce12e551",
+      "texto_ptbr": "{MOODSAD}Que táxi de quinta categoria é esse? Não espere gorjeta...",
+      "lote": "605"
+    },
+    {
+      "id": "0ce6",
+      "chave": "dialog__jinjogreen_objectives",
+      "hash_es": "674d45d85a83969a",
+      "texto_ptbr": "{MOODHAPPY}Preciso chegar ao topo da unidade de ventilação no Nível 1. Não pergunte por quê, nem eu tenho certeza. Mas vai valer a pena!",
+      "lote": "605"
+    },
+    {
+      "id": "e726",
+      "chave": "dialog__jinjogreen_win",
+      "hash_es": "57dcf4bbcf15f4e6",
+      "texto_ptbr": "{MOODHAPPY}Valeu, amigo, assim está bom! Ah... perdi minha carteira. Que tal esta ficha como pagamento? Valeu! Boa! Tchau!",
+      "lote": "605"
+    },
+    {
+      "id": "c4cf",
+      "chave": "dialog__jinjoorange_intro",
+      "hash_es": "c7f475b9548389f7",
+      "texto_ptbr": "{MOODHAPPY}Que ótimo, um companheiro de brincadeira! Não tem muitos por aqui...",
+      "lote": "605"
+    },
+    {
+      "id": "6196",
+      "chave": "dialog__jinjoorange_lose",
+      "hash_es": "82a20b633a872fac",
+      "texto_ptbr": "{MOODHAPPY}Palmas para mim! Eu me surpreendo! Quer outra rodada?",
+      "lote": "605"
+    },
+    {
+      "id": "9c71",
+      "chave": "dialog__jinjoorange_objectives",
+      "hash_es": "866f321749e816e1",
+      "texto_ptbr": "{MOODHAPPY}Vamos bater de frente, velho amigo. O último cavalheiro ou dama que ficar na zona de combate vence!",
+      "lote": "605"
+    },
+    {
+      "id": "ad11",
+      "chave": "dialog__jinjoorange_win",
+      "hash_es": "9b85458e75dfcb25",
+      "texto_ptbr": "{MOODSAD}Ora essa! Você é escorregadio mesmo, sem dúvida. Justo é justo, você venceu!",
+      "lote": "605"
+    }
+  ]
+}

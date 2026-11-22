@@ -1,0 +1,210 @@
+{
+  "arquivo": "11116013",
+  "asset": "aid_loctext_banjox_error",
+  "frases": [
+    {
+      "id": "c555",
+      "chave": "apperror__faildeleteabutton",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "0216",
+      "chave": "apperror__faildeletebbutton",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "08fd",
+      "chave": "apperror__faildeletemessage",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "ffd0",
+      "chave": "apperror__failnaming_corrptgamebbutton",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "1824",
+      "chave": "apperror__failnaming_corruptgameabutton",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "5bcc",
+      "chave": "apperror__failnaming_corruptgamemessage",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "7d9b",
+      "chave": "apperror__failnaming_createspaceabutton",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "ba5c",
+      "chave": "apperror__failnaming_createspacebbutton",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "c143",
+      "chave": "apperror__failnaming_createspacemessage",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "e430",
+      "chave": "apperror__failnaming_runagainabutton",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "20f1",
+      "chave": "apperror__failnaming_runagainbbutton",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "27d8",
+      "chave": "apperror__failnaming_runagainmessage",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "0ce4",
+      "chave": "apperror__failnaming_toomanysavesabutton",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "508c",
+      "chave": "apperror__failnaming_toomanysavesmessage",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "572c",
+      "chave": "apperror__failnaming_unabletosavemessage",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "2f5a",
+      "chave": "apperror__frontendoptions_corruptgameabutton",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "6c1b",
+      "chave": "apperror__frontendoptions_corruptgamebbutton",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "7302",
+      "chave": "apperror__frontendoptions_corruptgamemessage",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "740d",
+      "chave": "apperror__gamesystem_corruptgameabutton",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "b0ce",
+      "chave": "apperror__gamesystem_corruptgamebbutton",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "b7b5",
+      "chave": "apperror__gamesystem_corruptgamemessage",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "77d6",
+      "chave": "apperror__slotselection_corruptgameabutton",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "b497",
+      "chave": "apperror__slotselection_corruptgamebbutton",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "bb7e",
+      "chave": "apperror__slotselection_corruptgamemessage",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "d14a",
+      "chave": "apperror__slotselection_damagedgameabutton",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "0e0b",
+      "chave": "apperror__slotselection_damagedgamebbutton",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "14f2",
+      "chave": "apperror__slotselection_damagedgamemessage",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "17f6",
+      "chave": "gameselect__loading",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "79d2",
+      "chave": "noControllerText__DebugMsg",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "ec7a",
+      "chave": "noControllerText__Port1",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "ec7b",
+      "chave": "noControllerText__Port2",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "ec7c",
+      "chave": "noControllerText__Port3",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "ec7d",
+      "chave": "noControllerText__Port4",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "45b1",
+      "chave": "noControllerText__PortAny",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "arquivo": "11862cfc",
+  "asset": "aid_loctext_banjox_tt_cpu_act2",
+  "frases": [
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "9d67",
+      "chave": "dialog__game2_objectives",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    }
+  ]
+}

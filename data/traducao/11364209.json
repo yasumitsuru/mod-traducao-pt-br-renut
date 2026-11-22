@@ -1,0 +1,34 @@
+{
+  "arquivo": "11364209",
+  "asset": "aid_loctext_banjox_tempplaceholder_style",
+  "frases": [
+    {
+      "id": "0d4f",
+      "chave": "dialog__style_ingame",
+      "hash_es": "e009ec1879e12a38",
+      "texto_ptbr": "Este é um Jogo de Escolha do S.J. O S.J. criou um veículo específico para o Jogo, e você tem que usá-lo!",
+      "lote": "606"
+    },
+    {
+      "id": "b686",
+      "chave": "dialog__style_limited",
+      "hash_es": "8a38cc91b0e870a8",
+      "texto_ptbr": "Este é um Jogo de Escolha Limitada. Você pode escolher entre os Projetos que criou, mas certas Peças podem não ser permitidas.",
+      "lote": "606"
+    },
+    {
+      "id": "304f",
+      "chave": "dialog__style_limitedrestrictions",
+      "hash_es": "b26c58066264368c",
+      "texto_ptbr": "Este é um Jogo de Escolha Limitada. Você pode escolher entre os Projetos que criou, mas os veículos %s não são permitidos.",
+      "lote": "606"
+    },
+    {
+      "id": "f630",
+      "chave": "dialog__style_open",
+      "hash_es": "a27a9ba064dd5fc4",
+      "texto_ptbr": "Este é um Jogo de Escolha do Jogador. Você pode escolher qualquer Projeto que criou para jogar o Jogo.",
+      "lote": "606"
+    }
+  ]
+}

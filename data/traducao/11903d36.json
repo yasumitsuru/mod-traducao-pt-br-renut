@@ -1,0 +1,97 @@
+{
+  "arquivo": "11903d36",
+  "asset": "aid_loctext_banjox_showdowntown_jinjos",
+  "frases": [
+    {
+      "id": "1129",
+      "chave": "dialog__jinjo_free",
+      "hash_es": "5e57be58096edef9",
+      "texto_ptbr": "Uhuul, liberdade! Leve-me para casa, Banjo! A minha casa tem a mesma cor que eu, mas estou duro demais para ir andando, então preciso de carona. Não demore o dia todo ou acabo na cadeia de novo!",
+      "lote": "505"
+    },
+    {
+      "id": "f390",
+      "chave": "dialog__jinjo_help",
+      "hash_es": "ebc40da00df1b8f9",
+      "texto_ptbr": "Socorro, Banjo! Sou inocente! Eu não nasci para a cadeia!",
+      "lote": "505"
+    },
+    {
+      "id": "1e30",
+      "chave": "dialog__jinjo_home",
+      "hash_es": "44e372d886f2bb15",
+      "texto_ptbr": "Lar, doce lar! A lei não pode me tocar agora! Provavelmente. Aceita uma pequena doação para o seu fundo de peças de veículo, Banjo?",
+      "lote": "505"
+    },
+    {
+      "id": "4dd7",
+      "chave": "dialog__jinjo_pikeletfree",
+      "hash_es": "2196096942e20ada",
+      "texto_ptbr": "Que foi? Uma fuga? Jinjo prisioneiro foragido? Olhos bem abertos, seu bando de vagabundos imprestáveis!",
+      "lote": "505"
+    },
+    {
+      "id": "5ade",
+      "chave": "dialog__jinjo_pikelethome",
+      "hash_es": "3c33c61002188ac0",
+      "texto_ptbr": "Humf! Uma cela vazia, que maravilha. A culpa é sua, pirralho. É melhor me arrumar um prisioneiro novo!",
+      "lote": "505"
+    },
+    {
+      "id": "933e",
+      "chave": "dialog__jinjo_pikeletjinjorecaptured",
+      "hash_es": "a1f0683dc5a6ee17",
+      "texto_ptbr": "De volta pra cadeia, meu chapa! Acho que mereço um donut depois de todo esse trabalho duro.",
+      "lote": "505"
+    },
+    {
+      "id": "5048",
+      "chave": "dialog__jinjo_pikeletminjo1reward",
+      "hash_es": "f39f8cc2b42a1759",
+      "texto_ptbr": "Esses Minjos são uns sujeitos escorregadios, não tem erro. Tome umas notas por ajudar a manter o crime longe das ruas!",
+      "lote": "505"
+    },
+    {
+      "id": "8d09",
+      "chave": "dialog__jinjo_pikeletminjo2reward",
+      "hash_es": "d884ca9efb27fb39",
+      "texto_ptbr": "Pegou outro Minjo, é? Provavelmente foi sorte, mas prisão é prisão. Aqui está a recompensa.",
+      "lote": "505"
+    },
+    {
+      "id": "c9ca",
+      "chave": "dialog__jinjo_pikeletminjo3reward",
+      "hash_es": "1c9ed432a4e00a75",
+      "texto_ptbr": "Você tem jeito pra capturar esses Minjos. Tome umas notas e continue com o bom trabalho!",
+      "lote": "505"
+    },
+    {
+      "id": "068b",
+      "chave": "dialog__jinjo_pikeletminjo4reward",
+      "hash_es": "e1e9d1780ba1104c",
+      "texto_ptbr": "Mais um Minjo preso? Havia recompensa pela cabeça desse sujeito, então acho que estas notas são suas agora.",
+      "lote": "505"
+    },
+    {
+      "id": "434c",
+      "chave": "dialog__jinjo_pikeletminjo5reward",
+      "hash_es": "c66fd1a18263788a",
+      "texto_ptbr": "Boa captura. Você me lembra eu no meu auge... não que eu já tenha passado dele, pirralho. Pegue as notas antes que eu mude de ideia!",
+      "lote": "505"
+    },
+    {
+      "id": "800d",
+      "chave": "dialog__jinjo_pikeletminjo6reward",
+      "hash_es": "a728e3bc3705d52f",
+      "texto_ptbr": "São todos? Nem sabia que tínhamos tantos Minjos na cidade. Imagino que queira uma remuneração...",
+      "lote": "505"
+    },
+    {
+      "id": "51ea",
+      "chave": "dialog__jinjo_pikeletminjocaptured",
+      "hash_es": "599e290ecf27f447",
+      "texto_ptbr": "Ah, um prisioneiro novo. Tenho que admitir, foi um bom trabalho policial, digno de uma recompensa. Já pensou em entrar pra corporação?",
+      "lote": "505"
+    }
+  ]
+}

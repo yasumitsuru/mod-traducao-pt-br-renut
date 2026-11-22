@@ -1,0 +1,2777 @@
+{
+  "arquivo": "11fbc3ac",
+  "asset": "aid_loctext_banjox_challenges",
+  "frases": [
+    {
+      "id": "be25",
+      "chave": "challenge__Trickysummary",
+      "hash_es": "b108a9f35894e12e",
+      "texto_ptbr": "Circuito Espiral Grande: a capacidade de planar vai ajudar seus veículos terrestres aqui.",
+      "lote": "511"
+    },
+    {
+      "id": "ea93",
+      "chave": "challenge__Twistedsummary",
+      "hash_es": "c4d6a1685cff54c7",
+      "texto_ptbr": "Circuito Espiral Pequeno: a maioria dos veículos terrestres serve, de preferência um para terreno acidentado.",
+      "lote": "511"
+    },
+    {
+      "id": "d10a",
+      "chave": "challenge__act1",
+      "hash_es": "cbb890881e570720",
+      "texto_ptbr": "Ato 1",
+      "lote": "511"
+    },
+    {
+      "id": "d10b",
+      "chave": "challenge__act2",
+      "hash_es": "8f914ec901b279b7",
+      "texto_ptbr": "Ato 2",
+      "lote": "511"
+    },
+    {
+      "id": "d10c",
+      "chave": "challenge__act3",
+      "hash_es": "4b2cb0480065f564",
+      "texto_ptbr": "Ato 3",
+      "lote": "511"
+    },
+    {
+      "id": "d10d",
+      "chave": "challenge__act4",
+      "hash_es": "da07e1fb3fb0b883",
+      "texto_ptbr": "Ato 4",
+      "lote": "511"
+    },
+    {
+      "id": "d10e",
+      "chave": "challenge__act5",
+      "hash_es": "47345fd154b4f175",
+      "texto_ptbr": "Ato 5",
+      "lote": "511"
+    },
+    {
+      "id": "d10f",
+      "chave": "challenge__act6",
+      "hash_es": "6859100f239e453e",
+      "texto_ptbr": "Ato 6",
+      "lote": "511"
+    },
+    {
+      "id": "8a66",
+      "chave": "challenge__airballsummary",
+      "hash_es": "6765888b46968162",
+      "texto_ptbr": "Futebol Aéreo em Equipe: veículos voadores que controlem bem a bola são muito recomendados.",
+      "lote": "511"
+    },
+    {
+      "id": "c443",
+      "chave": "challenge__airbrawlsummary",
+      "hash_es": "b74ed4ed1fbdf76b",
+      "texto_ptbr": "Luta Banjo Aérea: escolha algo que voe se quiser se sair bem.",
+      "lote": "511"
+    },
+    {
+      "id": "d965",
+      "chave": "challenge__airdragkingssummary",
+      "hash_es": "ed93c93d8147a8f7",
+      "texto_ptbr": "Retas Aéreas: veículos voadores são obrigatórios aqui!",
+      "lote": "514"
+    },
+    {
+      "id": "155e",
+      "chave": "challenge__banjolandact1game1",
+      "hash_es": "e187c0fa74d9c457",
+      "texto_ptbr": "Você Vai Ficar Cego, Clanker...",
+      "lote": "511"
+    },
+    {
+      "id": "5bec",
+      "chave": "challenge__banjolandact1game1summary",
+      "hash_es": "6fd960a75b88a9dc",
+      "texto_ptbr": "Defenda os olhos do Clanker dos Gruntbots ladrões. Você vai precisar de um veículo capaz de defender ou atacar, quem sabe os dois!",
+      "lote": "511"
+    },
+    {
+      "id": "155f",
+      "chave": "challenge__banjolandact1game2",
+      "hash_es": "9ff561846a4157a8",
+      "texto_ptbr": "Que Gelo Ver Você!",
+      "lote": "511"
+    },
+    {
+      "id": "30cd",
+      "chave": "challenge__banjolandact1game2summary",
+      "hash_es": "dddfd7d9433fd1ce",
+      "texto_ptbr": "Localize George, o Cubo de Gelo, e leve-o para sua esposa Mildred no topo do boneco de neve. Você vai precisar de um veículo capaz de empurrar ou carregar um objeto grande e escorregadio.",
+      "lote": "511"
+    },
+    {
+      "id": "1560",
+      "chave": "challenge__banjolandact1game3",
+      "hash_es": "ecd0c064b08ad80f",
+      "texto_ptbr": "Prêmio do Parque 1",
+      "lote": "511"
+    },
+    {
+      "id": "05ae",
+      "chave": "challenge__banjolandact1game3summary",
+      "hash_es": "ce276bbf8b9d96ef",
+      "texto_ptbr": "Você contra o relógio numa prova de tempo terrestre pelo museu. Precisa de um veículo rápido e ágil para vencer.",
+      "lote": "511"
+    },
+    {
+      "id": "3dff",
+      "chave": "challenge__banjolandact2game1",
+      "hash_es": "07c7a5a297d30266",
+      "texto_ptbr": "O Árbitro é um Tamanduá!",
+      "lote": "511"
+    },
+    {
+      "id": "656d",
+      "chave": "challenge__banjolandact2game1summary",
+      "hash_es": "38dfc00984011c6e",
+      "texto_ptbr": "Aperte o grande interruptor vermelho para liberar as bolas e leve-as até o gol do outro lado do campo. Você vai precisar de um veículo bom em guiar e chutar bolas.",
+      "lote": "511"
+    },
+    {
+      "id": "3e00",
+      "chave": "challenge__banjolandact2game2",
+      "hash_es": "292e25919a0c0943",
+      "texto_ptbr": "Lixo Fora",
+      "lote": "511"
+    },
+    {
+      "id": "3a4e",
+      "chave": "challenge__banjolandact2game2summary",
+      "hash_es": "e337c8b5b5fa0864",
+      "texto_ptbr": "Pegue o lixo em volta da lata e jogue tudo dentro. Um veículo capaz de erguer objetos no ar seria útil.",
+      "lote": "511"
+    },
+    {
+      "id": "66a0",
+      "chave": "challenge__banjolandact3game1",
+      "hash_es": "58aa90fd3750f555",
+      "texto_ptbr": "Bate Ponto!",
+      "lote": "511"
+    },
+    {
+      "id": "6eee",
+      "chave": "challenge__banjolandact3game1summary",
+      "hash_es": "2bdbdd852ee7cf88",
+      "texto_ptbr": "O museu está fechando e os funcionários preguiçosos precisam ser recolhidos. Um veículo com Assentos de Passageiro permite levar os folgados até a saída.",
+      "lote": "511"
+    },
+    {
+      "id": "66a1",
+      "chave": "challenge__banjolandact3game2",
+      "hash_es": "54657933dc018d65",
+      "texto_ptbr": "Fique Protegido",
+      "lote": "511"
+    },
+    {
+      "id": "43cf",
+      "chave": "challenge__banjolandact3game2summary",
+      "hash_es": "ed1b33ca38b2c41f",
+      "texto_ptbr": "Ative as câmeras de segurança do museu usando os Parafusos de Apertar. As câmeras ficam em vários ambientes, então um veículo que ande em qualquer lugar seria vantagem.",
+      "lote": "511"
+    },
+    {
+      "id": "66a2",
+      "chave": "challenge__banjolandact3game3",
+      "hash_es": "1bea91ca9f7fec87",
+      "texto_ptbr": "Água Neles!",
+      "lote": "511"
+    },
+    {
+      "id": "18b0",
+      "chave": "challenge__banjolandact3game3summary",
+      "hash_es": "b1683aa143b75efb",
+      "texto_ptbr": "Uma corrida aquática pelo lago do museu. Sem surpresa, você vai precisar de um barco flutuante rápido para garantir o primeiro lugar!",
+      "lote": "511"
+    },
+    {
+      "id": "8f41",
+      "chave": "challenge__banjolandact4game1",
+      "hash_es": "1982fe4d53532dc1",
+      "texto_ptbr": "Quebra-Molas!",
+      "lote": "511"
+    },
+    {
+      "id": "786f",
+      "chave": "challenge__banjolandact4game1summary",
+      "hash_es": "8e7c8e73206808a7",
+      "texto_ptbr": "Grunty invadiu o museu no veículo saltador dela, querendo destruir as exposições. Derrube a bruxa verrugosa do assento do veículo para pegar a intrusa!",
+      "lote": "511"
+    },
+    {
+      "id": "b7e2",
+      "chave": "challenge__banjolandact5game1",
+      "hash_es": "e8c829bff54c42f5",
+      "texto_ptbr": "Pisando em Ovos",
+      "lote": "511"
+    },
+    {
+      "id": "81f0",
+      "chave": "challenge__banjolandact5game1summary",
+      "hash_es": "b00beb05001d29e7",
+      "texto_ptbr": "Uma corrida no gelo, que beleza. Um veículo terrestre com boa aderência é essencial, assim como evitar os Ovos Misteriosos espalhados pelo percurso.",
+      "lote": "511"
+    },
+    {
+      "id": "b7e3",
+      "chave": "challenge__banjolandact5game2",
+      "hash_es": "2edfc7d534b2990a",
+      "texto_ptbr": "Reformas em Casa: Edição Iglu",
+      "lote": "511"
+    },
+    {
+      "id": "56d1",
+      "chave": "challenge__banjolandact5game2summary",
+      "hash_es": "837ef5df9d37c324",
+      "texto_ptbr": "A Sra. Boggy quer que o Boggy construa um iglu novo, então o velho tem de ser demolido. Use um veículo bom de empurrar para tirar todos os blocos de iglu da zona de demolição.",
+      "lote": "511"
+    },
+    {
+      "id": "b7e4",
+      "chave": "challenge__banjolandact5game3",
+      "hash_es": "25fc76d7277b4411",
+      "texto_ptbr": "Campo de Ovelhas",
+      "lote": "511"
+    },
+    {
+      "id": "2bb2",
+      "chave": "challenge__banjolandact5game3summary",
+      "hash_es": "e53cb43799e266be",
+      "texto_ptbr": "O Golfe de Ovelhas Infláveis chegou a Banjoland! Escolha um veículo bom em acertar ovelhas e tente pôr as maravilhas de lã no Vaso do Loggo com o menor número de tacadas possível.",
+      "lote": "518"
+    },
+    {
+      "id": "b7e5",
+      "chave": "challenge__banjolandact5game4",
+      "hash_es": "d2493edb5ff41f51",
+      "texto_ptbr": "Acrobacias de Mumbo",
+      "lote": "511"
+    },
+    {
+      "id": "0093",
+      "chave": "challenge__banjolandact5game4summary",
+      "hash_es": "07b25643ed1fe6e8",
+      "texto_ptbr": "Banjoland finalmente tem visitantes, e eles precisam muito de diversão. Faça as acrobacias descritas por Mumbo para impressioná-los e ganhar um prêmio.",
+      "lote": "518"
+    },
+    {
+      "id": "b7e6",
+      "chave": "challenge__banjolandact5game5",
+      "hash_es": "45269cd14b016eca",
+      "texto_ptbr": "Confusão Monstruosa",
+      "lote": "511"
+    },
+    {
+      "id": "d574",
+      "chave": "challenge__banjolandact5game5summary",
+      "hash_es": "125cf1c217fb0378",
+      "texto_ptbr": "Bottles achou que a Mansão seria consertada, mas por algum motivo o jogo agora é uma corrida aérea. Você vai precisar de um veículo aéreo rápido.",
+      "lote": "511"
+    },
+    {
+      "id": "b7e7",
+      "chave": "challenge__banjolandact5game6",
+      "hash_es": "fcdb2d732bda92b9",
+      "texto_ptbr": "Cão Velho, Truques Novos",
+      "lote": "511"
+    },
+    {
+      "id": "aa55",
+      "chave": "challenge__banjolandact5game6summary",
+      "hash_es": "9e66a9d7c7ed9657",
+      "texto_ptbr": "O Mr. Patch está de volta, agora com uma pele brilhante à prova de armas. Use um veículo voador e ache outro jeito de furar esse balão de gás surrado.",
+      "lote": "514"
+    },
+    {
+      "id": "0f5b",
+      "chave": "challenge__banjolandactwwgame1",
+      "hash_es": "1bc1935f306680f6",
+      "texto_ptbr": "Enlatado e Cozido",
+      "lote": "511"
+    },
+    {
+      "id": "9749",
+      "chave": "challenge__banjolandactwwgame1summary",
+      "hash_es": "1a609362e2207c87",
+      "texto_ptbr": "As ovelhas infláveis perdidas devem voltar ao vaso do Loggo. Elas andam em rebanhos, então use um veículo de transporte ou de condução para juntar o máximo possível.",
+      "lote": "511"
+    },
+    {
+      "id": "0f5c",
+      "chave": "challenge__banjolandactwwgame2",
+      "hash_es": "b270768dae0d37a6",
+      "texto_ptbr": "Pontos de Controle",
+      "lote": "511"
+    },
+    {
+      "id": "6c2a",
+      "chave": "challenge__banjolandactwwgame2summary",
+      "hash_es": "48f02dad2bb42c55",
+      "texto_ptbr": "Passe por uma série de pontos de controle com velocidade mínima exigida. Pode apostar que um veículo terrestre rápido e ágil seria uma boa escolha aqui.",
+      "lote": "511"
+    },
+    {
+      "id": "0f5d",
+      "chave": "challenge__banjolandactwwgame3",
+      "hash_es": "7c3ae05a297c4668",
+      "texto_ptbr": "Terra, Mar, Nada de Ar",
+      "lote": "511"
+    },
+    {
+      "id": "410b",
+      "chave": "challenge__banjolandactwwgame3summary",
+      "hash_es": "9a276d4fec0ea93e",
+      "texto_ptbr": "É uma corrida por terra e água, então um veículo anfíbio veloz, à vontade na terra e na água, será essencial para o seu sucesso.",
+      "lote": "511"
+    },
+    {
+      "id": "286a",
+      "chave": "challenge__banjolandlivenostalgicjourney",
+      "hash_es": "fd5f0f2034f0cb3e",
+      "texto_ptbr": "Corrida: Viagem Nostálgica",
+      "lote": "511"
+    },
+    {
+      "id": "3979",
+      "chave": "challenge__banjolandliveqotk",
+      "hash_es": "f38f85ceefe076bf",
+      "texto_ptbr": "Rainha da Colina",
+      "lote": "511"
+    },
+    {
+      "id": "3178",
+      "chave": "challenge__banjolandlivewaterrace",
+      "hash_es": "0bb4555a464f5bd0",
+      "texto_ptbr": "Corrida: Prêmio da Piscina",
+      "lote": "511"
+    },
+    {
+      "id": "9024",
+      "chave": "challenge__basketballsummary",
+      "hash_es": "4b914c8ff5a85e79",
+      "texto_ptbr": "Basquete: veículos capazes de carregar uma bola e lançá-la para dentro da cesta são essenciais.",
+      "lote": "511"
+    },
+    {
+      "id": "770d",
+      "chave": "challenge__bestscoretitle",
+      "hash_es": "812d9d90018960d5",
+      "texto_ptbr": "Melhor Pontuação:",
+      "lote": "511"
+    },
+    {
+      "id": "bb60",
+      "chave": "challenge__besttimetitle",
+      "hash_es": "cb419c3cc52910d7",
+      "texto_ptbr": "Melhor Tempo:",
+      "lote": "511"
+    },
+    {
+      "id": "e347",
+      "chave": "challenge__brawlsummary",
+      "hash_es": "c0cf1dca80ad796f",
+      "texto_ptbr": "Luta Banjo: use um veículo terrestre bem armado e capaz de causar danos enormes.",
+      "lote": "511"
+    },
+    {
+      "id": "f3a7",
+      "chave": "challenge__cancel",
+      "hash_es": "c381cab8556c3646",
+      "texto_ptbr": "Escolher Novo",
+      "lote": "511"
+    },
+    {
+      "id": "b606",
+      "chave": "challenge__continue",
+      "hash_es": "63e2bbaf1c924391",
+      "texto_ptbr": "Continuar",
+      "lote": "511"
+    },
+    {
+      "id": "763d",
+      "chave": "challenge__cpuact1game1",
+      "hash_es": "1c863f660ec80d4f",
+      "texto_ptbr": "Conexão Ruim",
+      "lote": "511"
+    },
+    {
+      "id": "2beb",
+      "chave": "challenge__cpuact1game1summary",
+      "hash_es": "809f4b7bb48ebb0e",
+      "texto_ptbr": "A antena do console caiu depois da manutenção do Klungo. Você terá de levá-la ao alto do console para fazê-la funcionar, usando um veículo que carregue ou erga objetos.",
+      "lote": "511"
+    },
+    {
+      "id": "763e",
+      "chave": "challenge__cpuact1game2",
+      "hash_es": "fb4ff5fa3c9145f8",
+      "texto_ptbr": "Limpeza de Funcionários",
+      "lote": "511"
+    },
+    {
+      "id": "00cc",
+      "chave": "challenge__cpuact1game2summary",
+      "hash_es": "f5cdfb4701430888",
+      "texto_ptbr": "Um firewall vai varrer o console, mas os técnicos estão presos. Escolha um veículo capaz de levar passageiros e leve-os até a escotilha de saída antes que fritem!",
+      "lote": "511"
+    },
+    {
+      "id": "9ede",
+      "chave": "challenge__cpuact2game1",
+      "hash_es": "9c83db9350fb1e6f",
+      "texto_ptbr": "Pouca Luz",
+      "lote": "511"
+    },
+    {
+      "id": "356c",
+      "chave": "challenge__cpuact2game1summary",
+      "hash_es": "93d79adb75591064",
+      "texto_ptbr": "As luzes brilhantes do console estão fritando o cérebro do Bottles, então use sua chave inglesa para desativá-las. Não é fácil alcançá-las, então um helicóptero pode ser ideal desta vez.",
+      "lote": "511"
+    },
+    {
+      "id": "9edf",
+      "chave": "challenge__cpuact2game2",
+      "hash_es": "c4dbad136e356edf",
+      "texto_ptbr": "Chips Fora",
+      "lote": "511"
+    },
+    {
+      "id": "0a4d",
+      "chave": "challenge__cpuact2game2summary",
+      "hash_es": "ede448474be3b76a",
+      "texto_ptbr": "É o Grande Prêmio Chips Fora! Uma corrida terrestre acelerada que exige velocidade e agilidade.",
+      "lote": "511"
+    },
+    {
+      "id": "c77f",
+      "chave": "challenge__cpuact3game1",
+      "hash_es": "330807e22d449cb7",
+      "texto_ptbr": "Dar Descarga",
+      "lote": "511"
+    },
+    {
+      "id": "3eed",
+      "chave": "challenge__cpuact3game1summary",
+      "hash_es": "81a8dc867f18c134",
+      "texto_ptbr": "Grunty deixou a Piddles usar a piscina de gosma do console como areia de gato! Mais estranho ainda: o único jeito de impedir é ganhar uma corrida. Ela vai na água e você na terra.",
+      "lote": "511"
+    },
+    {
+      "id": "f020",
+      "chave": "challenge__cpuact4game1",
+      "hash_es": "2f808d84ab05d88e",
+      "texto_ptbr": "Chip Chop",
+      "lote": "511"
+    },
+    {
+      "id": "486e",
+      "chave": "challenge__cpuact4game1summary",
+      "hash_es": "b304d758ab5fde8a",
+      "texto_ptbr": "Os Gruntbots da Grunty estão atacando os chips de áudio, gráficos e energia do console. Arme seu veículo até os dentes, vá até lá e acerte os pontos fracos deles antes que causem um dano enorme.",
+      "lote": "511"
+    },
+    {
+      "id": "f021",
+      "chave": "challenge__cpuact4game2",
+      "hash_es": "dca553407ca99ce7",
+      "texto_ptbr": "Seu Pivete!",
+      "lote": "511"
+    },
+    {
+      "id": "1d4f",
+      "chave": "challenge__cpuact4game2summary",
+      "hash_es": "2113ad86eec3d63d",
+      "texto_ptbr": "O sistema de gosma do console precisa esfriar e os ventiladores estão superaquecendo. Você terá de usar um veículo voador e achar algum líquido para esfriar os ventiladores.",
+      "lote": "511"
+    },
+    {
+      "id": "f022",
+      "chave": "challenge__cpuact4game3",
+      "hash_es": "2d93417358b6559b",
+      "texto_ptbr": "Faça Peso!",
+      "lote": "514"
+    },
+    {
+      "id": "f230",
+      "chave": "challenge__cpuact4game3summary",
+      "hash_es": "03b79524f2f6fc24",
+      "texto_ptbr": "É preciso apertar os botões que aumentam o desempenho. Cada um exige certo peso para ativar, então use um veículo pesado ou ache peso extra pelo caminho.",
+      "lote": "511"
+    },
+    {
+      "id": "f023",
+      "chave": "challenge__cpuact4game4",
+      "hash_es": "e6480772154fd6fc",
+      "texto_ptbr": "Esponja e Gosma",
+      "lote": "511"
+    },
+    {
+      "id": "c711",
+      "chave": "challenge__cpuact4game4summary",
+      "hash_es": "657393b44bfe0d5b",
+      "texto_ptbr": "Klungo quebrou a esponja de gosma que resfria o Chip Central da C.P.U., e ela secou toda. Ache um veículo que possa encharcar a esponja em líquido para resolver esse problemão.",
+      "lote": "511"
+    },
+    {
+      "id": "f024",
+      "chave": "challenge__cpuact4game5",
+      "hash_es": "66e99888463ca5ac",
+      "texto_ptbr": "Corrida do Urso Vermelho",
+      "lote": "511"
+    },
+    {
+      "id": "9bf2",
+      "chave": "challenge__cpuact4game5summary",
+      "hash_es": "414a619037de67a2",
+      "texto_ptbr": "Um passeio turístico pelo console? Bom, não, na verdade é uma corrida aérea. Escolha seu veículo aéreo mais rápido e... decolar!",
+      "lote": "511"
+    },
+    {
+      "id": "18c1",
+      "chave": "challenge__cpuact5game1",
+      "hash_es": "bb44337103c40b57",
+      "texto_ptbr": "Um Alívio para os Olhos",
+      "lote": "511"
+    },
+    {
+      "id": "51ef",
+      "chave": "challenge__cpuact5game1summary",
+      "hash_es": "0fd571e653d3040d",
+      "texto_ptbr": "O burocrata Pikelet precisa conferir os números de série das câmeras do console tirando fotos. Será preciso um veículo voador com o assento personalizado do fotógrafo rechonchudo.",
+      "lote": "511"
+    },
+    {
+      "id": "18c2",
+      "chave": "challenge__cpuact5game2",
+      "hash_es": "8d50e274e920bf2b",
+      "texto_ptbr": "Volta Feliz",
+      "lote": "511"
+    },
+    {
+      "id": "26d0",
+      "chave": "challenge__cpuact5game2summary",
+      "hash_es": "d671f12dce7ef6b0",
+      "texto_ptbr": "Volta e volta e volta! Como são voltas terrestres num circuito bem pequeno, parece boa ideia escolher um veículo pequeno com bom equilíbrio entre velocidade e curvas.",
+      "lote": "511"
+    },
+    {
+      "id": "18c3",
+      "chave": "challenge__cpuact5game3",
+      "hash_es": "3fcb05cb3e128aab",
+      "texto_ptbr": "Cheio de Bichos",
+      "lote": "511"
+    },
+    {
+      "id": "fbb1",
+      "chave": "challenge__cpuact5game3summary",
+      "hash_es": "a5a76eeb38560367",
+      "texto_ptbr": "O console está infestado de bugs irritantes! Ligue o Mata-Bichos e ponha os bugs lá dentro para eletrocutá-los. Há muita escolha de veículo: dá para carregar, empurrar, bater ou explodir.",
+      "lote": "511"
+    },
+    {
+      "id": "18c4",
+      "chave": "challenge__cpuact5game4",
+      "hash_es": "e9b8dfe19935f41c",
+      "texto_ptbr": "Os Críticos Dizem Não",
+      "lote": "511"
+    },
+    {
+      "id": "d092",
+      "chave": "challenge__cpuact5game4summary",
+      "hash_es": "71a1a1d58f0f28e5",
+      "texto_ptbr": "Chegou um aparelho criador de jogos comprado por correio. Encontre e leve as 3 partes do aparelho até a plataforma, monte na ordem certa e coloque no lugar.",
+      "lote": "511"
+    },
+    {
+      "id": "18c5",
+      "chave": "challenge__cpuact5game5",
+      "hash_es": "d0809dee37b9b0d4",
+      "texto_ptbr": "Alvoroço de Gosma",
+      "lote": "511"
+    },
+    {
+      "id": "a573",
+      "chave": "challenge__cpuact5game5summary",
+      "hash_es": "b2e5593a489fbd9b",
+      "texto_ptbr": "A pastilha de sabor da gosma precisa ser trocada. Você vai precisar de um veículo que leve a pastilha ao topo do console e depois desça pelos tubos cheios de líquido até a unidade de sabor no tanque.",
+      "lote": "511"
+    },
+    {
+      "id": "8c1a",
+      "chave": "challenge__cpuactwwgame1",
+      "hash_es": "7e5cdeaa6c293937",
+      "texto_ptbr": "Hardware Instável",
+      "lote": "511"
+    },
+    {
+      "id": "6728",
+      "chave": "challenge__cpuactwwgame1summary",
+      "hash_es": "9cf9ee43347b4129",
+      "texto_ptbr": "Uma prova de tempo terrestre com pontos de controle elevados. Você vai precisar de um assento montado no alto do veículo para passar por cada um.",
+      "lote": "511"
+    },
+    {
+      "id": "8c1b",
+      "chave": "challenge__cpuactwwgame2",
+      "hash_es": "25f851b4bbc80ba5",
+      "texto_ptbr": "Atualização do Sistema",
+      "lote": "514"
+    },
+    {
+      "id": "3c09",
+      "chave": "challenge__cpuactwwgame2summary",
+      "hash_es": "8fe2f2dff4ab3760",
+      "texto_ptbr": "Bottles precisa descer até o Chip Central da C.P.U. para reiniciar o sistema. Será preciso um veículo com Assento de Passageiro para levar o nerd de olhos arregalados.",
+      "lote": "511"
+    },
+    {
+      "id": "11fd",
+      "chave": "challenge__cpuliveflyingrace",
+      "hash_es": "da4e3d5d02f0369f",
+      "texto_ptbr": "Corrida: Alta Voltagem",
+      "lote": "511"
+    },
+    {
+      "id": "4b1c",
+      "chave": "challenge__cpuliveshortcircuit",
+      "hash_es": "00f79f9429c20f05",
+      "texto_ptbr": "Corrida: Curto-Circuito",
+      "lote": "511"
+    },
+    {
+      "id": "b70d",
+      "chave": "challenge__dartssummary",
+      "hash_es": "2e343d17dceee245",
+      "texto_ptbr": "Dardos: a maioria dos carros serve, assim como qualquer coisa que desça a rampa em alta velocidade.",
+      "lote": "511"
+    },
+    {
+      "id": "b856",
+      "chave": "challenge__dragkingsummary",
+      "hash_es": "319b27b6663eb02b",
+      "texto_ptbr": "Reis do Arranque: carros potentes são os mais indicados para esta corrida.",
+      "lote": "511"
+    },
+    {
+      "id": "b5df",
+      "chave": "challenge__eggnspoonsummary",
+      "hash_es": "a9ca02223e22fb80",
+      "texto_ptbr": "Ovo e Colher: são necessários carros que carreguem ou empurrem um ovo.",
+      "lote": "511"
+    },
+    {
+      "id": "8802",
+      "chave": "challenge__footballsummary",
+      "hash_es": "75eb9c9ef9a828a5",
+      "texto_ptbr": "Futebol em Equipe: carros que empurrem uma bola com precisão funcionam bem aqui.",
+      "lote": "511"
+    },
+    {
+      "id": "d6a6",
+      "chave": "challenge__freewheelsummary",
+      "hash_es": "2e868e8eaf7c04ef",
+      "texto_ptbr": "Roda Livre: escolha veículos que rolem o máximo possível sem potência!",
+      "lote": "511"
+    },
+    {
+      "id": "627d",
+      "chave": "challenge__gamestyleingame",
+      "hash_es": "f296a772a258be17",
+      "texto_ptbr": "ESCOLHA DO S.J.",
+      "lote": "511"
+    },
+    {
+      "id": "b174",
+      "chave": "challenge__gamestylelimited",
+      "hash_es": "f90a84538613c370",
+      "texto_ptbr": "ESCOLHA LIMITADA",
+      "lote": "511"
+    },
+    {
+      "id": "5a5e",
+      "chave": "challenge__gamestylelimitedammo",
+      "hash_es": "197e48adf508bebf",
+      "texto_ptbr": "Tipo de Jogo: Munição Limitada",
+      "lote": "511"
+    },
+    {
+      "id": "d4ba",
+      "chave": "challenge__gamestylelimitedcomponents",
+      "hash_es": "071d5b6a8005cd11",
+      "texto_ptbr": "Tipo de Jogo: Peças Limitadas",
+      "lote": "511"
+    },
+    {
+      "id": "d6d2",
+      "chave": "challenge__gamestylelimitedflight",
+      "hash_es": "ddb7a5dc138c88ca",
+      "texto_ptbr": "Tipo de Jogo: Voo Limitado",
+      "lote": "511"
+    },
+    {
+      "id": "3940",
+      "chave": "challenge__gamestylelimitedfuel",
+      "hash_es": "8b1ed37f078a034d",
+      "texto_ptbr": "Tipo de Jogo: Combustível Limitado",
+      "lote": "511"
+    },
+    {
+      "id": "a813",
+      "chave": "challenge__gamestylelimitedgadgets",
+      "hash_es": "32bed7fd11cdca1f",
+      "texto_ptbr": "Tipo de Jogo: Engenhocas Limitadas",
+      "lote": "511"
+    },
+    {
+      "id": "8a4f",
+      "chave": "challenge__gamestylelimitedpropulsion",
+      "hash_es": "7a425c3efef81938",
+      "texto_ptbr": "Tipo de Jogo: Potência Limitada",
+      "lote": "511"
+    },
+    {
+      "id": "ca34",
+      "chave": "challenge__gamestylelimitedseats",
+      "hash_es": "4e1112900b719e6a",
+      "texto_ptbr": "Tipo de Jogo: Assentos Limitados",
+      "lote": "511"
+    },
+    {
+      "id": "e651",
+      "chave": "challenge__gamestylelimitedweapons",
+      "hash_es": "5d2db6fed681a51e",
+      "texto_ptbr": "Tipo de Jogo: Armas Limitadas",
+      "lote": "511"
+    },
+    {
+      "id": "ddfc",
+      "chave": "challenge__gamestylelimitedweight",
+      "hash_es": "abdfe5b6c946970b",
+      "texto_ptbr": "Tipo de Jogo: Peso Limitado",
+      "lote": "511"
+    },
+    {
+      "id": "edfc",
+      "chave": "challenge__gamestylelimitedwheels",
+      "hash_es": "5c77ad9e779d406a",
+      "texto_ptbr": "Tipo de Jogo: Rodas Limitadas",
+      "lote": "511"
+    },
+    {
+      "id": "27de",
+      "chave": "challenge__gamestyleopen",
+      "hash_es": "8445a1dc70ce7bdf",
+      "texto_ptbr": "ESCOLHA DO JOGADOR",
+      "lote": "511"
+    },
+    {
+      "id": "0577",
+      "chave": "challenge__go",
+      "hash_es": "3aef163de939099a",
+      "texto_ptbr": "JÁ",
+      "lote": "511"
+    },
+    {
+      "id": "55b7",
+      "chave": "challenge__golfsummary",
+      "hash_es": "a6f6b43529273856",
+      "texto_ptbr": "Golfe: escolha veículos que consigam empurrar uma bola de golfe de ovelha inflável.",
+      "lote": "511"
+    },
+    {
+      "id": "f1e6",
+      "chave": "challenge__hurdlessummary",
+      "hash_es": "c80890854dff0505",
+      "texto_ptbr": "Barreiras: se usar um carro, ele precisa pular alto o bastante para transpor as barreiras sólidas!",
+      "lote": "511"
+    },
+    {
+      "id": "e93b",
+      "chave": "challenge__jiggy",
+      "hash_es": "9024c7282f166edc",
+      "texto_ptbr": "Jiggy",
+      "lote": "511"
+    },
+    {
+      "id": "a8f1",
+      "chave": "challenge__jinjocombat",
+      "hash_es": "fa2aa190f0d14731",
+      "texto_ptbr": "Combate Jinjo",
+      "lote": "511"
+    },
+    {
+      "id": "cc1f",
+      "chave": "challenge__jinjocombatsummary",
+      "hash_es": "3f8c986c9657f6bd",
+      "texto_ptbr": "Combate Jinjo: dê ao Jinjo um combate um contra um estilo sumô; o objetivo é empurrar o adversário para fora da área antes que ele faça o mesmo com você.",
+      "lote": "511"
+    },
+    {
+      "id": "f885",
+      "chave": "challenge__jinjofetch",
+      "hash_es": "4e77a2f480583b81",
+      "texto_ptbr": "Busca Jinjo",
+      "lote": "511"
+    },
+    {
+      "id": "9101",
+      "chave": "challenge__jinjofetchair",
+      "hash_es": "405a23f3df77af76",
+      "texto_ptbr": "Busca Jinjo: Ar",
+      "lote": "511"
+    },
+    {
+      "id": "022f",
+      "chave": "challenge__jinjofetchairsummary",
+      "hash_es": "e133d9acb9a482d8",
+      "texto_ptbr": "Busca Jinjo: essas criaturas podem ser bem desengonçadas. Ouça a triste história e depois saia para achar o item perdido. Desta vez eu recomendaria um veículo que voe.",
+      "lote": "511"
+    },
+    {
+      "id": "4d33",
+      "chave": "challenge__jinjofetchsummary",
+      "hash_es": "98e64fb5d3188466",
+      "texto_ptbr": "Busca Jinjo: essas criaturas podem ser bem desengonçadas. Ouça a triste história e depois saia para achar o item perdido. Um veículo terrestre deve dar conta do recado.",
+      "lote": "511"
+    },
+    {
+      "id": "a348",
+      "chave": "challenge__jinjofetchwater",
+      "hash_es": "e6bb63092747884e",
+      "texto_ptbr": "Busca Jinjo: Água",
+      "lote": "511"
+    },
+    {
+      "id": "de96",
+      "chave": "challenge__jinjofetchwatersummary",
+      "hash_es": "06b7aeb0a4021323",
+      "texto_ptbr": "Busca Jinjo: essas criaturas podem ser bem desengonçadas. Ouça a triste história e depois saia para achar o item perdido. Esta envolve água, então escolha o veículo de acordo.",
+      "lote": "511"
+    },
+    {
+      "id": "4516",
+      "chave": "challenge__jinjohurl",
+      "hash_es": "043b11b36b36612b",
+      "texto_ptbr": "Arremesso de Jinjo",
+      "lote": "511"
+    },
+    {
+      "id": "aca4",
+      "chave": "challenge__jinjohurlsummary",
+      "hash_es": "18806d6b9b04f75a",
+      "texto_ptbr": "Arremesso de Jinjo: por algum motivo, este Jinjo quer ser lançado o mais longe possível. Você pode ajudar com uma colisão bem forte.",
+      "lote": "511"
+    },
+    {
+      "id": "69d6",
+      "chave": "challenge__jinjorace",
+      "hash_es": "eb6c8f6887a66ad3",
+      "texto_ptbr": "Corrida Jinjo",
+      "lote": "511"
+    },
+    {
+      "id": "ccb2",
+      "chave": "challenge__jinjoraceair",
+      "hash_es": "bb18836ab0a53fbe",
+      "texto_ptbr": "Corrida Jinjo: Ar",
+      "lote": "511"
+    },
+    {
+      "id": "0cc0",
+      "chave": "challenge__jinjoraceairsummary",
+      "hash_es": "61e0e8b85c2c2f7e",
+      "texto_ptbr": "Corrida Jinjo: o Jinjo escolhe a pista e o número de voltas, mas tente chegar primeiro de qualquer jeito. Este Jinjo gosta de altura, então escolha um veículo capaz de voar.",
+      "lote": "511"
+    },
+    {
+      "id": "f964",
+      "chave": "challenge__jinjoracesummary",
+      "hash_es": "7cac158b57f69dbc",
+      "texto_ptbr": "Corrida Jinjo: o Jinjo escolhe a pista e o número de voltas, mas tente chegar primeiro de qualquer jeito. Esta corrida é terrestre.",
+      "lote": "511"
+    },
+    {
+      "id": "8f39",
+      "chave": "challenge__jinjoracewater",
+      "hash_es": "a94e23a71118f240",
+      "texto_ptbr": "Corrida Jinjo: Água",
+      "lote": "511"
+    },
+    {
+      "id": "d167",
+      "chave": "challenge__jinjoracewatersummary",
+      "hash_es": "5e1d2e4c5b0bdbc8",
+      "texto_ptbr": "Corrida Jinjo: o Jinjo escolhe a pista e o número de voltas, mas tente chegar primeiro de qualquer jeito. Este Jinjo é aquático, então sugiro um veículo que vá bem na água.",
+      "lote": "511"
+    },
+    {
+      "id": "ffac",
+      "chave": "challenge__jinjospeed",
+      "hash_es": "4297bb9359f87b10",
+      "texto_ptbr": "Velocidade Jinjo",
+      "lote": "511"
+    },
+    {
+      "id": "e27a",
+      "chave": "challenge__jinjospeedsummary",
+      "hash_es": "8e29649c8f35f3ab",
+      "texto_ptbr": "Velocidade Jinjo: este Jinjo exigente quer ver você alcançar certa velocidade, então acelere e tente atingir a meta no velocímetro.",
+      "lote": "511"
+    },
+    {
+      "id": "8551",
+      "chave": "challenge__jinjotaxi",
+      "hash_es": "f0b5a2e79195008e",
+      "texto_ptbr": "Táxi Jinjo",
+      "lote": "511"
+    },
+    {
+      "id": "4fcc",
+      "chave": "challenge__jinjotaxibike",
+      "hash_es": "180337d06219975a",
+      "texto_ptbr": "Táxi Jinjo: Moto",
+      "lote": "511"
+    },
+    {
+      "id": "ce9a",
+      "chave": "challenge__jinjotaxibikesummary",
+      "hash_es": "7334e36e86ec71bb",
+      "texto_ptbr": "Táxi Jinjo: este Jinjo precisa chegar a um novo destino dentro do tempo limite. Como ele adora emoção, você vai usar uma moto.",
+      "lote": "511"
+    },
+    {
+      "id": "6817",
+      "chave": "challenge__jinjotaxiboat",
+      "hash_es": "ea2817c110643012",
+      "texto_ptbr": "Táxi Jinjo: Barco",
+      "lote": "511"
+    },
+    {
+      "id": "4485",
+      "chave": "challenge__jinjotaxiboatsummary",
+      "hash_es": "926363399071ed47",
+      "texto_ptbr": "Táxi Jinjo: este Jinjo precisa chegar a um novo destino dentro do tempo limite. Você vai navegar até o novo local levando o Jinjo num barco.",
+      "lote": "511"
+    },
+    {
+      "id": "a22e",
+      "chave": "challenge__jinjotaxiegggun",
+      "hash_es": "621f8b5f4579efce",
+      "texto_ptbr": "Táxi Jinjo: Lança-Ovos",
+      "lote": "511"
+    },
+    {
+      "id": "5ebc",
+      "chave": "challenge__jinjotaxiegggunsummary",
+      "hash_es": "a25426427472ac52",
+      "texto_ptbr": "Táxi Jinjo: este Jinjo precisa chegar a um novo destino dentro do tempo limite. A rota é perigosa, então o táxi vem armado com um Lança-Ovos.",
+      "lote": "511"
+    },
+    {
+      "id": "0928",
+      "chave": "challenge__jinjotaxifreewheel",
+      "hash_es": "47d723ac23d6c75b",
+      "texto_ptbr": "Táxi Jinjo: Roda Livre",
+      "lote": "511"
+    },
+    {
+      "id": "e876",
+      "chave": "challenge__jinjotaxifreewheelsummary",
+      "hash_es": "6e91b585f7906ea9",
+      "texto_ptbr": "Táxi Jinjo: este Jinjo precisa chegar a um novo destino dentro do tempo limite. Os Gruntbots roubaram o motor do táxi, então você terá de rolar até lá sem potência.",
+      "lote": "511"
+    },
+    {
+      "id": "1f00",
+      "chave": "challenge__jinjotaxihelicopter",
+      "hash_es": "10a3a7c9854269b9",
+      "texto_ptbr": "Táxi Jinjo: Helicóptero",
+      "lote": "511"
+    },
+    {
+      "id": "fb4e",
+      "chave": "challenge__jinjotaxihelicoptersummary",
+      "hash_es": "cfc5ef0999d6feb8",
+      "texto_ptbr": "Táxi Jinjo: este Jinjo precisa chegar a um novo destino dentro do tempo limite. Você vai usar um helicóptero, mas tente não ficar tanto olhando a paisagem.",
+      "lote": "511"
+    },
+    {
+      "id": "a014",
+      "chave": "challenge__jinjotaxijet",
+      "hash_es": "4d9243e9e55dae54",
+      "texto_ptbr": "Táxi Jinjo: Jato",
+      "lote": "511"
+    },
+    {
+      "id": "fde2",
+      "chave": "challenge__jinjotaxijetsummary",
+      "hash_es": "af38c086d427a946",
+      "texto_ptbr": "Táxi Jinjo: este Jinjo precisa chegar a um novo destino dentro do tempo limite. O Jinjo leva uma vida frenética e precisa chegar o quanto antes, daí o táxi a jato.",
+      "lote": "511"
+    },
+    {
+      "id": "1c81",
+      "chave": "challenge__jinjotaxiplane",
+      "hash_es": "4238fe61670cd578",
+      "texto_ptbr": "Táxi Jinjo: Avião",
+      "lote": "511"
+    },
+    {
+      "id": "9daf",
+      "chave": "challenge__jinjotaxiplanesummary",
+      "hash_es": "d40c9544667b09aa",
+      "texto_ptbr": "Táxi Jinjo: este Jinjo precisa chegar a um novo destino dentro do tempo limite. O Jinjo tem gostos caros e exige ser levado de avião.",
+      "lote": "511"
+    },
+    {
+      "id": "d57e",
+      "chave": "challenge__jinjotaxirearsteer",
+      "hash_es": "7586212728cfb983",
+      "texto_ptbr": "Táxi Jinjo: Direção Traseira",
+      "lote": "511"
+    },
+    {
+      "id": "b80c",
+      "chave": "challenge__jinjotaxirearsteersummary",
+      "hash_es": "00dd8129cbbd4921",
+      "texto_ptbr": "Táxi Jinjo: este Jinjo precisa chegar a um novo destino dentro do tempo limite. Alguém andou mexendo na direção deste táxi e só as rodas traseiras vão virar, então cuidado!",
+      "lote": "511"
+    },
+    {
+      "id": "fc7f",
+      "chave": "challenge__jinjotaxisummary",
+      "hash_es": "5bd60dee188b887f",
+      "texto_ptbr": "Táxi Jinjo: este Jinjo precisa chegar a um novo destino dentro do tempo limite. O táxi Jinjo padrão será usado. Pode não ser rápido, mas o Jinjo vai gostar do conforto.",
+      "lote": "511"
+    },
+    {
+      "id": "b499",
+      "chave": "challenge__jinjotaxitorpedile",
+      "hash_es": "7f0d4f46990f9c49",
+      "texto_ptbr": "Táxi Jinjo: Torpedilo",
+      "lote": "514"
+    },
+    {
+      "id": "2ac7",
+      "chave": "challenge__jinjotaxitorpedilesummary",
+      "hash_es": "65f6d807b7acf866",
+      "texto_ptbr": "Táxi Jinjo: este Jinjo precisa chegar a um novo destino dentro do tempo limite. Problemas são esperados no caminho, por isso este táxi está equipado com o poderoso Torpedilo.",
+      "lote": "514"
+    },
+    {
+      "id": "0000",
+      "chave": "challenge__keepvehiclequestion",
+      "hash_es": "15b89b7c05a39021",
+      "texto_ptbr": "Deseja manter seu veículo personalizado?",
+      "lote": "511"
+    },
+    {
+      "id": "183b",
+      "chave": "challenge__longjumpsummary",
+      "hash_es": "bbdf4ea6cf9d5bb1",
+      "texto_ptbr": "Saltadores de Distância: a maioria dos carros serve, assim como qualquer coisa que desça a rampa em alta velocidade.",
+      "lote": "511"
+    },
+    {
+      "id": "6b49",
+      "chave": "challenge__lowgravbrawlsummary",
+      "hash_es": "89a29fb1005ea84c",
+      "texto_ptbr": "Luta Banjo de Baixa Gravidade: veículos voadores são muito recomendados aqui.",
+      "lote": "511"
+    },
+    {
+      "id": "f18c",
+      "chave": "challenge__lowgravracesummary",
+      "hash_es": "9207e3d117ad0cfd",
+      "texto_ptbr": "G-Zero: a maioria dos carros serve para esta corrida.",
+      "lote": "511"
+    },
+    {
+      "id": "055b",
+      "chave": "challenge__mpfin",
+      "hash_es": "eb80ed753e3a2393",
+      "texto_ptbr": "CONCLUÍDO",
+      "lote": "511"
+    },
+    {
+      "id": "cc8a",
+      "chave": "challenge__notes",
+      "hash_es": "8a6172e21a8758f7",
+      "texto_ptbr": "Notas",
+      "lote": "511"
+    },
+    {
+      "id": "b647",
+      "chave": "challenge__nuttyacresact1game1",
+      "hash_es": "127415fadf86e68c",
+      "texto_ptbr": "Calhambeques e Arrancada",
+      "lote": "511"
+    },
+    {
+      "id": "bcb5",
+      "chave": "challenge__nuttyacresact1game1summary",
+      "hash_es": "114dd1adcb94b739",
+      "texto_ptbr": "Chegue por terra ao curral o mais rápido possível para descobrir a causa da fumaça.",
+      "lote": "511"
+    },
+    {
+      "id": "dee8",
+      "chave": "challenge__nuttyacresact2game1",
+      "hash_es": "c77096e267e5ead8",
+      "texto_ptbr": "Vazamento nos Canos",
+      "lote": "511"
+    },
+    {
+      "id": "c636",
+      "chave": "challenge__nuttyacresact2game1summary",
+      "hash_es": "3e9d36a8586329b7",
+      "texto_ptbr": "Tape os canos de água antes que a colheita de cocos seque! Um veículo que carregue coisas pode ser útil, e aposto que muita coisa caberia nesses canos.",
+      "lote": "511"
+    },
+    {
+      "id": "dee9",
+      "chave": "challenge__nuttyacresact2game2",
+      "hash_es": "6258aaa262422cc9",
+      "texto_ptbr": "Circuito dos Cocos",
+      "lote": "511"
+    },
+    {
+      "id": "9b17",
+      "chave": "challenge__nuttyacresact2game2summary",
+      "hash_es": "9ca1a9512ee080ea",
+      "texto_ptbr": "Uma corrida terrestre contra o T.T. por Nutty Acres. Você vai precisar do seu veículo mais rápido para vencer o gato competitivo demais.",
+      "lote": "518"
+    },
+    {
+      "id": "deea",
+      "chave": "challenge__nuttyacresact2game3",
+      "hash_es": "28bd3d0204f31f4a",
+      "texto_ptbr": "Tique, Taque, Bum!",
+      "lote": "511"
+    },
+    {
+      "id": "6ff8",
+      "chave": "challenge__nuttyacresact2game3summary",
+      "hash_es": "79bb7835087a5790",
+      "texto_ptbr": "Leve a bomba com tique-taque até o Bottles. Você encontrará a toupeira no aeródromo ao lado do vulcão, e recomendo fortemente chegar antes que o cronômetro da bomba zere.",
+      "lote": "511"
+    },
+    {
+      "id": "0789",
+      "chave": "challenge__nuttyacresact3game1",
+      "hash_es": "7d6ec7dd4c01b4fa",
+      "texto_ptbr": "O Coco Loco da Grunty",
+      "lote": "511"
+    },
+    {
+      "id": "cfb7",
+      "chave": "challenge__nuttyacresact3game1summary",
+      "hash_es": "227e8b0ed53a9e81",
+      "texto_ptbr": "A bruxa malvada roubou o coco Coco Loco e está fugindo. Você precisa derrubar o coco do veículo dela! Isso vai exigir um veículo grande, pesado ou potente.",
+      "lote": "511"
+    },
+    {
+      "id": "302a",
+      "chave": "challenge__nuttyacresact4game1",
+      "hash_es": "fb69d275e51c4ecd",
+      "texto_ptbr": "Bruxa Trapaceira",
+      "lote": "511"
+    },
+    {
+      "id": "d938",
+      "chave": "challenge__nuttyacresact4game1summary",
+      "hash_es": "b8334b269a19f66f",
+      "texto_ptbr": "A gatinha vingativa da bruxa está desafiando candidatos para uma corrida terrestre. Você vai precisar de um veículo rápido para vencer a Piddles, mas cuidado com os comparsas dela!",
+      "lote": "511"
+    },
+    {
+      "id": "302b",
+      "chave": "challenge__nuttyacresact4game2",
+      "hash_es": "c2dd23e34a6259b3",
+      "texto_ptbr": "Travessuras",
+      "lote": "511"
+    },
+    {
+      "id": "ae19",
+      "chave": "challenge__nuttyacresact4game2summary",
+      "hash_es": "9d6de7a5ae27cf17",
+      "texto_ptbr": "O treinamento de voo do Bottles tem uma série de tarefas que devem ser feitas na ordem. Ouça as instruções da toupeira e complete o treinamento o mais rápido que puder.",
+      "lote": "511"
+    },
+    {
+      "id": "302c",
+      "chave": "challenge__nuttyacresact4game3",
+      "hash_es": "b23e2490835e673d",
+      "texto_ptbr": "Aspira-Cocos",
+      "lote": "511"
+    },
+    {
+      "id": "82fa",
+      "chave": "challenge__nuttyacresact4game3summary",
+      "hash_es": "a9133da7095fabdf",
+      "texto_ptbr": "Gruntbots atacaram o pomar e estão comendo a safra de cocos. Salve a colheita e a pele do Klungo levando cocos suficientes de volta ao funil no curral.",
+      "lote": "511"
+    },
+    {
+      "id": "302d",
+      "chave": "challenge__nuttyacresact4game4",
+      "hash_es": "20ff16958d983e08",
+      "texto_ptbr": "Em Forma e na Luta",
+      "lote": "511"
+    },
+    {
+      "id": "57db",
+      "chave": "challenge__nuttyacresact4game4summary",
+      "hash_es": "af6a4b734f6af180",
+      "texto_ptbr": "O Sr. Em Forma está sendo atacado na corrida matinal e precisa de proteção. Defenda o Sr. Em Forma ou ataque os Gruntbots, você escolhe. Que tal tentar os dois?",
+      "lote": "511"
+    },
+    {
+      "id": "58cb",
+      "chave": "challenge__nuttyacresact5game1",
+      "hash_es": "7ff2fcf9cb78aea9",
+      "texto_ptbr": "Salvem Nossa Estátua",
+      "lote": "511"
+    },
+    {
+      "id": "e2b9",
+      "chave": "challenge__nuttyacresact5game1summary",
+      "hash_es": "68f28edd7493cf98",
+      "texto_ptbr": "Grunty enviou ondas de Gruntbots voadores para atacar a preciosa estátua dos Cocos Mais Duros. Você vai precisar de um veículo que defenda a estátua ou leve o ataque até os Gruntbots.",
+      "lote": "511"
+    },
+    {
+      "id": "58cc",
+      "chave": "challenge__nuttyacresact5game2",
+      "hash_es": "1797f36022e9e4e3",
+      "texto_ptbr": "Grandes Bolas de Fogo",
+      "lote": "511"
+    },
+    {
+      "id": "b79a",
+      "chave": "challenge__nuttyacresact5game2summary",
+      "hash_es": "65891e9fe42be2b1",
+      "texto_ptbr": "O vulcão expeliu bolas de fogo enormes que soltam um gás asfixiante para os cocos. Ponha as rochas na água para esfriá-las antes que arruínem a colheita da temporada.",
+      "lote": "511"
+    },
+    {
+      "id": "58cd",
+      "chave": "challenge__nuttyacresact5game3",
+      "hash_es": "d889577d5e4a8145",
+      "texto_ptbr": "Lavrador do Ano",
+      "lote": "514"
+    },
+    {
+      "id": "8c7b",
+      "chave": "challenge__nuttyacresact5game3summary",
+      "hash_es": "83ce3d52e46ba17b",
+      "texto_ptbr": "Do alto da pilha gigante de caixas, os melhores cocos do Mumbo precisam ser recolhidos e postos no funil do curral. Cocos maiores valem mais pontos, mas ocupam mais espaço.",
+      "lote": "511"
+    },
+    {
+      "id": "58ce",
+      "chave": "challenge__nuttyacresact5game4",
+      "hash_es": "dc61eb5207b219d5",
+      "texto_ptbr": "Derrote a Frota",
+      "lote": "511"
+    },
+    {
+      "id": "615c",
+      "chave": "challenge__nuttyacresact5game4summary",
+      "hash_es": "1eecefcaa0300806",
+      "texto_ptbr": "Grunty enviou uma armada de navios Gruntbot para atacar a fazenda pelo mar. Uma ideia seria usar um veículo aquático flutuante com capacidade de ataque para destruir todos eles.",
+      "lote": "511"
+    },
+    {
+      "id": "58cf",
+      "chave": "challenge__nuttyacresact5game5",
+      "hash_es": "3e01f39174d39a61",
+      "texto_ptbr": "Ovo Cozido",
+      "lote": "511"
+    },
+    {
+      "id": "363d",
+      "chave": "challenge__nuttyacresact5game5summary",
+      "hash_es": "61a0aa58be6c6ced",
+      "texto_ptbr": "Prepare o café da manhã do Klungo aquecendo o ovo e levando de volta, mas não o quebre! Você vai precisar de um veículo que transporte o ovo frágil com segurança.",
+      "lote": "511"
+    },
+    {
+      "id": "58d0",
+      "chave": "challenge__nuttyacresact5game6",
+      "hash_es": "cd9c07160d1e2a5d",
+      "texto_ptbr": "Cão Velho, Truques Novos",
+      "lote": "511"
+    },
+    {
+      "id": "0b1e",
+      "chave": "challenge__nuttyacresact5game6summary",
+      "hash_es": "d637b3b6438d8acb",
+      "texto_ptbr": "O Mr. Patch, de Banjo-Tooie, está bloqueando a luz do sol bem acima da fazenda. Use um veículo voador com ataque para arrancar os remendos dele e murchar esse balão gasto.",
+      "lote": "514"
+    },
+    {
+      "id": "816c",
+      "chave": "challenge__nuttyacresact6game1",
+      "hash_es": "1a230e06e1789d71",
+      "texto_ptbr": "Aerococo",
+      "lote": "511"
+    },
+    {
+      "id": "ec3a",
+      "chave": "challenge__nuttyacresact6game1summary",
+      "hash_es": "7b732237dc811961",
+      "texto_ptbr": "Esta é uma corrida aérea por Nutty Acres e, como era de se esperar, você vai precisar de um veículo voador rápido.",
+      "lote": "518"
+    },
+    {
+      "id": "816d",
+      "chave": "challenge__nuttyacresact6game2",
+      "hash_es": "15898fff15aee153",
+      "texto_ptbr": "Festival Roda Livre",
+      "lote": "511"
+    },
+    {
+      "id": "c11b",
+      "chave": "challenge__nuttyacresact6game2summary",
+      "hash_es": "576fefb0d8a09a4e",
+      "texto_ptbr": "Percorra a maior distância possível antes de parar. Todas as habilidades do seu veículo, menos a direção, ficarão congeladas na largada. Então escolha algo que role bastante.",
+      "lote": "511"
+    },
+    {
+      "id": "816e",
+      "chave": "challenge__nuttyacresact6game3",
+      "hash_es": "c69e5959572ff85b",
+      "texto_ptbr": "Confronto no Leito do Rio",
+      "lote": "511"
+    },
+    {
+      "id": "95fc",
+      "chave": "challenge__nuttyacresact6game3summary",
+      "hash_es": "78b27863d4aca871",
+      "texto_ptbr": "Corra ao longo do leito seco do rio. Minha recomendação é um veículo terrestre rápido que aguente algumas batidas.",
+      "lote": "511"
+    },
+    {
+      "id": "816f",
+      "chave": "challenge__nuttyacresact6game4",
+      "hash_es": "114c8e6a56fd6b32",
+      "texto_ptbr": "Cocos para Levar",
+      "lote": "511"
+    },
+    {
+      "id": "6add",
+      "chave": "challenge__nuttyacresact6game4summary",
+      "hash_es": "757c98c77385166d",
+      "texto_ptbr": "Primeiro leve os cocos ao Mumbo nas dunas da praia para autorização, depois leve-os ao cais para embarque. Você vai precisar de um veículo com grande capacidade de carga.",
+      "lote": "511"
+    },
+    {
+      "id": "8170",
+      "chave": "challenge__nuttyacresact6game5",
+      "hash_es": "bb6ae8e1bdd649f7",
+      "texto_ptbr": "Fazendo Ondas",
+      "lote": "511"
+    },
+    {
+      "id": "3fbe",
+      "chave": "challenge__nuttyacresact6game5summary",
+      "hash_es": "b5ab6845d584bcf3",
+      "texto_ptbr": "Esta é uma corrida aquática em volta da bela paisagem da ilha de Nutty Acres. Não há tempo para admirar a vista, pois você vai usar seu veículo flutuante rápido para garantir o primeiro lugar.",
+      "lote": "518"
+    },
+    {
+      "id": "019a",
+      "chave": "challenge__nuttyacresliveairrace",
+      "hash_es": "39132b3c862993a2",
+      "texto_ptbr": "Corrida: Aerococo Expresso",
+      "lote": "514"
+    },
+    {
+      "id": "3ea4",
+      "chave": "challenge__nuttyacresliveboatrace",
+      "hash_es": "737e0031e2478419",
+      "texto_ptbr": "Corrida: Retas Oceânicas",
+      "lote": "514"
+    },
+    {
+      "id": "d6b8",
+      "chave": "challenge__nuttyacreslivefreewheelfestival",
+      "hash_es": "15898fff15aee153",
+      "texto_ptbr": "Festival Roda Livre",
+      "lote": "511"
+    },
+    {
+      "id": "3114",
+      "chave": "challenge__nuttyacresliveintothefarmyard",
+      "hash_es": "cb8880bf58b4c321",
+      "texto_ptbr": "Assalto: No Curral",
+      "lote": "511"
+    },
+    {
+      "id": "6c50",
+      "chave": "challenge__nuttyacresliveintothevolcano",
+      "hash_es": "02723969ab1ee920",
+      "texto_ptbr": "Assalto: No Vulcão",
+      "lote": "511"
+    },
+    {
+      "id": "0a68",
+      "chave": "challenge__nuttyacresliveislandtour",
+      "hash_es": "e85f423e02f04889",
+      "texto_ptbr": "Corrida: Volta pela Ilha",
+      "lote": "511"
+    },
+    {
+      "id": "e142",
+      "chave": "challenge__nuttyacresliveqotk",
+      "hash_es": "f38f85ceefe076bf",
+      "texto_ptbr": "Rainha da Colina",
+      "lote": "511"
+    },
+    {
+      "id": "e433",
+      "chave": "challenge__nuttyairwayssummary",
+      "hash_es": "aa430b314e3b242e",
+      "texto_ptbr": "Aerolinhas Malucas: se você não escolher um veículo voador, vai penar para vencer!",
+      "lote": "511"
+    },
+    {
+      "id": "3bd1",
+      "chave": "challenge__nuttycruisessummary",
+      "hash_es": "183b03bc96b0530c",
+      "texto_ptbr": "Cruzeiros Malucos: basicamente, escolha algo que flutue!",
+      "lote": "511"
+    },
+    {
+      "id": "067b",
+      "chave": "challenge__ok",
+      "hash_es": "cd0740456011bc03",
+      "texto_ptbr": "Usar Veículo",
+      "lote": "511"
+    },
+    {
+      "id": "1acc",
+      "chave": "challenge__poolprixsummary",
+      "hash_es": "788b2de1aedd11e8",
+      "texto_ptbr": "Prêmio da Piscina: tente usar veículos flutuantes rápidos e fáceis de manobrar.",
+      "lote": "511"
+    },
+    {
+      "id": "dc27",
+      "chave": "challenge__position1",
+      "hash_es": "6b86b273ff34fce1",
+      "texto_ptbr": "1",
+      "lote": "511"
+    },
+    {
+      "id": "dc28",
+      "chave": "challenge__position2",
+      "hash_es": "d4735e3a265e16ee",
+      "texto_ptbr": "2",
+      "lote": "511"
+    },
+    {
+      "id": "dc29",
+      "chave": "challenge__position3",
+      "hash_es": "4e07408562bedb8b",
+      "texto_ptbr": "3",
+      "lote": "511"
+    },
+    {
+      "id": "dc2a",
+      "chave": "challenge__position4",
+      "hash_es": "4b227777d4dd1fc6",
+      "texto_ptbr": "4",
+      "lote": "511"
+    },
+    {
+      "id": "dc2b",
+      "chave": "challenge__position5",
+      "hash_es": "ef2d127de37b942b",
+      "texto_ptbr": "5",
+      "lote": "511"
+    },
+    {
+      "id": "dc2c",
+      "chave": "challenge__position6",
+      "hash_es": "e7f6c011776e8db7",
+      "texto_ptbr": "6",
+      "lote": "511"
+    },
+    {
+      "id": "dc2d",
+      "chave": "challenge__position7",
+      "hash_es": "7902699be42c8a8e",
+      "texto_ptbr": "7",
+      "lote": "511"
+    },
+    {
+      "id": "dc2e",
+      "chave": "challenge__position8",
+      "hash_es": "2c624232cdd22177",
+      "texto_ptbr": "8",
+      "lote": "511"
+    },
+    {
+      "id": "1aae",
+      "chave": "challenge__qotksummary",
+      "hash_es": "68c4fcbbc16bf44f",
+      "texto_ptbr": "Rainha da Colina: a maioria dos veículos serve, mas os de combate são recomendados.",
+      "lote": "511"
+    },
+    {
+      "id": "1a6d",
+      "chave": "challenge__rank",
+      "hash_es": "bc33bde266078284",
+      "texto_ptbr": "NÍVEL:",
+      "lote": "514"
+    },
+    {
+      "id": "684e",
+      "chave": "challenge__rankA",
+      "hash_es": "559aead08264d579",
+      "texto_ptbr": "A",
+      "lote": "511"
+    },
+    {
+      "id": "684f",
+      "chave": "challenge__rankB",
+      "hash_es": "df7e70e5021544f4",
+      "texto_ptbr": "B",
+      "lote": "511"
+    },
+    {
+      "id": "6850",
+      "chave": "challenge__rankC",
+      "hash_es": "6b23c0d5f35d1b11",
+      "texto_ptbr": "C",
+      "lote": "511"
+    },
+    {
+      "id": "6851",
+      "chave": "challenge__rankD",
+      "hash_es": "3f39d5c348e5b79d",
+      "texto_ptbr": "D",
+      "lote": "511"
+    },
+    {
+      "id": "6852",
+      "chave": "challenge__rankE",
+      "hash_es": "a9f51566bd6705f7",
+      "texto_ptbr": "E",
+      "lote": "511"
+    },
+    {
+      "id": "b6da",
+      "chave": "challenge__rankJiggyMinNotesMax",
+      "hash_es": "9024c7282f166edc",
+      "texto_ptbr": "Jiggy",
+      "lote": "511"
+    },
+    {
+      "id": "e49a",
+      "chave": "challenge__rankNotesMin",
+      "hash_es": "8a6172e21a8758f7",
+      "texto_ptbr": "Notas",
+      "lote": "511"
+    },
+    {
+      "id": "1496",
+      "chave": "challenge__rankPerfect",
+      "hash_es": "5c62e091b8c0565f",
+      "texto_ptbr": "P",
+      "lote": "511"
+    },
+    {
+      "id": "153b",
+      "chave": "challenge__rankTTMax",
+      "hash_es": "7541d10e671c92f7",
+      "texto_ptbr": "Perfeito",
+      "lote": "511"
+    },
+    {
+      "id": "9679",
+      "chave": "challenge__rankTTMinJiggyMax",
+      "hash_es": "9b60df699d87bb6c",
+      "texto_ptbr": "T.T.",
+      "lote": "511"
+    },
+    {
+      "id": "61d6",
+      "chave": "challenge__ready",
+      "hash_es": "1ca1f88a32b3786a",
+      "texto_ptbr": "PRONTO",
+      "lote": "511"
+    },
+    {
+      "id": "33e9",
+      "chave": "challenge__round",
+      "hash_es": "00863d007074fac3",
+      "texto_ptbr": "RODADA %i DE %i",
+      "lote": "511"
+    },
+    {
+      "id": "493d",
+      "chave": "challenge__savereplay",
+      "hash_es": "6c87b1ba612fa99c",
+      "texto_ptbr": "Salvar Repetição",
+      "lote": "511"
+    },
+    {
+      "id": "1aff",
+      "chave": "challenge__scoretitle",
+      "hash_es": "74b16234eeca167d",
+      "texto_ptbr": "Esta Pontuação:",
+      "lote": "511"
+    },
+    {
+      "id": "b2d2",
+      "chave": "challenge__shortcircuitsummary",
+      "hash_es": "f9345bf2415bf3a3",
+      "texto_ptbr": "Curto-Circuito: recomendam-se carros menores que façam as curvas em alta velocidade.",
+      "lote": "511"
+    },
+    {
+      "id": "27c3",
+      "chave": "challenge__soloairballsummary",
+      "hash_es": "be265945652a2b08",
+      "texto_ptbr": "Futebol Aéreo: veículos voadores que controlem bem a bola são muito recomendados.",
+      "lote": "511"
+    },
+    {
+      "id": "d0ff",
+      "chave": "challenge__solofootballsummary",
+      "hash_es": "44cf395d987fded5",
+      "texto_ptbr": "Futebol: carros que empurrem uma bola com precisão funcionam bem aqui.",
+      "lote": "511"
+    },
+    {
+      "id": "f1e9",
+      "chave": "challenge__solowaterpolosummary",
+      "hash_es": "93c4f2f3d4d41c21",
+      "texto_ptbr": "Polo Aquático: use barcos ou outros veículos flutuantes com bom controle de bola.",
+      "lote": "511"
+    },
+    {
+      "id": "4238",
+      "chave": "challenge__spiralmountainpointless",
+      "hash_es": "207c73a931b91a8a",
+      "texto_ptbr": "Coleta Sem Sentido",
+      "lote": "511"
+    },
+    {
+      "id": "8bd0",
+      "chave": "challenge__spiralmountainshowdown",
+      "hash_es": "4494fe97c396eaeb",
+      "texto_ptbr": "Duelo em Spiral Mountain",
+      "lote": "518"
+    },
+    {
+      "id": "de1e",
+      "chave": "challenge__spiralmountainshowdownsummary",
+      "hash_es": "6cbbe3a29f4fa245",
+      "texto_ptbr": "É o duelo do fim do jogo! Grunty construiu uma coleção de engenhocas que você precisa derrotar usando o mesmo veículo. Prepare-se para ir a qualquer lugar e garanta bastante poder de fogo.",
+      "lote": "511"
+    },
+    {
+      "id": "50cf",
+      "chave": "challenge__spiralmountainsixofthebest",
+      "hash_es": "584aa42d51e344f3",
+      "texto_ptbr": "Seis dos Melhores",
+      "lote": "511"
+    },
+    {
+      "id": "2e3d",
+      "chave": "challenge__spiralmountainsixofthebestsummary",
+      "hash_es": "a0b7b18f9120e99e",
+      "texto_ptbr": "Uma série de 6 jogos com o mesmo veículo. Haverá transporte, coleta, empurrão, tiro... e aros por terra, água e ar. Seu veículo precisa dar conta de um pouco de tudo!",
+      "lote": "511"
+    },
+    {
+      "id": "a739",
+      "chave": "challenge__stadiumcircuitsummary",
+      "hash_es": "9d153cce0af6e156",
+      "texto_ptbr": "Velocidade: escolha um carro rápido e você não deve ter muitos problemas.",
+      "lote": "511"
+    },
+    {
+      "id": "2873",
+      "chave": "challenge__sumosummary",
+      "hash_es": "675fef76ea032095",
+      "texto_ptbr": "Sumô: aposte em veículos terrestres parrudos, com força para empurrar os outros!",
+      "lote": "511"
+    },
+    {
+      "id": "3c3e",
+      "chave": "challenge__terroriumact1game1",
+      "hash_es": "d6e1696962b0df21",
+      "texto_ptbr": "Vista de Urso",
+      "lote": "511"
+    },
+    {
+      "id": "06cc",
+      "chave": "challenge__terroriumact1game1summary",
+      "hash_es": "bae4eb7d7e8cf7b2",
+      "texto_ptbr": "Os pesquisadores precisam mandar um voluntário a um ponto panorâmico para examinar os arredores. O voluntário é você, então ache um veículo capaz de levá-lo bem alto.",
+      "lote": "511"
+    },
+    {
+      "id": "3c3f",
+      "chave": "challenge__terroriumact1game2",
+      "hash_es": "936b89e18a2bcc83",
+      "texto_ptbr": "Precisa-se de Semente",
+      "lote": "511"
+    },
+    {
+      "id": "dbad",
+      "chave": "challenge__terroriumact1game2summary",
+      "hash_es": "667ce91f5b382c51",
+      "texto_ptbr": "Klungo descobriu uma semente rara e delicada de Amora Flutuante que quer plantar. Você vai precisar de um veículo para levar a semente e de um jeito de mantê-la úmida pelo caminho.",
+      "lote": "511"
+    },
+    {
+      "id": "64df",
+      "chave": "challenge__terroriumact2game1",
+      "hash_es": "17d00336df845906",
+      "texto_ptbr": "Voo Vistoso",
+      "lote": "511"
+    },
+    {
+      "id": "104d",
+      "chave": "challenge__terroriumact2game1summary",
+      "hash_es": "cd99858c743f85d4",
+      "texto_ptbr": "O Capitão Flash McBlubber quer provar sua habilidade de piloto numa corrida por terra e ar. Se você não tem veículos equipados para as duas superfícies, talvez ache algum pelo caminho.",
+      "lote": "511"
+    },
+    {
+      "id": "64e0",
+      "chave": "challenge__terroriumact2game2",
+      "hash_es": "95be4d80be212c21",
+      "texto_ptbr": "Fruta Bem Madura",
+      "lote": "511"
+    },
+    {
+      "id": "e52e",
+      "chave": "challenge__terroriumact2game2summary",
+      "hash_es": "40fb1ddea89a695d",
+      "texto_ptbr": "As Amoras Flutuantes precisam amadurecer. Felizmente só precisam de água, então leve um veículo capaz de alcançar as frutas e colocá-las em contato com a água.",
+      "lote": "511"
+    },
+    {
+      "id": "64e1",
+      "chave": "challenge__terroriumact2game3",
+      "hash_es": "e53bd7cacf4e82c4",
+      "texto_ptbr": "O Retorno do Disco do Perigo",
+      "lote": "511"
+    },
+    {
+      "id": "ba0f",
+      "chave": "challenge__terroriumact2game3summary",
+      "hash_es": "75c1f72cae4da93e",
+      "texto_ptbr": "Um velho favorito ou uma repetição descarada? Tanto faz. Você vai embarcar no confiável Disco do Perigo para explodir planetas em pedaços. Cada cor vale uma pontuação diferente.",
+      "lote": "511"
+    },
+    {
+      "id": "64e2",
+      "chave": "challenge__terroriumact2game4",
+      "hash_es": "f209603e81ff9be7",
+      "texto_ptbr": "Grandes Bolas de Gás",
+      "lote": "511"
+    },
+    {
+      "id": "8ef0",
+      "chave": "challenge__terroriumact2game4summary",
+      "hash_es": "2bd6048e389bf995",
+      "texto_ptbr": "Um fungo tóxico está envenenando a atmosfera e precisa ser levado bem alto antes de implodir. Ele fica mais pesado ao subir, então você vai precisar de um veículo potente de elevação ou transporte.",
+      "lote": "511"
+    },
+    {
+      "id": "64e3",
+      "chave": "challenge__terroriumact2game5",
+      "hash_es": "3f9b6c2028286422",
+      "texto_ptbr": "Gari Intergaláctico",
+      "lote": "511"
+    },
+    {
+      "id": "63d1",
+      "chave": "challenge__terroriumact2game5summary",
+      "hash_es": "279ae8aa9ea3088d",
+      "texto_ptbr": "Grunty despejou um monte de lixo espacial dos anos 80 no Terrário. Junte esse lixo com um veículo de empurrar ou transporte e jogue tudo na eclusa para se livrar dele.",
+      "lote": "511"
+    },
+    {
+      "id": "64e4",
+      "chave": "challenge__terroriumact2game6",
+      "hash_es": "6fc48fc15c5b1101",
+      "texto_ptbr": "Guerra de Germes",
+      "lote": "511"
+    },
+    {
+      "id": "38b2",
+      "chave": "challenge__terroriumact2game6summary",
+      "hash_es": "883a5e927dcec834",
+      "texto_ptbr": "Grunty atraiu para o Terrário germes esquisitos do sistema Dhogzit. Suba no ar e elimine-os antes que espalhem todo tipo de doenças desagradáveis.",
+      "lote": "511"
+    },
+    {
+      "id": "64e5",
+      "chave": "challenge__terroriumact2game7",
+      "hash_es": "44a980f73398dcd3",
+      "texto_ptbr": "Táxi do Terror",
+      "lote": "511"
+    },
+    {
+      "id": "0d93",
+      "chave": "challenge__terroriumact2game7summary",
+      "hash_es": "3d33a6e6e0b9ea23",
+      "texto_ptbr": "Recolha os pesquisadores e leve-os às suas áreas de pesquisa. Será preciso um veículo com muitos Assentos de Passageiro para transportar essa turma de desajustados.",
+      "lote": "511"
+    },
+    {
+      "id": "8d80",
+      "chave": "challenge__terroriumact3game1",
+      "hash_es": "a8de7bf2961bf200",
+      "texto_ptbr": "Desgraças de Família",
+      "lote": "511"
+    },
+    {
+      "id": "19ce",
+      "chave": "challenge__terroriumact3game1summary",
+      "hash_es": "e786762d3db1d595",
+      "texto_ptbr": "Um membro da suposta família de B-066Y está preso longe das águas refrescantes nas profundezas da usina. Para reuni-los, você vai precisar de um veículo funerário capaz de mergulhar.",
+      "lote": "511"
+    },
+    {
+      "id": "8d81",
+      "chave": "challenge__terroriumact3game2",
+      "hash_es": "0422de7b59e5fb07",
+      "texto_ptbr": "Colheita Suspensa",
+      "lote": "511"
+    },
+    {
+      "id": "eeaf",
+      "chave": "challenge__terroriumact3game2summary",
+      "hash_es": "4d44f9dacb3357d5",
+      "texto_ptbr": "As Amoras Flutuantes enfim amadureceram, então precisam ser recolhidas. A fruta flutua bem acima do coletor, então você vai precisar de um veículo voador capaz de empurrá-la ou puxá-la para baixo.",
+      "lote": "511"
+    },
+    {
+      "id": "8d82",
+      "chave": "challenge__terroriumact3game3",
+      "hash_es": "5a1b53db128d4a15",
+      "texto_ptbr": "Hora do Chá",
+      "lote": "511"
+    },
+    {
+      "id": "c390",
+      "chave": "challenge__terroriumact3game3summary",
+      "hash_es": "876eeb39ab23b4b8",
+      "texto_ptbr": "É hora do lanche no Terrário, com chá e biscoitos a entregar. Cada pesquisador só precisa de um item, mas ainda assim será preciso um veículo capaz de carregar muitos objetos.",
+      "lote": "511"
+    },
+    {
+      "id": "8d83",
+      "chave": "challenge__terroriumact3game4",
+      "hash_es": "4c04691a5754d3ae",
+      "texto_ptbr": "Super Sally",
+      "lote": "511"
+    },
+    {
+      "id": "9871",
+      "chave": "challenge__terroriumact3game4summary",
+      "hash_es": "5885b282ea20e65d",
+      "texto_ptbr": "Flash acaba de receber Sally, um carrinho lunar de última geração. Ele andou provando o Suco de Amora Flutuante, então um piloto de teste deve completar uma prova de tempo para garantir que Sally funcione bem.",
+      "lote": "511"
+    },
+    {
+      "id": "8d84",
+      "chave": "challenge__terroriumact3game5",
+      "hash_es": "522b8ed1d8ed4157",
+      "texto_ptbr": "Chuva de Flores",
+      "lote": "511"
+    },
+    {
+      "id": "6d52",
+      "chave": "challenge__terroriumact3game5summary",
+      "hash_es": "40099002012492cf",
+      "texto_ptbr": "A flor misteriosa no topo do Terrário está prestes a cuspir um monte de Gruntbots. Carregue um veículo com todas as suas Armas e Munição e derrube-os do céu!",
+      "lote": "511"
+    },
+    {
+      "id": "b621",
+      "chave": "challenge__terroriumact4game1",
+      "hash_es": "40ae8fadcf4ed2ea",
+      "texto_ptbr": "Gorda Desagradável",
+      "lote": "511"
+    },
+    {
+      "id": "234f",
+      "chave": "challenge__terroriumact4game1summary",
+      "hash_es": "837f2efae0bd0c96",
+      "texto_ptbr": "O OVNI beberrão da Grunty está soltando fumaça no ecossistema frágil. Você vai precisar de um veículo voador com ataque para derrubá-la do assento. Se conseguir encontrá-la...",
+      "lote": "511"
+    },
+    {
+      "id": "123b",
+      "chave": "challenge__terroriumactwwgame1",
+      "hash_es": "829ec8b43673d13c",
+      "texto_ptbr": "Bandidos Espaciais à Vista!",
+      "lote": "511"
+    },
+    {
+      "id": "9e29",
+      "chave": "challenge__terroriumactwwgame1summary",
+      "hash_es": "a27d23f7443c16da",
+      "texto_ptbr": "Os Piratas Espaciais, saqueadores da galáxia, invadiram! Cerque esses bandidos esféricos com um veículo de transporte ou condução e depois expulse-os pela eclusa.",
+      "lote": "511"
+    },
+    {
+      "id": "123c",
+      "chave": "challenge__terroriumactwwgame2",
+      "hash_es": "da97385efa6aea49",
+      "texto_ptbr": "Ir Ousadamente... a Qualquer Lugar",
+      "lote": "511"
+    },
+    {
+      "id": "730a",
+      "chave": "challenge__terroriumactwwgame2summary",
+      "hash_es": "0283237113dbc76a",
+      "texto_ptbr": "O triatlo de corrida definitivo exige um veículo capaz de andar em terra, na água e no ar. Você vai precisar pôr o chapéu de construtor criativo se quiser vencer esta.",
+      "lote": "511"
+    },
+    {
+      "id": "123d",
+      "chave": "challenge__terroriumactwwgame3",
+      "hash_es": "2bf2d79bc7e3a33f",
+      "texto_ptbr": "Bandidos Desarmados",
+      "lote": "511"
+    },
+    {
+      "id": "47eb",
+      "chave": "challenge__terroriumactwwgame3summary",
+      "hash_es": "17bb5005c9052ffd",
+      "texto_ptbr": "Os Piratas Espaciais pouco convincentes voltaram, e vai dar confusão. Confusão para eles, assim que você armar um veículo com Armas e Munição e explodi-los!",
+      "lote": "511"
+    },
+    {
+      "id": "123e",
+      "chave": "challenge__terroriumactwwgame4",
+      "hash_es": "5e60358b345f468d",
+      "texto_ptbr": "Monstros de Lama de Urano",
+      "lote": "511"
+    },
+    {
+      "id": "1ccc",
+      "chave": "challenge__terroriumactwwgame4summary",
+      "hash_es": "b17cb449e595f7f7",
+      "texto_ptbr": "Os simpáticos Monstros de Lama foram parar na água que tanto odeiam. Você vai precisar de um veículo terrestre e aquático de empurrar ou transporte para ajudá-los a voltar à terra firme.",
+      "lote": "511"
+    },
+    {
+      "id": "8513",
+      "chave": "challenge__terroriumlivefloatyfruit",
+      "hash_es": "b6d7104eb3ee0229",
+      "texto_ptbr": "Fruta Flutuante",
+      "lote": "511"
+    },
+    {
+      "id": "44e1",
+      "chave": "challenge__test",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "a912",
+      "chave": "challenge__timetitle",
+      "hash_es": "842de94c0858d9c7",
+      "texto_ptbr": "Este Tempo:",
+      "lote": "511"
+    },
+    {
+      "id": "ddd5",
+      "chave": "challenge__toggleresults",
+      "hash_es": "51e354ead88aae4d",
+      "texto_ptbr": "Alternar Resultados",
+      "lote": "511"
+    },
+    {
+      "id": "9d04",
+      "chave": "challenge__triathlonsummary",
+      "hash_es": "7ba3e273d1002b00",
+      "texto_ptbr": "Triatlo: use veículos que não só andem bem na terra, mas também flutuem e voem!",
+      "lote": "511"
+    },
+    {
+      "id": "d488",
+      "chave": "challenge__trophytoken",
+      "hash_es": "41c3920cc7ea47a7",
+      "texto_ptbr": "Troféu T.T.",
+      "lote": "511"
+    },
+    {
+      "id": "a951",
+      "chave": "challenge__unknown",
+      "hash_es": "a03b221c6c6eae71",
+      "texto_ptbr": "???",
+      "lote": "511"
+    },
+    {
+      "id": "fd86",
+      "chave": "challenge__usevehiclequestion",
+      "hash_es": "5c852cd45b80040d",
+      "texto_ptbr": "Deseja usar o veículo: ",
+      "lote": "511"
+    },
+    {
+      "id": "480a",
+      "chave": "challenge__waterbrawlsummary",
+      "hash_es": "43c9af95c0e82361",
+      "texto_ptbr": "Luta Banjo Aquática: aposte em veículos bem armados que flutuem bem.",
+      "lote": "511"
+    },
+    {
+      "id": "894c",
+      "chave": "challenge__waterpolosummary",
+      "hash_es": "ef3077225257e0a8",
+      "texto_ptbr": "Polo Aquático em Equipe: use barcos ou outros veículos flutuantes com bom controle de bola.",
+      "lote": "511"
+    },
+    {
+      "id": "1b33",
+      "chave": "challenge__weirdwestact1game1",
+      "hash_es": "15a9b47376b900f6",
+      "texto_ptbr": "Reúna o Rebanho",
+      "lote": "511"
+    },
+    {
+      "id": "1b34",
+      "chave": "challenge__weirdwestact1game2",
+      "hash_es": "cb922e41a7d6d31e",
+      "texto_ptbr": "Expresso Falso",
+      "lote": "511"
+    },
+    {
+      "id": "1b35",
+      "chave": "challenge__weirdwestact1game3",
+      "hash_es": "8bc4e2eba2ac0023",
+      "texto_ptbr": "A Gangue Antiquada",
+      "lote": "511"
+    },
+    {
+      "id": "43d4",
+      "chave": "challenge__weirdwestact2game1",
+      "hash_es": "110051424c317e70",
+      "texto_ptbr": "Táxi T.N.T.",
+      "lote": "511"
+    },
+    {
+      "id": "43d5",
+      "chave": "challenge__weirdwestact2game2",
+      "hash_es": "0ad134eb842caef3",
+      "texto_ptbr": "O Show Deve Continuar?",
+      "lote": "511"
+    },
+    {
+      "id": "6c75",
+      "chave": "challenge__weirdwestact3game1",
+      "hash_es": "1865cb025f300b78",
+      "texto_ptbr": "Bomba nos Trilhos",
+      "lote": "511"
+    },
+    {
+      "id": "6c76",
+      "chave": "challenge__weirdwestact3game2",
+      "hash_es": "15898fff15aee153",
+      "texto_ptbr": "Festival Roda Livre",
+      "lote": "511"
+    },
+    {
+      "id": "6c77",
+      "chave": "challenge__weirdwestact3game3",
+      "hash_es": "8c886e7a94939616",
+      "texto_ptbr": "Cerque!",
+      "lote": "514"
+    },
+    {
+      "id": "6c78",
+      "chave": "challenge__weirdwestact3game4",
+      "hash_es": "abc40f7e8144a22f",
+      "texto_ptbr": "Troca de Ovelhas",
+      "lote": "511"
+    },
+    {
+      "id": "6c79",
+      "chave": "challenge__weirdwestact3game5",
+      "hash_es": "9b8ea7a7aef7a555",
+      "texto_ptbr": "Batedor Brilhante",
+      "lote": "511"
+    },
+    {
+      "id": "9516",
+      "chave": "challenge__weirdwestact4game1",
+      "hash_es": "4e32531cbd9fa3f3",
+      "texto_ptbr": "Oeste Muito Estranho",
+      "lote": "511"
+    },
+    {
+      "id": "bdb7",
+      "chave": "challenge__weirdwestact5game1",
+      "hash_es": "ff6dfd8468439143",
+      "texto_ptbr": "Os Bandidos da Bola",
+      "lote": "511"
+    },
+    {
+      "id": "bdb8",
+      "chave": "challenge__weirdwestact5game2",
+      "hash_es": "71d2bed747f3df47",
+      "texto_ptbr": "Triatlo do Troféu",
+      "lote": "511"
+    },
+    {
+      "id": "bdb9",
+      "chave": "challenge__weirdwestact5game3",
+      "hash_es": "92778c590d1ec290",
+      "texto_ptbr": "Fuga dos Bandidos",
+      "lote": "511"
+    },
+    {
+      "id": "bdba",
+      "chave": "challenge__weirdwestact5game4",
+      "hash_es": "136e5d92b783f695",
+      "texto_ptbr": "Represa Bum!",
+      "lote": "514"
+    },
+    {
+      "id": "40b3",
+      "chave": "challenge__weirdwestliveflyingrace",
+      "hash_es": "da4e3d5d02f0369f",
+      "texto_ptbr": "Corrida: Alta Voltagem",
+      "lote": "511"
+    },
+    {
+      "id": "ff52",
+      "chave": "challenge__weirdwestliveshortcircuit",
+      "hash_es": "00f79f9429c20f05",
+      "texto_ptbr": "Corrida: Curto-Circuito",
+      "lote": "511"
+    },
+    {
+      "id": "6540",
+      "chave": "challenge__winscreenstate0",
+      "hash_es": "753e6bd31a510a4a",
+      "texto_ptbr": "Seus Resultados",
+      "lote": "511"
+    },
+    {
+      "id": "6541",
+      "chave": "challenge__winscreenstate1",
+      "hash_es": "2cd4ac25e4813250",
+      "texto_ptbr": "Placar dos 10 Melhores Jogadores",
+      "lote": "511"
+    },
+    {
+      "id": "6542",
+      "chave": "challenge__winscreenstate2",
+      "hash_es": "870608f492f04e34",
+      "texto_ptbr": "Placar de Amigos",
+      "lote": "511"
+    },
+    {
+      "id": "6543",
+      "chave": "challenge__winscreenstate3",
+      "hash_es": "c5a81b7742cb0edf",
+      "texto_ptbr": "Placar da Sua Posição Atual",
+      "lote": "511"
+    },
+    {
+      "id": "a4d2",
+      "chave": "challenge__worldbanjoland",
+      "hash_es": "bdf591a8ea3e5a6a",
+      "texto_ptbr": "BANJOLAND",
+      "lote": "518"
+    },
+    {
+      "id": "a2db",
+      "chave": "challenge__worldbanjolandact1",
+      "hash_es": "a9f9537be8aef457",
+      "texto_ptbr": "BANJOLAND ATO 1",
+      "lote": "518"
+    },
+    {
+      "id": "a2dc",
+      "chave": "challenge__worldbanjolandact2",
+      "hash_es": "f61b59dbce806534",
+      "texto_ptbr": "BANJOLAND ATO 2",
+      "lote": "518"
+    },
+    {
+      "id": "a2dd",
+      "chave": "challenge__worldbanjolandact3",
+      "hash_es": "7ed07c98f1175197",
+      "texto_ptbr": "BANJOLAND ATO 3",
+      "lote": "518"
+    },
+    {
+      "id": "a2de",
+      "chave": "challenge__worldbanjolandact4",
+      "hash_es": "2e97a57ab409906b",
+      "texto_ptbr": "BANJOLAND ATO 4",
+      "lote": "518"
+    },
+    {
+      "id": "a2df",
+      "chave": "challenge__worldbanjolandact5",
+      "hash_es": "ea3fbeecf16e3b48",
+      "texto_ptbr": "BANJOLAND ATO 5",
+      "lote": "518"
+    },
+    {
+      "id": "a2e0",
+      "chave": "challenge__worldbanjolandact6",
+      "hash_es": "6e326316ea9f0bca",
+      "texto_ptbr": "BANJOLAND ATO 6",
+      "lote": "518"
+    },
+    {
+      "id": "48d1",
+      "chave": "challenge__worldcpu",
+      "hash_es": "c792adf69c4637ae",
+      "texto_ptbr": "LOGBOX 720",
+      "lote": "518"
+    },
+    {
+      "id": "2e5a",
+      "chave": "challenge__worldcpuact1",
+      "hash_es": "dac236bf2e164105",
+      "texto_ptbr": "LOGBOX 720 ATO 1",
+      "lote": "518"
+    },
+    {
+      "id": "2e5b",
+      "chave": "challenge__worldcpuact2",
+      "hash_es": "9ad3f41e68b68c32",
+      "texto_ptbr": "LOGBOX 720 ATO 2",
+      "lote": "518"
+    },
+    {
+      "id": "2e5c",
+      "chave": "challenge__worldcpuact3",
+      "hash_es": "4c0a79e868dd2e91",
+      "texto_ptbr": "LOGBOX 720 ATO 3",
+      "lote": "518"
+    },
+    {
+      "id": "2e5d",
+      "chave": "challenge__worldcpuact4",
+      "hash_es": "9252619587b671fa",
+      "texto_ptbr": "LOGBOX 720 ATO 4",
+      "lote": "518"
+    },
+    {
+      "id": "2e5e",
+      "chave": "challenge__worldcpuact5",
+      "hash_es": "d3e30925d9141c7b",
+      "texto_ptbr": "LOGBOX 720 ATO 5",
+      "lote": "518"
+    },
+    {
+      "id": "2e5f",
+      "chave": "challenge__worldcpuact6",
+      "hash_es": "b655a1a066fe6d9d",
+      "texto_ptbr": "LOGBOX 720 ATO 6",
+      "lote": "518"
+    },
+    {
+      "id": "f09b",
+      "chave": "challenge__worldnuttyacres",
+      "hash_es": "514ab55a0ace4ccb",
+      "texto_ptbr": "NUTTY ACRES",
+      "lote": "518"
+    },
+    {
+      "id": "ab24",
+      "chave": "challenge__worldnuttyacresact1",
+      "hash_es": "e5012b5fea3df3cf",
+      "texto_ptbr": "NUTTY ACRES ATO 1",
+      "lote": "518"
+    },
+    {
+      "id": "ab25",
+      "chave": "challenge__worldnuttyacresact2",
+      "hash_es": "251fe269842834a7",
+      "texto_ptbr": "NUTTY ACRES ATO 2",
+      "lote": "518"
+    },
+    {
+      "id": "ab26",
+      "chave": "challenge__worldnuttyacresact3",
+      "hash_es": "7f4c2f9cda71d00c",
+      "texto_ptbr": "NUTTY ACRES ATO 3",
+      "lote": "518"
+    },
+    {
+      "id": "ab27",
+      "chave": "challenge__worldnuttyacresact4",
+      "hash_es": "c76686e564b988da",
+      "texto_ptbr": "NUTTY ACRES ATO 4",
+      "lote": "518"
+    },
+    {
+      "id": "ab28",
+      "chave": "challenge__worldnuttyacresact5",
+      "hash_es": "bc0d19a753bf1c59",
+      "texto_ptbr": "NUTTY ACRES ATO 5",
+      "lote": "518"
+    },
+    {
+      "id": "ab29",
+      "chave": "challenge__worldnuttyacresact6",
+      "hash_es": "cb562aaa1cd40cf6",
+      "texto_ptbr": "NUTTY ACRES ATO 6",
+      "lote": "518"
+    },
+    {
+      "id": "d9ca",
+      "chave": "challenge__worldofsportact1game1",
+      "hash_es": "24fa6b8a1b883567",
+      "texto_ptbr": "Gordões de Fralda",
+      "lote": "511"
+    },
+    {
+      "id": "6ed8",
+      "chave": "challenge__worldofsportact1game1summary",
+      "hash_es": "42da168017eaf095",
+      "texto_ptbr": "Empurre todos os Blocos de Sumô para fora do alvo o mais rápido possível. Você vai precisar de um veículo com muita potência e peso para mover esses mamutes que devoram tortas.",
+      "lote": "511"
+    },
+    {
+      "id": "d9cb",
+      "chave": "challenge__worldofsportact1game2",
+      "hash_es": "0c654a1de715a229",
+      "texto_ptbr": "Aterrissagens Infelizes",
+      "lote": "511"
+    },
+    {
+      "id": "43b9",
+      "chave": "challenge__worldofsportact1game2summary",
+      "hash_es": "797a99ef2c4a7f79",
+      "texto_ptbr": "Um salto em distância simples. Lance-se do fim do trampolim de esqui e vá o mais longe possível. Ao sair da rampa você perde o controle, então escolha um veículo com bastante impulso.",
+      "lote": "511"
+    },
+    {
+      "id": "026b",
+      "chave": "challenge__worldofsportact2game1",
+      "hash_es": "fc133e3c95905f5b",
+      "texto_ptbr": "Pneu Cantando",
+      "lote": "511"
+    },
+    {
+      "id": "7859",
+      "chave": "challenge__worldofsportact2game1summary",
+      "hash_es": "ef559eb63d5be7bf",
+      "texto_ptbr": "Uma corrida terrestre de resistência em volta da arena. Equilíbrio entre velocidade e combustível suficiente é o que você deve buscar aqui.",
+      "lote": "511"
+    },
+    {
+      "id": "026c",
+      "chave": "challenge__worldofsportact2game2",
+      "hash_es": "d3f58af4897af3ba",
+      "texto_ptbr": "Lanche do Intervalo",
+      "lote": "511"
+    },
+    {
+      "id": "4d3a",
+      "chave": "challenge__worldofsportact2game2summary",
+      "hash_es": "ce76cb709c2bff5e",
+      "texto_ptbr": "Os espectadores estão com fome e querem lanches. Entregue as pizzas antes que esfriem! Alguns estão nas cadeiras baratas, então talvez valha a pena voar até lá.",
+      "lote": "511"
+    },
+    {
+      "id": "026d",
+      "chave": "challenge__worldofsportact2game3",
+      "hash_es": "c8f5b5ffd34034ab",
+      "texto_ptbr": "Dominó Desabando",
+      "lote": "511"
+    },
+    {
+      "id": "221b",
+      "chave": "challenge__worldofsportact2game3summary",
+      "hash_es": "02ea91c1ea2d631e",
+      "texto_ptbr": "Uma partida relaxante de dominó? Talvez depois; aqui você precisa derrubar o máximo de peças possível. Quando a primeira cair, seus controles congelam, então capriche na primeira tacada.",
+      "lote": "511"
+    },
+    {
+      "id": "2b0c",
+      "chave": "challenge__worldofsportact3game1",
+      "hash_es": "d578d10da52980f6",
+      "texto_ptbr": "O Urso Mais Forte do Mundo",
+      "lote": "511"
+    },
+    {
+      "id": "81da",
+      "chave": "challenge__worldofsportact3game1summary",
+      "hash_es": "b9b6a93854aa9c47",
+      "texto_ptbr": "Erga as bolas de boliche até a tribuna. A chave deste jogo é levantar, então você vai precisar de um veículo que consiga erguer as bolas bem alto.",
+      "lote": "511"
+    },
+    {
+      "id": "2b0d",
+      "chave": "challenge__worldofsportact3game2",
+      "hash_es": "a36c8d817b51fcce",
+      "texto_ptbr": "Bolas Pesadas e Axilas Peludas",
+      "lote": "511"
+    },
+    {
+      "id": "56bb",
+      "chave": "challenge__worldofsportact3game2summary",
+      "hash_es": "ad2db76d7e3ce12c",
+      "texto_ptbr": "Um favorito do Jiggosseum: o arremesso de peso. Lance a bola o mais longe possível do alvo. Um veículo rápido, com peso na traseira e capaz de bater forte é o que você procura.",
+      "lote": "518"
+    },
+    {
+      "id": "2b0e",
+      "chave": "challenge__worldofsportact3game3",
+      "hash_es": "4eb8e9dd256910ea",
+      "texto_ptbr": "Um Monte de Blocos",
+      "lote": "511"
+    },
+    {
+      "id": "2b9c",
+      "chave": "challenge__worldofsportact3game3summary",
+      "hash_es": "2a95765b3c9a20cd",
+      "texto_ptbr": "Uma corrida terrestre de barreiras na pista da arena. Você pode passar por cima ou através das barreiras, então escolha o veículo de acordo.",
+      "lote": "511"
+    },
+    {
+      "id": "2b0f",
+      "chave": "challenge__worldofsportact3game4",
+      "hash_es": "7fdd6244a92f93b6",
+      "texto_ptbr": "Ursos Não Sabem Saltar",
+      "lote": "511"
+    },
+    {
+      "id": "007d",
+      "chave": "challenge__worldofsportact3game4summary",
+      "hash_es": "0ca0b4ed3dfb5cb3",
+      "texto_ptbr": "Uns arremessos de basquete do Jiggosseum. Você vai precisar de um veículo capaz de acertar as bolas na cesta pelo ar, então acho que o Carrinho não vai ajudar muito.",
+      "lote": "518"
+    },
+    {
+      "id": "53ad",
+      "chave": "challenge__worldofsportact4game1",
+      "hash_es": "c79af56fc6a2daeb",
+      "texto_ptbr": "Quem Deixou a Torneira Aberta?",
+      "lote": "511"
+    },
+    {
+      "id": "8b5b",
+      "chave": "challenge__worldofsportact4game1summary",
+      "hash_es": "5a1af47eed04104a",
+      "texto_ptbr": "Grunty inundou o Jiggosseum e se recusa a sair até ser derrotada no polo aquático. Escolha um veículo aquático flutuante e empurre as bolas para o gol em forma de coroa!",
+      "lote": "518"
+    },
+    {
+      "id": "7c4e",
+      "chave": "challenge__worldofsportact5game1",
+      "hash_es": "7b53105c65e1c9f5",
+      "texto_ptbr": "Sem Regras",
+      "lote": "511"
+    },
+    {
+      "id": "94dc",
+      "chave": "challenge__worldofsportact5game1summary",
+      "hash_es": "e979e0acb74faaff",
+      "texto_ptbr": "Boa tarde, fãs de luta livre! Enfrente um oponente em seu veículo e tentem se empurrar para fora do alvo. Suspeito que seu veículo precise ser bom de empurrar.",
+      "lote": "511"
+    },
+    {
+      "id": "7c4f",
+      "chave": "challenge__worldofsportact5game2",
+      "hash_es": "6c164eb3e3a3ca29",
+      "texto_ptbr": "Na Mosca",
+      "lote": "511"
+    },
+    {
+      "id": "69bd",
+      "chave": "challenge__worldofsportact5game2summary",
+      "hash_es": "9a927a1fdb5ad644",
+      "texto_ptbr": "Vá com calma e escute o S.J. Jogue seu veículo do fim do trampolim de esqui e mire nas zonas de pontuação do estádio. Ao sair da rampa, a potência do veículo será cortada.",
+      "lote": "511"
+    },
+    {
+      "id": "7c50",
+      "chave": "challenge__worldofsportact5game3",
+      "hash_es": "af2bf8d918a13794",
+      "texto_ptbr": "Hora de Detonar",
+      "lote": "511"
+    },
+    {
+      "id": "3e9e",
+      "chave": "challenge__worldofsportact5game3summary",
+      "hash_es": "9871a6805990f37c",
+      "texto_ptbr": "Quebre o dado para ganhar pontos. Todos são duros, mas alguns mais que outros. Seu veículo precisa ter força se você quiser demolir esses cubos... quer dizer... cubos.",
+      "lote": "511"
+    },
+    {
+      "id": "7c51",
+      "chave": "challenge__worldofsportact5game4",
+      "hash_es": "43a6de5027785b24",
+      "texto_ptbr": "Urso na Bola",
+      "lote": "511"
+    },
+    {
+      "id": "137f",
+      "chave": "challenge__worldofsportact5game4summary",
+      "hash_es": "d8042e10ea0f514e",
+      "texto_ptbr": "Percorra o circuito terrestre sem derrubar as peças de dominó. Cada uma derrubada acrescenta segundos de penalidade ao seu tempo. Então corra, mas com cuidado!",
+      "lote": "511"
+    },
+    {
+      "id": "7c52",
+      "chave": "challenge__worldofsportact5game5",
+      "hash_es": "be07b47fd3aa09fa",
+      "texto_ptbr": "A Tocha do Jiggosseum",
+      "lote": "518"
+    },
+    {
+      "id": "e860",
+      "chave": "challenge__worldofsportact5game5summary",
+      "hash_es": "0b75d21155713f20",
+      "texto_ptbr": "Transporte a chama pela arena inundada para acender a sagrada Tocha do Jiggosseum. Minha recomendação é um barco flutuante que carregue a tocha.",
+      "lote": "518"
+    },
+    {
+      "id": "6147",
+      "chave": "challenge__worldofsportactwwgame1",
+      "hash_es": "10cdf643aaac8d7a",
+      "texto_ptbr": "Pesadelo em 9 Bolas",
+      "lote": "511"
+    },
+    {
+      "id": "07b5",
+      "chave": "challenge__worldofsportactwwgame1summary",
+      "hash_es": "df0909c64ce74606",
+      "texto_ptbr": "As bolas de sinuca estão armadas e é a vez da Grunty. Defenda ou esconda as bolas do taco laser dela. Elas podem estar em qualquer lugar, então prepare-se! Impeça Grunty de destruir 5 bolas para ganhar a partida.",
+      "lote": "511"
+    },
+    {
+      "id": "570b",
+      "chave": "challenge__worldofsportlivebanjoball",
+      "hash_es": "5b6237869decd687",
+      "texto_ptbr": "Futebol",
+      "lote": "511"
+    },
+    {
+      "id": "ebd6",
+      "chave": "challenge__worldofsportliveeggnspoon",
+      "hash_es": "4833d2a040366be2",
+      "texto_ptbr": "Corrida: Ovo e Colher",
+      "lote": "511"
+    },
+    {
+      "id": "9af4",
+      "chave": "challenge__worldofsportlivelongdarts",
+      "hash_es": "6c164eb3e3a3ca29",
+      "texto_ptbr": "Na Mosca",
+      "lote": "511"
+    },
+    {
+      "id": "6d12",
+      "chave": "challenge__worldofsportlivelongjump",
+      "hash_es": "0c654a1de715a229",
+      "texto_ptbr": "Aterrissagens Infelizes",
+      "lote": "511"
+    },
+    {
+      "id": "8d90",
+      "chave": "challenge__worldofsportlivestadiumcircuit",
+      "hash_es": "65848291741b3ec4",
+      "texto_ptbr": "Corrida: Velocidade",
+      "lote": "511"
+    },
+    {
+      "id": "3fc2",
+      "chave": "challenge__worldofsportlivestadiumcircuit2",
+      "hash_es": "c7e41b839d69ef10",
+      "texto_ptbr": "Corrida: Arquibancadas",
+      "lote": "511"
+    },
+    {
+      "id": "76cb",
+      "chave": "challenge__worldofsportlivestadiumdestruct",
+      "hash_es": "110dc950879492f3",
+      "texto_ptbr": "Luta Banjo",
+      "lote": "511"
+    },
+    {
+      "id": "51ca",
+      "chave": "challenge__worldofsportlivesumo",
+      "hash_es": "dbb75020628e6e71",
+      "texto_ptbr": "Sumô",
+      "lote": "511"
+    },
+    {
+      "id": "6fe3",
+      "chave": "challenge__worldofsportlivewaterpolo",
+      "hash_es": "eef03600327d5b51",
+      "texto_ptbr": "Polo Aquático",
+      "lote": "511"
+    },
+    {
+      "id": "7e6a",
+      "chave": "challenge__worldshowdowntown",
+      "hash_es": "ebfaf038d77ac683",
+      "texto_ptbr": "Showdown Town",
+      "lote": "518"
+    },
+    {
+      "id": "799f",
+      "chave": "challenge__worldspiralmountain",
+      "hash_es": "a2305f65a9dd544c",
+      "texto_ptbr": "SPIRAL MOUNTAIN",
+      "lote": "518"
+    },
+    {
+      "id": "8fb2",
+      "chave": "challenge__worldterrorium",
+      "hash_es": "801707ebb76a0e5b",
+      "texto_ptbr": "TERRARIUM OF TERROR",
+      "lote": "518"
+    },
+    {
+      "id": "fdbb",
+      "chave": "challenge__worldterroriumact1",
+      "hash_es": "bdacd203dfcdbacc",
+      "texto_ptbr": "TERRARIUM OF TERROR ATO 1",
+      "lote": "518"
+    },
+    {
+      "id": "fdbc",
+      "chave": "challenge__worldterroriumact2",
+      "hash_es": "631fc30f30801efd",
+      "texto_ptbr": "TERRARIUM OF TERROR ATO 2",
+      "lote": "518"
+    },
+    {
+      "id": "fdbd",
+      "chave": "challenge__worldterroriumact3",
+      "hash_es": "ca1038f16e6ac0ea",
+      "texto_ptbr": "TERRARIUM OF TERROR ATO 3",
+      "lote": "518"
+    },
+    {
+      "id": "fdbe",
+      "chave": "challenge__worldterroriumact4",
+      "hash_es": "85443adeb6cc56df",
+      "texto_ptbr": "TERRARIUM OF TERROR ATO 4",
+      "lote": "518"
+    },
+    {
+      "id": "fdbf",
+      "chave": "challenge__worldterroriumact5",
+      "hash_es": "5c42774f27febb41",
+      "texto_ptbr": "TERRARIUM OF TERROR ATO 5",
+      "lote": "518"
+    },
+    {
+      "id": "fdc0",
+      "chave": "challenge__worldterroriumact6",
+      "hash_es": "24b860b8ef636177",
+      "texto_ptbr": "TERRARIUM OF TERROR ATO 6",
+      "lote": "518"
+    },
+    {
+      "id": "73de",
+      "chave": "challenge__worldtesttrack",
+      "hash_es": "e7f630f5c649fac4",
+      "texto_ptbr": "Test-O-Track",
+      "lote": "518"
+    },
+    {
+      "id": "5f07",
+      "chave": "challenge__worldweirdwest",
+      "hash_es": "a5e8c8e50f602dfa",
+      "texto_ptbr": "Oeste Estranho",
+      "lote": "511"
+    },
+    {
+      "id": "56be",
+      "chave": "challenge__worldworldofsport",
+      "hash_es": "50c0e868a03d373f",
+      "texto_ptbr": "JIGGOSSEUM",
+      "lote": "518"
+    },
+    {
+      "id": "6ac7",
+      "chave": "challenge__worldworldofsportact1",
+      "hash_es": "da4126ffa8bce5aa",
+      "texto_ptbr": "JIGGOSSEUM ATO 1",
+      "lote": "518"
+    },
+    {
+      "id": "6ac8",
+      "chave": "challenge__worldworldofsportact2",
+      "hash_es": "a985802b8d5f5e20",
+      "texto_ptbr": "JIGGOSSEUM ATO 2",
+      "lote": "518"
+    },
+    {
+      "id": "6ac9",
+      "chave": "challenge__worldworldofsportact3",
+      "hash_es": "463cb74b53f51e32",
+      "texto_ptbr": "JIGGOSSEUM ATO 3",
+      "lote": "518"
+    },
+    {
+      "id": "6aca",
+      "chave": "challenge__worldworldofsportact4",
+      "hash_es": "3796ca73bf7c7498",
+      "texto_ptbr": "JIGGOSSEUM ATO 4",
+      "lote": "518"
+    },
+    {
+      "id": "6acb",
+      "chave": "challenge__worldworldofsportact5",
+      "hash_es": "90c2b26ad798ddbe",
+      "texto_ptbr": "JIGGOSSEUM ATO 5",
+      "lote": "518"
+    },
+    {
+      "id": "6acc",
+      "chave": "challenge__worldworldofsportact6",
+      "hash_es": "dcdec98d8a1d3de6",
+      "texto_ptbr": "JIGGOSSEUM ATO 6",
+      "lote": "518"
+    },
+    {
+      "id": "d474",
+      "chave": "dialog__firstreward_jiggy",
+      "hash_es": "12636d79b9f9feff",
+      "texto_ptbr": "Parabéns, seu primeiro Jiggy já está garantido!",
+      "lote": "511"
+    },
+    {
+      "id": "b7c3",
+      "chave": "dialog__firstreward_notes",
+      "hash_es": "dd3e984e63c8665f",
+      "texto_ptbr": "Nada mal, você acabou de ganhar algumas Notas!",
+      "lote": "511"
+    },
+    {
+      "id": "1502",
+      "chave": "dialog__firstreward_tt",
+      "hash_es": "28006b7afcfd9586",
+      "texto_ptbr": "Impressionante, você faturou um Troféu T.T.!",
+      "lote": "511"
+    }
+  ]
+}

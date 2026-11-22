@@ -1,0 +1,24 @@
+{
+  "arquivo": "11cfbf7c",
+  "asset": "aid_loctext_banjox_test_thang",
+  "frases": [
+    {
+      "id": "fb67",
+      "chave": "dialog__line1",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "fb68",
+      "chave": "dialog__line2",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "fb69",
+      "chave": "dialog__line3",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    }
+  ]
+}

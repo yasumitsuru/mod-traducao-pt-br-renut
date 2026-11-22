@@ -1,0 +1,1609 @@
+{
+  "arquivo": "11b5ef5f",
+  "asset": "aid_loctext_banjox_showdowntown_default",
+  "frases": [
+    {
+      "id": "0b94",
+      "chave": "dialog__blubber_cantafford1",
+      "hash_es": "567bf5bdbbca5001",
+      "texto_ptbr": "Assim não dá! Receio que vou precisar de mais do seu butim...",
+      "lote": "301"
+    },
+    {
+      "id": "0b95",
+      "chave": "dialog__blubber_cantafford2",
+      "hash_es": "b17977111c9a8e80",
+      "texto_ptbr": "Não posso revelar o código secreto até você ter notas suficientes!",
+      "lote": "301"
+    },
+    {
+      "id": "0b96",
+      "chave": "dialog__blubber_cantafford3",
+      "hash_es": "d831f1f1c6b95844",
+      "texto_ptbr": "Arrr, você nem tem notas suficientes para me pagar uma xícara de chá!",
+      "lote": "301"
+    },
+    {
+      "id": "0b97",
+      "chave": "dialog__blubber_cantafford4",
+      "hash_es": "52706fb508f9d4aa",
+      "texto_ptbr": "Vou morrer de fome se você não juntar notas suficientes para me pagar!",
+      "lote": "301"
+    },
+    {
+      "id": "73fe",
+      "chave": "dialog__blubber_safehousecombo",
+      "hash_es": "206d11575b86e509",
+      "texto_ptbr": "Muito obrigado, meu caro. Aqui está a combinação da Torre do Alçapão nº 3...",
+      "lote": "301"
+    },
+    {
+      "id": "cb09",
+      "chave": "dialog__boggyfarewell1",
+      "hash_es": "90b3b76c3480ee27",
+      "texto_ptbr": "Obrigado e até mais, irmão urso. Apareça sempre!",
+      "lote": "301"
+    },
+    {
+      "id": "cb0a",
+      "chave": "dialog__boggyfarewell2",
+      "hash_es": "bec6cc8305dca602",
+      "texto_ptbr": "Pode ir! Só de ter vocês, maníacos por exercício, por perto eu já fico cansado.",
+      "lote": "301"
+    },
+    {
+      "id": "cb0b",
+      "chave": "dialog__boggyfarewell3",
+      "hash_es": "f3175954fc01c305",
+      "texto_ptbr": "Vou malhar o meu tanquinho... o meu tanquinho de latinhas de refrigerante!",
+      "lote": "301"
+    },
+    {
+      "id": "cb0c",
+      "chave": "dialog__boggyfarewell4",
+      "hash_es": "0b68cca12ee20ed9",
+      "texto_ptbr": "Eu só vendo o 'ursencial'. Rá, rá! Mmm. Até mais.",
+      "lote": "301"
+    },
+    {
+      "id": "cb0d",
+      "chave": "dialog__boggyfarewell5",
+      "hash_es": "1ab29cafe1cdb86f",
+      "texto_ptbr": "Talvez eu tente vender as minhas melhorias pela internet... você acha que dá certo?",
+      "lote": "301"
+    },
+    {
+      "id": "cb0e",
+      "chave": "dialog__boggyfarewell6",
+      "hash_es": "b65e58ed667c53da",
+      "texto_ptbr": "Tchau! Até logo! Tenha um ótimo dia! Bom, hora de uma soneca revigorante.",
+      "lote": "301"
+    },
+    {
+      "id": "390c",
+      "chave": "dialog__boggygreeting1",
+      "hash_es": "256f3a06f1f8ad07",
+      "texto_ptbr": "Tem notas para gastar? Ótimo, compre melhorias! Esqueça todo o resto!",
+      "lote": "301"
+    },
+    {
+      "id": "390d",
+      "chave": "dialog__boggygreeting2",
+      "hash_es": "b84050a23cd1d0f2",
+      "texto_ptbr": "Mmmm, este cachecol é uma delícia... A Sra. Boggy não me dá comida há dias. Posso ajudar?",
+      "lote": "301"
+    },
+    {
+      "id": "390e",
+      "chave": "dialog__boggygreeting3",
+      "hash_es": "b0945ddf1bacb4a6",
+      "texto_ptbr": "Melhorias! Venham pegar as suas melhorias de habilidade! Por favor?",
+      "lote": "301"
+    },
+    {
+      "id": "390f",
+      "chave": "dialog__boggygreeting4",
+      "hash_es": "f61d1bd80efdb0e2",
+      "texto_ptbr": "Todo urso precisa de melhorias. Dê uma olhada na minha melhoria de barriga nível 4!",
+      "lote": "301"
+    },
+    {
+      "id": "3910",
+      "chave": "dialog__boggygreeting5",
+      "hash_es": "9f163d00f7778ff3",
+      "texto_ptbr": "Nossa, como está quente por aqui. Estou sofrendo, Banjo! Compre algumas das minhas melhorias para aliviar a minha dor!",
+      "lote": "301"
+    },
+    {
+      "id": "3911",
+      "chave": "dialog__boggygreeting6",
+      "hash_es": "045e8d065c75317b",
+      "texto_ptbr": "Venha comprar melhorias, senão a Sra. Boggy não me dá jantar! Ela é uma patroa linha-dura.",
+      "lote": "301"
+    },
+    {
+      "id": "3a9c",
+      "chave": "dialog__boggyinitialintro",
+      "hash_es": "7128d0bb40f7cb25",
+      "texto_ptbr": "Olá, vocês dois. A Sra. Boggy me botou para fora para eu ganhar o meu sustento, então comprei esta velha academia do Sr. Em Forma como um &quot;investimento&quot;. Juntem notas suficientes e vocês poderão treinar aqui para melhorar as suas habilidades...",
+      "lote": "301"
+    },
+    {
+      "id": "dc86",
+      "chave": "dialog__boggynotenoughnotes",
+      "hash_es": "5dd059ec8a905a26",
+      "texto_ptbr": "Desculpe, você está um pouco sem fundos. Entre para o clube!",
+      "lote": "301"
+    },
+    {
+      "id": "6a97",
+      "chave": "dialog__boggyspeed",
+      "hash_es": "ef91ea8e85a06890",
+      "texto_ptbr": "Com a minha melhoria de velocidade, você vai correr mais rápido que o Sr. Em Forma! Hum, talvez. Vai correr mais rápido que eu, que tal?",
+      "lote": "301"
+    },
+    {
+      "id": "d9c0",
+      "chave": "dialog__boggyspeedbought",
+      "hash_es": "3fc73a4289fa127e",
+      "texto_ptbr": "Você já parece mais rápido! Não sei como dá para notar, mas é verdade!",
+      "lote": "301"
+    },
+    {
+      "id": "b741",
+      "chave": "dialog__boggyspeedsoldout",
+      "hash_es": "34266c4ee47baa29",
+      "texto_ptbr": "Chega de melhorias de velocidade! Não tenho mais nada para ensinar, meu pupilo!",
+      "lote": "301"
+    },
+    {
+      "id": "33b3",
+      "chave": "dialog__boggystamina",
+      "hash_es": "86b7470b4b16cb45",
+      "texto_ptbr": "Melhorar a sua resistência aumenta o seu nível máximo de energia. Aguente mais pancada! Seja o urso da resistência!",
+      "lote": "301"
+    },
+    {
+      "id": "07dc",
+      "chave": "dialog__boggystaminabought",
+      "hash_es": "b491fb879db19a91",
+      "texto_ptbr": "Você já parece mais saudável! Está simplesmente radiante!",
+      "lote": "301"
+    },
+    {
+      "id": "a8dd",
+      "chave": "dialog__boggystaminasoldout",
+      "hash_es": "735e248b354ce090",
+      "texto_ptbr": "Você não pode melhorar mais a sua resistência! Pode acabar explodindo!",
+      "lote": "301"
+    },
+    {
+      "id": "3bb5",
+      "chave": "dialog__boggystrength",
+      "hash_es": "0dc836eca5ae36b1",
+      "texto_ptbr": "Melhore a sua força para carregar objetos maiores, andar mais rápido enquanto os carrega e, basicamente, ficar em plena forma para a luta!",
+      "lote": "301"
+    },
+    {
+      "id": "895e",
+      "chave": "dialog__boggystrengthbought",
+      "hash_es": "bd8e45f713e46999",
+      "texto_ptbr": "Você já parece mais forte! Peraí, malhar funciona mesmo?",
+      "lote": "301"
+    },
+    {
+      "id": "5a9f",
+      "chave": "dialog__boggystrengthsoldout",
+      "hash_es": "e9cd603a421d8819",
+      "texto_ptbr": "É só isso, chega de melhorias de força! Você ficaria esquisito demais!",
+      "lote": "301"
+    },
+    {
+      "id": "ab2c",
+      "chave": "dialog__bottles_accelerating",
+      "hash_es": "041fa030b9494ad1",
+      "texto_ptbr": "Quando estiver no banco de um veículo, puxe o [RT] gatilho direito para acelerar e o [LT] gatilho esquerdo para frear.",
+      "lote": "301"
+    },
+    {
+      "id": "02ff",
+      "chave": "dialog__bottles_anyuse",
+      "hash_es": "61f1b7c918022cb0",
+      "texto_ptbr": "Não, eu sou inútil. Nem consigo ver para onde estou indo! Era isso que você queria ouvir? Que crueldade...",
+      "lote": "301"
+    },
+    {
+      "id": "c700",
+      "chave": "dialog__bottles_attacking",
+      "hash_es": "081551196ca8dbb2",
+      "texto_ptbr": "Pressione o botão [X] para atacar com a chave inglesa quando estiver a pé.",
+      "lote": "301"
+    },
+    {
+      "id": "64a2",
+      "chave": "dialog__bottles_boggysgym",
+      "hash_es": "c5e5cd695288a56a",
+      "texto_ptbr": "Vá ver o Boggy na academia nova dele para melhorar as suas habilidades básicas. Parece que você está precisando!",
+      "lote": "301"
+    },
+    {
+      "id": "8cd3",
+      "chave": "dialog__bottles_cantafford1",
+      "hash_es": "a67023f579453e14",
+      "texto_ptbr": "Perdeu o juízo, Banjo? Você não tem notas suficientes!",
+      "lote": "301"
+    },
+    {
+      "id": "8cd4",
+      "chave": "dialog__bottles_cantafford2",
+      "hash_es": "0a9793dca7fbcc66",
+      "texto_ptbr": "Mesmo com estas coisas na cara, dá para ver que você não trouxe notas suficientes!",
+      "lote": "301"
+    },
+    {
+      "id": "8cd5",
+      "chave": "dialog__bottles_cantafford3",
+      "hash_es": "f22d5de2ad18e200",
+      "texto_ptbr": "O que é isso, tentando enganar o seu velho amigo agora? Que vergonha!",
+      "lote": "301"
+    },
+    {
+      "id": "8cd6",
+      "chave": "dialog__bottles_cantafford4",
+      "hash_es": "9da26be12f9e11ac",
+      "texto_ptbr": "Sei que nos conhecemos há muito tempo, mas eu não sou instituição de caridade! Passe a grana!",
+      "lote": "301"
+    },
+    {
+      "id": "d1b8",
+      "chave": "dialog__bottles_dead",
+      "hash_es": "ddac1f89452a4900",
+      "texto_ptbr": "Bem, tem seus pontos positivos, mas, no geral, eu diria que a experiência de bater as botas é superestimada.",
+      "lote": "301"
+    },
+    {
+      "id": "9fb4",
+      "chave": "dialog__bottles_energy",
+      "hash_es": "22a318f9fb5de1e2",
+      "texto_ptbr": "Com certeza o conceito de energia não é difícil... você tem energia, ela diminui se você apanha e perder tudo é ruim. Aumente a sua resistência na Academia do Boggy se estiver com problemas!",
+      "lote": "301"
+    },
+    {
+      "id": "a5b2",
+      "chave": "dialog__bottles_fashion",
+      "hash_es": "7643576a656a0743",
+      "texto_ptbr": "Ouvi dizer que o chapéu de feltro está super na moda entre a turma da programação hoje em dia...",
+      "lote": "301"
+    },
+    {
+      "id": "bdde",
+      "chave": "dialog__bottles_flippingobj",
+      "hash_es": "7930d65e80095ca6",
+      "texto_ptbr": "Puxar o [LT] gatilho esquerdo ao lado de um objeto vai virá-lo. Puxar o [LT] gatilho esquerdo enquanto carrega um objeto vai girá-lo.",
+      "lote": "301"
+    },
+    {
+      "id": "9e00",
+      "chave": "dialog__bottles_gameglobes",
+      "hash_es": "bd8e5af46056d545",
+      "texto_ptbr": "Globos de Jogo contêm os Mundos de Jogo em que dá para ganhar Jiggies. A Fábrica de Videogames do S.J. libera Globos de Jogo quando você tem uma certa quantidade de Jiggies no Banco de Jiggies.",
+      "lote": "301"
+    },
+    {
+      "id": "f6c5",
+      "chave": "dialog__bottles_globeactivation",
+      "hash_es": "0f4bf7a0f3dfda2a",
+      "texto_ptbr": "Coloque um Globo de Jogo no pedestal temático dele para ativar o Mundo de Jogo lá dentro, o que permite entrar nas Portas de Ato e procurar Jiggies. Você não ouviu o S.J. no começo?",
+      "lote": "301"
+    },
+    {
+      "id": "b11c",
+      "chave": "dialog__bottles_golfcart",
+      "hash_es": "31baac072926f65a",
+      "texto_ptbr": "O Carrinho é o único veículo permitido em Showdown Town. Ganhe Jiggies em jogos com a bruxa para melhorar o Carrinho com novas peças de veículo, e assim chegar a novas áreas da cidade.",
+      "lote": "518"
+    },
+    {
+      "id": "43ae",
+      "chave": "dialog__bottles_grabbingedges",
+      "hash_es": "f8433786cf02378d",
+      "texto_ptbr": "Caiu de um telhado ou de um beiral de altura inconveniente? Tente se agarrar à borda apertando o botão [A] antes de despencar num impacto que drena a sua energia no chão!",
+      "lote": "301"
+    },
+    {
+      "id": "5104",
+      "chave": "dialog__bottles_humbasshop",
+      "hash_es": "3d768afeae11f5fa",
+      "texto_ptbr": "Visite a Humba Wumba para trocar as suas notas musicais por peças e projetos de veículos.",
+      "lote": "301"
+    },
+    {
+      "id": "8200",
+      "chave": "dialog__bottles_jiggybank",
+      "hash_es": "61a69f476ddd5e7f",
+      "texto_ptbr": "Se você quer que os Jiggies contem no seu total geral, retire-os das Máquinas de Jiggies e deposite-os no Banco de Jiggies.",
+      "lote": "301"
+    },
+    {
+      "id": "58b3",
+      "chave": "dialog__bottles_jigovends",
+      "hash_es": "87d89cc8ef863937",
+      "texto_ptbr": "As Máquinas de Jiggies entregam todos os Jiggies ganhos nos jogos dentro dos Mundos de Jogo. Lembre-se: cada Mundo de Jogo tem a sua própria Máquina de Jiggies!",
+      "lote": "301"
+    },
+    {
+      "id": "60d0",
+      "chave": "dialog__bottles_jingobingo",
+      "hash_es": "ca64d9eeda6b66ee",
+      "texto_ptbr": "Você pode visitar o Palácio do Rei Jingaling na Orla se quiser jogar Bingo. Bah, eu nunca ganho nada!",
+      "lote": "301"
+    },
+    {
+      "id": "ef29",
+      "chave": "dialog__bottles_jollydodger",
+      "hash_es": "ac651ae3b63626d1",
+      "texto_ptbr": "Procuram ele aqui, procuram ele ali, procuram o Jolly Dodger em todo lugar... mas geralmente na Orla. Talvez ele faça um precinho em Jiggies &quot;importados&quot;.",
+      "lote": "301"
+    },
+    {
+      "id": "14f1",
+      "chave": "dialog__bottles_ki3",
+      "hash_es": "c0e9feb3859005ff",
+      "texto_ptbr": "Ouvi dizer que o Poderoso Bottles vai ser o protagonista. Estou tricotando uma bandana para mim, só por precaução!",
+      "lote": "301"
+    },
+    {
+      "id": "36cd",
+      "chave": "dialog__bottles_klungosarcade",
+      "hash_es": "ab3fa7fc79da00bb",
+      "texto_ptbr": "O Klungo's Arcade fica no píer da Orla. Dizem que o jogo dele pode ser um campeão mundial! Foi ele mesmo que me contou.",
+      "lote": "518"
+    },
+    {
+      "id": "1a2c",
+      "chave": "dialog__bottles_log",
+      "hash_es": "2cc5aa8cd4e47ca4",
+      "texto_ptbr": "Esse tal de S.J. por acaso é O Cara, O Manda-Chuva, O Ser Supremo, O Criador. Fique do lado bom dele!",
+      "lote": "301"
+    },
+    {
+      "id": "10a8",
+      "chave": "dialog__bottles_mapspeedo",
+      "hash_es": "95dbfb3ea6459933",
+      "texto_ptbr": "O mapa no canto inferior direito mostra muitas coisas úteis, como os Anfitriões de Jogo nos Mundos de Jogo, os Jiggies nas Máquinas de Jiggies da cidade e o seu veículo. Em volta dele fica o seu velocímetro.",
+      "lote": "301"
+    },
+    {
+      "id": "be59",
+      "chave": "dialog__bottles_mrsbottles",
+      "hash_es": "c17ed5313707044a",
+      "texto_ptbr": "A Sra. Bottles foi atropelada pela Grunty em um dos veículos dela. Peraí, eu disse antes que ela estava a salvo em casa, em Spiral Mountain, não disse? Hã...",
+      "lote": "518"
+    },
+    {
+      "id": "caf3",
+      "chave": "dialog__bottles_notes",
+      "hash_es": "775ab1ea92121a02",
+      "texto_ptbr": "Todo passeio do Banjo precisa de notas musicais. Em Showdown Town, elas servem de moeda para todo tipo de coisa, de compra de projetos a suborno... supostamente.",
+      "lote": "518"
+    },
+    {
+      "id": "db03",
+      "chave": "dialog__bottles_paycrate",
+      "hash_es": "142f5dc140d7c4a3",
+      "texto_ptbr": "Quer coisa legal? O Bottles é a toupeira do, hã... legal. Olhe só!",
+      "lote": "301"
+    },
+    {
+      "id": "e4a9",
+      "chave": "dialog__bottles_paymorecrates",
+      "hash_es": "af34eebb6fca0af5",
+      "texto_ptbr": "Espero que seja incrível, mas lembre-se de que saiu bem barato...",
+      "lote": "301"
+    },
+    {
+      "id": "c0ad",
+      "chave": "dialog__bottles_paynotestash",
+      "hash_es": "980e50f337b9ff5d",
+      "texto_ptbr": "Vou mostrar uma coisa que acho bem boa, mas não me culpe se você achar que não é lá essas coisas.",
+      "lote": "301"
+    },
+    {
+      "id": "f87f",
+      "chave": "dialog__bottles_paysnstruth",
+      "hash_es": "e50e901fc3254c7b",
+      "texto_ptbr": "Eu poderia contar, mas aí teria que matar você, e isso não dá para mostrar num jogo com esta classificação. Tire isso da cabeça e pense em coisas felizes! Obrigado pelas notas!",
+      "lote": "301"
+    },
+    {
+      "id": "5cd1",
+      "chave": "dialog__bottles_pickupobj",
+      "hash_es": "817a152531bd260c",
+      "texto_ptbr": "Objetos com contorno amarelo podem ser pegos e carregados segurando o [RT] gatilho direito. Se houver mais de um objeto, pressione o [LS] botão superior esquerdo ou o [RS] botão superior direito para escolher.",
+      "lote": "301"
+    },
+    {
+      "id": "26e6",
+      "chave": "dialog__bottles_police",
+      "hash_es": "03e85a4fca78874e",
+      "texto_ptbr": "O Pikelet e a Polícia vão complicar a sua vida se pegarem você quebrando as leis imprevisíveis deles.",
+      "lote": "301"
+    },
+    {
+      "id": "daaf",
+      "chave": "dialog__bottles_recallgolfcart",
+      "hash_es": "e20d9e649b30a6a5",
+      "texto_ptbr": "Segure o botão [Y] para chamar um veículo até você. Útil se a sua direção não estiver lá essas coisas e você, hã, se separar dele.",
+      "lote": "301"
+    },
+    {
+      "id": "e0dd",
+      "chave": "dialog__bottles_safehousecombo",
+      "hash_es": "2559af25e903390d",
+      "texto_ptbr": "Boa escolha! Vou mostrar a combinação da Torre do Alçapão nº 1.",
+      "lote": "301"
+    },
+    {
+      "id": "4f89",
+      "chave": "dialog__bottles_showdowntownmap",
+      "hash_es": "d39dc0fccef72dc0",
+      "texto_ptbr": "O Mapa de Showdown Town. É um lugar enorme e você não vai ver tudo no começo, então uma ajudinha pode cair bem.",
+      "lote": "518"
+    },
+    {
+      "id": "6095",
+      "chave": "dialog__bottles_swimming",
+      "hash_es": "15686f747c1ef318",
+      "texto_ptbr": "Pressione o botão [X] para mergulhar abaixo da superfície e depois o botão [A] para nadar debaixo d'água. Você ainda pode atacar com o botão [X] debaixo d'água.",
+      "lote": "301"
+    },
+    {
+      "id": "1c73",
+      "chave": "dialog__bottles_tightropes",
+      "hash_es": "985cd0fb83a0d657",
+      "texto_ptbr": "Use o [LSTICK] analógico esquerdo para se equilibrar nas cordas bambas. Se você se inclinar para a direita, empurre para a esquerda para corrigir o equilíbrio, e vice-versa. Dá para usar a chave inglesa nas cordas bambas se você tomar cuidado. Sem pressa!",
+      "lote": "301"
+    },
+    {
+      "id": "9a9c",
+      "chave": "dialog__bottles_trophythomas",
+      "hash_es": "f995eaca95eef7f6",
+      "texto_ptbr": "O super competitivo T.T. se acha o máximo. Visite-o para rejogar jogos em que você já ganhou o Jiggy e ver se é bom o bastante para conquistar os Troféus T.T. dele!",
+      "lote": "301"
+    },
+    {
+      "id": "9edd",
+      "chave": "dialog__bottles_vehicles",
+      "hash_es": "177ec46eb6afb0cb",
+      "texto_ptbr": "Entre e saia dos veículos pressionando o botão [Y].",
+      "lote": "301"
+    },
+    {
+      "id": "b48c",
+      "chave": "dialog__bottles_warppads",
+      "hash_es": "37aaa26d91ae77a4",
+      "texto_ptbr": "Se você ativar pelo menos duas Plataformas de Teleporte, poderá se teleportar entre elas como um atalho. Vamos lá, isso é conhecimento básico de Banjo!",
+      "lote": "301"
+    },
+    {
+      "id": "4838",
+      "chave": "dialog__bottles_win",
+      "hash_es": "15371749f25de1d9",
+      "texto_ptbr": "Fácil. Jogue melhor! Seja menos ruim! Não esperava essa, né?",
+      "lote": "301"
+    },
+    {
+      "id": "d0b2",
+      "chave": "dialog__bottles_wrenchitbolts",
+      "hash_es": "6e9772e671f89695",
+      "texto_ptbr": "Os Parafusos de Apertar são demais! Fixe a mira neles com o botão [X] e gire o [LSTICK] analógico esquerdo por completo para operá-los.",
+      "lote": "301"
+    },
+    {
+      "id": "5b20",
+      "chave": "dialog__jolly_cantafford1",
+      "hash_es": "6e6a4d8d6c5bd4e3",
+      "texto_ptbr": "Eu sei o que quero, e quero mais notas por esse Jiggy!",
+      "lote": "301"
+    },
+    {
+      "id": "5b21",
+      "chave": "dialog__jolly_cantafford2",
+      "hash_es": "ff0c10382895fc47",
+      "texto_ptbr": "Ooh, não. Você veio cedo demais! Traga mais notas da próxima vez.",
+      "lote": "301"
+    },
+    {
+      "id": "5b22",
+      "chave": "dialog__jolly_cantafford3",
+      "hash_es": "4d175c5f4e298f6a",
+      "texto_ptbr": "Sou Jolly só no nome, não no humor, se você tentar me enrolar!",
+      "lote": "301"
+    },
+    {
+      "id": "5b23",
+      "chave": "dialog__jolly_cantafford4",
+      "hash_es": "3826edf8614dea78",
+      "texto_ptbr": "Pode ir embora de uma vez se essa é a sua melhor oferta! Só preço fixo!",
+      "lote": "301"
+    },
+    {
+      "id": "4a41",
+      "chave": "dialog__jolly_jiggy1desc",
+      "hash_es": "0bd0bb4d3bec4e77",
+      "texto_ptbr": "Brilho Misterioso. É um Jiggy misterioso... que brilha. Como assim, é igualzinho a qualquer outro Jiggy?",
+      "lote": "301"
+    },
+    {
+      "id": "62c2",
+      "chave": "dialog__jolly_jiggy2desc",
+      "hash_es": "61498ef56dc8917c",
+      "texto_ptbr": "Grande Banqueiro. É um bem grande, ótimo para aumentar o saldo do seu Banco de Jiggies.",
+      "lote": "301"
+    },
+    {
+      "id": "7b43",
+      "chave": "dialog__jolly_jiggy3desc",
+      "hash_es": "730d27550725e055",
+      "texto_ptbr": "Sr. JiggyWiggy. Calvo, um Jiggy de peruca. É um aplique de alta tecnologia, por isso você não consegue ver.",
+      "lote": "301"
+    },
+    {
+      "id": "93c4",
+      "chave": "dialog__jolly_jiggy4desc",
+      "hash_es": "3377c9955da861bb",
+      "texto_ptbr": "Maravilha Enigmática. Caiu da traseira de um caminhão. É um enigma e tanto como uma coisa dessas aconteceu.",
+      "lote": "301"
+    },
+    {
+      "id": "ac45",
+      "chave": "dialog__jolly_jiggy5desc",
+      "hash_es": "a76538882afe5257",
+      "texto_ptbr": "Jiggytástico! Este é o rei de todos os Jiggies! Pode conter algum exagero por motivos comerciais.",
+      "lote": "301"
+    },
+    {
+      "id": "f9ad",
+      "chave": "dialog__jolly_jigovend",
+      "hash_es": "7679693485f53d82",
+      "texto_ptbr": "Aqui está a minha Máquina de Jiggies, então pode usar à vontade quando estiver pronto!",
+      "lote": "301"
+    },
+    {
+      "id": "a983",
+      "chave": "dialog__kingjingaling_goodbye1",
+      "hash_es": "870ec24c5a98c03f",
+      "texto_ptbr": "O importante não é ganhar... sei, sei. Até a próxima!",
+      "lote": "301"
+    },
+    {
+      "id": "a984",
+      "chave": "dialog__kingjingaling_goodbye2",
+      "hash_es": "2f3a380b3abe3865",
+      "texto_ptbr": "Até mais, jacaré! Aposto que você não aguenta ficar longe por muito tempo!",
+      "lote": "301"
+    },
+    {
+      "id": "a985",
+      "chave": "dialog__kingjingaling_goodbye3",
+      "hash_es": "eb9464dfdc0b96a9",
+      "texto_ptbr": "Fique por dentro com a turma descolada, vire um frequentador do Bingo Jinjo!",
+      "lote": "301"
+    },
+    {
+      "id": "a986",
+      "chave": "dialog__kingjingaling_goodbye4",
+      "hash_es": "27d02380cb8086f8",
+      "texto_ptbr": "Que emocionante foi isso? Como uma montanha-russa dentro de um furacão!",
+      "lote": "301"
+    },
+    {
+      "id": "a987",
+      "chave": "dialog__kingjingaling_goodbye5",
+      "hash_es": "93da2a06c976654a",
+      "texto_ptbr": "Faça estoque de fichas e volte logo para ver o Jingster de novo!",
+      "lote": "301"
+    },
+    {
+      "id": "a988",
+      "chave": "dialog__kingjingaling_goodbye6",
+      "hash_es": "94d5a108aa67343f",
+      "texto_ptbr": "Já estou planejando o meu próximo empreendimento: Limpeza de Janelas Jinjo!",
+      "lote": "301"
+    },
+    {
+      "id": "632f",
+      "chave": "dialog__kingjingaling_instructions1",
+      "hash_es": "7b38557887fdde51",
+      "texto_ptbr": "O objetivo do Bingo Jinjo é preencher uma linha ou uma coluna com Fichas Jinjo, conquistadas ao completar desafios Jinjo nos Mundos de Jogo. {PAGEBREAK}Quando a rodada de Bingo começar, você verá todas as fichas que já ganhou no lado direito do tabuleiro. {PAGEBREAK}Vá até as fichas e pressione o botão [A] para pegar uma. A ficha escolhida pode ser colocada em qualquer casa destacada. {PAGEBREAK}Mova a ficha pelo tabuleiro, escolha uma casa promissora e pressione o botão [A] para soltá-la ali. Pressionar o botão [B] devolve a ficha à sua pilha. {PAGEBREAK}Depois de colocada, a ficha ainda pode ser movida para outro lugar do tabuleiro se você mudar de ideia ou de estratégia. {PAGEBREAK}Completar uma linha rende notas musicais. Completar uma coluna rende mais peças de veículo! {PAGEBREAK}Ao completar uma linha ou uma coluna, essas fichas ficam travadas no lugar. Então pense bem no prêmio que você quer... {PAGEBREAK}Você está pronto para o circuito do Bingo Jinjo. Boa sorte!",
+      "lote": "301"
+    },
+    {
+      "id": "4c6b",
+      "chave": "dialog__kingjingaling_introduction",
+      "hash_es": "14016f81d6bc4259",
+      "texto_ptbr": "Uma cara conhecida! Bem-vindo à corte do Rei Jingaling, o manda-chuva dos Jinjos. Receio ser culpado de certa autoindulgência com o meu novo hobby. Pronto para entrar na febre do Bingo Jinjo?",
+      "lote": "301"
+    },
+    {
+      "id": "3bae",
+      "chave": "dialog__kingjingaling_tutorial1",
+      "hash_es": "98f56bafc45fef44",
+      "texto_ptbr": "Para começar a jogar, vá até as pilhas de fichas e pressione o botão [A] para escolher uma.",
+      "lote": "301"
+    },
+    {
+      "id": "3baf",
+      "chave": "dialog__kingjingaling_tutorial2",
+      "hash_es": "f28803f55ae5e9da",
+      "texto_ptbr": "Agora que você pegou uma ficha, pode colocá-la em qualquer uma das casas destacadas.",
+      "lote": "301"
+    },
+    {
+      "id": "3bb0",
+      "chave": "dialog__kingjingaling_tutorial3",
+      "hash_es": "d930e2703cc9f6ea",
+      "texto_ptbr": "Você jogou a sua primeira ficha! Ela ainda pode ser movida para outra casa, ou você pode escolher e colocar quaisquer outras Fichas Jinjo que tenha conseguido.",
+      "lote": "301"
+    },
+    {
+      "id": "f386",
+      "chave": "dialog__kingjingaling_welcome1",
+      "hash_es": "9a9195cb436e424c",
+      "texto_ptbr": "E aí! Bem-vindo ao Bingo Jinjo do Rei Jingaling. É fresquinho como hortelã!",
+      "lote": "301"
+    },
+    {
+      "id": "f387",
+      "chave": "dialog__kingjingaling_welcome2",
+      "hash_es": "7dc4a48e5c327675",
+      "texto_ptbr": "Quem não ama o Bingo Jinjo? Você não, é claro! Entre!",
+      "lote": "301"
+    },
+    {
+      "id": "f388",
+      "chave": "dialog__kingjingaling_welcome3",
+      "hash_es": "f7c2fa4cdb5d7686",
+      "texto_ptbr": "Finalmente, um jogador promissor! Aqueles porcos e rinocerontes não entendem nada!",
+      "lote": "301"
+    },
+    {
+      "id": "f389",
+      "chave": "dialog__kingjingaling_welcome4",
+      "hash_es": "353f8a6ae2100ebf",
+      "texto_ptbr": "Cheguem mais! Todo mundo quer ganhar grande no Bingo Jinjo!",
+      "lote": "301"
+    },
+    {
+      "id": "f38a",
+      "chave": "dialog__kingjingaling_welcome5",
+      "hash_es": "80611e0096b685b6",
+      "texto_ptbr": "Dois patinhos na lagoa, cartelas na mão, começa o Bingo Jinjo!",
+      "lote": "301"
+    },
+    {
+      "id": "f38b",
+      "chave": "dialog__kingjingaling_welcome6",
+      "hash_es": "2db3b9ffec865256",
+      "texto_ptbr": "Bingo, o passatempo perfeito para zumbis e ex-zumbis!",
+      "lote": "301"
+    },
+    {
+      "id": "3970",
+      "chave": "dialog__kingjingaling_woncomponent",
+      "hash_es": "24c12d70763053e0",
+      "texto_ptbr": "Você ganhou uma peça de veículo! Bingomenal!",
+      "lote": "301"
+    },
+    {
+      "id": "cfe6",
+      "chave": "dialog__kingjingaling_wonnotes",
+      "hash_es": "b42da0dee264468a",
+      "texto_ptbr": "Você ganhou algumas notas musicais! Bingolicioso!",
+      "lote": "301"
+    },
+    {
+      "id": "03d8",
+      "chave": "dialog__mrfit_cantafford1",
+      "hash_es": "9a02a90d82ef594e",
+      "texto_ptbr": "Não vou pechinchar com você! O preço é fixo, magrelo!",
+      "lote": "301"
+    },
+    {
+      "id": "03d9",
+      "chave": "dialog__mrfit_cantafford2",
+      "hash_es": "6f1e427f9f6d3247",
+      "texto_ptbr": "Fala sério! Eu não conseguiria nem comprar um par de tênis de corrida pirata com essa quantidade de notas!",
+      "lote": "301"
+    },
+    {
+      "id": "03da",
+      "chave": "dialog__mrfit_cantafford3",
+      "hash_es": "02fac0e6234b421b",
+      "texto_ptbr": "Preciso de mais notas do que isso. Ainda não consigo comprar aquele tênis de corrida novinho, o Sola de Ar 5000!",
+      "lote": "301"
+    },
+    {
+      "id": "03db",
+      "chave": "dialog__mrfit_cantafford4",
+      "hash_es": "d34b034a6214833d",
+      "texto_ptbr": "Não vou entregar a combinação até você ter notas suficientes! Então pare de pedir, tamanduá valentão!",
+      "lote": "301"
+    },
+    {
+      "id": "3770",
+      "chave": "dialog__mrfit_running",
+      "hash_es": "6b72bdc49da6fcb1",
+      "texto_ptbr": "Uf! Ufa! Não posso falar agora, estou correndo! Esperem eu parar para admirar a... ofegante... paisagem!",
+      "lote": "301"
+    },
+    {
+      "id": "b5c2",
+      "chave": "dialog__mrfit_safehousecombo",
+      "hash_es": "7f44afd352a5d12b",
+      "texto_ptbr": "Ooh, parece ótimo. Aqui está a combinação da Torre do Alçapão nº 2...",
+      "lote": "301"
+    },
+    {
+      "id": "9eec",
+      "chave": "dialog__mumbo_nocrates",
+      "hash_es": "0d43af46cd0729d8",
+      "texto_ptbr": "Urso trazer caixas de Mumbo aqui, colocar na zona rosa, falar com Mumbo e nós abrir caixas. Peças das caixas ir para a Loja de Peças na garagem. Urso passar pela porta, construir veículos incríveis na garagem!",
+      "lote": "301"
+    },
+    {
+      "id": "8094",
+      "chave": "dialog__mumbo_registercrates",
+      "hash_es": "4335bd9d058f7e1e",
+      "texto_ptbr": "Ah, urso trazer outra caixa. O que ter dentro desta? Mumbo abrir e colocar peças novas na Loja de Peças, para urso poder usar peças na garagem e construir veículos melhores. Oomenacka!",
+      "lote": "301"
+    },
+    {
+      "id": "e6f4",
+      "chave": "dialog__pikelet_bribedescription1",
+      "hash_es": "a3e070fbc524e27a",
+      "texto_ptbr": "Hunf, não espere que eu e meus rapazes fiquemos longe de você por muito tempo. É melhor fazer logo o que está planejando, e rápido!",
+      "lote": "301"
+    },
+    {
+      "id": "e6f5",
+      "chave": "dialog__pikelet_bribedescription2",
+      "hash_es": "ab594fb968832ab8",
+      "texto_ptbr": "Uau, um grande amante do risco. Não vou dizer quanto tempo você tem até a gente notar você de novo, mas não perca tempo por aqui!",
+      "lote": "301"
+    },
+    {
+      "id": "e6f6",
+      "chave": "dialog__pikelet_bribedescription3",
+      "hash_es": "85217973bdda000b",
+      "texto_ptbr": "O último dos grandes gastadores, é? Siga o seu caminho. Acho que meus rapazes não vão olhar na sua direção por um bom tempo.",
+      "lote": "301"
+    },
+    {
+      "id": "36e4",
+      "chave": "dialog__pikelet_cantafford1",
+      "hash_es": "b1ba8212ef5b390e",
+      "texto_ptbr": "Seja realista, quero bem mais notas do que isso, caramba!",
+      "lote": "301"
+    },
+    {
+      "id": "36e5",
+      "chave": "dialog__pikelet_cantafford2",
+      "hash_es": "ad5249a078ff9f89",
+      "texto_ptbr": "É um suborno, não um leilão! Não me obrigue a prender você!",
+      "lote": "301"
+    },
+    {
+      "id": "36e6",
+      "chave": "dialog__pikelet_cantafford3",
+      "hash_es": "1785c7b1c1bed218",
+      "texto_ptbr": "Você não pode simplesmente me comprar... não por uma miséria dessas, pelo menos!",
+      "lote": "301"
+    },
+    {
+      "id": "36e7",
+      "chave": "dialog__pikelet_cantafford4",
+      "hash_es": "69e57db726f4dbd8",
+      "texto_ptbr": "Está me chamando de barato? Traga mais notas!",
+      "lote": "301"
+    },
+    {
+      "id": "66f6",
+      "chave": "dialog__pikelet_cantbribe1",
+      "hash_es": "6f129c3602dd83cc",
+      "texto_ptbr": "Quer a minha atenção? Volte quando tiver mais notas!",
+      "lote": "301"
+    },
+    {
+      "id": "66f7",
+      "chave": "dialog__pikelet_cantbribe2",
+      "hash_es": "4a1b5d7ba5efccaf",
+      "texto_ptbr": "Quer que eu faça vista grossa, é? Você não tem notas suficientes para nenhum suborno que valha o meu tempo!",
+      "lote": "301"
+    },
+    {
+      "id": "66f8",
+      "chave": "dialog__pikelet_cantbribe3",
+      "hash_es": "6d23ceaa3713d67d",
+      "texto_ptbr": "Quer me subornar? Com tão poucas notas? Não sei se me ofendo ou se rio na sua cara!",
+      "lote": "301"
+    },
+    {
+      "id": "4154",
+      "chave": "dialog__pikelet_chitchat1",
+      "hash_es": "5bfd47da3db640b6",
+      "texto_ptbr": "Não saia dirigindo essa coisa rápido demais pela cidade. Não tenho tempo para racha de rapaz, nem de urso, aliás!",
+      "lote": "301"
+    },
+    {
+      "id": "6c04",
+      "chave": "dialog__pikelet_chitchat10",
+      "hash_es": "af0917ad9b507a25",
+      "texto_ptbr": "Por que você vem aqui bater papo? Não dá para fazer isso com os outros malucos da cidade? Não, acho que não.",
+      "lote": "301"
+    },
+    {
+      "id": "4155",
+      "chave": "dialog__pikelet_chitchat2",
+      "hash_es": "a6fe00af0423ff38",
+      "texto_ptbr": "Se a gente pegar alguém transportando Jiggies em plena luz do dia, é provável que seja um contrabandista sujo. É a única explicação!",
+      "lote": "301"
+    },
+    {
+      "id": "4156",
+      "chave": "dialog__pikelet_chitchat3",
+      "hash_es": "8c7ee4f2b2ba56d8",
+      "texto_ptbr": "Quer saber a pior coisa que dá para fazer nesta cidade? Dar um soco num policial. Seja um bom urso e mantenha distância, e assim a gente evita uns... acidentezinhos.",
+      "lote": "301"
+    },
+    {
+      "id": "4157",
+      "chave": "dialog__pikelet_chitchat4",
+      "hash_es": "b2cb086d3a62f706",
+      "texto_ptbr": "Recebemos relatos de alguém conspirando com aqueles Jinjos nas celas. Não foi você, foi? Nem pense em ter ideias ilegais!",
+      "lote": "301"
+    },
+    {
+      "id": "4158",
+      "chave": "dialog__pikelet_chitchat5",
+      "hash_es": "15d5a04513aa548f",
+      "texto_ptbr": "Viu um baixinho sorrateiro passar correndo? Mais ou menos deste tamanho, com cara de mau elemento? Cara, achei que a gente tinha pegado todos esses sujeitos.",
+      "lote": "301"
+    },
+    {
+      "id": "4159",
+      "chave": "dialog__pikelet_chitchat6",
+      "hash_es": "e0d23c4bfad3dc6e",
+      "texto_ptbr": "Esta é a minha cidade, e se alguém vai implicar com o povo daqui, serei eu. Então cuidado com as patas e trate todo mundo com educação, tá?",
+      "lote": "301"
+    },
+    {
+      "id": "415a",
+      "chave": "dialog__pikelet_chitchat7",
+      "hash_es": "a8e3b58d913cbfe9",
+      "texto_ptbr": "É chato ficar parado, sabe. Às vezes queria estar lá fora derrotando a concorrência em torneios esportivos, ou virando estrela como aqueles caras da TV... que foi?",
+      "lote": "301"
+    },
+    {
+      "id": "415b",
+      "chave": "dialog__pikelet_chitchat8",
+      "hash_es": "9601baf3179d6e1d",
+      "texto_ptbr": "Vou dizer o que eu odeio: buzinas. Gente buzinando por toda a cidade, deviam ser proibidas! Talvez eu proíba!",
+      "lote": "301"
+    },
+    {
+      "id": "415c",
+      "chave": "dialog__pikelet_chitchat9",
+      "hash_es": "bf8fde0fcb3a9597",
+      "texto_ptbr": "Você sabe que armas são proibidas em Showdown Town, né? Pois é, apesar do nome. Só os policiais têm o direito de armar os seus veículos, e você não é um, então nada disso!",
+      "lote": "518"
+    },
+    {
+      "id": "e649",
+      "chave": "dialog__pikelet_policeadded",
+      "hash_es": "7000089fa6446b01",
+      "texto_ptbr": "Está ficando agitado lá fora nas ruas. Melhor mandar mais homens meus para defender a lei com diligência e abnegação!",
+      "lote": "301"
+    },
+    {
+      "id": "0784",
+      "chave": "dialog__pikelet_thanks",
+      "hash_es": "ad88af7d0f6b2f99",
+      "texto_ptbr": "É, valeu. Vou guardar isso para o fundo das rosquinhas.",
+      "lote": "301"
+    },
+    {
+      "id": "3ded",
+      "chave": "dialog__temp_blubberintro",
+      "hash_es": "658c9d972098fdba",
+      "texto_ptbr": "Arrr, meus marujos! O pobre velho Capitão Blubber bateu o seu OVNI do último jogo, e agora está sem um dobrão sequer. Ajudem um velho lobo do mar a se reerguer, comprem a combinação de uma Torre do Alçapão!",
+      "lote": "301"
+    },
+    {
+      "id": "380c",
+      "chave": "dialog__temp_bottlesintro",
+      "hash_es": "8797f0e30192aa48",
+      "texto_ptbr": "Olá! Eu sou o Bottles, lembra? Eu estava morto, mas felizmente superei isso. Este é o Posto de Informações Turísticas da cidade, onde você encontra todo tipo de ajuda e informação se ficar empacado.",
+      "lote": "301"
+    },
+    {
+      "id": "fbbc",
+      "chave": "dialog__temp_humbaintro",
+      "hash_es": "b8cef1a687cfb899",
+      "texto_ptbr": "Bom ver Banjo de novo. Humba Wumba abrir loja do outro lado da praça, longe do xamã inútil Mumbo. Humba vender peças de veículos e projetos completos de veículos para ajudar urso ter muitos veículos!",
+      "lote": "301"
+    },
+    {
+      "id": "d1b9",
+      "chave": "dialog__temp_jollyintro",
+      "hash_es": "1a6b0ac4a2f9061f",
+      "texto_ptbr": "Psiu! Aqui, grandão! Eu era o Jolly Roger, mas agora sou o Jolly Dodger. Ando meio suspeito ultimamente, dê uma olhada nos meus melhores Jiggies do mercado negro... ooh, mas fale baixo!",
+      "lote": "301"
+    },
+    {
+      "id": "a03f",
+      "chave": "dialog__temp_klungointro",
+      "hash_es": "a34fc255d4d78b53",
+      "texto_ptbr": "Saudaçõesss, ursso. Klungo finalmente abandonar Ssenhora Grunty para fazer o melhor videogame de todosss os tempos, &quot;Herói Klungo Sssalva o Mundo&quot;. Klungo ssser a ssstrela, melhor que Massster Chef. Ursso poder ganhar notasss!",
+      "lote": "301"
+    },
+    {
+      "id": "f8d1",
+      "chave": "dialog__temp_logintro",
+      "hash_es": "5fdc6304ff284da9",
+      "texto_ptbr": "Tantas perguntas suas são exaustivas! Se ainda precisar de ajuda, fale com o Bottles no posto de informações na Praça da Cidade. Ele vai ser mais prestativo...",
+      "lote": "301"
+    },
+    {
+      "id": "5971",
+      "chave": "dialog__temp_mrfitintro",
+      "hash_es": "391277607a6cd828",
+      "texto_ptbr": "Uf, ufa... ah, olá! Sou eu, o Sr. Em Forma. Acabei de fazer uma hora de flexões entre as corridas. Tenho uma combinação de Torre do Alçapão à venda, se você tiver interesse... tênis de corrida novos não são baratos!",
+      "lote": "301"
+    },
+    {
+      "id": "0a2f",
+      "chave": "dialog__temp_mumbointro",
+      "hash_es": "04429522f60b0e97",
+      "texto_ptbr": "Mumbo muito útil. Achar caixas de Mumbo pela cidade, colocar na zona rosa e falar com Mumbo para ganhar peças novas de veículo. Urso poder entrar na garagem pela porta e construir veículos espertos para usar no jogo.",
+      "lote": "301"
+    },
+    {
+      "id": "833d",
+      "chave": "dialog__temp_pikeletintro",
+      "hash_es": "47d2c33f5dd753f3",
+      "texto_ptbr": "Ora, ora, ora. Eu sou o Pikelet, Chefe de Polícia e a lei por aqui. Não vá arrumando confusão como aquele bando de figuras estranhas e pequenas que andam por aí. Eu prendi os culpados...",
+      "lote": "301"
+    },
+    {
+      "id": "3d15",
+      "chave": "dialog__temp_trophyintro",
+      "hash_es": "bb5b242413e3d521",
+      "texto_ptbr": "Meu nome é Tomás Troféu, neste jogo o melhor sou eu! Deixo você rejogar todos os jogos em que já ganhou um Jiggy, para tentar conquistar os meus Troféus T.T. Ganhe 4 e leve um Jiggy extra!",
+      "lote": "301"
+    },
+    {
+      "id": "6ef9",
+      "chave": "dialog__trolleyload",
+      "hash_es": "22eb745354a9a20a",
+      "texto_ptbr": "Aonde você pensa que vai com essa carga no seu Carrinho? Eu cuido dela até você voltar.",
+      "lote": "301"
+    },
+    {
+      "id": "0e89",
+      "chave": "dialog__trophythomas_fourtrophies",
+      "hash_es": "74074ef859b51e92",
+      "texto_ptbr": "Bom trabalho! Você ganhou 4 dos meus Troféus, o que dá mais um Jiggy. Pode pegá-lo na Máquina de Jiggies na frente da minha casa. Sussurre no meu ouvido se quiser rejogar um Jogo de Jiggy!",
+      "lote": "301"
+    },
+    {
+      "id": "958c",
+      "chave": "dialog__tt_nojiggy",
+      "hash_es": "b816e9a6c6d7b192",
+      "texto_ptbr": "Acho que não! Primeiro você precisa ir lá ganhar o Jiggy desse jogo!",
+      "lote": "301"
+    },
+    {
+      "id": "5e58",
+      "chave": "dialog__unlockedblueprint",
+      "hash_es": "3f44b93ab95c32b0",
+      "texto_ptbr": "Banjo estar indo bem, então Humba dar prêmio especial de projeto novo. Humba adicionar projeto ao banco de dados de veículos para Banjo poder usar nos Mundos de Jogo e jogar jogos de Jiggy. Não usar na cidade, porém!",
+      "lote": "301"
+    },
+    {
+      "id": "29cb",
+      "chave": "dialog__unlockedblueprints",
+      "hash_es": "d75a89a4e638d377",
+      "texto_ptbr": "Banjo estar indo bem, então Humba dar prêmio especial de projetos novos. Humba adicionar projetos ao banco de dados de veículos para Banjo poder usar nos Mundos de Jogo e jogar jogos de Jiggy. Não usar na cidade, porém!",
+      "lote": "301"
+    },
+    {
+      "id": "4aa5",
+      "chave": "dialog__unlockedcomponentcrate",
+      "hash_es": "76b4772d82ee1a48",
+      "texto_ptbr": "Oomenacka! Urso jogar bem, então Mumbo dar prêmio especial de peça de veículo nova. Mumbo colocar a seguinte peça na Loja de Peças da garagem, para urso poder usar nos Motores do Mumbo e construir veículos melhores.",
+      "lote": "301"
+    },
+    {
+      "id": "9fb8",
+      "chave": "dialog__unlockedcomponentcrates",
+      "hash_es": "54e0c3223d37081c",
+      "texto_ptbr": "Oomenacka! Urso jogar bem, então Mumbo dar prêmio especial de peças de veículo novas. Mumbo colocar as seguintes peças na Loja de Peças da garagem, para urso poder usar nos Motores do Mumbo e construir veículos melhores.",
+      "lote": "301"
+    },
+    {
+      "id": "d44c",
+      "chave": "dialog__unlockedhumbashopitems",
+      "hash_es": "592d21780062ccf1",
+      "texto_ptbr": "Ei, Banjo, Humba acabar de receber entrega! Agora ter peças e projetos de veículos novos para comprar. Vir ver Humba na Praça da Cidade.",
+      "lote": "301"
+    },
+    {
+      "id": "17fe",
+      "chave": "dialog__unlockedklungosarcadelevel",
+      "hash_es": "ede487edf0df004d",
+      "texto_ptbr": "Sssuper! Fase novinha do incrível jogo de Klungo, &quot;Herói Klungo Sssalva o Mundo&quot;, agora pronta para jogar... todosss os desafiantesss bem-vindosss no Klungo's Arcade no píer!",
+      "lote": "518"
+    },
+    {
+      "id": "0b6e",
+      "chave": "showdowntown__blubber_combotitle",
+      "hash_es": "99c5fd9cf7b4db7c",
+      "texto_ptbr": "Combinação da Torre do Alçapão 3",
+      "lote": "301"
+    },
+    {
+      "id": "47f3",
+      "chave": "showdowntown__blubber_menutitle",
+      "hash_es": "fb0fe6adea62238e",
+      "texto_ptbr": "Cofrinho do Capitão Blubber",
+      "lote": "301"
+    },
+    {
+      "id": "e8c7",
+      "chave": "showdowntown__boggysgym_speed",
+      "hash_es": "a60b5f318d9ffa20",
+      "texto_ptbr": "Velocidade",
+      "lote": "301"
+    },
+    {
+      "id": "fde3",
+      "chave": "showdowntown__boggysgym_stamina",
+      "hash_es": "a3afa979cfae4a63",
+      "texto_ptbr": "Resistência",
+      "lote": "301"
+    },
+    {
+      "id": "4be5",
+      "chave": "showdowntown__boggysgym_strength",
+      "hash_es": "4813f589a62f33b9",
+      "texto_ptbr": "Força",
+      "lote": "301"
+    },
+    {
+      "id": "6b58",
+      "chave": "showdowntown__boggysgym_title",
+      "hash_es": "51d7d9376b24ca65",
+      "texto_ptbr": "Academia do Boggy",
+      "lote": "301"
+    },
+    {
+      "id": "c6bd",
+      "chave": "showdowntown__bottles_accelerating",
+      "hash_es": "2828ddd99be58d5b",
+      "texto_ptbr": "Acelerar/Frear",
+      "lote": "301"
+    },
+    {
+      "id": "2431",
+      "chave": "showdowntown__bottles_attacking",
+      "hash_es": "88bdb16bc2b409c9",
+      "texto_ptbr": "Atacar",
+      "lote": "301"
+    },
+    {
+      "id": "c1d3",
+      "chave": "showdowntown__bottles_boggysgym",
+      "hash_es": "51d7d9376b24ca65",
+      "texto_ptbr": "Academia do Boggy",
+      "lote": "301"
+    },
+    {
+      "id": "a285",
+      "chave": "showdowntown__bottles_energy",
+      "hash_es": "34961a7f187b0799",
+      "texto_ptbr": "Energia",
+      "lote": "301"
+    },
+    {
+      "id": "02a3",
+      "chave": "showdowntown__bottles_fashion",
+      "hash_es": "9e54a72d25d08ddb",
+      "texto_ptbr": "Algum conselho de moda?",
+      "lote": "301"
+    },
+    {
+      "id": "2b4f",
+      "chave": "showdowntown__bottles_flippingobj",
+      "hash_es": "0e63389301748f95",
+      "texto_ptbr": "Virar objetos",
+      "lote": "301"
+    },
+    {
+      "id": "6e36",
+      "chave": "showdowntown__bottles_freeoption",
+      "hash_es": "12f1f58a8440677d",
+      "texto_ptbr": "Grátis",
+      "lote": "301"
+    },
+    {
+      "id": "66c9",
+      "chave": "showdowntown__bottles_freesubtitle",
+      "hash_es": "e9688e8a7d917990",
+      "texto_ptbr": "(Grátis)",
+      "lote": "301"
+    },
+    {
+      "id": "a151",
+      "chave": "showdowntown__bottles_gameglobes",
+      "hash_es": "3c831ed801533930",
+      "texto_ptbr": "Globos de Jogo",
+      "lote": "301"
+    },
+    {
+      "id": "8b65",
+      "chave": "showdowntown__bottles_getinvehicles",
+      "hash_es": "59ba3cbcc1df8bb6",
+      "texto_ptbr": "Entrar/Sair de veículos",
+      "lote": "301"
+    },
+    {
+      "id": "b4b6",
+      "chave": "showdowntown__bottles_globeactivation",
+      "hash_es": "1f7952553feec24b",
+      "texto_ptbr": "Ativação do Globo de Jogo",
+      "lote": "301"
+    },
+    {
+      "id": "d15f",
+      "chave": "showdowntown__bottles_grabbingedges",
+      "hash_es": "f5d8ac141e7c103f",
+      "texto_ptbr": "Agarrar bordas",
+      "lote": "301"
+    },
+    {
+      "id": "5455",
+      "chave": "showdowntown__bottles_humbasshop",
+      "hash_es": "4836ea7d44632de1",
+      "texto_ptbr": "Loja da Humba Wumba",
+      "lote": "301"
+    },
+    {
+      "id": "df31",
+      "chave": "showdowntown__bottles_jiggybank",
+      "hash_es": "d850f15314fe329a",
+      "texto_ptbr": "Banco de Jiggies",
+      "lote": "301"
+    },
+    {
+      "id": "b5e4",
+      "chave": "showdowntown__bottles_jigovends",
+      "hash_es": "f8ad3b4bb74b08d1",
+      "texto_ptbr": "Máquinas de Jiggies",
+      "lote": "301"
+    },
+    {
+      "id": "6421",
+      "chave": "showdowntown__bottles_jingobingo",
+      "hash_es": "5b97792afbd62c10",
+      "texto_ptbr": "Bingo do Rei Jingaling",
+      "lote": "301"
+    },
+    {
+      "id": "5c9a",
+      "chave": "showdowntown__bottles_jollydodger",
+      "hash_es": "6c50467991adab86",
+      "texto_ptbr": "Jolly Dodger",
+      "lote": "301"
+    },
+    {
+      "id": "c47e",
+      "chave": "showdowntown__bottles_klungosarcade",
+      "hash_es": "f3a26b53319622ec",
+      "texto_ptbr": "Klungo's Arcade",
+      "lote": "518"
+    },
+    {
+      "id": "b1c1",
+      "chave": "showdowntown__bottles_learnt",
+      "hash_es": "9860eed457a71f89",
+      "texto_ptbr": "Coisas já aprendidas",
+      "lote": "301"
+    },
+    {
+      "id": "7fad",
+      "chave": "showdowntown__bottles_learntsubtitle",
+      "hash_es": "ebfbc7a616698bf3",
+      "texto_ptbr": "(Grátis: coisas já aprendidas)",
+      "lote": "301"
+    },
+    {
+      "id": "6dd9",
+      "chave": "showdowntown__bottles_mapspeedo",
+      "hash_es": "08c19f4bded80649",
+      "texto_ptbr": "Mapa do jogo/Velocímetro",
+      "lote": "301"
+    },
+    {
+      "id": "6d72",
+      "chave": "showdowntown__bottles_menutitle",
+      "hash_es": "a759df50ad661da1",
+      "texto_ptbr": "Informações do Bottles",
+      "lote": "301"
+    },
+    {
+      "id": "37a4",
+      "chave": "showdowntown__bottles_notes",
+      "hash_es": "8a6172e21a8758f7",
+      "texto_ptbr": "Notas",
+      "lote": "301"
+    },
+    {
+      "id": "d614",
+      "chave": "showdowntown__bottles_paycrate",
+      "hash_es": "fff56be304aa01d3",
+      "texto_ptbr": "Mostre algo legal",
+      "lote": "301"
+    },
+    {
+      "id": "725a",
+      "chave": "showdowntown__bottles_paymorecrates",
+      "hash_es": "095ebeb1319cf066",
+      "texto_ptbr": "Mostre algo incrível",
+      "lote": "301"
+    },
+    {
+      "id": "dc3e",
+      "chave": "showdowntown__bottles_paynotestash",
+      "hash_es": "716d3db7f328dabb",
+      "texto_ptbr": "Mostre algo ótimo",
+      "lote": "301"
+    },
+    {
+      "id": "8d3e",
+      "chave": "showdowntown__bottles_payoption",
+      "hash_es": "3acaa7d0884de64f",
+      "texto_ptbr": "Pagar",
+      "lote": "301"
+    },
+    {
+      "id": "65f0",
+      "chave": "showdowntown__bottles_paysnstruth",
+      "hash_es": "8c97e932e53d0e65",
+      "texto_ptbr": "A verdade do Stop 'n' Swop",
+      "lote": "301"
+    },
+    {
+      "id": "67d1",
+      "chave": "showdowntown__bottles_paysubtitle",
+      "hash_es": "6900440acd93bb95",
+      "texto_ptbr": "(Pagar)",
+      "lote": "301"
+    },
+    {
+      "id": "ba02",
+      "chave": "showdowntown__bottles_pickupobj",
+      "hash_es": "1b6c2ee59b521cdb",
+      "texto_ptbr": "Pegar objetos",
+      "lote": "301"
+    },
+    {
+      "id": "29b7",
+      "chave": "showdowntown__bottles_police",
+      "hash_es": "ccf0b5e7f1444651",
+      "texto_ptbr": "Polícia",
+      "lote": "301"
+    },
+    {
+      "id": "1e80",
+      "chave": "showdowntown__bottles_recallgolfcart",
+      "hash_es": "677cc8418bbf5724",
+      "texto_ptbr": "Chamar veículos perdidos/distantes",
+      "lote": "301"
+    },
+    {
+      "id": "ac9f",
+      "chave": "showdowntown__bottles_rubbishanyuse",
+      "hash_es": "570aa8d3caedf8a3",
+      "texto_ptbr": "Você serve para alguma coisa?",
+      "lote": "301"
+    },
+    {
+      "id": "9358",
+      "chave": "showdowntown__bottles_rubbishdead",
+      "hash_es": "8f8e671ea1e65960",
+      "texto_ptbr": "Você gostou de estar morto?",
+      "lote": "301"
+    },
+    {
+      "id": "2291",
+      "chave": "showdowntown__bottles_rubbishki3",
+      "hash_es": "577aa8c5a82c9adb",
+      "texto_ptbr": "O que você sabe sobre o KI3?",
+      "lote": "301"
+    },
+    {
+      "id": "27cc",
+      "chave": "showdowntown__bottles_rubbishlog",
+      "hash_es": "3084496d1227434b",
+      "texto_ptbr": "Quem é esse tal de S.J.?",
+      "lote": "301"
+    },
+    {
+      "id": "37f9",
+      "chave": "showdowntown__bottles_rubbishmrsbottles",
+      "hash_es": "7427087816505e8c",
+      "texto_ptbr": "Cadê a Sra. Bottles?",
+      "lote": "301"
+    },
+    {
+      "id": "55d8",
+      "chave": "showdowntown__bottles_rubbishwin",
+      "hash_es": "2838d64ad06ff3cc",
+      "texto_ptbr": "Pode me dizer como ganhar?",
+      "lote": "301"
+    },
+    {
+      "id": "7bf0",
+      "chave": "showdowntown__bottles_safehouseonecombo",
+      "hash_es": "ab5e63318e2ef242",
+      "texto_ptbr": "Combinação da Torre do Alçapão 1",
+      "lote": "301"
+    },
+    {
+      "id": "0d7a",
+      "chave": "showdowntown__bottles_showdowntownmap",
+      "hash_es": "fe1c64467a953578",
+      "texto_ptbr": "Mapa de Showdown Town",
+      "lote": "518"
+    },
+    {
+      "id": "5ba6",
+      "chave": "showdowntown__bottles_swimming",
+      "hash_es": "36a9f15b41a3504f",
+      "texto_ptbr": "Nadar",
+      "lote": "301"
+    },
+    {
+      "id": "9e8e",
+      "chave": "showdowntown__bottles_thegolfcart",
+      "hash_es": "e437bb15c70011e4",
+      "texto_ptbr": "O veículo Carrinho",
+      "lote": "301"
+    },
+    {
+      "id": "1fc4",
+      "chave": "showdowntown__bottles_tightropes",
+      "hash_es": "c2daaf81464c4287",
+      "texto_ptbr": "Cordas bambas",
+      "lote": "301"
+    },
+    {
+      "id": "b62d",
+      "chave": "showdowntown__bottles_trophythomas",
+      "hash_es": "405b247d536a5d15",
+      "texto_ptbr": "Tomás Troféu",
+      "lote": "301"
+    },
+    {
+      "id": "75cf",
+      "chave": "showdowntown__bottles_useful",
+      "hash_es": "3daceb7d72f19c89",
+      "texto_ptbr": "Outras coisas úteis",
+      "lote": "301"
+    },
+    {
+      "id": "71bb",
+      "chave": "showdowntown__bottles_usefulsubtitle",
+      "hash_es": "aba5bdd989f1355c",
+      "texto_ptbr": "(Grátis: outras coisas úteis)",
+      "lote": "301"
+    },
+    {
+      "id": "373f",
+      "chave": "showdowntown__bottles_useless",
+      "hash_es": "6346acf39a92f86e",
+      "texto_ptbr": "Bobagens inúteis",
+      "lote": "301"
+    },
+    {
+      "id": "a32b",
+      "chave": "showdowntown__bottles_uselesssubtitle",
+      "hash_es": "808f49e752788fe8",
+      "texto_ptbr": "(Grátis: bobagens inúteis)",
+      "lote": "301"
+    },
+    {
+      "id": "af9d",
+      "chave": "showdowntown__bottles_warppads",
+      "hash_es": "020f4ebf38f934d6",
+      "texto_ptbr": "Plataformas de teleporte",
+      "lote": "301"
+    },
+    {
+      "id": "5e63",
+      "chave": "showdowntown__bottles_wrenchitbolts",
+      "hash_es": "55893110666dcc0d",
+      "texto_ptbr": "Parafusos de Apertar",
+      "lote": "301"
+    },
+    {
+      "id": "305f",
+      "chave": "showdowntown__commonshop_paid",
+      "hash_es": "4bd89cd2151b0ec5",
+      "texto_ptbr": "PAGO",
+      "lote": "301"
+    },
+    {
+      "id": "44ea",
+      "chave": "showdowntown__humbashop_buyblueprint",
+      "hash_es": "142fb1231c8e55b9",
+      "texto_ptbr": "Comprar projeto",
+      "lote": "301"
+    },
+    {
+      "id": "b268",
+      "chave": "showdowntown__humbashop_buycomponent",
+      "hash_es": "3ca53b291ba76d94",
+      "texto_ptbr": "Comprar peças",
+      "lote": "301"
+    },
+    {
+      "id": "f4d4",
+      "chave": "showdowntown__humbashop_confirm_buy_component",
+      "hash_es": "c8325e031f199f44",
+      "texto_ptbr": "Tem certeza de que quer comprar esta peça?",
+      "lote": "301"
+    },
+    {
+      "id": "6933",
+      "chave": "showdowntown__humbashop_optionstitle",
+      "hash_es": "81db3b5709d0ba95",
+      "texto_ptbr": "Opções",
+      "lote": "301"
+    },
+    {
+      "id": "797e",
+      "chave": "showdowntown__jinjobingo_instructionstitle",
+      "hash_es": "d1bbd1ed3897b4fe",
+      "texto_ptbr": "Instruções",
+      "lote": "301"
+    },
+    {
+      "id": "5f5e",
+      "chave": "showdowntown__jinjobingo_menutitle",
+      "hash_es": "20598d8b9b3e5369",
+      "texto_ptbr": "Bingo Jinjo!",
+      "lote": "301"
+    },
+    {
+      "id": "113f",
+      "chave": "showdowntown__jinjobingo_playtitle",
+      "hash_es": "b61eda6f4b63d533",
+      "texto_ptbr": "Jogar",
+      "lote": "301"
+    },
+    {
+      "id": "6113",
+      "chave": "showdowntown__jolly_jiggy1",
+      "hash_es": "6748e3c04097229c",
+      "texto_ptbr": "Brilho Misterioso",
+      "lote": "301"
+    },
+    {
+      "id": "6114",
+      "chave": "showdowntown__jolly_jiggy2",
+      "hash_es": "240c74c16f46bc46",
+      "texto_ptbr": "Grande Banqueiro",
+      "lote": "301"
+    },
+    {
+      "id": "6115",
+      "chave": "showdowntown__jolly_jiggy3",
+      "hash_es": "a8507d576db91d0a",
+      "texto_ptbr": "Sr. JiggyWiggy",
+      "lote": "301"
+    },
+    {
+      "id": "6116",
+      "chave": "showdowntown__jolly_jiggy4",
+      "hash_es": "0229d2c12dc79b23",
+      "texto_ptbr": "Maravilha Enigmática",
+      "lote": "301"
+    },
+    {
+      "id": "6117",
+      "chave": "showdowntown__jolly_jiggy5",
+      "hash_es": "fe9f3b1531b2bff0",
+      "texto_ptbr": "Jiggytástico",
+      "lote": "301"
+    },
+    {
+      "id": "443f",
+      "chave": "showdowntown__jolly_menutitle",
+      "hash_es": "18f5e9de6a7ca6ef",
+      "texto_ptbr": "Jiggies do Jolly",
+      "lote": "301"
+    },
+    {
+      "id": "1b25",
+      "chave": "showdowntown__klungo_instructionstitle",
+      "hash_es": "b66246dc2a1395af",
+      "texto_ptbr": "Inssstruçõesss",
+      "lote": "301"
+    },
+    {
+      "id": "4a05",
+      "chave": "showdowntown__klungo_menutitle",
+      "hash_es": "f3a26b53319622ec",
+      "texto_ptbr": "Klungo's Arcade",
+      "lote": "518"
+    },
+    {
+      "id": "fbe6",
+      "chave": "showdowntown__klungo_playtitle",
+      "hash_es": "b61eda6f4b63d533",
+      "texto_ptbr": "Jogar",
+      "lote": "301"
+    },
+    {
+      "id": "02f2",
+      "chave": "showdowntown__mrfit_combotitle",
+      "hash_es": "7682989ae88b5abb",
+      "texto_ptbr": "Combinação da Torre do Alçapão 2",
+      "lote": "301"
+    },
+    {
+      "id": "5ef7",
+      "chave": "showdowntown__mrfit_menutitle",
+      "hash_es": "4ef22729058c9bd5",
+      "texto_ptbr": "Cofrinho dos tênis do Sr. Em Forma",
+      "lote": "301"
+    },
+    {
+      "id": "c0fb",
+      "chave": "showdowntown__pikelet_largebribe",
+      "hash_es": "e733242117be3f5e",
+      "texto_ptbr": "Suborno grande",
+      "lote": "301"
+    },
+    {
+      "id": "65f1",
+      "chave": "showdowntown__pikelet_mediumbribe",
+      "hash_es": "d63219d9fd791bdf",
+      "texto_ptbr": "Suborno médio",
+      "lote": "301"
+    },
+    {
+      "id": "5f43",
+      "chave": "showdowntown__pikelet_menutitle",
+      "hash_es": "96fbf4a2747e6e65",
+      "texto_ptbr": "Pikelet, o Chefe de Polícia",
+      "lote": "301"
+    },
+    {
+      "id": "2e29",
+      "chave": "showdowntown__pikelet_smallbribe",
+      "hash_es": "81d9692141eab336",
+      "texto_ptbr": "Suborno pequeno",
+      "lote": "301"
+    },
+    {
+      "id": "33c0",
+      "chave": "showdowntown__trophythomas_summarytitle",
+      "hash_es": "c9b3c38247f744e1",
+      "texto_ptbr": "Totais",
+      "lote": "301"
+    }
+  ]
+}

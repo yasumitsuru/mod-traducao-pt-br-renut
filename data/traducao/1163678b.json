@@ -1,0 +1,48 @@
+{
+  "arquivo": "1163678b",
+  "asset": "aid_loctext_banjox_spiralmountain_infopoints",
+  "frases": [
+    {
+      "id": "34c0",
+      "chave": "dialog__bottlesgrave",
+      "hash_es": "e1853f482adc04f1",
+      "texto_ptbr": "R.I.P. Bottles. O parceiro toupeira de Banjo e Kazooie morreu tragicamente aqui em 2000, mas conseguiu ressuscitar cerca de uma semana depois.",
+      "lote": "509"
+    },
+    {
+      "id": "d6c2",
+      "chave": "dialog__bottlesgravetitle",
+      "hash_es": "926c3cded1d7715e",
+      "texto_ptbr": "Tumba do Bottles",
+      "lote": "509"
+    },
+    {
+      "id": "5b36",
+      "chave": "dialog__diggertunnel",
+      "hash_es": "5c3e0409e3943b21",
+      "texto_ptbr": "Antigamente, isto levava à Ilha das Bruxas, onde Grunty enfrentou Banjo e Kazooie enquanto tentava consertar sua forma esquelética sugando a vida da terra.",
+      "lote": "513"
+    },
+    {
+      "id": "76f8",
+      "chave": "dialog__diggertunneltitle",
+      "hash_es": "341bc2e9db316eab",
+      "texto_ptbr": "Túnel da Escavadeira",
+      "lote": "513"
+    },
+    {
+      "id": "789f",
+      "chave": "dialog__gruntysgrave",
+      "hash_es": "c9662eaadf5dd568",
+      "texto_ptbr": "Grunty caiu da torre após uma batalha anterior e caiu de mau jeito bem aqui, mas foi trazida de volta pelas irmãs como um esqueleto ainda menos atraente.",
+      "lote": "513"
+    },
+    {
+      "id": "5e01",
+      "chave": "dialog__gruntysgravetitle",
+      "hash_es": "7f19bd3a01961ee9",
+      "texto_ptbr": "Tumba da Grunty",
+      "lote": "509"
+    }
+  ]
+}

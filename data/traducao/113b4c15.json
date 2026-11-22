@@ -1,0 +1,2372 @@
+{
+  "arquivo": "113b4c15",
+  "asset": "aid_loctext_banjox_ui_multiplayerfrontend",
+  "frases": [
+    {
+      "id": "ce7a",
+      "chave": "dialog__StartMatchDisabled_EmptySeries",
+      "hash_es": "f4cf03db80f0b40b",
+      "texto_ptbr": "Você precisa escolher alguns jogos para esta liga personalizada antes de começar.",
+      "lote": "506"
+    },
+    {
+      "id": "e550",
+      "chave": "dialog__StartMatchDisabled_MissingCommunication",
+      "hash_es": "1d29655ce42e5205",
+      "texto_ptbr": "A partida não pode começar agora, pois um membro do grupo ainda está recebendo informações da partida.",
+      "lote": "506"
+    },
+    {
+      "id": "f164",
+      "chave": "dialog__StartMatchDisabled_NoGuestsInRanked",
+      "hash_es": "69d74cbd0efc31c6",
+      "texto_ptbr": "Você não pode começar uma partida ranqueada com um convidado no seu grupo.",
+      "lote": "506"
+    },
+    {
+      "id": "af08",
+      "chave": "dialog__StartMatchDisabled_NotEnoughCoopPlayers",
+      "hash_es": "7845ffb921ef72e9",
+      "texto_ptbr": "Você não tem membros suficientes no grupo para começar esta partida. Aperte o Botão [A] em outro controle para adicionar outro jogador local ou procure no Xbox LIVE se tiver uma conta Gold.",
+      "lote": "506"
+    },
+    {
+      "id": "36bf",
+      "chave": "dialog__StartMatchDisabled_NotPartyHost",
+      "hash_es": "4b030782c4271c57",
+      "texto_ptbr": "Só o líder do grupo pode começar a partida.",
+      "lote": "506"
+    },
+    {
+      "id": "f3a8",
+      "chave": "dialog__StartMatchDisabled_TooManyPeopleForRanked",
+      "hash_es": "1f05210ac526a4e4",
+      "texto_ptbr": "Você tem gente demais no grupo para começar uma partida ranqueada.",
+      "lote": "506"
+    },
+    {
+      "id": "e0a2",
+      "chave": "dialog__TipAdvancedOptionsChallengeType",
+      "hash_es": "ee3af8dbf16151d3",
+      "texto_ptbr": "Esta opção garante que você jogue só um estilo de jogo, corridas ou esportes. Se não se importar com o estilo, pode deixar a escolha comigo.",
+      "lote": "506"
+    },
+    {
+      "id": "599c",
+      "chave": "dialog__TipAdvancedOptionsComponentOptions",
+      "hash_es": "fab388681f6d69bf",
+      "texto_ptbr": "Selecione esta opção para proibir certas peças de veículo, restringir o peso ou o número de peças que ele pode ter. As peças proibidas aparecem esmaecidas e desativadas no seu veículo. {PAGEBREAK}Veículos com excesso de peso ou peças demais não podem ser selecionados. Um bom anfitrião avisa sobre essas restrições, para você construir um veículo adequado antes do jogo começar.",
+      "lote": "506"
+    },
+    {
+      "id": "249c",
+      "chave": "dialog__TipAdvancedOptionsTeamPlayType",
+      "hash_es": "5b8a154211cb93ea",
+      "texto_ptbr": "Esta opção permite especificar os modos equipe ou solo, se preferir jogar todas as suas partidas com uma configuração fixa.",
+      "lote": "506"
+    },
+    {
+      "id": "5ddf",
+      "chave": "dialog__TipAdvancedOptionsVehicleType",
+      "hash_es": "3cf57f8d6ae1a327",
+      "texto_ptbr": "Então você quer especificar uma regra de veículos, como permitir só os veículos do S.J. ou deixar os jogadores escolherem qualquer veículo da lista de projetos? Selecione esta opção, maníaco por controle!",
+      "lote": "506"
+    },
+    {
+      "id": "0fc8",
+      "chave": "dialog__TipChallengeTypeAny",
+      "hash_es": "1125602e6265f1c8",
+      "texto_ptbr": "Então, em partidas ranqueadas ou de jogador, você gosta tanto de corridas quanto de esportes? Selecione esta opção e um será escolhido aleatoriamente antes de cada jogo.",
+      "lote": "506"
+    },
+    {
+      "id": "514e",
+      "chave": "dialog__TipChallengeTypeRaces",
+      "hash_es": "0289bed2dc6e29cc",
+      "texto_ptbr": "Se quiser jogar somente corridas em partidas ranqueadas ou de jogador, escolha esta opção.",
+      "lote": "506"
+    },
+    {
+      "id": "c726",
+      "chave": "dialog__TipChallengeTypeTasks",
+      "hash_es": "f4e2d8f418196d48",
+      "texto_ptbr": "Se quiser jogar somente esportes em partidas ranqueadas ou de jogador, escolha esta opção.",
+      "lote": "506"
+    },
+    {
+      "id": "f0a4",
+      "chave": "dialog__TipComponentOptionsAmmo",
+      "hash_es": "b09b1be6517b7e7f",
+      "texto_ptbr": "Ativa ou desativa se a munição é permitida.",
+      "lote": "506"
+    },
+    {
+      "id": "cf86",
+      "chave": "dialog__TipComponentOptionsFuel",
+      "hash_es": "895e8f45c13fa379",
+      "texto_ptbr": "Ativa ou desativa se o combustível é permitido.",
+      "lote": "506"
+    },
+    {
+      "id": "e099",
+      "chave": "dialog__TipComponentOptionsGadgets",
+      "hash_es": "f6ba77595a6af19e",
+      "texto_ptbr": "Você pode desativar todas as peças de engenhoca ou permitir todas.",
+      "lote": "506"
+    },
+    {
+      "id": "7546",
+      "chave": "dialog__TipComponentOptionsMaxComponents",
+      "hash_es": "8f7c427dae09cb80",
+      "texto_ptbr": "Você pode definir até 5 limites diferentes de peças por veículo, cada um restringindo quantas peças ele pode ter. Também pode deixar sem limite.",
+      "lote": "506"
+    },
+    {
+      "id": "1888",
+      "chave": "dialog__TipComponentOptionsMaxWeight",
+      "hash_es": "2f1db3095090e167",
+      "texto_ptbr": "Você pode definir até 5 limites de peso máximo e até deixar sem limite algum.",
+      "lote": "506"
+    },
+    {
+      "id": "3d15",
+      "chave": "dialog__TipComponentOptionsPropulsion",
+      "hash_es": "238b346be5656e90",
+      "texto_ptbr": "Você pode desativar todas as peças de potência, só as que usam combustível, ou permitir todas.",
+      "lote": "506"
+    },
+    {
+      "id": "1ed7",
+      "chave": "dialog__TipComponentOptionsWeapons",
+      "hash_es": "9da1290206942bdc",
+      "texto_ptbr": "Você pode desativar todas as peças de arma, só as que usam munição, ou permitir todas.",
+      "lote": "506"
+    },
+    {
+      "id": "2dc2",
+      "chave": "dialog__TipComponentOptionsWheels",
+      "hash_es": "47f7280922d20dae",
+      "texto_ptbr": "Você pode desativar todas as peças de roda ou permitir todas.",
+      "lote": "506"
+    },
+    {
+      "id": "f262",
+      "chave": "dialog__TipComponentOptionsWings",
+      "hash_es": "2b3fc0b14be94895",
+      "texto_ptbr": "Você pode desativar todas as peças de asa ou permitir todas.",
+      "lote": "506"
+    },
+    {
+      "id": "8241",
+      "chave": "dialog__TipCustomSeriesLoad",
+      "hash_es": "d4e04955959cbbd1",
+      "texto_ptbr": "As opções à direita mostram os espaços de memória de onde carregar sua liga salva. Destaque cada item salvo para ver uma prévia dos jogos à esquerda.",
+      "lote": "506"
+    },
+    {
+      "id": "2ccb",
+      "chave": "dialog__TipCustomSeriesOptionsAddRaceGame",
+      "hash_es": "81c9fc4e72ac6a8f",
+      "texto_ptbr": "Depois de adicionar uma corrida à sua liga personalizada, você pode trocá-la por outra selecionando-a e apertando o Botão [A]. Para removê-la, aperte o Botão [X].",
+      "lote": "506"
+    },
+    {
+      "id": "f3a3",
+      "chave": "dialog__TipCustomSeriesOptionsAddTaskGame",
+      "hash_es": "1349a2230f5ae59e",
+      "texto_ptbr": "Depois de adicionar um esporte à sua liga personalizada, você pode trocá-lo por outro selecionando-o e apertando o Botão [A]. Para removê-lo, aperte o Botão [X].",
+      "lote": "506"
+    },
+    {
+      "id": "b569",
+      "chave": "dialog__TipCustomSeriesOptionsLoadList",
+      "hash_es": "3b1a0ab9b1f719fa",
+      "texto_ptbr": "Se você já salvou uma lista de liga personalizada, pode carregá-la de novo usando esta opção.",
+      "lote": "506"
+    },
+    {
+      "id": "bc33",
+      "chave": "dialog__TipCustomSeriesOptionsNewList",
+      "hash_es": "a2107145e744896a",
+      "texto_ptbr": "Esta opção vai limpar todos os jogos da sua liga atual.",
+      "lote": "506"
+    },
+    {
+      "id": "a2b8",
+      "chave": "dialog__TipCustomSeriesOptionsSaveList",
+      "hash_es": "f22e0bc3a924b7be",
+      "texto_ptbr": "Criou uma lista de jogos de liga personalizada que gostaria de jogar de novo? Selecione esta opção para salvar a lista atual e carregá-la quando quiser.",
+      "lote": "506"
+    },
+    {
+      "id": "2010",
+      "chave": "dialog__TipCustomSeriesSave",
+      "hash_es": "3d3443ee75f14c3f",
+      "texto_ptbr": "As opções à direita mostram os espaços de memória disponíveis para salvar sua liga. Destaque cada item salvo para ver uma prévia dos jogos à esquerda.",
+      "lote": "506"
+    },
+    {
+      "id": "c622",
+      "chave": "dialog__TipFriendsList",
+      "hash_es": "b00fe70ea42e1889",
+      "texto_ptbr": "Esta lista mostra seus Amigos. Destaque-os para entrar ou convidá-los, conforme o status. Fique de olho no menu de botões à direita para ver as opções disponíveis para cada Amigo.",
+      "lote": "506"
+    },
+    {
+      "id": "3b42",
+      "chave": "dialog__TipMainAdvancedOptions",
+      "hash_es": "530130cd2939cb50",
+      "texto_ptbr": "Nas Regras da Partida, você pode definir os veículos disponíveis e escolher entre jogo em Equipe ou Solo.",
+      "lote": "506"
+    },
+    {
+      "id": "1d4a",
+      "chave": "dialog__TipMainFindCoopBuddy",
+      "hash_es": "42a3316def12258b",
+      "texto_ptbr": "Selecione esta opção e o jogo procurará outros jogadores no Xbox LIVE para partidas cooperativas. Você também pode conectar outro controle ao seu Xbox 360 e apertar o Botão [A] para jogar Co-Op localmente.",
+      "lote": "506"
+    },
+    {
+      "id": "6ab0",
+      "chave": "dialog__TipMainMatchMakingOptions",
+      "hash_es": "09cb29a1b0600b3a",
+      "texto_ptbr": "Playlists diferentes contêm grupos diferentes de jogos. Se quiser um estilo específico, escolha sua playlist preferida. Você também pode deixar uma playlist aleatória ser escolhida.",
+      "lote": "506"
+    },
+    {
+      "id": "df2f",
+      "chave": "dialog__TipMainMatchType",
+      "hash_es": "b6cd3c988152f0d6",
+      "texto_ptbr": "Esta opção permite escolher diferentes partidas para jogar. Aperte o Botão [A] para mudar sua escolha.",
+      "lote": "506"
+    },
+    {
+      "id": "baef",
+      "chave": "dialog__TipMainNotHost",
+      "hash_es": "16b2be4c057415b7",
+      "texto_ptbr": "Só o anfitrião do grupo pode mudar estas opções, mas você pode vê-las para saber o que ele preparou para o próximo jogo.",
+      "lote": "506"
+    },
+    {
+      "id": "9dee",
+      "chave": "dialog__TipMainSeriesChallenge",
+      "hash_es": "2678e2c71e1e3af7",
+      "texto_ptbr": "Jogar uma liga significa que você e seu grupo podem jogar muitos jogos, um após o outro. O S.J. mantém a pontuação para você ver o vencedor geral.",
+      "lote": "506"
+    },
+    {
+      "id": "a8a5",
+      "chave": "dialog__TipMainSingleChallenge",
+      "hash_es": "0c790dbbad4bfb08",
+      "texto_ptbr": "Jogar um jogo específico permite escolher exatamente qual jogo disputar com outras pessoas do grupo ou sozinho, se quiser praticar.",
+      "lote": "506"
+    },
+    {
+      "id": "8eae",
+      "chave": "dialog__TipMainStart",
+      "hash_es": "3c8685cda11970a6",
+      "texto_ptbr": "Aperte o Botão [A] para começar o tipo de partida escolhido. Para uma Partida Rápida, defina a escolha de partida como ranqueada ou de jogador e a playlist preferida como aleatória.",
+      "lote": "506"
+    },
+    {
+      "id": "1cbd",
+      "chave": "dialog__TipMainStartNotHost",
+      "hash_es": "2e428bd277e4cf45",
+      "texto_ptbr": "Só o anfitrião do grupo pode começar a partida. Esperemos que ele não demore...",
+      "lote": "506"
+    },
+    {
+      "id": "06c5",
+      "chave": "dialog__TipMatchMakingOptionsAthletes",
+      "hash_es": "237c72b1f4c264ee",
+      "texto_ptbr": "Esta playlist contém todos os jogos baseados em esportes de atletismo no modo solo. Você pode usar seus próprios veículos ou os do S.J. em qualquer jogo para o qual não construiu um veículo adequado.",
+      "lote": "506"
+    },
+    {
+      "id": "7588",
+      "chave": "dialog__TipMatchMakingOptionsBuddyUp",
+      "hash_es": "167d0fc94c42d550",
+      "texto_ptbr": "Se quiser jogar em equipe, esta é uma boa playlist. No modo equipe, ajudar os companheiros é importante para vencer. Todos usam veículos do S.J., então as equipes ficam equilibradas.",
+      "lote": "506"
+    },
+    {
+      "id": "e954",
+      "chave": "dialog__TipMatchMakingOptionsFightin",
+      "hash_es": "b9239e9060e2f1db",
+      "texto_ptbr": "Se você gosta de uma boa briga de veículos, esta é a playlist. Na maioria destes jogos, pode escolher seus próprios veículos se não quiser os do S.J., mas trate de escolher bem, pois é cada urso por si!",
+      "lote": "506"
+    },
+    {
+      "id": "6571",
+      "chave": "dialog__TipMatchMakingOptionsMovinOn",
+      "hash_es": "fbe29c9bc544b73d",
+      "texto_ptbr": "Escolha esta se ainda é novo, mas quer experimentar jogos mais desafiadores. Todos os jogadores ainda usam veículos do S.J. para manter a disputa justa enquanto você pega o jeito.",
+      "lote": "506"
+    },
+    {
+      "id": "35ea",
+      "chave": "dialog__TipMatchMakingOptionsNewbs",
+      "hash_es": "fc6dfacc7eb9d030",
+      "texto_ptbr": "Se você é novo no jogo, esta pode ser a melhor playlist! Todo mundo usa o veículo escolhido pelo S.J. para facilitar sua entrada na ação.",
+      "lote": "506"
+    },
+    {
+      "id": "4cac",
+      "chave": "dialog__TipMatchMakingOptionsRandom",
+      "hash_es": "7cb1c457051e00c8",
+      "texto_ptbr": "Se escolher esta opção, o S.J. escolherá uma playlist aleatória para você.",
+      "lote": "506"
+    },
+    {
+      "id": "6322",
+      "chave": "dialog__TipMatchMakingOptionsSpeedDemons",
+      "hash_es": "a190bb132290270a",
+      "texto_ptbr": "É viciado em correr muito rápido e impressionar os outros com seus veículos velozes? Então escolha esta playlist. Os veículos do S.J. servem de reserva, se precisar.",
+      "lote": "506"
+    },
+    {
+      "id": "67f5",
+      "chave": "dialog__TipMatchMakingOptionsSportHead",
+      "hash_es": "95237a332f6103e9",
+      "texto_ptbr": "Esta playlist contém todos os jogos baseados em esportes de atletismo no modo equipe. Você pode usar seus próprios veículos ou os do S.J. em qualquer jogo para o qual não construiu um veículo adequado.",
+      "lote": "506"
+    },
+    {
+      "id": "4bf2",
+      "chave": "dialog__TipMatchTypePrivateMatch",
+      "hash_es": "93f189fd43b5a192",
+      "texto_ptbr": "Esta opção permite escolher o jogo exato a disputar. Até 7 Amigos podem entrar no seu grupo, então você decide quem serão os adversários. Também serve para praticar sozinho se o grupo estiver vazio.",
+      "lote": "506"
+    },
+    {
+      "id": "20d0",
+      "chave": "dialog__TipMatchTypePrivateSeries",
+      "hash_es": "3d1848fdf7ea1821",
+      "texto_ptbr": "Esta opção permite montar uma liga com muitos jogos. Você e até 7 Amigos do grupo podem jogar numa liga. O S.J. mantém a pontuação de todos os jogos para mostrar o vencedor geral.",
+      "lote": "506"
+    },
+    {
+      "id": "4a7f",
+      "chave": "dialog__TipMatchTypeRanked",
+      "hash_es": "fdd52aba1918f884",
+      "texto_ptbr": "Em uma partida ranqueada, o S.J. escolhe jogos e adversários aleatórios. Você também recebe uma classificação TrueSkill™ conforme seu desempenho. Talvez você queira praticar antes em uma partida de jogador!",
+      "lote": "506"
+    },
+    {
+      "id": "b905",
+      "chave": "dialog__TipMatchTypeSocial",
+      "hash_es": "7f3393ae12ae795a",
+      "texto_ptbr": "Uma partida de jogador permite que você e seu grupo joguem partidas aleatórias por diversão e é ótima para testar veículos novos. O S.J. também encontra adversários aleatórios se houver espaço.",
+      "lote": "506"
+    },
+    {
+      "id": "9635",
+      "chave": "dialog__TipNetworkLive",
+      "hash_es": "f63309c3a2c8c5f5",
+      "texto_ptbr": "Você pode jogar partidas ranqueadas, de jogador e de grupo, ou uma liga de grupo no Xbox LIVE.",
+      "lote": "506"
+    },
+    {
+      "id": "3f38",
+      "chave": "dialog__TipNetworkSystemlink",
+      "hash_es": "82f30a92eedc1d9d",
+      "texto_ptbr": "Escolha procurar ou criar partidas em uma rede privada.",
+      "lote": "506"
+    },
+    {
+      "id": "ce67",
+      "chave": "dialog__TipPartyList",
+      "hash_es": "6c366d5285ca97a6",
+      "texto_ptbr": "Estes são os jogadores do seu grupo. O anfitrião usa a coroa. Silencie e reative a voz dos jogadores com o Botão [A]. O anfitrião pode expulsar jogadores com o Botão [X]. Jogadores expulsos só podem voltar se forem convidados!",
+      "lote": "506"
+    },
+    {
+      "id": "e65f",
+      "chave": "dialog__TipPrivateCustomSeriesAddGame",
+      "hash_es": "ae7b2780991fc9a4",
+      "texto_ptbr": "Adicione um novo jogo à sua liga.",
+      "lote": "506"
+    },
+    {
+      "id": "5d96",
+      "chave": "dialog__TipPrivateCustomSeriesGame",
+      "hash_es": "2e6e64365891f59a",
+      "texto_ptbr": "Aperte o Botão [A] para escolher um jogo específico ou o Botão [X] para removê-lo. Aperte o Botão [Y] para ver informações de cada jogo.",
+      "lote": "506"
+    },
+    {
+      "id": "d9dc",
+      "chave": "dialog__TipPrivateSeriesTypeAll",
+      "hash_es": "191f2dfc2991177d",
+      "texto_ptbr": "Selecione esta opção para jogar todas as corridas e todos os esportes, um após o outro.",
+      "lote": "506"
+    },
+    {
+      "id": "200a",
+      "chave": "dialog__TipPrivateSeriesTypeAllRaces",
+      "hash_es": "045998f8cd584d89",
+      "texto_ptbr": "Selecione esta opção para jogar todas as corridas, uma após a outra.",
+      "lote": "506"
+    },
+    {
+      "id": "95e2",
+      "chave": "dialog__TipPrivateSeriesTypeAllTasks",
+      "hash_es": "0dfe29eb91daf44b",
+      "texto_ptbr": "Selecione esta opção para jogar todos os esportes, um após o outro.",
+      "lote": "506"
+    },
+    {
+      "id": "49e9",
+      "chave": "dialog__TipPrivateSeriesTypeCustomSeries",
+      "hash_es": "8369625f2971d5a3",
+      "texto_ptbr": "Esta opção permite montar uma liga só com os jogos que você escolher. Depois de adicionar corridas ou esportes, você pode trocá-los selecionando-os e escolhendo um jogo específico.",
+      "lote": "506"
+    },
+    {
+      "id": "2c64",
+      "chave": "dialog__TipSpecificChallenge",
+      "hash_es": "9381062e72e6bddc",
+      "texto_ptbr": "Aperte o [RS] botão superior direito para alternar entre o menu de esportes e o de corridas. Aperte o Botão [Y] para ver informações de cada jogo.",
+      "lote": "506"
+    },
+    {
+      "id": "dfa0",
+      "chave": "dialog__TipTeamPlayAny",
+      "hash_es": "0cf6310f6a8bb0d7",
+      "texto_ptbr": "Se não se importar, o S.J. escolherá aleatoriamente entre equipe e solo antes de cada jogo começar. Em ligas, o modo de toda a liga será decidido antes do primeiro jogo.",
+      "lote": "506"
+    },
+    {
+      "id": "b575",
+      "chave": "dialog__TipTeamPlaySolo",
+      "hash_es": "de079f9e924e56f4",
+      "texto_ptbr": "No modo solo, cada jogador enfrenta todos os outros!",
+      "lote": "506"
+    },
+    {
+      "id": "15df",
+      "chave": "dialog__TipTeamPlayTeam",
+      "hash_es": "827a1938ffd70934",
+      "texto_ptbr": "No modo equipe, os jogadores são divididos em duas equipes. Em partidas de grupo e ligas, você pode escolher sua equipe apertando o Botão [X] antes do jogo começar. {PAGEBREAK}Em partidas ranqueadas ou de jogador, o S.J. distribui os jogadores e garante que os membros do seu grupo fiquem no mesmo time.",
+      "lote": "506"
+    },
+    {
+      "id": "f816",
+      "chave": "dialog__TipVehicleTypeAll",
+      "hash_es": "7b8f3ac9f1317032",
+      "texto_ptbr": "Se não se importar se os jogos permitem todos os veículos ou só os do S.J., escolha esta opção e a decisão será tomada antes de cada jogo.",
+      "lote": "506"
+    },
+    {
+      "id": "08f8",
+      "chave": "dialog__TipVehicleTypeCustom",
+      "hash_es": "a1c332e906cc2287",
+      "texto_ptbr": "Escolha Escolha do Jogador e os jogadores poderão usar qualquer um dos seus veículos nos jogos. O veículo do S.J. também fica disponível se você não tiver um adequado.",
+      "lote": "506"
+    },
+    {
+      "id": "1cd0",
+      "chave": "dialog__TipVehicleTypePreset",
+      "hash_es": "2129e26c391e5a96",
+      "texto_ptbr": "Escolher esta opção significa que, em todos os jogos, cada jogador só poderá selecionar o veículo feito pelo S.J. para o jogo escolhido.",
+      "lote": "506"
+    },
+    {
+      "id": "b8bb",
+      "chave": "dialog__cantacceptinviteasnotenoughroom",
+      "hash_es": "584b73f114ee7322",
+      "texto_ptbr": "Você não pode entrar neste grupo porque ele está cheio.",
+      "lote": "506"
+    },
+    {
+      "id": "6252",
+      "chave": "dialog__cantacceptinviteasnotenoughroomforparty",
+      "hash_es": "e1e4811b21be41b4",
+      "texto_ptbr": "Seu grupo é grande demais para entrar neste grupo.",
+      "lote": "506"
+    },
+    {
+      "id": "ea9c",
+      "chave": "dialog__cantacceptjoinasnetworkerror",
+      "hash_es": "d15c5cf2b452f9ba",
+      "texto_ptbr": "Não foi possível entrar na sessão. As configurações de rede suas ou de um membro do grupo podem ser restritas demais para permitir a conexão.",
+      "lote": "506"
+    },
+    {
+      "id": "a848",
+      "chave": "dialog__cantacceptjoinassomeplayersnotliveenabled",
+      "hash_es": "603e170a67463ea2",
+      "texto_ptbr": "Você não pode entrar neste grupo porque um jogador neste console não entrou no Xbox LIVE.",
+      "lote": "506"
+    },
+    {
+      "id": "4eac",
+      "chave": "dialog__cantcontacttargetpartymachine",
+      "hash_es": "d15c5cf2b452f9ba",
+      "texto_ptbr": "Não foi possível entrar na sessão. As configurações de rede suas ou de um membro do grupo podem ser restritas demais para permitir a conexão.",
+      "lote": "506"
+    },
+    {
+      "id": "5b54",
+      "chave": "dialog__cantcontacttargetpartymachinegamertag",
+      "hash_es": "ed62770476ab2c35",
+      "texto_ptbr": "Você não pode entrar em %S por causa de um problema de conexão. Use a opção ‘Testar Conexão do Xbox LIVE’ no Painel do Xbox.",
+      "lote": "506"
+    },
+    {
+      "id": "a7ce",
+      "chave": "dialog__cantenterrankedmatchmakinginteammode",
+      "hash_es": "20b34c68f17d92fc",
+      "texto_ptbr": "Você precisa escolher o modo equipe para entrar no matchmaking ranqueado com mais de 1 jogador no grupo.",
+      "lote": "506"
+    },
+    {
+      "id": "48d5",
+      "chave": "dialog__cantenterrankedmatchmakingoverhalffull",
+      "hash_es": "31879c7e76abf117",
+      "texto_ptbr": "Você não pode entrar no matchmaking ranqueado com um grupo de mais de %S jogadores. No momento, você tem %S jogadores no grupo.",
+      "lote": "506"
+    },
+    {
+      "id": "c050",
+      "chave": "dialog__cantenterrankedmatchmakingwithaguest",
+      "hash_es": "11476b50e2cf25d6",
+      "texto_ptbr": "Você não pode entrar no matchmaking ranqueado com um convidado no grupo.",
+      "lote": "506"
+    },
+    {
+      "id": "5f64",
+      "chave": "dialog__cantjoinfriendasnotenoughroom",
+      "hash_es": "584b73f114ee7322",
+      "texto_ptbr": "Você não pode entrar neste grupo porque ele está cheio.",
+      "lote": "506"
+    },
+    {
+      "id": "a1fb",
+      "chave": "dialog__cantjoinfriendasnotenoughroomforparty",
+      "hash_es": "e1e4811b21be41b4",
+      "texto_ptbr": "Seu grupo é grande demais para entrar neste grupo.",
+      "lote": "506"
+    },
+    {
+      "id": "609d",
+      "chave": "dialog__cantjoingameasnolongerinparty",
+      "hash_es": "8fd346f5b019a3e8",
+      "texto_ptbr": "Você não pode entrar neste jogo porque perdeu a conexão com seu grupo.",
+      "lote": "506"
+    },
+    {
+      "id": "8cad",
+      "chave": "dialog__cantrejoinpartyaswevebeenbooted",
+      "hash_es": "0f7823fe6b18e483",
+      "texto_ptbr": "Você não pode entrar neste grupo porque foi expulso dele recentemente.",
+      "lote": "506"
+    },
+    {
+      "id": "c612",
+      "chave": "dialog__cantsetmutestateingameassetinguide",
+      "hash_es": "a23f3e6ac735fe66",
+      "texto_ptbr": "Você só pode reativar a voz deste jogador vendo o Cartão de Jogador dele, pois foi de lá que ele foi silenciado.",
+      "lote": "506"
+    },
+    {
+      "id": "1e15",
+      "chave": "dialog__customseriesnomoreofgametype",
+      "hash_es": "d61aba624d815fc2",
+      "texto_ptbr": "Desculpe, mas esse é o máximo de jogos de %s que posso deixar você adicionar à sua liga. É um de cada tipo que existe, sabia!",
+      "lote": "506"
+    },
+    {
+      "id": "bdc8",
+      "chave": "dialog__customseriessavefailed",
+      "hash_es": "4a4d3c2e91e4d47f",
+      "texto_ptbr": "Não foi possível salvar sua lista de liga personalizada. Tem certeza de que há um local adequado para salvar?",
+      "lote": "506"
+    },
+    {
+      "id": "4d5d",
+      "chave": "dialog__customseriessaveok",
+      "hash_es": "d900c1c13b0158ba",
+      "texto_ptbr": "Sua lista de liga personalizada foi salva com sucesso.",
+      "lote": "506"
+    },
+    {
+      "id": "5566",
+      "chave": "dialog__failedtojoinpartydialog",
+      "hash_es": "6e83d583ded2d546",
+      "texto_ptbr": "Você não conseguiu entrar no grupo selecionado. Ele pode estar cheio ou não estar mais disponível. Tente de novo mais tarde.",
+      "lote": "506"
+    },
+    {
+      "id": "3beb",
+      "chave": "dialog__failedtopartyup",
+      "hash_es": "e4bc02eb4908ec8c",
+      "texto_ptbr": "Não encontramos ninguém para formar um grupo com você.",
+      "lote": "506"
+    },
+    {
+      "id": "96c1",
+      "chave": "dialog__gamemigrationfinishedsuccessfully",
+      "hash_es": "8d01f39d30193df4",
+      "texto_ptbr": "Um novo anfitrião foi escolhido.",
+      "lote": "506"
+    },
+    {
+      "id": "e21f",
+      "chave": "dialog__gamemigrationisbeginning",
+      "hash_es": "97a9dcfb88d0e2d5",
+      "texto_ptbr": "O sistema está escolhendo um novo anfitrião para esta partida.",
+      "lote": "506"
+    },
+    {
+      "id": "5721",
+      "chave": "dialog__gameversionisdifferent",
+      "hash_es": "7bdf7825807c7d95",
+      "texto_ptbr": "Você não pode entrar neste Amigo porque ele está executando uma versão diferente do jogo.",
+      "lote": "506"
+    },
+    {
+      "id": "9197",
+      "chave": "dialog__guestnotofpartyowner",
+      "hash_es": "ca2614546378a1d2",
+      "texto_ptbr": "Este perfil de jogador é convidado de %s, que não está no grupo. Você precisa desconectá-lo no guia para jogar como convidado de %s.",
+      "lote": "506"
+    },
+    {
+      "id": "ed71",
+      "chave": "dialog__hosthaschangedcomponentoptions",
+      "hash_es": "c2bb55fe79ec6e8b",
+      "texto_ptbr": "O líder do grupo definiu as opções de peças do veículo como %s %s",
+      "lote": "506"
+    },
+    {
+      "id": "1cf8",
+      "chave": "dialog__hosthaschangedcustomseries",
+      "hash_es": "000bbe5dba53ae1d",
+      "texto_ptbr": "O líder do grupo alterou a liga personalizada.",
+      "lote": "506"
+    },
+    {
+      "id": "2e49",
+      "chave": "dialog__hosthaschangedgeneraloption",
+      "hash_es": "655228758beced1f",
+      "texto_ptbr": "O líder do grupo alterou %s para %s",
+      "lote": "506"
+    },
+    {
+      "id": "6857",
+      "chave": "dialog__invitesent",
+      "hash_es": "34a87ef6e53581fa",
+      "texto_ptbr": "Convite enviado com sucesso.",
+      "lote": "506"
+    },
+    {
+      "id": "4e1e",
+      "chave": "dialog__joinpartydialog",
+      "hash_es": "a7e2a6322090c999",
+      "texto_ptbr": "Você entrou em um novo grupo!",
+      "lote": "506"
+    },
+    {
+      "id": "a8ef",
+      "chave": "dialog__joinpartyingamedialog",
+      "hash_es": "c6ee04903d84eb97",
+      "texto_ptbr": "Você entrou em um novo grupo! Quando a partida atual terminar, você pode se encontrar com seu novo grupo.",
+      "lote": "506"
+    },
+    {
+      "id": "0ad5",
+      "chave": "dialog__joinpartyseriesinprogressdialog",
+      "hash_es": "c27ccd38a61373b4",
+      "texto_ptbr": "Você entrou em um novo grupo! Uma partida de liga está em andamento. Você pode jogar em Test-O-Track até ela terminar.",
+      "lote": "518"
+    },
+    {
+      "id": "256d",
+      "chave": "dialog__leavegamedialogduetoarbitrationfailure",
+      "hash_es": "4e5cbc9a7aeedd0c",
+      "texto_ptbr": "Você perdeu a conexão com a partida atual.",
+      "lote": "506"
+    },
+    {
+      "id": "1e2b",
+      "chave": "dialog__leavegamedialogduetointernalfailure",
+      "hash_es": "6c4d3e098979b234",
+      "texto_ptbr": "Você perdeu a conexão com a partida em andamento.",
+      "lote": "506"
+    },
+    {
+      "id": "3478",
+      "chave": "dialog__leavegamedialogduetomigrationfailure",
+      "hash_es": "cd383f222761a4a9",
+      "texto_ptbr": "Você perdeu a conexão com o novo anfitrião desta partida.",
+      "lote": "506"
+    },
+    {
+      "id": "625b",
+      "chave": "dialog__leavepartydialog",
+      "hash_es": "3d31a58f36ae2a4f",
+      "texto_ptbr": "Você perdeu a conexão com seu grupo atual. Isso não afetará sua partida atual.",
+      "lote": "506"
+    },
+    {
+      "id": "dc06",
+      "chave": "dialog__matchmakingfailedwithnothingfound",
+      "hash_es": "d8774eddea9472f8",
+      "texto_ptbr": "Não encontramos outras partidas para entrar. Tente outras playlists, convide Amigos para o grupo ou tente de novo.",
+      "lote": "506"
+    },
+    {
+      "id": "ffab",
+      "chave": "dialog__matchmakinginternalfail",
+      "hash_es": "4806096d0572048c",
+      "texto_ptbr": "O matchmaking foi interrompido. Tente de novo.",
+      "lote": "506"
+    },
+    {
+      "id": "6b06",
+      "chave": "dialog__matchmakinginternalfailprivate",
+      "hash_es": "42e1fdb0d4ccf554",
+      "texto_ptbr": "Falha ao entrar na partida do grupo. Tente de novo.",
+      "lote": "506"
+    },
+    {
+      "id": "ec29",
+      "chave": "dialog__matchmakingstarted",
+      "hash_es": "394aac86370967ac",
+      "texto_ptbr": "O matchmaking começou. O S.J. está procurando uma partida e jogadores adequados para entrar. Se não encontrar um jogo da sua playlist preferida, o S.J. procurará algo parecido.",
+      "lote": "506"
+    },
+    {
+      "id": "c861",
+      "chave": "dialog__nogoodcoopbuddiesfound",
+      "hash_es": "0d41f13e23dc0185",
+      "texto_ptbr": "Não encontramos um parceiro de cooperação para você. Você pode convidar um amigo para o Co-Op ou tentar de novo mais tarde.",
+      "lote": "506"
+    },
+    {
+      "id": "9330",
+      "chave": "dialog__nolongerenoughplayersforcoop",
+      "hash_es": "ad52a2fbedd0478a",
+      "texto_ptbr": "Você não tem mais membros suficientes no grupo para começar uma partida cooperativa. Encontre um novo parceiro antes de selecionar e iniciar uma partida.",
+      "lote": "506"
+    },
+    {
+      "id": "fa0b",
+      "chave": "dialog__partyisdifferentusercontent",
+      "hash_es": "f00d7dc01e009466",
+      "texto_ptbr": "Você não pode entrar neste Amigo porque as configurações de controle parental para conteúdo criado pelo usuário são diferentes.",
+      "lote": "506"
+    },
+    {
+      "id": "e6cd",
+      "chave": "dialog__partyisfull",
+      "hash_es": "8c2a06961f0434b0",
+      "texto_ptbr": "Você não pode entrar neste Amigo porque o grupo dele está cheio.",
+      "lote": "506"
+    },
+    {
+      "id": "488c",
+      "chave": "dialog__partyislocked",
+      "hash_es": "f570215531158357",
+      "texto_ptbr": "Você não pode entrar neste Amigo porque o grupo dele está bloqueado.",
+      "lote": "506"
+    },
+    {
+      "id": "a38c",
+      "chave": "dialog__partyisnotfullbutnotenoughspace",
+      "hash_es": "e1e4811b21be41b4",
+      "texto_ptbr": "Seu grupo é grande demais para entrar neste grupo.",
+      "lote": "506"
+    },
+    {
+      "id": "7420",
+      "chave": "dialog__partystartedgamewithoutyou",
+      "hash_es": "f89b41b373369671",
+      "texto_ptbr": "Seu grupo começou uma partida sem você. Sorte sua que pode queimar pneus em Test-O-Track!",
+      "lote": "518"
+    },
+    {
+      "id": "eef0",
+      "chave": "dialog__playertwocantusemenus",
+      "hash_es": "ad534a56218c8955",
+      "texto_ptbr": "Bem-vindo, Jogador 2! Só o Jogador 1 pode pausar o jogo e controlar os menus.",
+      "lote": "506"
+    },
+    {
+      "id": "c675",
+      "chave": "dialog__playertwocantusemenusandistemp",
+      "hash_es": "1944c577377b4871",
+      "texto_ptbr": "Bem-vindo, Jogador 2! Como você não entrou com um perfil de jogador pelo Guia, não poderá salvar nem carregar conteúdo.",
+      "lote": "506"
+    },
+    {
+      "id": "f5b6",
+      "chave": "dialog__playertwocantusemenusandistempname",
+      "hash_es": "f1cccd5c13f6093a",
+      "texto_ptbr": "Bem-vindo, %s! Como você não entrou com um perfil de jogador pelo Guia, não poderá salvar nem carregar conteúdo.",
+      "lote": "506"
+    },
+    {
+      "id": "e3b1",
+      "chave": "dialog__playertwocantusemenusname",
+      "hash_es": "8c6b596458641986",
+      "texto_ptbr": "Bem-vindo, %s! Só %s pode pausar o jogo e controlar os menus.",
+      "lote": "506"
+    },
+    {
+      "id": "f246",
+      "chave": "dialog__pleasewaitresolvingconnection",
+      "hash_es": "c78f1fe751d44756",
+      "texto_ptbr": "Aguarde, verificando o status do grupo.",
+      "lote": "506"
+    },
+    {
+      "id": "14b1",
+      "chave": "dialog__testtrack_garagenonownedvehicle",
+      "hash_es": "d8dd749a2cf4f57b",
+      "texto_ptbr": "Você não pode levar para a garagem um veículo que não é seu.",
+      "lote": "506"
+    },
+    {
+      "id": "35c9",
+      "chave": "dialog__toomanypartymembersforrankedsolo",
+      "hash_es": "6b4be8a433c54ed0",
+      "texto_ptbr": "Desculpe, mas você só pode escolher uma playlist de equipe para uma partida ranqueada se houver outros jogadores no seu grupo.",
+      "lote": "506"
+    },
+    {
+      "id": "7b73",
+      "chave": "dialog__userhasjoinedtheparty",
+      "hash_es": "5444bc1a5f6ec9c9",
+      "texto_ptbr": "O jogador %s entrou no grupo.",
+      "lote": "506"
+    },
+    {
+      "id": "ea05",
+      "chave": "dialog__userhasjoinedtheparty2",
+      "hash_es": "e659f2cea5f195c6",
+      "texto_ptbr": "Os jogadores %s e %s entraram no grupo.",
+      "lote": "506"
+    },
+    {
+      "id": "ea06",
+      "chave": "dialog__userhasjoinedtheparty3",
+      "hash_es": "ec1ec49ea04a959d",
+      "texto_ptbr": "Os jogadores %s, %s e %s entraram no grupo.",
+      "lote": "506"
+    },
+    {
+      "id": "ea07",
+      "chave": "dialog__userhasjoinedtheparty4",
+      "hash_es": "19834b76eb3c307e",
+      "texto_ptbr": "Os jogadores %s, %s, %s e %s entraram no grupo.",
+      "lote": "506"
+    },
+    {
+      "id": "4d8f",
+      "chave": "dialog__userhasleftthegame",
+      "hash_es": "ff1f99ef4fedd484",
+      "texto_ptbr": "O jogador %s saiu da partida.",
+      "lote": "506"
+    },
+    {
+      "id": "ffa1",
+      "chave": "dialog__userhasleftthegame2",
+      "hash_es": "811068a97a71e64a",
+      "texto_ptbr": "Os jogadores %s e %s saíram da partida.",
+      "lote": "506"
+    },
+    {
+      "id": "ffa2",
+      "chave": "dialog__userhasleftthegame3",
+      "hash_es": "7c992f4e236821cc",
+      "texto_ptbr": "Os jogadores %s, %s e %s saíram da partida.",
+      "lote": "506"
+    },
+    {
+      "id": "ffa3",
+      "chave": "dialog__userhasleftthegame4",
+      "hash_es": "49ebdde799e95ddf",
+      "texto_ptbr": "Os jogadores %s, %s, %s e %s saíram da partida.",
+      "lote": "506"
+    },
+    {
+      "id": "f3a5",
+      "chave": "dialog__userhaslefttheparty",
+      "hash_es": "b728ce91470242fe",
+      "texto_ptbr": "O jogador %s saiu do grupo.",
+      "lote": "506"
+    },
+    {
+      "id": "6877",
+      "chave": "dialog__userhaslefttheparty2",
+      "hash_es": "eca48d640745e77c",
+      "texto_ptbr": "Os jogadores %s e %s saíram do grupo.",
+      "lote": "506"
+    },
+    {
+      "id": "6878",
+      "chave": "dialog__userhaslefttheparty3",
+      "hash_es": "8d66b9a8a92a0e87",
+      "texto_ptbr": "Os jogadores %s, %s e %s saíram do grupo.",
+      "lote": "506"
+    },
+    {
+      "id": "6879",
+      "chave": "dialog__userhaslefttheparty4",
+      "hash_es": "d5afea7234aed73c",
+      "texto_ptbr": "Os jogadores %s, %s, %s e %s saíram do grupo.",
+      "lote": "506"
+    },
+    {
+      "id": "8055",
+      "chave": "dialog__welcometomultiplayercontest",
+      "hash_es": "0af566ebddacd3b7",
+      "texto_ptbr": "Bem-vindo! Este é o meu centro de competições multijogador, onde você pode batalhar no Xbox LIVE. {PAGEBREAK}Criei um grupo só com você, mas você pode entrar em outros ou convidar amigos para formar grupos maiores. {PAGEBREAK}O mundo em que você está agora é a Test-O-Track; aperte o Botão [BACK] Voltar para entrar ou sair dele. Você pode usá-la para se divertir enquanto espera as partidas começarem! {PAGEBREAK}Um segundo jogador pode entrar ao fazer login em outro controle e apertar o Botão [A].",
+      "lote": "518"
+    },
+    {
+      "id": "5426",
+      "chave": "dialog__welcometomultiplayercoop",
+      "hash_es": "d5603611a6e2d6b6",
+      "texto_ptbr": "Bem-vindo! Este é o meu centro de cooperação multijogador, onde você pode formar duplas para vencer a Equipe Tomás nas corridas e a Equipe Grunty nos esportes! {PAGEBREAK}Criei um grupo só com você, então convide um amigo, entre no grupo dele ou encontre um parceiro para começar. {PAGEBREAK}O mundo em que você está agora é a Test-O-Track; aperte o Botão [BACK] Voltar para entrar ou sair dele. Você pode usá-la para se divertir enquanto espera as partidas começarem! {PAGEBREAK}Um segundo jogador pode entrar ao fazer login em outro controle e apertar o Botão [A].",
+      "lote": "518"
+    },
+    {
+      "id": "a321",
+      "chave": "dialog__youvebeenbootedfromparty",
+      "hash_es": "8cfce3343d8dde67",
+      "texto_ptbr": "Você foi expulso do grupo. Não poderá voltar a menos que seja convidado.",
+      "lote": "506"
+    },
+    {
+      "id": "a016",
+      "chave": "frontend__coopresults_tablecaption",
+      "hash_es": "0bf387cf90859599",
+      "texto_ptbr": "Resultados da Partida Cooperativa",
+      "lote": "506"
+    },
+    {
+      "id": "2fe5",
+      "chave": "frontend__mpmenus_AddGame",
+      "hash_es": "cf0057b629aa1696",
+      "texto_ptbr": "Adicionar Jogo",
+      "lote": "506"
+    },
+    {
+      "id": "37c4",
+      "chave": "frontend__mpmenus_AdvancedOptions",
+      "hash_es": "9a97a64f8199c15a",
+      "texto_ptbr": "Regras da Partida",
+      "lote": "506"
+    },
+    {
+      "id": "f329",
+      "chave": "frontend__mpmenus_AdvancedOptionsChallengeType",
+      "hash_es": "7c602f0aa2cf6b4b",
+      "texto_ptbr": "Tipo de Jogo",
+      "lote": "506"
+    },
+    {
+      "id": "32c3",
+      "chave": "frontend__mpmenus_AdvancedOptionsComponentOptions",
+      "hash_es": "f74a2003ea6062c5",
+      "texto_ptbr": "Peças do Veículo Permitidas?",
+      "lote": "506"
+    },
+    {
+      "id": "8243",
+      "chave": "frontend__mpmenus_AdvancedOptionsTeamPlayType",
+      "hash_es": "86a68a8edbdf5c0b",
+      "texto_ptbr": "Equipe ou Solo?",
+      "lote": "506"
+    },
+    {
+      "id": "22a6",
+      "chave": "frontend__mpmenus_AdvancedOptionsVehicleType",
+      "hash_es": "502d35aaf8aef385",
+      "texto_ptbr": "Escolha de Veículos?",
+      "lote": "506"
+    },
+    {
+      "id": "597b",
+      "chave": "frontend__mpmenus_All",
+      "hash_es": "b372a0ba49156e7d",
+      "texto_ptbr": "Jogar Todas as Corridas e Esportes",
+      "lote": "506"
+    },
+    {
+      "id": "3b09",
+      "chave": "frontend__mpmenus_AllRaces",
+      "hash_es": "81135dd1c702e349",
+      "texto_ptbr": "Jogar Todas as Corridas",
+      "lote": "506"
+    },
+    {
+      "id": "b0e1",
+      "chave": "frontend__mpmenus_AllTasks",
+      "hash_es": "1ab27393d9a2c1ff",
+      "texto_ptbr": "Jogar Todos os Esportes",
+      "lote": "506"
+    },
+    {
+      "id": "cc70",
+      "chave": "frontend__mpmenus_AllTypes",
+      "hash_es": "0edceb583d544e86",
+      "texto_ptbr": "Não Importa",
+      "lote": "506"
+    },
+    {
+      "id": "d0ee",
+      "chave": "frontend__mpmenus_AllVehicles",
+      "hash_es": "0edceb583d544e86",
+      "texto_ptbr": "Não Importa",
+      "lote": "506"
+    },
+    {
+      "id": "8dac",
+      "chave": "frontend__mpmenus_Ammo",
+      "hash_es": "985ed35c3d67a377",
+      "texto_ptbr": "Munição",
+      "lote": "506"
+    },
+    {
+      "id": "5f9f",
+      "chave": "frontend__mpmenus_ChallengeWaitingForPlayers",
+      "hash_es": "5327b6dee0f74f8e",
+      "texto_ptbr": "Aguardando todos os jogadores",
+      "lote": "506"
+    },
+    {
+      "id": "055a",
+      "chave": "frontend__mpmenus_ComponentOptionAmmoFree",
+      "hash_es": "7af3d430425d9d99",
+      "texto_ptbr": "Sem Munição",
+      "lote": "506"
+    },
+    {
+      "id": "6ec6",
+      "chave": "frontend__mpmenus_ComponentOptionDisabled",
+      "hash_es": "e252efe6974743f6",
+      "texto_ptbr": "Desativado",
+      "lote": "506"
+    },
+    {
+      "id": "2ef9",
+      "chave": "frontend__mpmenus_ComponentOptionEnabled",
+      "hash_es": "0a0ca661486c7ebc",
+      "texto_ptbr": "Ativado",
+      "lote": "506"
+    },
+    {
+      "id": "853c",
+      "chave": "frontend__mpmenus_ComponentOptionFuelFree",
+      "hash_es": "6b88b19c0e81a047",
+      "texto_ptbr": "Sem Combustível",
+      "lote": "506"
+    },
+    {
+      "id": "3b0b",
+      "chave": "frontend__mpmenus_ComponentOptionMaxComponents1",
+      "hash_es": "7a1d935bcaad300b",
+      "texto_ptbr": "Categoria 1",
+      "lote": "506"
+    },
+    {
+      "id": "3b0c",
+      "chave": "frontend__mpmenus_ComponentOptionMaxComponents2",
+      "hash_es": "275025923b187883",
+      "texto_ptbr": "Categoria 2",
+      "lote": "506"
+    },
+    {
+      "id": "3b0d",
+      "chave": "frontend__mpmenus_ComponentOptionMaxComponents3",
+      "hash_es": "20a90980687ac3c0",
+      "texto_ptbr": "Categoria 3",
+      "lote": "506"
+    },
+    {
+      "id": "3b0e",
+      "chave": "frontend__mpmenus_ComponentOptionMaxComponents4",
+      "hash_es": "45bf84fa692e21de",
+      "texto_ptbr": "Categoria 4",
+      "lote": "506"
+    },
+    {
+      "id": "3b0f",
+      "chave": "frontend__mpmenus_ComponentOptionMaxComponents5",
+      "hash_es": "ec9918fc0479c372",
+      "texto_ptbr": "Categoria 5",
+      "lote": "506"
+    },
+    {
+      "id": "fc8d",
+      "chave": "frontend__mpmenus_ComponentOptionMaxWeight1",
+      "hash_es": "7a1d935bcaad300b",
+      "texto_ptbr": "Categoria 1",
+      "lote": "506"
+    },
+    {
+      "id": "fc8e",
+      "chave": "frontend__mpmenus_ComponentOptionMaxWeight2",
+      "hash_es": "275025923b187883",
+      "texto_ptbr": "Categoria 2",
+      "lote": "506"
+    },
+    {
+      "id": "fc8f",
+      "chave": "frontend__mpmenus_ComponentOptionMaxWeight3",
+      "hash_es": "20a90980687ac3c0",
+      "texto_ptbr": "Categoria 3",
+      "lote": "506"
+    },
+    {
+      "id": "fc90",
+      "chave": "frontend__mpmenus_ComponentOptionMaxWeight4",
+      "hash_es": "45bf84fa692e21de",
+      "texto_ptbr": "Categoria 4",
+      "lote": "506"
+    },
+    {
+      "id": "fc91",
+      "chave": "frontend__mpmenus_ComponentOptionMaxWeight5",
+      "hash_es": "ec9918fc0479c372",
+      "texto_ptbr": "Categoria 5",
+      "lote": "506"
+    },
+    {
+      "id": "5c00",
+      "chave": "frontend__mpmenus_ComponentOptionsSummary1",
+      "hash_es": "0c90b4571529413a",
+      "texto_ptbr": "Esta partida tem os tipos de peças do veículo restritos a %s: %s",
+      "lote": "506"
+    },
+    {
+      "id": "5c01",
+      "chave": "frontend__mpmenus_ComponentOptionsSummary2",
+      "hash_es": "41a478d9f84fd8a7",
+      "texto_ptbr": "Esta partida tem os tipos de peças do veículo restritos a %s: %s e %s: %s",
+      "lote": "506"
+    },
+    {
+      "id": "5c02",
+      "chave": "frontend__mpmenus_ComponentOptionsSummary3",
+      "hash_es": "a7e8eca0dedd3b1f",
+      "texto_ptbr": "Esta partida tem os tipos de peças do veículo restritos a %s: %s, %s: %s e %s: %s",
+      "lote": "506"
+    },
+    {
+      "id": "5c03",
+      "chave": "frontend__mpmenus_ComponentOptionsSummary4",
+      "hash_es": "d4cafe9b0988663c",
+      "texto_ptbr": "Esta partida tem os tipos de peças do veículo restritos a %s: %s, %s: %s, %s: %s e %s: %s",
+      "lote": "506"
+    },
+    {
+      "id": "5c04",
+      "chave": "frontend__mpmenus_ComponentOptionsSummary5",
+      "hash_es": "81de0a2282b1c1d0",
+      "texto_ptbr": "Esta partida tem os tipos de peças do veículo restritos a %s: %s, %s: %s, %s: %s, %s: %s e %s: %s",
+      "lote": "506"
+    },
+    {
+      "id": "cc68",
+      "chave": "frontend__mpmenus_CustomSeries",
+      "hash_es": "4db706882061183a",
+      "texto_ptbr": "Criar uma Liga Personalizada",
+      "lote": "506"
+    },
+    {
+      "id": "fd12",
+      "chave": "frontend__mpmenus_CustomSeriesOptionsAddRaceGame",
+      "hash_es": "c24b1e018cbadf93",
+      "texto_ptbr": "Adicionar Corrida",
+      "lote": "506"
+    },
+    {
+      "id": "c3ea",
+      "chave": "frontend__mpmenus_CustomSeriesOptionsAddTaskGame",
+      "hash_es": "5883e2bf297ee535",
+      "texto_ptbr": "Adicionar Esporte",
+      "lote": "506"
+    },
+    {
+      "id": "1310",
+      "chave": "frontend__mpmenus_CustomSeriesOptionsLoadList",
+      "hash_es": "5457a1d801a0c0f0",
+      "texto_ptbr": "Carregar Lista de Jogos da Liga",
+      "lote": "506"
+    },
+    {
+      "id": "80fa",
+      "chave": "frontend__mpmenus_CustomSeriesOptionsNewList",
+      "hash_es": "b83562aa433fbc44",
+      "texto_ptbr": "Limpar Esta Lista de Jogos",
+      "lote": "506"
+    },
+    {
+      "id": "005f",
+      "chave": "frontend__mpmenus_CustomSeriesOptionsSaveList",
+      "hash_es": "a88982b8f717faf7",
+      "texto_ptbr": "Salvar Esta Lista de Jogos",
+      "lote": "506"
+    },
+    {
+      "id": "45b0",
+      "chave": "frontend__mpmenus_CustomVehicles",
+      "hash_es": "c3f1ad2515e38d7c",
+      "texto_ptbr": "Escolha do Jogador",
+      "lote": "506"
+    },
+    {
+      "id": "af83",
+      "chave": "frontend__mpmenus_Either",
+      "hash_es": "0edceb583d544e86",
+      "texto_ptbr": "Não Importa",
+      "lote": "506"
+    },
+    {
+      "id": "b311",
+      "chave": "frontend__mpmenus_Empty",
+      "hash_es": "d22e8689353545d8",
+      "texto_ptbr": "Vazio",
+      "lote": "506"
+    },
+    {
+      "id": "114c",
+      "chave": "frontend__mpmenus_FindCoopBuddy",
+      "hash_es": "8143d931d29e1eef",
+      "texto_ptbr": "Encontrar Parceiro Co-Op",
+      "lote": "506"
+    },
+    {
+      "id": "e93b",
+      "chave": "frontend__mpmenus_FriendsCaption",
+      "hash_es": "bead8677698a4b14",
+      "texto_ptbr": "Amigos",
+      "lote": "506"
+    },
+    {
+      "id": "6c8e",
+      "chave": "frontend__mpmenus_Fuel",
+      "hash_es": "832880bbaaa43248",
+      "texto_ptbr": "Combustível",
+      "lote": "506"
+    },
+    {
+      "id": "c0a1",
+      "chave": "frontend__mpmenus_Gadgets",
+      "hash_es": "083956c413c7dbd0",
+      "texto_ptbr": "Engenhocas",
+      "lote": "506"
+    },
+    {
+      "id": "5935",
+      "chave": "frontend__mpmenus_GameEntryInfoGameName",
+      "hash_es": "27839f10afc228d7",
+      "texto_ptbr": "Nome do Jogo",
+      "lote": "506"
+    },
+    {
+      "id": "51bc",
+      "chave": "frontend__mpmenus_GameEntryInfoTitle",
+      "hash_es": "836b56973407eb19",
+      "texto_ptbr": "Informações do Jogo",
+      "lote": "506"
+    },
+    {
+      "id": "7aa7",
+      "chave": "frontend__mpmenus_GameEntryInfoVehicleAdvise1",
+      "hash_es": "f684c73cba75b2ba",
+      "texto_ptbr": "%s",
+      "lote": "506"
+    },
+    {
+      "id": "7aa8",
+      "chave": "frontend__mpmenus_GameEntryInfoVehicleAdvise2",
+      "hash_es": "cf5a43c9f11ede4e",
+      "texto_ptbr": "%s e %s",
+      "lote": "506"
+    },
+    {
+      "id": "7aa9",
+      "chave": "frontend__mpmenus_GameEntryInfoVehicleAdvise3",
+      "hash_es": "e2a79275d71eb4ec",
+      "texto_ptbr": "%s, %s e %s",
+      "lote": "506"
+    },
+    {
+      "id": "7aaa",
+      "chave": "frontend__mpmenus_GameEntryInfoVehicleAdvise4",
+      "hash_es": "f706d8e773d39a30",
+      "texto_ptbr": "%s, %s, %s e %s",
+      "lote": "506"
+    },
+    {
+      "id": "1272",
+      "chave": "frontend__mpmenus_GameEntryInfoVehicleAdviseAir",
+      "hash_es": "77d937e271f5ba64",
+      "texto_ptbr": "Ar",
+      "lote": "506"
+    },
+    {
+      "id": "3df5",
+      "chave": "frontend__mpmenus_GameEntryInfoVehicleAdviseCarrying",
+      "hash_es": "16ada6e661fd5b83",
+      "texto_ptbr": "Transporte",
+      "lote": "506"
+    },
+    {
+      "id": "46b5",
+      "chave": "frontend__mpmenus_GameEntryInfoVehicleAdviseLand",
+      "hash_es": "962c1464c2e78f12",
+      "texto_ptbr": "Terra",
+      "lote": "506"
+    },
+    {
+      "id": "5f58",
+      "chave": "frontend__mpmenus_GameEntryInfoVehicleAdviseTitle",
+      "hash_es": "1a33a45c3e150a10",
+      "texto_ptbr": "Veículos",
+      "lote": "506"
+    },
+    {
+      "id": "44f9",
+      "chave": "frontend__mpmenus_GameEntryInfoVehicleAdviseWater",
+      "hash_es": "b86ac1730441aa85",
+      "texto_ptbr": "Água",
+      "lote": "506"
+    },
+    {
+      "id": "fea3",
+      "chave": "frontend__mpmenus_GameEntryInfoWorldName",
+      "hash_es": "773ab17b4ef11ad0",
+      "texto_ptbr": "Nome do Mundo",
+      "lote": "506"
+    },
+    {
+      "id": "7a32",
+      "chave": "frontend__mpmenus_GameInfoNumSeriesGamesTitle",
+      "hash_es": "d890e8c540f9fa5b",
+      "texto_ptbr": "Duração da Liga",
+      "lote": "506"
+    },
+    {
+      "id": "b69c",
+      "chave": "frontend__mpmenus_GameInfoPlayListTitle",
+      "hash_es": "73a5f2ada355f743",
+      "texto_ptbr": "Playlist Preferida",
+      "lote": "506"
+    },
+    {
+      "id": "c257",
+      "chave": "frontend__mpmenus_GameInfoSeriesTypeTitle",
+      "hash_es": "8fcd8a2e323d0179",
+      "texto_ptbr": "Tipo de Liga",
+      "lote": "506"
+    },
+    {
+      "id": "dbd8",
+      "chave": "frontend__mpmenus_GameInfoUnknown",
+      "hash_es": "a03b221c6c6eae71",
+      "texto_ptbr": "???",
+      "lote": "506"
+    },
+    {
+      "id": "40cf",
+      "chave": "frontend__mpmenus_Games",
+      "hash_es": "8ffe00bb5fe3ffb5",
+      "texto_ptbr": "Jogos",
+      "lote": "506"
+    },
+    {
+      "id": "da4c",
+      "chave": "frontend__mpmenus_HostStartingMatchConfirmText",
+      "hash_es": "3b4ec622d162c586",
+      "texto_ptbr": "Entrar",
+      "lote": "506"
+    },
+    {
+      "id": "ff9a",
+      "chave": "frontend__mpmenus_HostStartingMatchCountdownLabel",
+      "hash_es": "858b1decb0944266",
+      "texto_ptbr": "Tempo restante para entrar: ",
+      "lote": "506"
+    },
+    {
+      "id": "57fb",
+      "chave": "frontend__mpmenus_HostStartingMatchRejectText",
+      "hash_es": "2a0515602d315876",
+      "texto_ptbr": "Recusar",
+      "lote": "506"
+    },
+    {
+      "id": "8735",
+      "chave": "frontend__mpmenus_HostStartingMatchTitlePlayerKnown",
+      "hash_es": "2f3f0f22c3929549",
+      "texto_ptbr": "%S é %s. Quer entrar? Você perderá os veículos não salvos.",
+      "lote": "506"
+    },
+    {
+      "id": "4a98",
+      "chave": "frontend__mpmenus_HostStartingMatchTitlePlayerUnknown",
+      "hash_es": "9207b1d10a3f8bf0",
+      "texto_ptbr": "O líder do grupo é %s. Quer entrar? Você perderá os veículos não salvos.",
+      "lote": "506"
+    },
+    {
+      "id": "85f2",
+      "chave": "frontend__mpmenus_Live",
+      "hash_es": "ba1dcf52dea370fd",
+      "texto_ptbr": "Xbox LIVE",
+      "lote": "506"
+    },
+    {
+      "id": "c1f3",
+      "chave": "frontend__mpmenus_LoadingTitleCoop",
+      "hash_es": "fd26175f6c95023c",
+      "texto_ptbr": "Carregando uma partida cooperativa",
+      "lote": "506"
+    },
+    {
+      "id": "e44a",
+      "chave": "frontend__mpmenus_LoadingTitlePrivateMatch",
+      "hash_es": "5e8a40d6cade5462",
+      "texto_ptbr": "Carregando uma partida privada do grupo",
+      "lote": "506"
+    },
+    {
+      "id": "c428",
+      "chave": "frontend__mpmenus_LoadingTitlePrivateSeries",
+      "hash_es": "c725541bccd4092e",
+      "texto_ptbr": "Carregando a partida %d de %d da liga do grupo",
+      "lote": "506"
+    },
+    {
+      "id": "2964",
+      "chave": "frontend__mpmenus_LoadingTitleRankedMatch",
+      "hash_es": "d96c087fb10afacd",
+      "texto_ptbr": "Carregando uma partida ranqueada",
+      "lote": "506"
+    },
+    {
+      "id": "9baa",
+      "chave": "frontend__mpmenus_LoadingTitleSocialMatch",
+      "hash_es": "ebba61c8f9642faa",
+      "texto_ptbr": "Carregando uma partida de jogador",
+      "lote": "506"
+    },
+    {
+      "id": "2ff2",
+      "chave": "frontend__mpmenus_MatchMakingOptions",
+      "hash_es": "73a5f2ada355f743",
+      "texto_ptbr": "Playlist Preferida",
+      "lote": "506"
+    },
+    {
+      "id": "cb8c",
+      "chave": "frontend__mpmenus_MatchMakingOptionsAthletes",
+      "hash_es": "a1d53b2f7c463189",
+      "texto_ptbr": "Atletismo Solo",
+      "lote": "506"
+    },
+    {
+      "id": "3d6f",
+      "chave": "frontend__mpmenus_MatchMakingOptionsBuddyUp",
+      "hash_es": "9785ffd1b0d4273a",
+      "texto_ptbr": "Em Equipe",
+      "lote": "506"
+    },
+    {
+      "id": "b13b",
+      "chave": "frontend__mpmenus_MatchMakingOptionsFightin",
+      "hash_es": "c856ce24ce7905aa",
+      "texto_ptbr": "Hora da Luta!",
+      "lote": "506"
+    },
+    {
+      "id": "2d58",
+      "chave": "frontend__mpmenus_MatchMakingOptionsMovinOn",
+      "hash_es": "426ccb4371ebeec4",
+      "texto_ptbr": "Formandos do Multijogador",
+      "lote": "506"
+    },
+    {
+      "id": "d811",
+      "chave": "frontend__mpmenus_MatchMakingOptionsNewbs",
+      "hash_es": "2d4ab86771e87ff6",
+      "texto_ptbr": "Multijogador 101",
+      "lote": "506"
+    },
+    {
+      "id": "33b3",
+      "chave": "frontend__mpmenus_MatchMakingOptionsRandom",
+      "hash_es": "ca96f4be323b6bd2",
+      "texto_ptbr": "Aleatória",
+      "lote": "506"
+    },
+    {
+      "id": "c689",
+      "chave": "frontend__mpmenus_MatchMakingOptionsSpeedDemons",
+      "hash_es": "a60b5f318d9ffa20",
+      "texto_ptbr": "Velocistas",
+      "lote": "506"
+    },
+    {
+      "id": "c59c",
+      "chave": "frontend__mpmenus_MatchMakingOptionsSportHead",
+      "hash_es": "8887de19bd5864ac",
+      "texto_ptbr": "Atletismo em Equipe",
+      "lote": "506"
+    },
+    {
+      "id": "2231",
+      "chave": "frontend__mpmenus_MatchType",
+      "hash_es": "9b7f27f49a49a45e",
+      "texto_ptbr": "Escolha de Partida",
+      "lote": "506"
+    },
+    {
+      "id": "3b4e",
+      "chave": "frontend__mpmenus_MaxComponents",
+      "hash_es": "63d99a25cb9bdbc0",
+      "texto_ptbr": "Máximo de Peças",
+      "lote": "506"
+    },
+    {
+      "id": "1a90",
+      "chave": "frontend__mpmenus_MaxWeight",
+      "hash_es": "ed6771d6484fae42",
+      "texto_ptbr": "Peso Máximo",
+      "lote": "506"
+    },
+    {
+      "id": "1d86",
+      "chave": "frontend__mpmenus_MyPartyCaption",
+      "hash_es": "64d2f185982c8289",
+      "texto_ptbr": "Meu Grupo",
+      "lote": "506"
+    },
+    {
+      "id": "77d8",
+      "chave": "frontend__mpmenus_MyPartyCaptionLocked",
+      "hash_es": "eea12735ff633d11",
+      "texto_ptbr": "Meu Grupo (Bloqueado)",
+      "lote": "506"
+    },
+    {
+      "id": "84cc",
+      "chave": "frontend__mpmenus_Network",
+      "hash_es": "ba19e9c3d5f49882",
+      "texto_ptbr": "Rede",
+      "lote": "506"
+    },
+    {
+      "id": "eff9",
+      "chave": "frontend__mpmenus_NoTeams",
+      "hash_es": "f7e223bbb18550dc",
+      "texto_ptbr": "Somente Solo",
+      "lote": "506"
+    },
+    {
+      "id": "b188",
+      "chave": "frontend__mpmenus_PresetVehicles",
+      "hash_es": "d232c914237a7716",
+      "texto_ptbr": "Escolha do S.J.",
+      "lote": "506"
+    },
+    {
+      "id": "118a",
+      "chave": "frontend__mpmenus_PrivateMatch",
+      "hash_es": "7554b895a210d964",
+      "texto_ptbr": "Jogar uma partida com meu grupo",
+      "lote": "506"
+    },
+    {
+      "id": "9968",
+      "chave": "frontend__mpmenus_PrivateSeries",
+      "hash_es": "63d5dc10dcfad52d",
+      "texto_ptbr": "Jogar uma liga com meu grupo",
+      "lote": "506"
+    },
+    {
+      "id": "801d",
+      "chave": "frontend__mpmenus_Propulsion",
+      "hash_es": "b7973993b640b132",
+      "texto_ptbr": "Potência",
+      "lote": "506"
+    },
+    {
+      "id": "23d0",
+      "chave": "frontend__mpmenus_Races",
+      "hash_es": "517e693d2b04b625",
+      "texto_ptbr": "Só Corridas",
+      "lote": "506"
+    },
+    {
+      "id": "551d",
+      "chave": "frontend__mpmenus_RandomGame",
+      "hash_es": "8138cb323b0902c0",
+      "texto_ptbr": "Jogo Aleatório",
+      "lote": "506"
+    },
+    {
+      "id": "d727",
+      "chave": "frontend__mpmenus_RandomRaceDescriptionText",
+      "hash_es": "5e77ae95e7cb8b69",
+      "texto_ptbr": "Um jogo será escolhido aleatoriamente entre todas as corridas disponíveis.",
+      "lote": "506"
+    },
+    {
+      "id": "c4f8",
+      "chave": "frontend__mpmenus_RandomRaceGame",
+      "hash_es": "e1b9c23c5ee2ae65",
+      "texto_ptbr": "Corrida Aleatória",
+      "lote": "506"
+    },
+    {
+      "id": "a6ff",
+      "chave": "frontend__mpmenus_RandomTaskDescriptionText",
+      "hash_es": "cbe615beae1f97f7",
+      "texto_ptbr": "Um jogo será escolhido aleatoriamente entre todos os esportes disponíveis.",
+      "lote": "506"
+    },
+    {
+      "id": "8bd0",
+      "chave": "frontend__mpmenus_RandomTaskGame",
+      "hash_es": "1e4bab4b2921238d",
+      "texto_ptbr": "Esporte Aleatório",
+      "lote": "506"
+    },
+    {
+      "id": "994e",
+      "chave": "frontend__mpmenus_Randomlarge",
+      "hash_es": "cf09f9f88e7851fa",
+      "texto_ptbr": "10 jogos aleatórios",
+      "lote": "506"
+    },
+    {
+      "id": "ab64",
+      "chave": "frontend__mpmenus_Randommedium",
+      "hash_es": "76131b4946d1e0a3",
+      "texto_ptbr": "5 jogos aleatórios",
+      "lote": "506"
+    },
+    {
+      "id": "91bc",
+      "chave": "frontend__mpmenus_Randomsmall",
+      "hash_es": "64db76cd7936fd07",
+      "texto_ptbr": "3 jogos aleatórios",
+      "lote": "506"
+    },
+    {
+      "id": "aea4",
+      "chave": "frontend__mpmenus_RankedMatch",
+      "hash_es": "f6bf4f36b5004994",
+      "texto_ptbr": "Partida ranqueada",
+      "lote": "506"
+    },
+    {
+      "id": "3333",
+      "chave": "frontend__mpmenus_ResultsBoard_DNF",
+      "hash_es": "bb1e6c76c178daba",
+      "texto_ptbr": "DNF",
+      "lote": "506"
+    },
+    {
+      "id": "655e",
+      "chave": "frontend__mpmenus_ResultsBoard_Quit",
+      "hash_es": "93fffbf7ce799f33",
+      "texto_ptbr": "Sair",
+      "lote": "506"
+    },
+    {
+      "id": "4b82",
+      "chave": "frontend__mpmenus_SaveReplayAlbumFull",
+      "hash_es": "b6cd1414fc278894",
+      "texto_ptbr": "O álbum de repetições está cheio!",
+      "lote": "506"
+    },
+    {
+      "id": "9a70",
+      "chave": "frontend__mpmenus_SeriesChallenge",
+      "hash_es": "16f19f4c50414740",
+      "texto_ptbr": "Jogos Escolhidos",
+      "lote": "506"
+    },
+    {
+      "id": "1ce2",
+      "chave": "frontend__mpmenus_SeriesClearConfirm",
+      "hash_es": "4ae2f3c372daadbd",
+      "texto_ptbr": "Tem certeza de que quer iniciar uma nova lista de jogos da liga? Isso vai limpar a configuração atual.",
+      "lote": "506"
+    },
+    {
+      "id": "15bb",
+      "chave": "frontend__mpmenus_SeriesLoadConfirm",
+      "hash_es": "4fc474ff26edb5e2",
+      "texto_ptbr": "Tem certeza de que quer carregar esta lista de jogos da liga? Você perderá a configuração atual se não a tiver salvado.",
+      "lote": "506"
+    },
+    {
+      "id": "202f",
+      "chave": "frontend__mpmenus_SeriesLoadTitle",
+      "hash_es": "9f5a44f3d58e73a8",
+      "texto_ptbr": "Escolha um espaço de memória para carregar",
+      "lote": "506"
+    },
+    {
+      "id": "34aa",
+      "chave": "frontend__mpmenus_SeriesSaveConfirm",
+      "hash_es": "ab9f4bc0f91ad6dc",
+      "texto_ptbr": "Tem certeza de que quer substituir a lista de jogos deste espaço pela configuração atual?",
+      "lote": "506"
+    },
+    {
+      "id": "d4a2",
+      "chave": "frontend__mpmenus_SeriesSaveDefaultName",
+      "hash_es": "5a52ff564ff05124",
+      "texto_ptbr": "Minha lista de jogos da liga personalizada",
+      "lote": "506"
+    },
+    {
+      "id": "a200",
+      "chave": "frontend__mpmenus_SeriesSaveDescription",
+      "hash_es": "87bc7b56a4ff165f",
+      "texto_ptbr": "Dê um nome à sua lista de jogos da liga.",
+      "lote": "506"
+    },
+    {
+      "id": "fb8b",
+      "chave": "frontend__mpmenus_SeriesSaveFileCorrupt",
+      "hash_es": "a92d3bcd27b5ec92",
+      "texto_ptbr": "Save corrompido",
+      "lote": "506"
+    },
+    {
+      "id": "b75e",
+      "chave": "frontend__mpmenus_SeriesSaveTitle",
+      "hash_es": "e046b9c691fe0b71",
+      "texto_ptbr": "Salvar sua Liga Personalizada",
+      "lote": "506"
+    },
+    {
+      "id": "c85c",
+      "chave": "frontend__mpmenus_SeriesSaveUITitle",
+      "hash_es": "020810ac82528e09",
+      "texto_ptbr": "Escolha um espaço de memória para salvar",
+      "lote": "506"
+    },
+    {
+      "id": "3e11",
+      "chave": "frontend__mpmenus_ShowRaces",
+      "hash_es": "6829a3f757290d22",
+      "texto_ptbr": "Ver Corridas",
+      "lote": "506"
+    },
+    {
+      "id": "64ce",
+      "chave": "frontend__mpmenus_ShowSports",
+      "hash_es": "c3592cda8da9be2a",
+      "texto_ptbr": "Ver Esportes",
+      "lote": "506"
+    },
+    {
+      "id": "a527",
+      "chave": "frontend__mpmenus_SingleChallenge",
+      "hash_es": "496b29d34cc027f2",
+      "texto_ptbr": "Jogo Escolhido",
+      "lote": "506"
+    },
+    {
+      "id": "6b51",
+      "chave": "frontend__mpmenus_SingleMatch",
+      "hash_es": "7d0df2906508834a",
+      "texto_ptbr": "Jogar uma partida individual",
+      "lote": "506"
+    },
+    {
+      "id": "20ea",
+      "chave": "frontend__mpmenus_SocialMatch",
+      "hash_es": "0ae97cb57701e1ed",
+      "texto_ptbr": "Partida de jogador",
+      "lote": "506"
+    },
+    {
+      "id": "a0b0",
+      "chave": "frontend__mpmenus_Start",
+      "hash_es": "39f17ec6ebcf3cec",
+      "texto_ptbr": "Iniciar",
+      "lote": "506"
+    },
+    {
+      "id": "5ddc",
+      "chave": "frontend__mpmenus_StartLobbyChoosingTeams",
+      "hash_es": "08e10c7aa2b94f8e",
+      "texto_ptbr": "Aperte o Botão [X] para escolher o time que quer integrar nesta partida.",
+      "lote": "506"
+    },
+    {
+      "id": "9be0",
+      "chave": "frontend__mpmenus_StartLobbyGameLoading",
+      "hash_es": "66ead099af0ede83",
+      "texto_ptbr": "O próximo jogo está carregando...",
+      "lote": "506"
+    },
+    {
+      "id": "1800",
+      "chave": "frontend__mpmenus_StartLobbyMatchMakingSearching",
+      "hash_es": "24fa37fb76115523",
+      "texto_ptbr": "O S.J. está procurando outros grupos para jogar.",
+      "lote": "506"
+    },
+    {
+      "id": "693b",
+      "chave": "frontend__mpmenus_StartLobbyTitleCoop",
+      "hash_es": "ca66196334738093",
+      "texto_ptbr": "Iniciando uma partida cooperativa",
+      "lote": "506"
+    },
+    {
+      "id": "5392",
+      "chave": "frontend__mpmenus_StartLobbyTitlePrivateMatch",
+      "hash_es": "d34b9653431614ff",
+      "texto_ptbr": "Iniciando uma partida privada do grupo",
+      "lote": "506"
+    },
+    {
+      "id": "1c70",
+      "chave": "frontend__mpmenus_StartLobbyTitlePrivateSeries",
+      "hash_es": "91ae3c0c0e04353c",
+      "texto_ptbr": "Iniciando uma liga de partidas do grupo",
+      "lote": "506"
+    },
+    {
+      "id": "cfac",
+      "chave": "frontend__mpmenus_StartLobbyTitleRankedMatch",
+      "hash_es": "a5fa7855a6ce44bd",
+      "texto_ptbr": "Iniciando uma partida ranqueada",
+      "lote": "506"
+    },
+    {
+      "id": "41f2",
+      "chave": "frontend__mpmenus_StartLobbyTitleSocialMatch",
+      "hash_es": "abf63df81089904e",
+      "texto_ptbr": "Iniciando uma partida de jogador",
+      "lote": "506"
+    },
+    {
+      "id": "130b",
+      "chave": "frontend__mpmenus_StartLobbyUnknownOpponent",
+      "hash_es": "90cb6c9d4499a93d",
+      "texto_ptbr": "Adversário %d",
+      "lote": "506"
+    },
+    {
+      "id": "6f20",
+      "chave": "frontend__mpmenus_StartLobbyWaitingForHost",
+      "hash_es": "8a2c7240eef7465b",
+      "texto_ptbr": "Aguardando o líder do grupo iniciar o próximo jogo...",
+      "lote": "506"
+    },
+    {
+      "id": "d43d",
+      "chave": "frontend__mpmenus_StartLobbyWaitingForPartyMembers",
+      "hash_es": "7f9cd5fbc216c687",
+      "texto_ptbr": "O S.J. está tentando conectar os membros do seu grupo ao jogo.",
+      "lote": "506"
+    },
+    {
+      "id": "39d5",
+      "chave": "frontend__mpmenus_SyslinkPartiesCaption",
+      "hash_es": "eb3fef6e8020ec46",
+      "texto_ptbr": "Outros Grupos",
+      "lote": "506"
+    },
+    {
+      "id": "bc95",
+      "chave": "frontend__mpmenus_SystemLink",
+      "hash_es": "18d157ab95cc92ec",
+      "texto_ptbr": "JOGO LOCAL",
+      "lote": "506"
+    },
+    {
+      "id": "99a8",
+      "chave": "frontend__mpmenus_Tasks",
+      "hash_es": "027f6634eb2c79b3",
+      "texto_ptbr": "Só Esportes",
+      "lote": "506"
+    },
+    {
+      "id": "7edc",
+      "chave": "frontend__mpmenus_Teams",
+      "hash_es": "9cdd5a2e6053b67c",
+      "texto_ptbr": "Somente em Equipe",
+      "lote": "506"
+    },
+    {
+      "id": "b9d9",
+      "chave": "frontend__mpmenus_TipMatchMakingOptionsAthletes",
+      "hash_es": "c15844e7b361d550",
+      "texto_ptbr": "Acha que tem jeito de atleta? Aqui não faltam corridas e saltos.",
+      "lote": "506"
+    },
+    {
+      "id": "161c",
+      "chave": "frontend__mpmenus_TipMatchMakingOptionsBuddyUp",
+      "hash_es": "6d17359a7ac2f169",
+      "texto_ptbr": "Acha que se sai bem jogando em equipe? Esta é para você!",
+      "lote": "506"
+    },
+    {
+      "id": "89e8",
+      "chave": "frontend__mpmenus_TipMatchMakingOptionsFightin",
+      "hash_es": "f634fa40730f8606",
+      "texto_ptbr": "Às vezes você só quer uma boa briga à moda antiga. Felizmente, muita gente também quer.",
+      "lote": "506"
+    },
+    {
+      "id": "0605",
+      "chave": "frontend__mpmenus_TipMatchMakingOptionsMovinOn",
+      "hash_es": "9736b282a831edef",
+      "texto_ptbr": "Escolha esta se você ainda é novo, mas quer experimentar jogos mais desafiadores.",
+      "lote": "506"
+    },
+    {
+      "id": "a17e",
+      "chave": "frontend__mpmenus_TipMatchMakingOptionsNewbs",
+      "hash_es": "8da894cfd223ebdf",
+      "texto_ptbr": "Se você é novo no jogo, esta pode ser a sua! Todo mundo usa o veículo que eu escolho nestes jogos.",
+      "lote": "506"
+    },
+    {
+      "id": "2ac0",
+      "chave": "frontend__mpmenus_TipMatchMakingOptionsRandom",
+      "hash_es": "a6ba2e4dcad69677",
+      "texto_ptbr": "Escolha este item para eu selecionar uma playlist para você.",
+      "lote": "506"
+    },
+    {
+      "id": "2db6",
+      "chave": "frontend__mpmenus_TipMatchMakingOptionsSpeedDemons",
+      "hash_es": "89660079c5266800",
+      "texto_ptbr": "Acha que tem velocidade para competir com os outros nessas corridas ousadas?",
+      "lote": "506"
+    },
+    {
+      "id": "7d89",
+      "chave": "frontend__mpmenus_TipMatchMakingOptionsSportHead",
+      "hash_es": "4ce8fda07242aabf",
+      "texto_ptbr": "Você precisa ser louco por esportes para jogar esta! Aqui é tudo com bola!",
+      "lote": "506"
+    },
+    {
+      "id": "a68a",
+      "chave": "frontend__mpmenus_TitleCustomSeries",
+      "hash_es": "6c448fa38890e1af",
+      "texto_ptbr": "Crie sua Liga Personalizada",
+      "lote": "506"
+    },
+    {
+      "id": "dedc",
+      "chave": "frontend__mpmenus_TitleMatchRules",
+      "hash_es": "d3eda15cd82dbc15",
+      "texto_ptbr": "Personalize a partida a jogar",
+      "lote": "506"
+    },
+    {
+      "id": "5f93",
+      "chave": "frontend__mpmenus_TitleMatchType",
+      "hash_es": "cb3d1612fe47df5c",
+      "texto_ptbr": "Escolha uma partida para jogar",
+      "lote": "506"
+    },
+    {
+      "id": "ed96",
+      "chave": "frontend__mpmenus_TitlePlaylist",
+      "hash_es": "eb2d66bd2149745e",
+      "texto_ptbr": "Escolha uma playlist preferida",
+      "lote": "506"
+    },
+    {
+      "id": "ac08",
+      "chave": "frontend__mpmenus_TitleSpecificChallengeRace",
+      "hash_es": "84d4fa99898f4601",
+      "texto_ptbr": "Escolha uma corrida",
+      "lote": "506"
+    },
+    {
+      "id": "c6e0",
+      "chave": "frontend__mpmenus_TitleSpecificChallengeTask",
+      "hash_es": "54fcf7f8be7f4e78",
+      "texto_ptbr": "Escolha um esporte",
+      "lote": "506"
+    },
+    {
+      "id": "fedf",
+      "chave": "frontend__mpmenus_Weapons",
+      "hash_es": "af09dcb5b2994103",
+      "texto_ptbr": "Armas",
+      "lote": "506"
+    },
+    {
+      "id": "2cca",
+      "chave": "frontend__mpmenus_Wheels",
+      "hash_es": "c85b931ba0c00761",
+      "texto_ptbr": "Rodas",
+      "lote": "506"
+    },
+    {
+      "id": "306a",
+      "chave": "frontend__mpmenus_Wings",
+      "hash_es": "8c4fc2b55314fbef",
+      "texto_ptbr": "Asas",
+      "lote": "506"
+    },
+    {
+      "id": "308c",
+      "chave": "frontend__mpmenus_buttonstart",
+      "hash_es": "39f17ec6ebcf3cec",
+      "texto_ptbr": "Iniciar",
+      "lote": "506"
+    },
+    {
+      "id": "99e0",
+      "chave": "frontend__mpmenus_chooseleaveparty",
+      "hash_es": "e4a0f29e9498f37c",
+      "texto_ptbr": "Tem certeza de que quer sair deste grupo?",
+      "lote": "506"
+    },
+    {
+      "id": "b462",
+      "chave": "frontend__mpmenus_contest",
+      "hash_es": "4dad4a4c02e4cebd",
+      "texto_ptbr": "Jogos de Competição",
+      "lote": "506"
+    },
+    {
+      "id": "3b53",
+      "chave": "frontend__mpmenus_coop",
+      "hash_es": "e945c8d5a82e786b",
+      "texto_ptbr": "Jogos Cooperativos",
+      "lote": "506"
+    },
+    {
+      "id": "0523",
+      "chave": "frontend__mpmenus_couldntcreatesessionlive",
+      "hash_es": "5f6f3abf6592ac30",
+      "texto_ptbr": "Não foi possível falar com os servidores do Xbox LIVE. Verifique se seu perfil de jogador entrou corretamente no Xbox LIVE e se sua conexão de internet está ativa.",
+      "lote": "506"
+    },
+    {
+      "id": "6e76",
+      "chave": "frontend__mpmenus_couldntcreatesessionoffline",
+      "hash_es": "fd63587a1cd9ebb1",
+      "texto_ptbr": "Verifique se seu perfil de jogador entrou corretamente e se você tem privilégios de multijogador.",
+      "lote": "506"
+    },
+    {
+      "id": "b870",
+      "chave": "frontend__mpmenus_doyouwanttobootplayer",
+      "hash_es": "aa4a5b4f3398bf33",
+      "texto_ptbr": "Tem certeza de que quer expulsar %S?",
+      "lote": "506"
+    },
+    {
+      "id": "49a8",
+      "chave": "frontend__mpmenus_finalcall",
+      "hash_es": "cc613d4d6ee263f4",
+      "texto_ptbr": "O S.J. está fazendo o último chamado para outros jogadores entrarem nesta partida.",
+      "lote": "506"
+    },
+    {
+      "id": "f430",
+      "chave": "frontend__mpmenus_gototesttrack",
+      "hash_es": "488b9b71c9b28124",
+      "texto_ptbr": "Ir para Test-O-Track",
+      "lote": "518"
+    },
+    {
+      "id": "2bdb",
+      "chave": "frontend__mpmenus_invitesend",
+      "hash_es": "8d4bcaf5d1d8ab5d",
+      "texto_ptbr": "Venha para o meu grupo multijogador de Banjo-Kazooie: Nuts & Bolts!",
+      "lote": "506"
+    },
+    {
+      "id": "2c94",
+      "chave": "frontend__mpmenus_join2p",
+      "hash_es": "4d74184a9cf55720",
+      "texto_ptbr": "Jogador 2, aperte o Botão [A] para entrar no grupo",
+      "lote": "506"
+    },
+    {
+      "id": "b0c7",
+      "chave": "frontend__mpmenus_leavemultiplayer",
+      "hash_es": "b4366c92ad45250e",
+      "texto_ptbr": "Tem certeza de que quer sair?",
+      "lote": "506"
+    },
+    {
+      "id": "cde0",
+      "chave": "frontend__mpmenus_partycaption",
+      "hash_es": "053f0755eeb3d882",
+      "texto_ptbr": "Grupos",
+      "lote": "506"
+    },
+    {
+      "id": "4d91",
+      "chave": "frontend__mpmenus_partyinprivatematch",
+      "hash_es": "cb74893193bd4c9d",
+      "texto_ptbr": "Jogando partida privada do grupo",
+      "lote": "506"
+    },
+    {
+      "id": "89cb",
+      "chave": "frontend__mpmenus_partyinrankedmatch",
+      "hash_es": "3cdae8d09bf5a2f1",
+      "texto_ptbr": "Jogando uma partida ranqueada",
+      "lote": "506"
+    },
+    {
+      "id": "ff41",
+      "chave": "frontend__mpmenus_partyinseriesmatch",
+      "hash_es": "5126992c398ce83f",
+      "texto_ptbr": "jogando a partida %d de %d da liga",
+      "lote": "506"
+    },
+    {
+      "id": "0a53",
+      "chave": "frontend__mpmenus_partyinseriesmatchnoprogress",
+      "hash_es": "134778c820dd9d47",
+      "texto_ptbr": "jogando uma partida da liga",
+      "lote": "506"
+    },
+    {
+      "id": "fc11",
+      "chave": "frontend__mpmenus_partyinsocialmatch",
+      "hash_es": "19c3755c1a6d7774",
+      "texto_ptbr": "Jogando uma partida de jogador",
+      "lote": "506"
+    },
+    {
+      "id": "919e",
+      "chave": "frontend__mpmenus_partyintesttrack",
+      "hash_es": "8b6162a451242782",
+      "texto_ptbr": "Jogando em Test-O-Track",
+      "lote": "518"
+    },
+    {
+      "id": "43ad",
+      "chave": "frontend__mpmenus_partyplayingfor",
+      "hash_es": "7434b91c25b3ac9d",
+      "texto_ptbr": "Partida em curso há %02d:%02d:%02d",
+      "lote": "506"
+    },
+    {
+      "id": "22d8",
+      "chave": "frontend__mpmenus_partyplayingseriesfor",
+      "hash_es": "3402b71ee3f6b0aa",
+      "texto_ptbr": "Liga em andamento há %02d:%02d:%02d",
+      "lote": "506"
+    },
+    {
+      "id": "d678",
+      "chave": "frontend__mpmenus_partystatustitle",
+      "hash_es": "be7fa4369365962d",
+      "texto_ptbr": "Status do Grupo",
+      "lote": "506"
+    },
+    {
+      "id": "93a5",
+      "chave": "frontend__mpmenus_playertwoareyousureguest",
+      "hash_es": "1ac40f9879ca3e73",
+      "texto_ptbr": "Tem certeza de que quer sair deste grupo? Isso encerrará o modo multijogador, pois você é um convidado.",
+      "lote": "506"
+    },
+    {
+      "id": "376a",
+      "chave": "frontend__mpmenus_playertwoareyousureleave",
+      "hash_es": "f3ac63665592890f",
+      "texto_ptbr": "Tem certeza de que quer sair deste grupo? Isso fará os dois jogadores saírem do grupo.",
+      "lote": "506"
+    },
+    {
+      "id": "1277",
+      "chave": "frontend__mpmenus_playertwoareyousureleavenoparty",
+      "hash_es": "5df05b98b3bf190a",
+      "texto_ptbr": "Tem certeza de que quer sair deste grupo? O outro jogador poderá continuar jogando, mas você sairá da sessão.",
+      "lote": "506"
+    },
+    {
+      "id": "4f63",
+      "chave": "frontend__mpmenus_playertwoareyousureyoudliketoleaveparty",
+      "hash_es": "e4a0f29e9498f37c",
+      "texto_ptbr": "Tem certeza de que quer sair deste grupo?",
+      "lote": "506"
+    },
+    {
+      "id": "87ab",
+      "chave": "frontend__mpmenus_playertwotrytojoinparty",
+      "hash_es": "9e0bfa31ae101187",
+      "texto_ptbr": "Tem certeza de que quer tentar entrar neste grupo? Se não houver espaço para os dois jogadores, vocês serão colocados juntos em um novo grupo.",
+      "lote": "506"
+    },
+    {
+      "id": "237b",
+      "chave": "frontend__mpmenus_playertwotrytojoinpartywhenhost",
+      "hash_es": "44ee9363708ca394",
+      "texto_ptbr": "Tem certeza de que quer entrar neste grupo? Vocês dois serão colocados juntos em um novo grupo.",
+      "lote": "506"
+    },
+    {
+      "id": "42a5",
+      "chave": "frontend__mpmenus_restarting",
+      "hash_es": "82009ef6f7dd9a88",
+      "texto_ptbr": "O S.J. está reiniciando a busca para encontrar o melhor jogo possível para você.",
+      "lote": "506"
+    },
+    {
+      "id": "e826",
+      "chave": "frontend__mpmenus_startlobbyhost",
+      "hash_es": "137f18ded02b4859",
+      "texto_ptbr": "Iniciar partida",
+      "lote": "506"
+    },
+    {
+      "id": "0351",
+      "chave": "frontend__mpmenus_startlobbynonhost",
+      "hash_es": "e0995b55f84238ce",
+      "texto_ptbr": "Aguardando o anfitrião iniciar a partida",
+      "lote": "506"
+    },
+    {
+      "id": "f6b2",
+      "chave": "frontend__mpmenus_startlobbywaitingforparty",
+      "hash_es": "52fb3955147dc8e3",
+      "texto_ptbr": "Aguardando outros membros do grupo entrarem",
+      "lote": "506"
+    },
+    {
+      "id": "53e6",
+      "chave": "frontend__mpmenus_startmatchconfirmation",
+      "hash_es": "a6d7cf2670c9f7c4",
+      "texto_ptbr": "Tem certeza de que quer iniciar uma partida com as configurações atuais?",
+      "lote": "506"
+    },
+    {
+      "id": "4a60",
+      "chave": "frontend__mpmenus_togglefriendsorparty",
+      "hash_es": "0a2434fe5ec66235",
+      "texto_ptbr": "Alternar Amigos/Grupo",
+      "lote": "506"
+    },
+    {
+      "id": "d075",
+      "chave": "frontend__mpmenus_waiting",
+      "hash_es": "47bf8ffb44d0db38",
+      "texto_ptbr": "O S.J. está tentando convencer outros a entrarem no jogo.",
+      "lote": "506"
+    },
+    {
+      "id": "e7ad",
+      "chave": "frontend__mpmenus_wideningsearch",
+      "hash_es": "f2d230fe2ef29d8a",
+      "texto_ptbr": "O S.J. está ampliando a busca por outros grupos e jogos.",
+      "lote": "506"
+    },
+    {
+      "id": "00ca",
+      "chave": "frontend__mpmenus_wouldyouliketocancelthisgame",
+      "hash_es": "67e27b8272acb848",
+      "texto_ptbr": "Quer cancelar esta partida?",
+      "lote": "506"
+    },
+    {
+      "id": "4d09",
+      "chave": "frontend__mpmenus_wouldyouliketocancelthisgameclient",
+      "hash_es": "e56a261c3381a4f0",
+      "texto_ptbr": "Tem certeza de que quer sair do matchmaking? Isso também removerá você do grupo.",
+      "lote": "506"
+    },
+    {
+      "id": "d0c2",
+      "chave": "frontend__mpmenus_wouldyouliketojoin",
+      "hash_es": "e705ca0996ae9a65",
+      "texto_ptbr": "Tem certeza de que quer entrar em %S?",
+      "lote": "506"
+    },
+    {
+      "id": "c5ef",
+      "chave": "frontend__mpmenus_wouldyouliketotakeyourpartywithyou",
+      "hash_es": "a934881d0dd86b08",
+      "texto_ptbr": "Quer levar seu grupo com você?",
+      "lote": "506"
+    },
+    {
+      "id": "3994",
+      "chave": "frontend__partyupcalculatingnewparty",
+      "hash_es": "599e5d2e00bc422e",
+      "texto_ptbr": "Escolhendo grupo",
+      "lote": "506"
+    },
+    {
+      "id": "261b",
+      "chave": "frontend__partyupconnecting",
+      "hash_es": "beb895cf1c30d501",
+      "texto_ptbr": "Conectando ao grupo",
+      "lote": "506"
+    },
+    {
+      "id": "0cd8",
+      "chave": "frontend__partyupfailed",
+      "hash_es": "0dfc8d25402c3252",
+      "texto_ptbr": "Falha ao agrupar",
+      "lote": "506"
+    },
+    {
+      "id": "1c93",
+      "chave": "frontend__partyuppresstojoin",
+      "hash_es": "e44e8945c32c4a2b",
+      "texto_ptbr": "Agrupar",
+      "lote": "506"
+    },
+    {
+      "id": "6a2c",
+      "chave": "frontend__partyupsuccess",
+      "hash_es": "40ece83d0f1b5a08",
+      "texto_ptbr": "Entrou no novo grupo",
+      "lote": "506"
+    },
+    {
+      "id": "9782",
+      "chave": "frontend__partyupwaitingforothers",
+      "hash_es": "1bfaae39b1978916",
+      "texto_ptbr": "Aguardando os outros",
+      "lote": "506"
+    },
+    {
+      "id": "e718",
+      "chave": "frontend__results_leaguetablecaption",
+      "hash_es": "7939ccbc3dacfcc2",
+      "texto_ptbr": "CLASSIF. APÓS O JOGO %d DE %d",
+      "lote": "506"
+    },
+    {
+      "id": "be25",
+      "chave": "frontend__results_tablecaption",
+      "hash_es": "31056106ce607411",
+      "texto_ptbr": "Resultados",
+      "lote": "506"
+    },
+    {
+      "id": "552c",
+      "chave": "frontend__results_timetillnextgame",
+      "hash_es": "564b522fbaa20972",
+      "texto_ptbr": "Tempo até o próximo jogo",
+      "lote": "506"
+    }
+  ]
+}

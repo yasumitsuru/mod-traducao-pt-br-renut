@@ -1,0 +1,370 @@
+{
+  "arquivo": "11c67778",
+  "asset": "aid_loctext_banjox_banjoland_e3",
+  "frases": [
+    {
+      "id": "9f3c",
+      "chave": "dialog__blubber_1",
+      "hash_es": "596a99980ed282e1",
+      "texto_ptbr": "Ahoy, Banjo! O Capitão Blubber, em pessoa, dá um baita 'bem-vindo a Banjoland'!",
+      "lote": "604"
+    },
+    {
+      "id": "9f3d",
+      "chave": "dialog__blubber_2",
+      "hash_es": "f5615e1b540d1c3b",
+      "texto_ptbr": "Oi, Capitão! Quanto tempo... que lugar bacana. E aí, o que está rolando?",
+      "lote": "604"
+    },
+    {
+      "id": "9f3e",
+      "chave": "dialog__blubber_3",
+      "hash_es": "811a9fe8d6224dc8",
+      "texto_ptbr": "Isto é o que chamam de versão demo, rapaz. Você tem o lugar inteiro à disposição e quatro desafios para participar! {PAGEBREAK}Vá ver em que caras conhecidas você esbarra por aí, descubra quais jogos os trapalhões têm jogado, ou em que tipo de encrenca eles se meteram desta vez.",
+      "lote": "604"
+    },
+    {
+      "id": "9f3f",
+      "chave": "dialog__blubber_4",
+      "hash_es": "05e3946776a88c85",
+      "texto_ptbr": "Encrenca de novo? Pois me derrube com uma pena dourada.",
+      "lote": "604"
+    },
+    {
+      "id": "9f40",
+      "chave": "dialog__blubber_5",
+      "hash_es": "20bf5bd538d2fd17",
+      "texto_ptbr": "Então vá lá, veja as atrações de Banjoland. O veículo pré-construído vai facilitar seu passeio por enquanto, mas na aventura completa você vai poder construir quase qualquer coisa que der na telha!",
+      "lote": "604"
+    },
+    {
+      "id": "1d4b",
+      "chave": "dialog__blubber_return",
+      "hash_es": "c5d1e754c32ee2ac",
+      "texto_ptbr": "Arrr, será que você já viu tudo o que há para ver? Banjoland é um lugar enorme! Procure os Jiggies no mapa!",
+      "lote": "604"
+    },
+    {
+      "id": "6dee",
+      "chave": "dialog__cunning_beaten",
+      "hash_es": "90db82449a38f140",
+      "texto_ptbr": "Urso querer exibir habilidades de novo? Mumbo feliz em atender!",
+      "lote": "604"
+    },
+    {
+      "id": "273b",
+      "chave": "dialog__cunning_fail",
+      "hash_es": "ddbcd2ad6c4102d4",
+      "texto_ptbr": "{MOODSAD}Urso chamar isso de entretenimento? Modos à mesa de Klungo mais divertidos de assistir. Cada desafio ter três níveis de sucesso, urso nem alcançar o mais baixo! Oomenacka!",
+      "lote": "604"
+    },
+    {
+      "id": "4465",
+      "chave": "dialog__cunning_instructions1",
+      "hash_es": "816380c38492aefa",
+      "texto_ptbr": "Urso ir até o campo de futebol. Deixar marcas pretas grandes por todo o gramado novo do Sr. Em Forma!",
+      "lote": "604"
+    },
+    {
+      "id": "4466",
+      "chave": "dialog__cunning_instructions2",
+      "hash_es": "47cd25e5347a8358",
+      "texto_ptbr": "Hehe... urso arar o campo muito bem. Agora tentar acrobacias! No ar, empurre [LSTICK] Analógico esquerdo para frente ou para trás e segure o Botão [X] para dar uma cambalhota completa.",
+      "lote": "604"
+    },
+    {
+      "id": "4467",
+      "chave": "dialog__cunning_instructions3",
+      "hash_es": "e115c08bda4c039f",
+      "texto_ptbr": "Urso girar bem! Agora pular pelos aros para Mumbo. Quanto mais tempo urso segurar o Botão [A], mais alto ele pular.",
+      "lote": "604"
+    },
+    {
+      "id": "4468",
+      "chave": "dialog__cunning_instructions4",
+      "hash_es": "2f0baba8095559c0",
+      "texto_ptbr": "Urso pular bem, como salmão peludo! Agora fazer giro lateral completo. No ar, empurre [LSTICK] Analógico esquerdo para a esquerda ou para a direita e segure o Botão [X].",
+      "lote": "604"
+    },
+    {
+      "id": "4469",
+      "chave": "dialog__cunning_instructions5",
+      "hash_es": "4bcc3f53c04e5735",
+      "texto_ptbr": "Urso pegar o jeito da rotina de acrobacias... devagar. Público adorar aros, fazer mais aros. Mais perto do chão desta vez!",
+      "lote": "604"
+    },
+    {
+      "id": "446a",
+      "chave": "dialog__cunning_instructions6",
+      "hash_es": "84157e8963fcb35e",
+      "texto_ptbr": "Hora do grande final! Urso saltar e impressionar o público com quanto tempo ficar no ar antes de aterrissar. Show terminar quando Mumbo decidir que salto bom o bastante. Oomenacka!",
+      "lote": "604"
+    },
+    {
+      "id": "a90b",
+      "chave": "dialog__cunning_intro",
+      "hash_es": "eeb01037599f97d1",
+      "texto_ptbr": "Eekumbokum. Mumbo ter ideia para atrair multidões. Espetáculo de Acrobacias que Desafiam a Morte com os maiores pilotos acrobáticos do mundo!",
+      "lote": "604"
+    },
+    {
+      "id": "cacd",
+      "chave": "dialog__cunning_introb",
+      "hash_es": "d28129a76663035a",
+      "texto_ptbr": "Morte? Acrobacias? Que idiotas você enganou para entrar nesse plano? Por que ele está olhando para a gente, Banjo?",
+      "lote": "604"
+    },
+    {
+      "id": "862d",
+      "chave": "dialog__cunning_objectives",
+      "hash_es": "21a63e2b74a41e8c",
+      "texto_ptbr": "Urso seguir instruções, garantir que público estar bem entretido. Oomenacka!",
+      "lote": "604"
+    },
+    {
+      "id": "6599",
+      "chave": "dialog__cunning_successa",
+      "hash_es": "b6f62a3de8c6c302",
+      "texto_ptbr": "{MOODHAPPY}Eekumbokum! Urso e pássaro mostrar grande bravura. Tão bons que ganhar o Troféu T.T. pela melhor atuação, ajudar a conseguir ainda mais Jiggies!",
+      "lote": "604"
+    },
+    {
+      "id": "659b",
+      "chave": "dialog__cunning_successc",
+      "hash_es": "0ce7d305f1e26933",
+      "texto_ptbr": "Eekumbokum! Urso e pássaro entreter o público e ganhar Jiggy. No jogo completo, polícia de Showdown Town perseguir urso se ele estiver carregando Jiggy. Urso ter perseguição de carro emocionante. Como Steve McQueen!",
+      "lote": "604"
+    },
+    {
+      "id": "659d",
+      "chave": "dialog__cunning_successe",
+      "hash_es": "915fbe453abab9f1",
+      "texto_ptbr": "Eekumbokum! Público gostar do show, mas Mumbo quase dormir. Talvez segunda apresentação ser melhor? {PAGEBREAK}Urso ainda ganhar Notas, usar no jogo completo para comprar Projetos, componentes e Jiggies em Showdown Town. Oomenacka!",
+      "lote": "604"
+    },
+    {
+      "id": "8f4d",
+      "chave": "dialog__ice_beaten",
+      "hash_es": "507b369ecfbd80ed",
+      "texto_ptbr": "O George não dá nenhum escorregão dormindo há um tempo, mas podemos recriar o cenário para fins de treinamento...",
+      "lote": "604"
+    },
+    {
+      "id": "64da",
+      "chave": "dialog__ice_fail",
+      "hash_es": "bbf96bc1153ef42a",
+      "texto_ptbr": "{MOODSAD}Ah, não! Pobre George, ele parece aos pedaços! Talvez no jogo completo você construa um veículo mais adequado para a tarefa. Afinal, há centenas de peças para encontrar só em Showdown Town...",
+      "lote": "604"
+    },
+    {
+      "id": "9a8a",
+      "chave": "dialog__ice_intro",
+      "hash_es": "ef5253cee92ab3f8",
+      "texto_ptbr": "{MOODSAD}Banjo, é uma catástrofe de saúde e segurança! O George andou escorregando dormindo de novo, e foi parar na área do deserto! {PAGEBREAK}Precisamos montar uma operação de resgate, já! Não consigo nem contar quantas diretrizes da exposição estão sendo violadas...",
+      "lote": "604"
+    },
+    {
+      "id": "3f0c",
+      "chave": "dialog__ice_objectives",
+      "hash_es": "e2506f83e081503d",
+      "texto_ptbr": "O George não pode passar suas últimas horas na solidão! Se não se reunir com a Mildred logo, ele vai definhar até virar só vapor e areia molhada...",
+      "lote": "604"
+    },
+    {
+      "id": "20ee",
+      "chave": "dialog__ice_objectivesb",
+      "hash_es": "6688c2f5adad9070",
+      "texto_ptbr": "Parece que ele engordou um pouco. Como você sugere que a gente o arraste de volta, bafo de besouro?",
+      "lote": "604"
+    },
+    {
+      "id": "20ef",
+      "chave": "dialog__ice_objectivesc",
+      "hash_es": "436ef33954919730",
+      "texto_ptbr": "Construímos um Veículo Especial de Realocação de Cubos de Gelo da última vez que isso aconteceu. Alguns bons empurrões vão colocar o George de volta no lugar dele!",
+      "lote": "604"
+    },
+    {
+      "id": "5ab8",
+      "chave": "dialog__ice_successa",
+      "hash_es": "ae6f9fd93681f413",
+      "texto_ptbr": "{MOODHAPPY}Perfeito, Banjo! Vou garantir que você seja bem recompensado por reunir George e Mildred. O melhor nível de desempenho num jogo rende Notas, um Jiggy e o Troféu T.T. também!",
+      "lote": "604"
+    },
+    {
+      "id": "5aba",
+      "chave": "dialog__ice_successc",
+      "hash_es": "7e4e1bba51c70360",
+      "texto_ptbr": "Bom trabalho, Banjo! Vá pegar seu prêmio Jiggy em Showdown Town... bom, você poderia, se não estivesse preso aqui em Banjoland durante esta demo. Que provocação! {PAGEBREAK}Ganhe muitos Jiggies no jogo completo para desbloquear novas áreas de todos os mundos diferentes, no estilo Banjo de antigamente!",
+      "lote": "604"
+    },
+    {
+      "id": "5abc",
+      "chave": "dialog__ice_successe",
+      "hash_es": "7e42224ee1787be6",
+      "texto_ptbr": "Está perdendo o jeito, Banjo! Você não foi rápido nem eficiente o bastante para ganhar um Jiggy, então seu prêmio são só Notas, temo. Mas Notas são moeda e podem ser úteis!",
+      "lote": "604"
+    },
+    {
+      "id": "53aa",
+      "chave": "dialog__jinjo1_random1",
+      "hash_es": "25d6a7b8ddca41d9",
+      "texto_ptbr": "Banjo! Aposto que você mal pode esperar para enfrentar a aventura completa e explorar Showdown Town, acertei? {PAGEBREAK}Quando fizer isso, fique de olho em alguns dos meus irmãos Jinjos. Eles foram presos injustamente! É uma vergonha para a justiça!",
+      "lote": "604"
+    },
+    {
+      "id": "53ab",
+      "chave": "dialog__jinjo1_random2",
+      "hash_es": "48ce954350c132c7",
+      "texto_ptbr": "Ei, ei! Sabe quando você jogar a versão completa e sair correndo por Showdown Town... bom, fique atento aos relatos de avistamentos de Minjos. Esses caras são maus!",
+      "lote": "604"
+    },
+    {
+      "id": "c4ab",
+      "chave": "dialog__jinjo2_random1",
+      "hash_es": "b3bff3de55fc09c5",
+      "texto_ptbr": "Espero que você esteja radiante de ver nós, Jinjos, de volta ao meio da ação! Pois é, aquela velha bruaca da Gruntilda não conseguiu nos segurar por muito tempo...",
+      "lote": "604"
+    },
+    {
+      "id": "c4ac",
+      "chave": "dialog__jinjo2_random2",
+      "hash_es": "3cfb3550d1755232",
+      "texto_ptbr": "Ah, sabia que nós, Jinjos, temos nossa própria série de desafios na aventura completa de Nuts & Bolts? {PAGEBREAK}Estamos em greve nesta versão demo, mas tem coisas danadas de boas vindo por aí. Reconheça!",
+      "lote": "604"
+    },
+    {
+      "id": "d6f7",
+      "chave": "dialog__race_beaten",
+      "hash_es": "4ca2729e6edffcc5",
+      "texto_ptbr": "Urssso demônio da velocidade voltar para tentar a corrida sssuper sssecreta de novo?",
+      "lote": "604"
+    },
+    {
+      "id": "ba04",
+      "chave": "dialog__race_fail",
+      "hash_es": "c4f096742bb432e5",
+      "texto_ptbr": "Muito lento! Urssso deve estar carregando peso demais. Tentar de novo, mas talvez jogar pássaro na água... heh heh. {PAGEBREAK}Klungo receber kit de imprensa, dizer que amigoss podem enviar projeto pelo Xbox LIVE para ajudar a fazer veículos melhores no jogo final. Nenhuma dessculpa para ser ruim!",
+      "lote": "604"
+    },
+    {
+      "id": "94f4",
+      "chave": "dialog__race_intro",
+      "hash_es": "beeb786deb536d9d",
+      "texto_ptbr": "Klungo preparar veículo Gobi para reunião do clube sssecreto de corrida, agora ele andar na água também! Ainda nenhum visitante aqui, então sem preocupação em dirigir como maníaco.",
+      "lote": "604"
+    },
+    {
+      "id": "33d6",
+      "chave": "dialog__race_introb",
+      "hash_es": "b0c3ceb2c1d8de05",
+      "texto_ptbr": "Sabe com o que eu me preocupo? Nunca conseguir estrelar um jogo com personagens que falam direito.",
+      "lote": "604"
+    },
+    {
+      "id": "33d7",
+      "chave": "dialog__race_introc",
+      "hash_es": "c9bec042ac9b09e2",
+      "texto_ptbr": "Não zombe, Kazooie! Aturar ele não custa nada...",
+      "lote": "604"
+    },
+    {
+      "id": "4bb6",
+      "chave": "dialog__race_objectives",
+      "hash_es": "9e625f8fade4ddaf",
+      "texto_ptbr": "Apenas correr contra os amigoss do Klungo e tentar vencê-los. Pouco provável, urssso lento!",
+      "lote": "608"
+    },
+    {
+      "id": "34e2",
+      "chave": "dialog__race_successa",
+      "hash_es": "b00122b825649167",
+      "texto_ptbr": "{MOODHAPPY}Klungo impressionado, urssso atingir velocidadesss alucinantes e chegar em primeiro! {PAGEBREAK}Troféu T.T. conquistado! Urssso falar com Tomás Troféu sobre isso quando participar do jogo completo. T.T. sssupercompetitivo...",
+      "lote": "604"
+    },
+    {
+      "id": "34e4",
+      "chave": "dialog__race_successc",
+      "hash_es": "8453aa0814ff9c9f",
+      "texto_ptbr": "Urssso levar Jiggy pelo controle impressionante do carro camelo. Quando urssso jogar o jogo completo, Jiggy ser pego na Máquina de Jiggies em Showdown Town. Bonito e ssseguro!",
+      "lote": "604"
+    },
+    {
+      "id": "34e6",
+      "chave": "dialog__race_successe",
+      "hash_es": "487fa4bb79b678c1",
+      "texto_ptbr": "Linha de chegada atravessada, mas tempo de volta lento para os padrões do urssso, então sem Jiggy! {PAGEBREAK}Urssso gostar do carro Gobi? O Modo Foto no jogo completo deixar urssso enviar fotos das próprias criações para compartilhar com amigos e a comunidade Xbox LIVE. Pelo menos é o que dizem aqui.",
+      "lote": "608"
+    },
+    {
+      "id": "12cc",
+      "chave": "dialog__refs_beaten",
+      "hash_es": "30ea5a0a74a61fc0",
+      "texto_ptbr": "Você bateu meu recorde da última vez, mas nós dois sabemos que foi sorte. A menos que você ache que consegue um resultado ainda melhor agora?",
+      "lote": "604"
+    },
+    {
+      "id": "fc99",
+      "chave": "dialog__refs_fail",
+      "hash_es": "ebb3d84003a65abe",
+      "texto_ptbr": "Ai. Esse tipo de atuação vai te rebaixar de divisão. Talvez você devesse inventar seus próprios jogos... solte a imaginação com esses veículos e veja o que consegue criar!",
+      "lote": "604"
+    },
+    {
+      "id": "2a29",
+      "chave": "dialog__refs_intro",
+      "hash_es": "7086b420b95ef12a",
+      "texto_ptbr": "Cheguem, cheguem! Quem quer encarar o Desafio de Futebol de Pedra? Ei, Banjo, quer chutar uma bola por aí?",
+      "lote": "604"
+    },
+    {
+      "id": "6a0b",
+      "chave": "dialog__refs_objectives",
+      "hash_es": "e718537f1cb48a69",
+      "texto_ptbr": "Isso mal é um desafio, bafo de formiga. Aqueles caras nem têm pés para chutar!",
+      "lote": "604"
+    },
+    {
+      "id": "abcd",
+      "chave": "dialog__refs_objectivesb",
+      "hash_es": "a3bd0c5945e04e5a",
+      "texto_ptbr": "As regras são simples o bastante até para o pássaro entender. Veja quantos gols eu marquei dentro do tempo limite graças às minhas habilidades futebolísticas brilhantes, e veja se consegue fazer melhor!",
+      "lote": "604"
+    },
+    {
+      "id": "abce",
+      "chave": "dialog__refs_objectivesc",
+      "hash_es": "e98516487db6360b",
+      "texto_ptbr": "Parece bem simples... então onde estão as bolas?",
+      "lote": "604"
+    },
+    {
+      "id": "abcf",
+      "chave": "dialog__refs_objectivesd",
+      "hash_es": "b2de2f0fa8c742c9",
+      "texto_ptbr": "Pare em cima do interruptor vermelho para liberar as bolas. Faça valer: acerte-as na velha rede ali.",
+      "lote": "604"
+    },
+    {
+      "id": "b9f7",
+      "chave": "dialog__refs_successa",
+      "hash_es": "fa4213438a5c8520",
+      "texto_ptbr": "{MOODHAPPY}Uau, no fundo da rede! Um resultado desses merece todos os prêmios que eu tenho, mais um Troféu com o selo de aprovação do T.T.! {PAGEBREAK}Se estivéssemos na versão completa, você poderia até ver uma repetição da sua atuação enviada para os placares do Xbox LIVE... ah, não, estou quebrando a quarta parede de novo!",
+      "lote": "608"
+    },
+    {
+      "id": "b9f9",
+      "chave": "dialog__refs_successc",
+      "hash_es": "29f30de500e2e057",
+      "texto_ptbr": "Bem impressionante! Uma classificação alta na liga de Futebol rende um Jiggy. Dá para fazer ainda melhor? {PAGEBREAK}A propósito, é melhor guardar seus Jiggies no Banco de Jiggies quando estiver explorando Showdown Town na aventura completa. Confie em mim!",
+      "lote": "604"
+    },
+    {
+      "id": "b9fb",
+      "chave": "dialog__refs_successe",
+      "hash_es": "8ad2dca32eda1300",
+      "texto_ptbr": "Melhor que um Pedrusco, mas isso não quer dizer muita coisa. Me mostre habilidade de verdade e eu entrego o Jiggy! Ou simplesmente jogue o jogo completo, onde você pode ajustar seu veículo à vontade...",
+      "lote": "604"
+    }
+  ]
+}

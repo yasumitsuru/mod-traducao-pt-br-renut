@@ -1,0 +1,447 @@
+{
+  "arquivo": "11e22d74",
+  "asset": "aid_loctext_banjox_worldofsport_act5",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "2591ea73cac5fdcf",
+      "texto_ptbr": "Sorte de principiante. Quase não conta. Me encare de novo e a história vai ser diferente!",
+      "lote": "607"
+    },
+    {
+      "id": "b254",
+      "chave": "dialog__game1_fail",
+      "hash_es": "bba45ec058c878d5",
+      "texto_ptbr": "{MOODHAPPY}Nada de surpresa, você não é páreo pra este porco. Não que a gente precisasse provar isso, né?",
+      "lote": "602"
+    },
+    {
+      "id": "9744",
+      "chave": "dialog__game1_intro",
+      "hash_es": "01ea48205094105b",
+      "texto_ptbr": "Chega de brincadeira, moleque. Agora é pra valer, você contra mim! O primeiro a sair do ringue é um frangote de pescoço fino!",
+      "lote": "602"
+    },
+    {
+      "id": "68eb",
+      "chave": "dialog__game1_lost1",
+      "hash_es": "05951bd50814a563",
+      "texto_ptbr": "É, esse é o poder do porco. Melhore o seu jogo, moleque!",
+      "lote": "602"
+    },
+    {
+      "id": "68ec",
+      "chave": "dialog__game1_lost2",
+      "hash_es": "bfc1e6860cd0447e",
+      "texto_ptbr": "Última chance, pequeno. Mais um nocaute e você perde!",
+      "lote": "602"
+    },
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "706f323bec943a2e",
+      "texto_ptbr": "Teimosia de porco é o que importa. Continue me nocauteando pra fora do ringue pra vencer. Vamos! Vem pra cima!",
+      "lote": "602"
+    },
+    {
+      "id": "d532",
+      "chave": "dialog__game1_successa",
+      "hash_es": "0a1afff1f24a2c98",
+      "texto_ptbr": "{MOODANGRY}Normalmente eu estaria reclamando de injustiça, mas estou deprimido demais com a surra que levei. Pegue os prêmios e corra antes que eu mude de ideia!",
+      "lote": "602"
+    },
+    {
+      "id": "d534",
+      "chave": "dialog__game1_successc",
+      "hash_es": "2a98e4038b336920",
+      "texto_ptbr": "{MOODANGRY}Ah, qual é! Um concurso de força bruta, e eu perco? Meus rapazes vão investigar isso... não se apegue tanto a esse Jiggy!",
+      "lote": "602"
+    },
+    {
+      "id": "d536",
+      "chave": "dialog__game1_successe",
+      "hash_es": "a3047a2251fad055",
+      "texto_ptbr": "Você com certeza deu alguns golpes de sorte ali. Pro meu gosto, isso não merece prêmio grande nenhum!",
+      "lote": "602"
+    },
+    {
+      "id": "40bd",
+      "chave": "dialog__game1_won1",
+      "hash_es": "6614e6f089c8a703",
+      "texto_ptbr": "Não se empolga, garoto, eu só estou aquecendo. Próximo round!",
+      "lote": "602"
+    },
+    {
+      "id": "6bb0",
+      "chave": "dialog__game1_won1lost1",
+      "hash_es": "5256189353e71271",
+      "texto_ptbr": "Acho que assim fica empatado. Manda o próximo round!",
+      "lote": "602"
+    },
+    {
+      "id": "6bb1",
+      "chave": "dialog__game1_won1lost2",
+      "hash_es": "06ba5009128b12ea",
+      "texto_ptbr": "Não está com boa cara, amigo. Vença o próximo ou é o fim da linha pra você!",
+      "lote": "602"
+    },
+    {
+      "id": "40be",
+      "chave": "dialog__game1_won2",
+      "hash_es": "60a825fc55e6261c",
+      "texto_ptbr": "Você deu sorte. Chega de brincadeira! Se prepare!",
+      "lote": "602"
+    },
+    {
+      "id": "9451",
+      "chave": "dialog__game1_won2lost1",
+      "hash_es": "1d93b6d47e2b5dd3",
+      "texto_ptbr": "A competição está esquentando... mas só vai ter um vencedor, e ele não está de shortinho amarelo apertado!",
+      "lote": "602"
+    },
+    {
+      "id": "9452",
+      "chave": "dialog__game1_won2lost2",
+      "hash_es": "fd66c222c0b55148",
+      "texto_ptbr": "Essa vai até o último segundo. O próximo round é o decisivo!",
+      "lote": "602"
+    },
+    {
+      "id": "f828",
+      "chave": "dialog__game2_beaten",
+      "hash_es": "c33f45e74ef1d7ad",
+      "texto_ptbr": "Ei, Banjo. Veio arriscar a vida de novo no esporte insano do salto de esqui com dardos?",
+      "lote": "602"
+    },
+    {
+      "id": "daf5",
+      "chave": "dialog__game2_fail",
+      "hash_es": "d98a3740222c340a",
+      "texto_ptbr": "Ah, que azar. Vamos ver o que você poderia ter ganho. Uau! Uma lancha! Como assim, você nem queria uma lancha?",
+      "lote": "602"
+    },
+    {
+      "id": "d405",
+      "chave": "dialog__game2_intro",
+      "hash_es": "b4cdb92cdd59844a",
+      "texto_ptbr": "Como vão as coisas, Banjo? Tá a fim de um jogo de dardos? Obviamente não é o jogo de dardos comum de todo dia.",
+      "lote": "602"
+    },
+    {
+      "id": "9d67",
+      "chave": "dialog__game2_objectives",
+      "hash_es": "d4f267aea40f1ea2",
+      "texto_ptbr": "Se jogue da rampa de esqui e tente aterrissar numa zona de pontos. Eu espero aqui. Só de olhar eu já fico um pouco tonto... {PAGEBREAK}Se você conseguir uma pontuação total alta o bastante depois de todos os seus &quot;arremessos&quot;, ganha o prêmio especial do Boggy!",
+      "lote": "602"
+    },
+    {
+      "id": "6653",
+      "chave": "dialog__game2_successa",
+      "hash_es": "d6e57979285e9a28",
+      "texto_ptbr": "{MOODHAPPY}Essa apresentação não foi só super, foi também arrasadora, talvez até grandiosa. Prêmio máximo, Banjo!",
+      "lote": "602"
+    },
+    {
+      "id": "6655",
+      "chave": "dialog__game2_successc",
+      "hash_es": "cf8a78fbeab7d429",
+      "texto_ptbr": "Que pontaria! Você ganhou o prêmio especial do Boggy... uma lancha! Vou pedir pro Blubber entregar. Enquanto isso, fique com o Jiggy!",
+      "lote": "602"
+    },
+    {
+      "id": "6657",
+      "chave": "dialog__game2_successe",
+      "hash_es": "5eef77ffb949e95c",
+      "texto_ptbr": "Hmmm, errou o alvo uma ou duas vezes... não foi de todo ruim, mas vou guardar os troféus pra um profissional de verdade dos dardos!",
+      "lote": "602"
+    },
+    {
+      "id": "cd09",
+      "chave": "dialog__game3_beaten",
+      "hash_es": "33dfdb52fcad2387",
+      "texto_ptbr": "Sei como é, esse jogo é meio terapêutico. Vai em frente, esmague mais alguns!",
+      "lote": "602"
+    },
+    {
+      "id": "0396",
+      "chave": "dialog__game3_fail",
+      "hash_es": "b310d9be4be10108",
+      "texto_ptbr": "Você conseguiu quebrar alguma coisa? Qualquer coisinha? Desculpa, Banjo, você vai precisar jogar com mais força nessa. Tente de novo depois!",
+      "lote": "602"
+    },
+    {
+      "id": "10c6",
+      "chave": "dialog__game3_intro",
+      "hash_es": "6f2f841c75ca44fe",
+      "texto_ptbr": "{MOODHAPPY}Ei, o jogo de esmagar dados é divertido! Principalmente porque eu sou menos ruim nisso do que no resto. Dá uma tentada, Banjo!",
+      "lote": "602"
+    },
+    {
+      "id": "fac8",
+      "chave": "dialog__game3_objectives",
+      "hash_es": "8744383665a32e04",
+      "texto_ptbr": "Cada bloco vale um certo número de pontos quando é esmagado. Faça pontos suficientes dentro do tempo limite pra ganhar um prêmio!",
+      "lote": "602"
+    },
+    {
+      "id": "f774",
+      "chave": "dialog__game3_successa",
+      "hash_es": "859f07af908f5118",
+      "texto_ptbr": "{MOODSAD}Assustadoramente destrutivo! Eu nunca tinha visto esse seu lado, Banjo! O prêmio máximo é seu, não chegue muito perto...",
+      "lote": "602"
+    },
+    {
+      "id": "f776",
+      "chave": "dialog__game3_successc",
+      "hash_es": "ba54e78db6e2226d",
+      "texto_ptbr": "{MOODHAPPY}Você conseguiu! Eu devia saber que a minha pontuação não ia durar muito. Sem ressentimentos, você ganhou o Jiggy!",
+      "lote": "602"
+    },
+    {
+      "id": "f778",
+      "chave": "dialog__game3_successe",
+      "hash_es": "0d6e1b0433c516c7",
+      "texto_ptbr": "Cadê aquele controle de precisão, Banjo? Uma pontuação decente, mas decente não leva você ao topo da tabela...",
+      "lote": "602"
+    },
+    {
+      "id": "a1ea",
+      "chave": "dialog__game4_beaten",
+      "hash_es": "d3794fee79b59964",
+      "texto_ptbr": "Você pode ter dominado o percurso, mas não dirigiu com o estilo que eu dirigi. Voltou pra contestar isso?",
+      "lote": "602"
+    },
+    {
+      "id": "2c37",
+      "chave": "dialog__game4_fail",
+      "hash_es": "6cde094195f19c99",
+      "texto_ptbr": "{MOODHAPPY}Ninguém vai bater o meu tempo, muito menos um urso desengonçado. Este desafio exige delicadeza de verdade!",
+      "lote": "602"
+    },
+    {
+      "id": "4d87",
+      "chave": "dialog__game4_intro",
+      "hash_es": "40c14277ab9bc3ce",
+      "texto_ptbr": "{MOODHAPPY}De volta? Você deve gostar de perder! Desta vez eu mantive simples: é só dar a volta no percurso o mais rápido possível. Viu? Simples!",
+      "lote": "602"
+    },
+    {
+      "id": "5daa",
+      "chave": "dialog__game4_objectivesa",
+      "hash_es": "470e79b9130be515",
+      "texto_ptbr": "Os pontos de controle marcam o percurso. Eu forneço o veículo, você só se concentra na sua tentativa inútil de bater o meu tempo.",
+      "lote": "602"
+    },
+    {
+      "id": "5dab",
+      "chave": "dialog__game4_objectivesb",
+      "hash_es": "a67d14cace66aca9",
+      "texto_ptbr": "E é só isso? Qual é, T.T. Você está deixando isso fácil demais!",
+      "lote": "602"
+    },
+    {
+      "id": "5dac",
+      "chave": "dialog__game4_objectivesc",
+      "hash_es": "348bb7668ca57735",
+      "texto_ptbr": "É o que você pensa. Tem peças de dominó espalhadas por todo o percurso. Derrubar uma gera uma penalidade de tempo!",
+      "lote": "602"
+    },
+    {
+      "id": "8895",
+      "chave": "dialog__game4_successa",
+      "hash_es": "22ecbbbe0c64bf05",
+      "texto_ptbr": "{MOODANGRY}Mais um recorde destruído! Estou começando a achar cabelos grisalhos na minha juba azul lustrosa! Tá bom, que seja, você ganhou alguns prêmios...",
+      "lote": "602"
+    },
+    {
+      "id": "8897",
+      "chave": "dialog__game4_successc",
+      "hash_es": "d347d121d42edf1b",
+      "texto_ptbr": "{MOODANGRY}O quê? Você conseguiu? Bah, não é como se tivesse espaço no meu armário de troféus pra esse Jiggy, de qualquer jeito.",
+      "lote": "602"
+    },
+    {
+      "id": "8899",
+      "chave": "dialog__game4_successe",
+      "hash_es": "0f565fd5a9beb5a7",
+      "texto_ptbr": "Viu, tecnicamente você terminou o desafio, mas com tão pouco estilo e vigor que eu não posso deixar você levar um prêmio importante. Essa é a diferença entre você e eu!",
+      "lote": "602"
+    },
+    {
+      "id": "b3a9",
+      "chave": "dialog__game4_wrongsteering",
+      "hash_es": "cb1a491038ff7183",
+      "texto_ptbr": "Fácil demais, foi o que você disse! A reviravolta na direção deste jogo pode muito bem mudar a sua ideia. Ha, ha!",
+      "lote": "607"
+    },
+    {
+      "id": "76cb",
+      "chave": "dialog__game5_beaten",
+      "hash_es": "eeabf6382c99d7bf",
+      "texto_ptbr": "{MOODHAPPY}A chama do Jiggosseum! Uma imagem inspiradora e icônica de verdade. Uma pena que não tenha limonada pra fazer um brinde. Voltou pra reviver a glória, rapaz?",
+      "lote": "602"
+    },
+    {
+      "id": "54d8",
+      "chave": "dialog__game5_fail",
+      "hash_es": "c6174b27db8456a1",
+      "texto_ptbr": "{MOODANGRY}Você deixou ela se apagar! Essa tocha atravessou toda a terra dos videogames pra chegar aqui, seu grandalhão! Cai fora!",
+      "lote": "607"
+    },
+    {
+      "id": "7156",
+      "chave": "dialog__game5_grunty1",
+      "hash_es": "6f8bea245a43738f",
+      "texto_ptbr": "Estou me esforçando pra te causar sofrimento, agora larga a tocha, seu ladrão de Jiggy!",
+      "lote": "602"
+    },
+    {
+      "id": "7157",
+      "chave": "dialog__game5_grunty2",
+      "hash_es": "aaef443da9046fdd",
+      "texto_ptbr": "Derrubar coisas é pura diversão: eu te afogo ou te esmago enquanto você corre, bobão!",
+      "lote": "607"
+    },
+    {
+      "id": "7158",
+      "chave": "dialog__game5_grunty3",
+      "hash_es": "e3ab5855557cdf57",
+      "texto_ptbr": "Vejo que você está dando o último arranque: tente desviar do respingo gigante!",
+      "lote": "602"
+    },
+    {
+      "id": "8a48",
+      "chave": "dialog__game5_intro",
+      "hash_es": "6ade67813426bfc3",
+      "texto_ptbr": "Arrr, aquela é a chama do Jiggosseum! Bom, assim que estiver acesa. A tocha está ali, Banjo. Acha que consegue terminar a corrida?",
+      "lote": "602"
+    },
+    {
+      "id": "b58a",
+      "chave": "dialog__game5_objectives",
+      "hash_es": "56ddfb882059d569",
+      "texto_ptbr": "Avante, pegue a tocha e acenda a chama. Faça o que fizer, não deixe a tocha apagar!",
+      "lote": "602"
+    },
+    {
+      "id": "b23c",
+      "chave": "dialog__game5_objectivesrepeat1",
+      "hash_es": "89538450cb48f5f1",
+      "texto_ptbr": "Cuidado com os objetos caindo, aquela velha bruxa não consegue deixar de se meter!",
+      "lote": "602"
+    },
+    {
+      "id": "b23d",
+      "chave": "dialog__game5_objectivesrepeat2",
+      "hash_es": "206e4782fec0a55a",
+      "texto_ptbr": "Firme no leme, rapaz! Mantenha a tocha no alto e seca!",
+      "lote": "602"
+    },
+    {
+      "id": "19b6",
+      "chave": "dialog__game5_successa",
+      "hash_es": "a1bfe5c4aaf7026c",
+      "texto_ptbr": "{MOODHAPPY}Essa foi uma apresentação pra entrar pra história do Jiggosseum! Coisa lendária, marujo, nota máxima!",
+      "lote": "602"
+    },
+    {
+      "id": "19b8",
+      "chave": "dialog__game5_successc",
+      "hash_es": "45f48d738a894cfc",
+      "texto_ptbr": "{MOODHAPPY}A tocha do Jiggosseum está acesa! Um espetáculo tão reconfortante quanto o sol da manhã num mar tranquilo... parabéns pelo Jiggy, Banjo, meu garoto.",
+      "lote": "602"
+    },
+    {
+      "id": "19ba",
+      "chave": "dialog__game5_successe",
+      "hash_es": "156b689ebb7d3117",
+      "texto_ptbr": "Você conseguiu por um triz! Meu coração ficou na boca, vou guardar os prêmios de verdade pra alguém com a mão mais firme...",
+      "lote": "602"
+    },
+    {
+      "id": "c0c4",
+      "chave": "dialog__jinjoblue_greeting",
+      "hash_es": "9621cf85a8e66b89",
+      "texto_ptbr": "{MOODHAPPY}Meu maravilhoso príncipe peludo! Estive observando de longe e esperando você me notar! Me arremesse, doce urso, me arremesse!",
+      "lote": "602"
+    },
+    {
+      "id": "1182",
+      "chave": "dialog__jinjoblue_lose",
+      "hash_es": "d5c902e4dc563940",
+      "texto_ptbr": "{MOODSAD}Ai de mim! Vou esperar aqui com olhos de cachorrinho pidão até você tentar de novo e conseguir...",
+      "lote": "602"
+    },
+    {
+      "id": "8d5d",
+      "chave": "dialog__jinjoblue_objectives",
+      "hash_es": "bc5d2c3f905c7162",
+      "texto_ptbr": "{MOODHAPPY}Nada me deixaria mais feliz do que ser arremessado pelo ar com uma batida sua. Mire na distância-alvo indicada!",
+      "lote": "602"
+    },
+    {
+      "id": "0f7d",
+      "chave": "dialog__jinjoblue_win",
+      "hash_es": "dd60f09a52683633",
+      "texto_ptbr": "{MOODHAPPY}Sucesso! Você me deu um senso de importância que faltava na minha vida há muito tempo! Pegue isto em troca!",
+      "lote": "602"
+    },
+    {
+      "id": "ca0d",
+      "chave": "dialog__jinjogreen_greeting",
+      "hash_es": "adbcd4bb6c1d7f11",
+      "texto_ptbr": "{MOODSAD}Perdi meu doce, perdi! Socorro! Estou hiperventilando!",
+      "lote": "607"
+    },
+    {
+      "id": "de4b",
+      "chave": "dialog__jinjogreen_lose",
+      "hash_es": "55673636376547bf",
+      "texto_ptbr": "{MOODSAD}Você não conseguiu encontrar? Ou será que comeu? Aposto que foi aquela ave! Olha ela, é encrenca!",
+      "lote": "602"
+    },
+    {
+      "id": "0ce6",
+      "chave": "dialog__jinjogreen_objectives",
+      "hash_es": "8a43146865c2445f",
+      "texto_ptbr": "{MOODSAD}Eu derrubei meu doce! Bala, sei lá. Tenho certeza que estava com ele perto daquela estátua dourada gigante do T.T. antes de eu subir pra olhar de perto!",
+      "lote": "602"
+    },
+    {
+      "id": "e726",
+      "chave": "dialog__jinjogreen_win",
+      "hash_es": "3aacee8edb9216c9",
+      "texto_ptbr": "{MOODHAPPY}Ah, uma guloseima deliciosa... e olha só, sem dentes pra apodrecer! É ótimo ser Jinjo! Aceite esta ficha como agradecimento.",
+      "lote": "602"
+    },
+    {
+      "id": "e358",
+      "chave": "dialog__jinjoyellow_greeting",
+      "hash_es": "2cde59bc945cfbb1",
+      "texto_ptbr": "{MOODHAPPY}Em nome do Rei Jingaling, de onde você saiu? Deixa pra lá. Acha que é rápido o bastante pra bater o meu desafio de velocidade?",
+      "lote": "602"
+    },
+    {
+      "id": "0a16",
+      "chave": "dialog__jinjoyellow_lose",
+      "hash_es": "6578c392cc810b69",
+      "texto_ptbr": "{MOODSAD}Não posso dizer que esperava outro resultado. Você não é exatamente... aerodinâmico. Trabalhe nisso e tente de novo!",
+      "lote": "602"
+    },
+    {
+      "id": "a4f1",
+      "chave": "dialog__jinjoyellow_objectives",
+      "hash_es": "5d84641888733cc7",
+      "texto_ptbr": "{MOODHAPPY}Você consegue alcançar a velocidade-alvo que eu defini? Olhando pra você, não estou nada esperançoso. Prove que eu estou errado...",
+      "lote": "602"
+    },
+    {
+      "id": "4591",
+      "chave": "dialog__jinjoyellow_win",
+      "hash_es": "f80b04c0daa26e7b",
+      "texto_ptbr": "{MOODHAPPY}Se eu não tivesse visto com os meus próprios olhos, nunca teria acreditado que você conseguiria. Vou lá engolir minhas palavras!",
+      "lote": "602"
+    }
+  ]
+}

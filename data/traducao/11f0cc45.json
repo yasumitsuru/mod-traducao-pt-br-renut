@@ -1,0 +1,370 @@
+{
+  "arquivo": "11f0cc45",
+  "asset": "aid_loctext_banjox_spiralmountain_intro",
+  "frases": [
+    {
+      "id": "693a",
+      "chave": "dialog__banjoagreeing",
+      "hash_es": "d009308abd68ef45",
+      "texto_ptbr": "Ele tem razão.",
+      "lote": "509"
+    },
+    {
+      "id": "c4c9",
+      "chave": "dialog__banjoconcerned",
+      "hash_es": "c4469adcc988ad31",
+      "texto_ptbr": "Ah, não...",
+      "lote": "509"
+    },
+    {
+      "id": "b153",
+      "chave": "dialog__banjocontent",
+      "hash_es": "a4805fa75076d86a",
+      "texto_ptbr": "Ah, isto é que é vida. Pizza, sol e nenhuma preocupação no mundo.",
+      "lote": "509"
+    },
+    {
+      "id": "17ba",
+      "chave": "dialog__banjohappy",
+      "hash_es": "66d8c8d7c1652d1f",
+      "texto_ptbr": "Este parece mais seguro...",
+      "lote": "509"
+    },
+    {
+      "id": "268a",
+      "chave": "dialog__banjoreluctant",
+      "hash_es": "72b9d075c44be11b",
+      "texto_ptbr": "Tudo bem, acho que ainda consigo te carregar... quase. Tudo por uma vida tranquila!",
+      "lote": "509"
+    },
+    {
+      "id": "ca29",
+      "chave": "dialog__banjoresigned",
+      "hash_es": "6b9e9903dfdf78ec",
+      "texto_ptbr": "Mmm... acho que ganhamos alguns quilinhos.",
+      "lote": "509"
+    },
+    {
+      "id": "3f59",
+      "chave": "dialog__banjoshocked",
+      "hash_es": "3fd20b7239be1f84",
+      "texto_ptbr": "Mas o que...? Grunty?! É você?",
+      "lote": "509"
+    },
+    {
+      "id": "39b9",
+      "chave": "dialog__banjosurprised",
+      "hash_es": "abf5e6c0c6abd957",
+      "texto_ptbr": "Q-quem é você?",
+      "lote": "509"
+    },
+    {
+      "id": "c974",
+      "chave": "dialog__banjoworried",
+      "hash_es": "1cb5ae1b6deb41ef",
+      "texto_ptbr": "Sr. S.J., acho que nenhum de nós está em forma o bastante para outra aventura.",
+      "lote": "509"
+    },
+    {
+      "id": "e127",
+      "chave": "dialog__gruntyaggressive",
+      "hash_es": "40720155f0155957",
+      "texto_ptbr": "Pelo menos não tenho pança. Vamos brigar agora, vou morder seu traseiro!",
+      "lote": "513"
+    },
+    {
+      "id": "05d3",
+      "chave": "dialog__gruntychallenging",
+      "hash_es": "f3ca635d6472016a",
+      "texto_ptbr": "Isso parece um plano sem noção. O que vai fazer se a gente recusar?",
+      "lote": "509"
+    },
+    {
+      "id": "b686",
+      "chave": "dialog__gruntyelated",
+      "hash_es": "eaf0f01a6648b105",
+      "texto_ptbr": "Oito longos anos para voltar, desta vez vou ganhar e vocês vão me aclamar!",
+      "lote": "509"
+    },
+    {
+      "id": "ebc9",
+      "chave": "dialog__gruntyenquiring",
+      "hash_es": "956cc2d3bae6aad3",
+      "texto_ptbr": "Seu nome é esquisito e sua cara é estranha, diga à velha Grunty: o que traz o S.J. a esta montanha?",
+      "lote": "509"
+    },
+    {
+      "id": "b03d",
+      "chave": "dialog__gruntygloating1",
+      "hash_es": "2fbdd92de517e8c7",
+      "texto_ptbr": "Sim, sou eu, seu bobo barrigudo. Estou de volta e pronta para mandar em tudo!",
+      "lote": "509"
+    },
+    {
+      "id": "b03e",
+      "chave": "dialog__gruntygloating2",
+      "hash_es": "97d804237ae08749",
+      "texto_ptbr": "A ave era ruim no nosso último jogo, agora parece que está ainda mais sem graça!",
+      "lote": "509"
+    },
+    {
+      "id": "b03f",
+      "chave": "dialog__gruntygloating3",
+      "hash_es": "362cc55b951bf7ed",
+      "texto_ptbr": "Muito lentos, perdedores, vejam só! Desta vez a vitória é minha, eu sei!",
+      "lote": "509"
+    },
+    {
+      "id": "52ef",
+      "chave": "dialog__gruntysceptical",
+      "hash_es": "6ba09f45cb5046cc",
+      "texto_ptbr": "Meu corpo sumiu, mas não meus olhos; só vejo um monte de mentiras!",
+      "lote": "509"
+    },
+    {
+      "id": "52e3",
+      "chave": "dialog__jamjarsabrasive",
+      "hash_es": "d94760e2d718bba4",
+      "texto_ptbr": "Notícia de última hora, moleques! Sabiam que faz 10 anos que vocês dois foram inventados? Ora, olhem só para vocês agora! Gordos e ultrapassados.",
+      "lote": "509"
+    },
+    {
+      "id": "1ace",
+      "chave": "dialog__kazooieannoyed",
+      "hash_es": "c415ad0623a9890d",
+      "texto_ptbr": "Ei, cérebro de LCD, onde estão meus movimentos dos jogos anteriores?",
+      "lote": "509"
+    },
+    {
+      "id": "d240",
+      "chave": "dialog__kazooiedismissive",
+      "hash_es": "11fcca02e160f684",
+      "texto_ptbr": "Duvido. Você não percebeu que é só uma caveira?",
+      "lote": "509"
+    },
+    {
+      "id": "d6d5",
+      "chave": "dialog__kazooieeager1",
+      "hash_es": "5083a3092207de48",
+      "texto_ptbr": "Não. Não consigo ver quem está fazendo essa barulheira. Vamos dar uma olhada.",
+      "lote": "509"
+    },
+    {
+      "id": "d6d6",
+      "chave": "dialog__kazooieeager2",
+      "hash_es": "b448cc1d29aec2da",
+      "texto_ptbr": "Vamos, Banjo, pega o que tem a cara mais legal!",
+      "lote": "509"
+    },
+    {
+      "id": "716d",
+      "chave": "dialog__kazooiegutted",
+      "hash_es": "6801fae8d8d0eac3",
+      "texto_ptbr": "Não, parece um carrinho de compras. Vamos ficar ridículos.",
+      "lote": "509"
+    },
+    {
+      "id": "daed",
+      "chave": "dialog__kazooieindignant1",
+      "hash_es": "3ea96f506f1b79da",
+      "texto_ptbr": "E daí? Não é como se a gente tivesse que enfrentar aquela velha bruxa de novo.",
+      "lote": "509"
+    },
+    {
+      "id": "daee",
+      "chave": "dialog__kazooieindignant2",
+      "hash_es": "399a3d5b26d8e138",
+      "texto_ptbr": "Fracassados? Já saímos em vários jogos!",
+      "lote": "509"
+    },
+    {
+      "id": "78af",
+      "chave": "dialog__kazooiesarcastically",
+      "hash_es": "cdca57b8c34b4d01",
+      "texto_ptbr": "Até naqueles que não vendem muito bem, como Ghoulies?",
+      "lote": "509"
+    },
+    {
+      "id": "122c",
+      "chave": "dialog__kazooieurging",
+      "hash_es": "9b9a70aa81542036",
+      "texto_ptbr": "Mais rápido, Banjo! Mais rápido! Pisa fundo!",
+      "lote": "509"
+    },
+    {
+      "id": "de10",
+      "chave": "dialog__logdismissive",
+      "hash_es": "cbd8e9eecf69a3d8",
+      "texto_ptbr": "Você não vai precisar deles. Eles já estavam ultrapassados.",
+      "lote": "509"
+    },
+    {
+      "id": "e1a7",
+      "chave": "dialog__logdramatically",
+      "hash_es": "11f406ad391c4ff1",
+      "texto_ptbr": "Que comece o coletatlão!",
+      "lote": "509"
+    },
+    {
+      "id": "b0b2",
+      "chave": "dialog__loggrandly1",
+      "hash_es": "3209c76e04a96d51",
+      "texto_ptbr": "Saudações, ó personagens de videogame de segunda categoria!",
+      "lote": "509"
+    },
+    {
+      "id": "b0b3",
+      "chave": "dialog__loggrandly2",
+      "hash_es": "5b267c4915bca29b",
+      "texto_ptbr": "Meu título é Senhor dos Jogos, mas vocês, ultrapassados, podem me chamar de S.J. Eu sou o grande criador de todos os videogames!",
+      "lote": "509"
+    },
+    {
+      "id": "b0b4",
+      "chave": "dialog__loggrandly3",
+      "hash_es": "ebf37f8e73362df1",
+      "texto_ptbr": "Vim resolver suas diferenças, bruxa clichê. Vocês vão jogar um desafio à minha escolha. O vencedor fica com a Spiral Mountain. O perdedor... uma eternidade de trabalho duro na minha fábrica de videogames!",
+      "lote": "518"
+    },
+    {
+      "id": "b0b5",
+      "chave": "dialog__loggrandly4",
+      "hash_es": "09d2a224bc9a0d56",
+      "texto_ptbr": "Muito bem. Seguindo a tradição de Banjo, seu desafio será coletar o maior número possível de objetos sem propósito.",
+      "lote": "509"
+    },
+    {
+      "id": "b0b6",
+      "chave": "dialog__loggrandly5",
+      "hash_es": "5c30b95a6756197f",
+      "texto_ptbr": "Agora vou transportá-los para um mundo de jogo novinho, bem mais impressionante do que qualquer coisa que já viram...",
+      "lote": "509"
+    },
+    {
+      "id": "908a",
+      "chave": "dialog__loginstructing",
+      "hash_es": "db5b7a7e22ffb940",
+      "texto_ptbr": "Muito bem, fracassados, escutem com atenção.",
+      "lote": "509"
+    },
+    {
+      "id": "946a",
+      "chave": "dialog__logordering",
+      "hash_es": "1e0d59983f3517ec",
+      "texto_ptbr": "Por favor, me sigam nesses veículos antes que eu mude de ideia.",
+      "lote": "509"
+    },
+    {
+      "id": "bc28",
+      "chave": "dialog__logruefully",
+      "hash_es": "d29567d4e5d2b73b",
+      "texto_ptbr": "Eu bem que gostaria que ficassem assim, mas suponho que vocês queiram mesmo participar deste jogo.",
+      "lote": "509"
+    },
+    {
+      "id": "b27f",
+      "chave": "dialog__logsarcastically",
+      "hash_es": "e482c4a82bca67ce",
+      "texto_ptbr": "Mas nem de longe tantos quanto aquele cavalheiro italiano, correto?",
+      "lote": "509"
+    },
+    {
+      "id": "8ed1",
+      "chave": "dialog__logsmugly",
+      "hash_es": "acfb5e1a0a9da6c4",
+      "texto_ptbr": "Algum outro pedido?",
+      "lote": "509"
+    },
+    {
+      "id": "6a4d",
+      "chave": "dialog__narration1",
+      "hash_es": "ee54578001ad9152",
+      "texto_ptbr": "Era uma vez um urso heroico chamado Banjo, uma ave bem barulhenta chamada Kazooie e uma bruxa desagradável chamada Gruntilda.",
+      "lote": "509"
+    },
+    {
+      "id": "6a4e",
+      "chave": "dialog__narration2",
+      "hash_es": "a8f27841e52b20f6",
+      "texto_ptbr": "Quando a irmã de Banjo foi sequestrada, o urso e a ave a resgataram das profundezas do covil da bruxa, superando muitos perigos e impedimentos de fala para mandar Gruntilda por água abaixo.",
+      "lote": "509"
+    },
+    {
+      "id": "6a4f",
+      "chave": "dialog__narration3",
+      "hash_es": "b975e29bf8c433e4",
+      "texto_ptbr": "Mas ela não desistia nunca e, para surpresa de ninguém, a velha bruxa logo saiu da tumba para a Segunda Rodada.",
+      "lote": "509"
+    },
+    {
+      "id": "6a50",
+      "chave": "dialog__narration4",
+      "hash_es": "1fb31ea38576f3ec",
+      "texto_ptbr": "Nossos bravos heróis ficaram de novo em seu caminho, e o segundo confronto terminou tão mal para Gruntilda quanto o primeiro, quando ela deveria ter parado enquanto estava... na frente.",
+      "lote": "509"
+    },
+    {
+      "id": "6a51",
+      "chave": "dialog__narration5",
+      "hash_es": "c7ccea3cf64067ac",
+      "texto_ptbr": "Muitos anos se passaram, e a paz reina em Spiral Mountain.",
+      "lote": "518"
+    },
+    {
+      "id": "6a52",
+      "chave": "dialog__narration6",
+      "hash_es": "34a108612bb3dc24",
+      "texto_ptbr": "Então, o que aconteceu com o urso, a ave e a bruxa?",
+      "lote": "509"
+    },
+    {
+      "id": "bd0a",
+      "chave": "dialog__randombanjo1",
+      "hash_es": "8786a29296b2f782",
+      "texto_ptbr": "Ufa... acho que eu devia ter pedido a pizza pequena!",
+      "lote": "509"
+    },
+    {
+      "id": "bd0b",
+      "chave": "dialog__randombanjo2",
+      "hash_es": "6f86cde31b77f985",
+      "texto_ptbr": "Se você estivesse em forma, podia ter nos levado voando até aqui, Kazooie!",
+      "lote": "513"
+    },
+    {
+      "id": "00f2",
+      "chave": "dialog__randomkazooie1",
+      "hash_es": "10704b8f75e45c59",
+      "texto_ptbr": "Vamos, Banjo! Eu usaria o Trote de Garra se lembrasse como faz!",
+      "lote": "509"
+    },
+    {
+      "id": "00f3",
+      "chave": "dialog__randomkazooie2",
+      "hash_es": "d011071079595f8c",
+      "texto_ptbr": "Se ainda tivéssemos meus Tênis Turbo, isso já teria acabado!",
+      "lote": "509"
+    },
+    {
+      "id": "b41f",
+      "chave": "dialog__seenenough",
+      "hash_es": "488c2d3a52275693",
+      "texto_ptbr": "Não, não, não... é doloroso demais de ver. Os jogadores de hoje não querem nada disso, eles só querem atirar! Mas, como estamos ampliando o público, vou ter que pensar em algo original. Hmmm.",
+      "lote": "513"
+    },
+    {
+      "id": "bfd3",
+      "chave": "dialog__text",
+      "hash_es": "91b2b98a8e7fb4fe",
+      "texto_ptbr": "Aqui é o DJ Jamjars, na Rádio Spiral Mountain FM!",
+      "lote": "518"
+    },
+    {
+      "id": "ba65",
+      "chave": "dialog__text2",
+      "hash_es": "514985d41d1e670f",
+      "texto_ptbr": "Muitos minutos depois...",
+      "lote": "509"
+    }
+  ]
+}

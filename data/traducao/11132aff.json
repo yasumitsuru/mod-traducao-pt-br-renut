@@ -1,0 +1,2729 @@
+{
+  "arquivo": "11132aff",
+  "asset": "aid_loctext_banjox_spiralmountain_logquiz",
+  "frases": [
+    {
+      "id": "b961",
+      "chave": "dialog__correctanswer1",
+      "hash_es": "705bc1086d32ce3f",
+      "texto_ptbr": "Muito bem, você acertou essa!",
+      "lote": "515"
+    },
+    {
+      "id": "b962",
+      "chave": "dialog__correctanswer2",
+      "hash_es": "3b1755b45aa4b41e",
+      "texto_ptbr": "Excelente, resposta certa!",
+      "lote": "515"
+    },
+    {
+      "id": "b963",
+      "chave": "dialog__correctanswer3",
+      "hash_es": "e1c7f91fdf27b66e",
+      "texto_ptbr": "Isso mesmo! Uma salva de palmas!",
+      "lote": "515"
+    },
+    {
+      "id": "b964",
+      "chave": "dialog__correctanswer4",
+      "hash_es": "dde0b49e4f8867ac",
+      "texto_ptbr": "Eu acredito que essa seja a resposta certa!",
+      "lote": "515"
+    },
+    {
+      "id": "b7ff",
+      "chave": "dialog__fourcorrectanswers",
+      "hash_es": "1773e6f9e63a43b6",
+      "texto_ptbr": "Todas as perguntas certas! Não é que você é o sabichão?",
+      "lote": "515"
+    },
+    {
+      "id": "c280",
+      "chave": "dialog__nocorrectanswers",
+      "hash_es": "e1f74eb3c7aa2d2a",
+      "texto_ptbr": "Patético do início ao fim. Você não acertou nenhuma pergunta.",
+      "lote": "515"
+    },
+    {
+      "id": "9272",
+      "chave": "dialog__onecorrectanswer",
+      "hash_es": "d8dd7e8a0fa823ee",
+      "texto_ptbr": "Não é uma atuação para se gabar. Uma pergunta certa!",
+      "lote": "515"
+    },
+    {
+      "id": "8097",
+      "chave": "dialog__question1",
+      "hash_es": "9b23f5b381dc73b0",
+      "texto_ptbr": "Qual xamã de segunda categoria comanda a oficina em Showdown Town?",
+      "lote": "515"
+    },
+    {
+      "id": "08b8",
+      "chave": "dialog__question101",
+      "hash_es": "2a707c6bfd463b45",
+      "texto_ptbr": "Qual é o nome do grande navio de metal enferrujado em Banjoland?",
+      "lote": "515"
+    },
+    {
+      "id": "08b9",
+      "chave": "dialog__question102",
+      "hash_es": "e58bda42a711ab53",
+      "texto_ptbr": "Qual é o nome da baleia gigante de metal com problemas de vista?",
+      "lote": "515"
+    },
+    {
+      "id": "08ba",
+      "chave": "dialog__question103",
+      "hash_es": "83689f69d41c052d",
+      "texto_ptbr": "Qual destes não é uma bola na arena central do Jiggosseum?",
+      "lote": "515"
+    },
+    {
+      "id": "08bb",
+      "chave": "dialog__question104",
+      "hash_es": "83ffee1e08f5aadb",
+      "texto_ptbr": "Qual esporte o Banjo não pode praticar no Jiggosseum?",
+      "lote": "515"
+    },
+    {
+      "id": "08bc",
+      "chave": "dialog__question105",
+      "hash_es": "c6bece8f3058a1a6",
+      "texto_ptbr": "De que cor são os toldos acima das arquibancadas do Jiggosseum?",
+      "lote": "515"
+    },
+    {
+      "id": "93a8",
+      "chave": "dialog__question11",
+      "hash_es": "4a2ad9428ea70591",
+      "texto_ptbr": "O que tem no topo da delegacia de polícia em Showdown Town?",
+      "lote": "515"
+    },
+    {
+      "id": "08d9",
+      "chave": "dialog__question111",
+      "hash_es": "205a08696cdb687c",
+      "texto_ptbr": "Qual destes objetos de lixo não existe em Banjoland?",
+      "lote": "515"
+    },
+    {
+      "id": "08da",
+      "chave": "dialog__question112",
+      "hash_es": "8088f4aecc5e0864",
+      "texto_ptbr": "O que há de errado com a exposição da Mansão dos Monstros Malucos em Banjoland?",
+      "lote": "515"
+    },
+    {
+      "id": "08db",
+      "chave": "dialog__question113",
+      "hash_es": "7220475f22ab4f2c",
+      "texto_ptbr": "Quando eu estava fazendo este jogo, eu tinha outro nome para o Jiggosseum. Qual você acha que era?",
+      "lote": "515"
+    },
+    {
+      "id": "08dc",
+      "chave": "dialog__question114",
+      "hash_es": "983734ff40ad2e3f",
+      "texto_ptbr": "Que números aparecem nos dominós do Jiggosseum?",
+      "lote": "515"
+    },
+    {
+      "id": "08dd",
+      "chave": "dialog__question115",
+      "hash_es": "15cae2ce7c181d32",
+      "texto_ptbr": "Qual comida não é vendida nas barracas da praça de alimentação do Jiggosseum?",
+      "lote": "515"
+    },
+    {
+      "id": "93a9",
+      "chave": "dialog__question12",
+      "hash_es": "09b6d573c5fee621",
+      "texto_ptbr": "Quantos guindastes há na área do Cais em Showdown Town?",
+      "lote": "515"
+    },
+    {
+      "id": "08fa",
+      "chave": "dialog__question121",
+      "hash_es": "ada13ebac4b10bdf",
+      "texto_ptbr": "Do que são feitas as paredes no Terrarium of Terror?",
+      "lote": "515"
+    },
+    {
+      "id": "08fb",
+      "chave": "dialog__question122",
+      "hash_es": "8a9bd1f8525f8dca",
+      "texto_ptbr": "O que pode ser encontrado no topo da planta gigante no centro do Terrarium of Terror?",
+      "lote": "515"
+    },
+    {
+      "id": "08fc",
+      "chave": "dialog__question123",
+      "hash_es": "3de0957d2aca009f",
+      "texto_ptbr": "O que há no centro de Spiral Mountain?",
+      "lote": "515"
+    },
+    {
+      "id": "08fd",
+      "chave": "dialog__question124",
+      "hash_es": "4b706dfb286f109f",
+      "texto_ptbr": "O que está escrito na porta da sua casa em Spiral Mountain?",
+      "lote": "515"
+    },
+    {
+      "id": "08fe",
+      "chave": "dialog__question125",
+      "hash_es": "46b824530a8a14da",
+      "texto_ptbr": "Qual destes levava à Guarida da Grunty em Spiral Mountain?",
+      "lote": "515"
+    },
+    {
+      "id": "93aa",
+      "chave": "dialog__question13",
+      "hash_es": "8a515b11177cd9c2",
+      "texto_ptbr": "Qual é o nome da loja de bolos ao lado da loja da Humba em Showdown Town?",
+      "lote": "515"
+    },
+    {
+      "id": "091b",
+      "chave": "dialog__question131",
+      "hash_es": "2bd705cf6d1174d5",
+      "texto_ptbr": "Quem tem um túmulo do lado de fora da casa do Banjo em Spiral Mountain?",
+      "lote": "515"
+    },
+    {
+      "id": "091c",
+      "chave": "dialog__question132",
+      "hash_es": "37b0ac53313f63f6",
+      "texto_ptbr": "Que tipo de legume é visto pulando por Spiral Mountain?",
+      "lote": "515"
+    },
+    {
+      "id": "091d",
+      "chave": "dialog__question133",
+      "hash_es": "f29443cc45351bf2",
+      "texto_ptbr": "Qual é o nome da bebida do Klungo no Terrarium of Terror?",
+      "lote": "515"
+    },
+    {
+      "id": "091e",
+      "chave": "dialog__question134",
+      "hash_es": "e63b36b7a6799975",
+      "texto_ptbr": "Que objeto circunda o Terrarium of Terror?",
+      "lote": "515"
+    },
+    {
+      "id": "091f",
+      "chave": "dialog__question135",
+      "hash_es": "fdc186d3532df7fc",
+      "texto_ptbr": "Qual membro do elenco do Terrarium of Terror acha que é um alienígena?",
+      "lote": "515"
+    },
+    {
+      "id": "93ab",
+      "chave": "dialog__question14",
+      "hash_es": "ae79c6f071690192",
+      "texto_ptbr": "De que cor é o joystick da fábrica de videogames do L.O.G. em Showdown Town?",
+      "lote": "515"
+    },
+    {
+      "id": "093c",
+      "chave": "dialog__question141",
+      "hash_es": "81436ec810b87767",
+      "texto_ptbr": "Qual papel o Capitão Blubber faz no Terrarium of Terror?",
+      "lote": "515"
+    },
+    {
+      "id": "093d",
+      "chave": "dialog__question142",
+      "hash_es": "816920fef64371da",
+      "texto_ptbr": "De que planeta vêm os Monstros de Lama no Terrarium of Terror?",
+      "lote": "515"
+    },
+    {
+      "id": "093e",
+      "chave": "dialog__question143",
+      "hash_es": "24302bfc4c5edbe6",
+      "texto_ptbr": "O que está escrito no foguete de lixo espacial no Terrarium of Terror?",
+      "lote": "515"
+    },
+    {
+      "id": "093f",
+      "chave": "dialog__question144",
+      "hash_es": "b59863985df8100e",
+      "texto_ptbr": "Quantas caixas há na área da Pedreira logo atrás de mim em Spiral Mountain?",
+      "lote": "515"
+    },
+    {
+      "id": "0940",
+      "chave": "dialog__question145",
+      "hash_es": "99fe0ac6c1e186c0",
+      "texto_ptbr": "Em qual jogo a caçamba de lixo do lado de fora da casa do Banjo em Spiral Mountain já podia ser vista?",
+      "lote": "515"
+    },
+    {
+      "id": "93ac",
+      "chave": "dialog__question15",
+      "hash_es": "644a60abe6913cfe",
+      "texto_ptbr": "O que tem na ilha no fim da ponte de madeira, na área do Lago em Showdown Town?",
+      "lote": "515"
+    },
+    {
+      "id": "8098",
+      "chave": "dialog__question2",
+      "hash_es": "2543d8931c98145f",
+      "texto_ptbr": "Qual negócio o Boggy comanda em Showdown Town?",
+      "lote": "515"
+    },
+    {
+      "id": "93c9",
+      "chave": "dialog__question21",
+      "hash_es": "627d21cd9fa343e0",
+      "texto_ptbr": "Qual destes talentos o Mumbo possui?",
+      "lote": "515"
+    },
+    {
+      "id": "93ca",
+      "chave": "dialog__question22",
+      "hash_es": "64f37979f331094c",
+      "texto_ptbr": "Qual é o nome da loja do Mr. Ribs em Showdown Town?",
+      "lote": "515"
+    },
+    {
+      "id": "93cb",
+      "chave": "dialog__question23",
+      "hash_es": "489c03f72176ad92",
+      "texto_ptbr": "Que números aparecem nas bolas de bingo em frente ao Palácio do Bingo do Jingaling em Showdown Town?",
+      "lote": "515"
+    },
+    {
+      "id": "93cc",
+      "chave": "dialog__question24",
+      "hash_es": "b4fa29f968dc3287",
+      "texto_ptbr": "Qual é o nome do jornal de Showdown Town?",
+      "lote": "515"
+    },
+    {
+      "id": "93cd",
+      "chave": "dialog__question25",
+      "hash_es": "d61171fc5bf73475",
+      "texto_ptbr": "O que há de errado com o Capitão Blubber em Showdown Town?",
+      "lote": "515"
+    },
+    {
+      "id": "8099",
+      "chave": "dialog__question3",
+      "hash_es": "09008dd45d0a303a",
+      "texto_ptbr": "Qual é o nome do precioso jogo de fliperama que o Klungo tem em Showdown Town?",
+      "lote": "515"
+    },
+    {
+      "id": "93ea",
+      "chave": "dialog__question31",
+      "hash_es": "d28524ee5165bdb4",
+      "texto_ptbr": "Qual destes é o nome de um jogo anterior do Banjo?",
+      "lote": "515"
+    },
+    {
+      "id": "93eb",
+      "chave": "dialog__question32",
+      "hash_es": "fa4f2aac3935eb42",
+      "texto_ptbr": "Nos bons e velhos tempos, antes de toda essa porcaria de veículos, do que a Kazooie precisava para voar?",
+      "lote": "515"
+    },
+    {
+      "id": "93ec",
+      "chave": "dialog__question33",
+      "hash_es": "aed70d933ae8bf75",
+      "texto_ptbr": "Quem era o adversário do Banjo em Banjo-Tooie?",
+      "lote": "515"
+    },
+    {
+      "id": "93ed",
+      "chave": "dialog__question34",
+      "hash_es": "a2cedd3ce73e399e",
+      "texto_ptbr": "No lançamento deste jogo, quantos anos se passaram desde o lançamento de Banjo-Kazooie?",
+      "lote": "515"
+    },
+    {
+      "id": "93ee",
+      "chave": "dialog__question35",
+      "hash_es": "916da1e34fff6136",
+      "texto_ptbr": "Qual era a função do Mumbo antes de o L.O.G. obrigá-lo a virar mecânico?",
+      "lote": "515"
+    },
+    {
+      "id": "809a",
+      "chave": "dialog__question4",
+      "hash_es": "e4ff4ace96db5490",
+      "texto_ptbr": "O que fica no ponto mais alto de Showdown Town?",
+      "lote": "515"
+    },
+    {
+      "id": "940b",
+      "chave": "dialog__question41",
+      "hash_es": "4c3e9216543162cb",
+      "texto_ptbr": "Qual era a historinha sem graça de Banjo-Kazooie?",
+      "lote": "515"
+    },
+    {
+      "id": "940c",
+      "chave": "dialog__question42",
+      "hash_es": "e5b7ae4678d168f5",
+      "texto_ptbr": "Qual era o nome da primeira fase de Banjo-Kazooie?",
+      "lote": "515"
+    },
+    {
+      "id": "940d",
+      "chave": "dialog__question43",
+      "hash_es": "33abb2113d03c816",
+      "texto_ptbr": "Em que ano Banjo-Tooie foi lançado?",
+      "lote": "515"
+    },
+    {
+      "id": "940e",
+      "chave": "dialog__question44",
+      "hash_es": "71d29db4fc87af51",
+      "texto_ptbr": "Quem derrubou a Grunty da torre no final de Banjo-Kazooie?",
+      "lote": "515"
+    },
+    {
+      "id": "940f",
+      "chave": "dialog__question45",
+      "hash_es": "8cce03e5a7df2d07",
+      "texto_ptbr": "Qual jogo tinha uma participação do Banjo, mas não era um jogo do Banjo?",
+      "lote": "515"
+    },
+    {
+      "id": "809b",
+      "chave": "dialog__question5",
+      "hash_es": "e1fa5ee9a94fcd14",
+      "texto_ptbr": "Qual destes não fica na praça central de Showdown Town, onde está o Banco de Jiggies?",
+      "lote": "515"
+    },
+    {
+      "id": "942c",
+      "chave": "dialog__question51",
+      "hash_es": "c4273543ec9410dd",
+      "texto_ptbr": "Qual era o nome da arma gigante que sugava vidas da Grunty em Banjo-Tooie?",
+      "lote": "515"
+    },
+    {
+      "id": "942d",
+      "chave": "dialog__question52",
+      "hash_es": "e9bbfbea9e38bbaf",
+      "texto_ptbr": "Como se chamava o quiz de Banjo-Kazooie que era muito melhor que este?",
+      "lote": "515"
+    },
+    {
+      "id": "942e",
+      "chave": "dialog__question53",
+      "hash_es": "a48fba4629ba37de",
+      "texto_ptbr": "Qual é o nome da irmã do Banjo que não é vista desde Banjo-Kazooie?",
+      "lote": "515"
+    },
+    {
+      "id": "942f",
+      "chave": "dialog__question54",
+      "hash_es": "88b6347cd32c1800",
+      "texto_ptbr": "Qual era o nome da suposta ligação secreta entre Banjo-Kazooie e Banjo-Tooie sobre a qual alguns sites de fãs até hoje não se calam?",
+      "lote": "515"
+    },
+    {
+      "id": "9430",
+      "chave": "dialog__question55",
+      "hash_es": "3ef44a5afb1768a5",
+      "texto_ptbr": "Qual era o nome do Mumbo falso, ciborgue e maligno em Banjo-Tooie?",
+      "lote": "515"
+    },
+    {
+      "id": "944d",
+      "chave": "dialog__question61",
+      "hash_es": "a46b3ebf56289b7d",
+      "texto_ptbr": "Qual é o nome do Mundo de Jogo que fica dentro de um console?",
+      "lote": "515"
+    },
+    {
+      "id": "944e",
+      "chave": "dialog__question62",
+      "hash_es": "055d93643fd4d024",
+      "texto_ptbr": "De que cor é o líquido que resfria o Mundo de Jogo LOGBOX 720?",
+      "lote": "515"
+    },
+    {
+      "id": "944f",
+      "chave": "dialog__question63",
+      "hash_es": "33da33d535e5e46b",
+      "texto_ptbr": "No Mundo de Jogo LOGBOX 720, onde fica o Chip de Energia?",
+      "lote": "515"
+    },
+    {
+      "id": "9450",
+      "chave": "dialog__question64",
+      "hash_es": "776d392f3b2dfbb0",
+      "texto_ptbr": "Que objetos circulares giratórios podem ser encontrados no Nível 1 do Mundo de Jogo LOGBOX 720?",
+      "lote": "515"
+    },
+    {
+      "id": "9451",
+      "chave": "dialog__question65",
+      "hash_es": "05c074a6acbeee8e",
+      "texto_ptbr": "Qual destes pode ser visto no Mundo de Jogo LOGBOX 720?",
+      "lote": "515"
+    },
+    {
+      "id": "946e",
+      "chave": "dialog__question71",
+      "hash_es": "ee105dc6d071a5f8",
+      "texto_ptbr": "Quantos níveis verticais tem o Mundo de Jogo LOGBOX 720?",
+      "lote": "515"
+    },
+    {
+      "id": "946f",
+      "chave": "dialog__question72",
+      "hash_es": "bd88730a116ef74e",
+      "texto_ptbr": "Que objeto fica no Chip de Áudio do Mundo de Jogo LOGBOX 720?",
+      "lote": "515"
+    },
+    {
+      "id": "9470",
+      "chave": "dialog__question73",
+      "hash_es": "ee4bd994e13b6516",
+      "texto_ptbr": "Que objeto fica no Chip de Gráficos do Mundo de Jogo LOGBOX 720?",
+      "lote": "515"
+    },
+    {
+      "id": "9471",
+      "chave": "dialog__question74",
+      "hash_es": "11100420946f3033",
+      "texto_ptbr": "Qual videogame aparece no maior disco do Mundo de Jogo LOGBOX 720?",
+      "lote": "515"
+    },
+    {
+      "id": "9472",
+      "chave": "dialog__question75",
+      "hash_es": "dfbb0114e0ea5c89",
+      "texto_ptbr": "O que pende de uma corrente acima do Chip da CPU no Mundo de Jogo LOGBOX 720?",
+      "lote": "515"
+    },
+    {
+      "id": "948f",
+      "chave": "dialog__question81",
+      "hash_es": "5d5450756ba1076e",
+      "texto_ptbr": "Qual disco de videogame não aparece no Mundo de Jogo LOGBOX 720?",
+      "lote": "515"
+    },
+    {
+      "id": "9490",
+      "chave": "dialog__question82",
+      "hash_es": "023de2eb37159972",
+      "texto_ptbr": "Qual personagem faz o papel de programador famoso no Mundo de Jogo LOGBOX 720?",
+      "lote": "515"
+    },
+    {
+      "id": "9491",
+      "chave": "dialog__question83",
+      "hash_es": "2973fc6a4715f49f",
+      "texto_ptbr": "De que sabor é a pastilha de sabor no Mundo de Jogo LOGBOX 720?",
+      "lote": "609"
+    },
+    {
+      "id": "9492",
+      "chave": "dialog__question84",
+      "hash_es": "e318f615e1416f7a",
+      "texto_ptbr": "Quantas pernas tem o Chip Central da CPU no Mundo de Jogo LOGBOX 720?",
+      "lote": "515"
+    },
+    {
+      "id": "9493",
+      "chave": "dialog__question85",
+      "hash_es": "d2abccd6814ef40d",
+      "texto_ptbr": "O que fica bem no topo do Mundo de Jogo LOGBOX 720?",
+      "lote": "515"
+    },
+    {
+      "id": "94b0",
+      "chave": "dialog__question91",
+      "hash_es": "925315721606d650",
+      "texto_ptbr": "Qual é o nome de Banjoland?",
+      "lote": "515"
+    },
+    {
+      "id": "94b1",
+      "chave": "dialog__question92",
+      "hash_es": "1d4ee6b3f96d0e61",
+      "texto_ptbr": "O que há no ninho de Terry, o Teridáctilo, em Banjoland?",
+      "lote": "515"
+    },
+    {
+      "id": "94b2",
+      "chave": "dialog__question93",
+      "hash_es": "f92eb65b8f5210c7",
+      "texto_ptbr": "Qual destes fica na área arenosa de Banjoland?",
+      "lote": "515"
+    },
+    {
+      "id": "94b3",
+      "chave": "dialog__question94",
+      "hash_es": "6182f61ae0cf75ac",
+      "texto_ptbr": "O que o Banjo tinha de entregar aos espectadores famintos no Jiggosseum?",
+      "lote": "515"
+    },
+    {
+      "id": "94b4",
+      "chave": "dialog__question95",
+      "hash_es": "97ba5fc0da5cb9c0",
+      "texto_ptbr": "O que há embaixo do estádio no Jiggosseum?",
+      "lote": "515"
+    },
+    {
+      "id": "e09b",
+      "chave": "dialog__threecorrectanswers",
+      "hash_es": "cbe4e7a6a52a0ade",
+      "texto_ptbr": "Três acertos, até que decente, mas ainda dá para melhorar.",
+      "lote": "515"
+    },
+    {
+      "id": "e99d",
+      "chave": "dialog__twocorrectanswers",
+      "hash_es": "93febad36e10c529",
+      "texto_ptbr": "Hmmm... dois acertos. Nada mal, mas francamente eu esperava mais.",
+      "lote": "515"
+    },
+    {
+      "id": "8f7c",
+      "chave": "dialog__wronganswer1",
+      "hash_es": "324a8f13847343c4",
+      "texto_ptbr": "Uma porcaria! Resposta errada.",
+      "lote": "515"
+    },
+    {
+      "id": "8f7d",
+      "chave": "dialog__wronganswer2",
+      "hash_es": "a8835c1bd1ef4621",
+      "texto_ptbr": "Infelizmente, não, você errou essa.",
+      "lote": "515"
+    },
+    {
+      "id": "8f7e",
+      "chave": "dialog__wronganswer3",
+      "hash_es": "0634c64e7ac53a3b",
+      "texto_ptbr": "Bip! Bastante incorreto.",
+      "lote": "515"
+    },
+    {
+      "id": "8f7f",
+      "chave": "dialog__wronganswer4",
+      "hash_es": "1a9eac074d9b045e",
+      "texto_ptbr": "Não... não é o que diz na minha ficha.",
+      "lote": "515"
+    },
+    {
+      "id": "5fe0",
+      "chave": "logquiz__menutitle",
+      "hash_es": "bef3d2d1e45871ad",
+      "texto_ptbr": "Escolha uma resposta",
+      "lote": "515"
+    },
+    {
+      "id": "3a14",
+      "chave": "logquiz__question101answer1",
+      "hash_es": "4b4a1c9150616507",
+      "texto_ptbr": "O Balde Enferrujado",
+      "lote": "515"
+    },
+    {
+      "id": "3a15",
+      "chave": "logquiz__question101answer2",
+      "hash_es": "4aeafb9e24a21080",
+      "texto_ptbr": "S.S. Gruntilda",
+      "lote": "515"
+    },
+    {
+      "id": "3a16",
+      "chave": "logquiz__question101answer3",
+      "hash_es": "c2f1023257369889",
+      "texto_ptbr": "O Hipopótamo Salgado",
+      "lote": "515"
+    },
+    {
+      "id": "3a17",
+      "chave": "logquiz__question101answer4",
+      "hash_es": "67bb66a94dce8220",
+      "texto_ptbr": "H.M.S. Clanker",
+      "lote": "515"
+    },
+    {
+      "id": "0ef5",
+      "chave": "logquiz__question102answer1",
+      "hash_es": "45b84f9b785b0ced",
+      "texto_ptbr": "Spanker",
+      "lote": "515"
+    },
+    {
+      "id": "0ef6",
+      "chave": "logquiz__question102answer2",
+      "hash_es": "ef2d50b60bd8d971",
+      "texto_ptbr": "Clanker",
+      "lote": "515"
+    },
+    {
+      "id": "0ef7",
+      "chave": "logquiz__question102answer3",
+      "hash_es": "65cbc89b6f7dbe13",
+      "texto_ptbr": "Tanker",
+      "lote": "515"
+    },
+    {
+      "id": "0ef8",
+      "chave": "logquiz__question102answer4",
+      "hash_es": "f138023d0a502772",
+      "texto_ptbr": "Clunker",
+      "lote": "515"
+    },
+    {
+      "id": "e3d6",
+      "chave": "logquiz__question103answer1",
+      "hash_es": "20b1369f8440429c",
+      "texto_ptbr": "Basquete",
+      "lote": "515"
+    },
+    {
+      "id": "e3d7",
+      "chave": "logquiz__question103answer2",
+      "hash_es": "d8fd7622a37109ad",
+      "texto_ptbr": "Beisebol",
+      "lote": "515"
+    },
+    {
+      "id": "e3d8",
+      "chave": "logquiz__question103answer3",
+      "hash_es": "7a5c1fd8b32458b3",
+      "texto_ptbr": "Bola de tênis",
+      "lote": "515"
+    },
+    {
+      "id": "e3d9",
+      "chave": "logquiz__question103answer4",
+      "hash_es": "ce887caca2838ae0",
+      "texto_ptbr": "Bola de golfe",
+      "lote": "515"
+    },
+    {
+      "id": "b8b7",
+      "chave": "logquiz__question104answer1",
+      "hash_es": "134c16b6720975fb",
+      "texto_ptbr": "Sinuca",
+      "lote": "515"
+    },
+    {
+      "id": "b8b8",
+      "chave": "logquiz__question104answer2",
+      "hash_es": "1a436f801702c175",
+      "texto_ptbr": "Dominó",
+      "lote": "515"
+    },
+    {
+      "id": "b8b9",
+      "chave": "logquiz__question104answer3",
+      "hash_es": "aeea5d0c18fe7bf9",
+      "texto_ptbr": "Dardos",
+      "lote": "515"
+    },
+    {
+      "id": "b8ba",
+      "chave": "logquiz__question104answer4",
+      "hash_es": "c3c74299ab464bde",
+      "texto_ptbr": "Cartas",
+      "lote": "515"
+    },
+    {
+      "id": "8d98",
+      "chave": "logquiz__question105answer1",
+      "hash_es": "7069e90c206b0e2d",
+      "texto_ptbr": "Vermelho",
+      "lote": "515"
+    },
+    {
+      "id": "8d99",
+      "chave": "logquiz__question105answer2",
+      "hash_es": "40598e1cb1d239fd",
+      "texto_ptbr": "Verde",
+      "lote": "515"
+    },
+    {
+      "id": "8d9a",
+      "chave": "logquiz__question105answer3",
+      "hash_es": "b0bf526b23af1961",
+      "texto_ptbr": "Azul",
+      "lote": "515"
+    },
+    {
+      "id": "8d9b",
+      "chave": "logquiz__question105answer4",
+      "hash_es": "846b464248e73621",
+      "texto_ptbr": "Rosa-choque",
+      "lote": "515"
+    },
+    {
+      "id": "ab15",
+      "chave": "logquiz__question111answer1",
+      "hash_es": "5f170129a6773588",
+      "texto_ptbr": "Lata de feijão",
+      "lote": "515"
+    },
+    {
+      "id": "ab16",
+      "chave": "logquiz__question111answer2",
+      "hash_es": "cd7b327f35bde408",
+      "texto_ptbr": "Bola de chiclete",
+      "lote": "515"
+    },
+    {
+      "id": "ab17",
+      "chave": "logquiz__question111answer3",
+      "hash_es": "67a35203362d7e83",
+      "texto_ptbr": "Sapatos velhos",
+      "lote": "515"
+    },
+    {
+      "id": "ab18",
+      "chave": "logquiz__question111answer4",
+      "hash_es": "d6326d5657ad1577",
+      "texto_ptbr": "Caixa de hambúrguer",
+      "lote": "515"
+    },
+    {
+      "id": "7ff6",
+      "chave": "logquiz__question112answer1",
+      "hash_es": "8117d2409d4da16c",
+      "texto_ptbr": "Ela precisa de terapia para perder o medo",
+      "lote": "515"
+    },
+    {
+      "id": "7ff7",
+      "chave": "logquiz__question112answer2",
+      "hash_es": "0e6101cd55a15711",
+      "texto_ptbr": "O papel de parede está descascando",
+      "lote": "515"
+    },
+    {
+      "id": "7ff8",
+      "chave": "logquiz__question112answer3",
+      "hash_es": "eb24d116cfc7580c",
+      "texto_ptbr": "Uma telha caiu do telhado",
+      "lote": "515"
+    },
+    {
+      "id": "7ff9",
+      "chave": "logquiz__question112answer4",
+      "hash_es": "bb0ef9952478e61e",
+      "texto_ptbr": "A maior parte sumiu",
+      "lote": "515"
+    },
+    {
+      "id": "54d7",
+      "chave": "logquiz__question113answer1",
+      "hash_es": "f629fe222f9e63de",
+      "texto_ptbr": "Mundo do Esporte",
+      "lote": "515"
+    },
+    {
+      "id": "54d8",
+      "chave": "logquiz__question113answer2",
+      "hash_es": "5751020959eeacd2",
+      "texto_ptbr": "O Estádio",
+      "lote": "515"
+    },
+    {
+      "id": "54d9",
+      "chave": "logquiz__question113answer3",
+      "hash_es": "304461c9ac799a62",
+      "texto_ptbr": "Super Duper Esportes",
+      "lote": "515"
+    },
+    {
+      "id": "54da",
+      "chave": "logquiz__question113answer4",
+      "hash_es": "9ee6d73d94455193",
+      "texto_ptbr": "O Nível Oval",
+      "lote": "515"
+    },
+    {
+      "id": "29b8",
+      "chave": "logquiz__question114answer1",
+      "hash_es": "f01fc4e3adb5566a",
+      "texto_ptbr": "2 e 4",
+      "lote": "515"
+    },
+    {
+      "id": "29b9",
+      "chave": "logquiz__question114answer2",
+      "hash_es": "11c032ef6a5788fd",
+      "texto_ptbr": "1 e 3",
+      "lote": "515"
+    },
+    {
+      "id": "29ba",
+      "chave": "logquiz__question114answer3",
+      "hash_es": "3d33c8328ec2c3b9",
+      "texto_ptbr": "6 e 6",
+      "lote": "515"
+    },
+    {
+      "id": "29bb",
+      "chave": "logquiz__question114answer4",
+      "hash_es": "980fa36bbf1ed6c7",
+      "texto_ptbr": "3 e 7",
+      "lote": "515"
+    },
+    {
+      "id": "fe99",
+      "chave": "logquiz__question115answer1",
+      "hash_es": "60db85d4e658cd90",
+      "texto_ptbr": "Hambúrgueres",
+      "lote": "515"
+    },
+    {
+      "id": "fe9a",
+      "chave": "logquiz__question115answer2",
+      "hash_es": "f12958816a49adfa",
+      "texto_ptbr": "Pizza",
+      "lote": "515"
+    },
+    {
+      "id": "fe9b",
+      "chave": "logquiz__question115answer3",
+      "hash_es": "5fd6a02360a3a162",
+      "texto_ptbr": "Pipoca",
+      "lote": "515"
+    },
+    {
+      "id": "fe9c",
+      "chave": "logquiz__question115answer4",
+      "hash_es": "b3f6228d8a879f9a",
+      "texto_ptbr": "Cachorro-quente",
+      "lote": "515"
+    },
+    {
+      "id": "b3a4",
+      "chave": "logquiz__question11answer1",
+      "hash_es": "eafe9db170cb728b",
+      "texto_ptbr": "Um sanduíche de geleia",
+      "lote": "515"
+    },
+    {
+      "id": "b3a5",
+      "chave": "logquiz__question11answer2",
+      "hash_es": "9f67e0859c009b9c",
+      "texto_ptbr": "Uma cela de prisão",
+      "lote": "515"
+    },
+    {
+      "id": "b3a6",
+      "chave": "logquiz__question11answer3",
+      "hash_es": "28ffbdcaaa97cd2c",
+      "texto_ptbr": "Uma grande luz azul",
+      "lote": "515"
+    },
+    {
+      "id": "b3a7",
+      "chave": "logquiz__question11answer4",
+      "hash_es": "6655f61f18cacaa0",
+      "texto_ptbr": "Um donut giratório",
+      "lote": "515"
+    },
+    {
+      "id": "1c16",
+      "chave": "logquiz__question121answer1",
+      "hash_es": "b521401a1109fd0e",
+      "texto_ptbr": "Vidro",
+      "lote": "515"
+    },
+    {
+      "id": "1c17",
+      "chave": "logquiz__question121answer2",
+      "hash_es": "831cc0a7092260f5",
+      "texto_ptbr": "Pedra",
+      "lote": "515"
+    },
+    {
+      "id": "1c18",
+      "chave": "logquiz__question121answer3",
+      "hash_es": "d29729289ac4341e",
+      "texto_ptbr": "Madeira",
+      "lote": "515"
+    },
+    {
+      "id": "1c19",
+      "chave": "logquiz__question121answer4",
+      "hash_es": "c59b488cfa25cf1f",
+      "texto_ptbr": "Papelão",
+      "lote": "515"
+    },
+    {
+      "id": "f0f7",
+      "chave": "logquiz__question122answer1",
+      "hash_es": "c339298627a814a4",
+      "texto_ptbr": "Uma fruta",
+      "lote": "515"
+    },
+    {
+      "id": "f0f8",
+      "chave": "logquiz__question122answer2",
+      "hash_es": "0cc2291fb5ad2b41",
+      "texto_ptbr": "Uma flor",
+      "lote": "515"
+    },
+    {
+      "id": "f0f9",
+      "chave": "logquiz__question122answer3",
+      "hash_es": "08e57322b6a5988a",
+      "texto_ptbr": "Um ninho",
+      "lote": "515"
+    },
+    {
+      "id": "f0fa",
+      "chave": "logquiz__question122answer4",
+      "hash_es": "7f2f4f4c02024f22",
+      "texto_ptbr": "Uma lagarta enorme",
+      "lote": "515"
+    },
+    {
+      "id": "c5d8",
+      "chave": "logquiz__question123answer1",
+      "hash_es": "a8fa54f62adfaaa6",
+      "texto_ptbr": "A casa do Banjo",
+      "lote": "515"
+    },
+    {
+      "id": "c5d9",
+      "chave": "logquiz__question123answer2",
+      "hash_es": "e23c1fd9f1af3bc1",
+      "texto_ptbr": "A antiga guarida da Grunty",
+      "lote": "515"
+    },
+    {
+      "id": "c5da",
+      "chave": "logquiz__question123answer3",
+      "hash_es": "4fac90c68dc091b1",
+      "texto_ptbr": "Aquilo em que estou pisando agora",
+      "lote": "515"
+    },
+    {
+      "id": "c5db",
+      "chave": "logquiz__question123answer4",
+      "hash_es": "8dcbe6d7a128283e",
+      "texto_ptbr": "Uma horta",
+      "lote": "515"
+    },
+    {
+      "id": "9ab9",
+      "chave": "logquiz__question124answer1",
+      "hash_es": "c97dcb2c8276e61e",
+      "texto_ptbr": "Nós gostamos de vendedores de janelas",
+      "lote": "515"
+    },
+    {
+      "id": "9aba",
+      "chave": "logquiz__question124answer2",
+      "hash_es": "bf68c6f569d6fb01",
+      "texto_ptbr": "Por favor, toque",
+      "lote": "515"
+    },
+    {
+      "id": "9abb",
+      "chave": "logquiz__question124answer3",
+      "hash_es": "985c78bc4604c1ed",
+      "texto_ptbr": "Bem-vindo",
+      "lote": "515"
+    },
+    {
+      "id": "9abc",
+      "chave": "logquiz__question124answer4",
+      "hash_es": "2120b8417cdfe0d3",
+      "texto_ptbr": "Banjo",
+      "lote": "515"
+    },
+    {
+      "id": "6f9a",
+      "chave": "logquiz__question125answer1",
+      "hash_es": "73449b8df4b06aa5",
+      "texto_ptbr": "Uma ponte",
+      "lote": "515"
+    },
+    {
+      "id": "6f9b",
+      "chave": "logquiz__question125answer2",
+      "hash_es": "447fa82abbb2753d",
+      "texto_ptbr": "Estrada",
+      "lote": "515"
+    },
+    {
+      "id": "6f9c",
+      "chave": "logquiz__question125answer3",
+      "hash_es": "2c14e410552c3fa1",
+      "texto_ptbr": "Um balanço de corda",
+      "lote": "515"
+    },
+    {
+      "id": "6f9d",
+      "chave": "logquiz__question125answer4",
+      "hash_es": "2f0356b8f8ab2fbb",
+      "texto_ptbr": "Uma catapulta",
+      "lote": "515"
+    },
+    {
+      "id": "8885",
+      "chave": "logquiz__question12answer1",
+      "hash_es": "265a0222634a7a2e",
+      "texto_ptbr": "Nenhum",
+      "lote": "515"
+    },
+    {
+      "id": "8886",
+      "chave": "logquiz__question12answer2",
+      "hash_es": "4b227777d4dd1fc6",
+      "texto_ptbr": "4",
+      "lote": "515"
+    },
+    {
+      "id": "8887",
+      "chave": "logquiz__question12answer3",
+      "hash_es": "d4735e3a265e16ee",
+      "texto_ptbr": "2",
+      "lote": "515"
+    },
+    {
+      "id": "8888",
+      "chave": "logquiz__question12answer4",
+      "hash_es": "4e07408562bedb8b",
+      "texto_ptbr": "3",
+      "lote": "515"
+    },
+    {
+      "id": "8d17",
+      "chave": "logquiz__question131answer1",
+      "hash_es": "401f086cf154ff60",
+      "texto_ptbr": "Tooty",
+      "lote": "515"
+    },
+    {
+      "id": "8d18",
+      "chave": "logquiz__question131answer2",
+      "hash_es": "2120b8417cdfe0d3",
+      "texto_ptbr": "Banjo",
+      "lote": "515"
+    },
+    {
+      "id": "8d19",
+      "chave": "logquiz__question131answer3",
+      "hash_es": "0acb0c1610910fca",
+      "texto_ptbr": "Bottles",
+      "lote": "515"
+    },
+    {
+      "id": "8d1a",
+      "chave": "logquiz__question131answer4",
+      "hash_es": "434064cf05be3b32",
+      "texto_ptbr": "Grunty",
+      "lote": "515"
+    },
+    {
+      "id": "61f8",
+      "chave": "logquiz__question132answer1",
+      "hash_es": "1d5b141d35795f21",
+      "texto_ptbr": "Brócolis",
+      "lote": "515"
+    },
+    {
+      "id": "61f9",
+      "chave": "logquiz__question132answer2",
+      "hash_es": "55bc08ee1bef7dc8",
+      "texto_ptbr": "Chirivia",
+      "lote": "515"
+    },
+    {
+      "id": "61fa",
+      "chave": "logquiz__question132answer3",
+      "hash_es": "086819a1662ce16e",
+      "texto_ptbr": "Cenoura",
+      "lote": "515"
+    },
+    {
+      "id": "61fb",
+      "chave": "logquiz__question132answer4",
+      "hash_es": "46310cf44a7a4c15",
+      "texto_ptbr": "Cebola",
+      "lote": "515"
+    },
+    {
+      "id": "36d9",
+      "chave": "logquiz__question133answer1",
+      "hash_es": "da8a6b8406a955a0",
+      "texto_ptbr": "Suco de Fruta Flutuante",
+      "lote": "515"
+    },
+    {
+      "id": "36da",
+      "chave": "logquiz__question133answer2",
+      "hash_es": "65361080fa1d8a7f",
+      "texto_ptbr": "Klungo Diet",
+      "lote": "515"
+    },
+    {
+      "id": "36db",
+      "chave": "logquiz__question133answer3",
+      "hash_es": "5cb01f9030c6dce2",
+      "texto_ptbr": "O Sssabor do Terrarium",
+      "lote": "515"
+    },
+    {
+      "id": "36dc",
+      "chave": "logquiz__question133answer4",
+      "hash_es": "b2cfce61e702a08f",
+      "texto_ptbr": "1-Up",
+      "lote": "515"
+    },
+    {
+      "id": "0bba",
+      "chave": "logquiz__question134answer1",
+      "hash_es": "bd221f8222274881",
+      "texto_ptbr": "Uma lua",
+      "lote": "515"
+    },
+    {
+      "id": "0bbb",
+      "chave": "logquiz__question134answer2",
+      "hash_es": "7d50242bb0c2a0a1",
+      "texto_ptbr": "Um navio coberto de anúncios bregas",
+      "lote": "515"
+    },
+    {
+      "id": "0bbc",
+      "chave": "logquiz__question134answer3",
+      "hash_es": "9367beb2662d5a8d",
+      "texto_ptbr": "Um cometa em chamas",
+      "lote": "515"
+    },
+    {
+      "id": "0bbd",
+      "chave": "logquiz__question134answer4",
+      "hash_es": "4a31fdee5bd7bf46",
+      "texto_ptbr": "Um satélite descartado",
+      "lote": "515"
+    },
+    {
+      "id": "0000",
+      "chave": "logquiz__question135answer1",
+      "hash_es": "255d4511d592d898",
+      "texto_ptbr": "Jolly",
+      "lote": "515"
+    },
+    {
+      "id": "e09c",
+      "chave": "logquiz__question135answer2",
+      "hash_es": "5e607885e16d8204",
+      "texto_ptbr": "Pikelet",
+      "lote": "515"
+    },
+    {
+      "id": "e09d",
+      "chave": "logquiz__question135answer3",
+      "hash_es": "134d042eefaaf386",
+      "texto_ptbr": "Boggy",
+      "lote": "515"
+    },
+    {
+      "id": "e09e",
+      "chave": "logquiz__question135answer4",
+      "hash_es": "7f63ef21a61ea43b",
+      "texto_ptbr": "Kazooie",
+      "lote": "515"
+    },
+    {
+      "id": "5d66",
+      "chave": "logquiz__question13answer1",
+      "hash_es": "915677fe47d713cd",
+      "texto_ptbr": "Pratos Deliciosos",
+      "lote": "515"
+    },
+    {
+      "id": "5d67",
+      "chave": "logquiz__question13answer2",
+      "hash_es": "dc4285c4e870838a",
+      "texto_ptbr": "Bolo Meu Dia",
+      "lote": "515"
+    },
+    {
+      "id": "5d68",
+      "chave": "logquiz__question13answer3",
+      "hash_es": "17e5ed445d953ba5",
+      "texto_ptbr": "Sr. Mistura Pronta",
+      "lote": "515"
+    },
+    {
+      "id": "5d69",
+      "chave": "logquiz__question13answer4",
+      "hash_es": "b1738cb98d7e6936",
+      "texto_ptbr": "Céu do Pão de Ló",
+      "lote": "515"
+    },
+    {
+      "id": "fe18",
+      "chave": "logquiz__question141answer1",
+      "hash_es": "3b95e90ea75b16c2",
+      "texto_ptbr": "Piloto espacial",
+      "lote": "515"
+    },
+    {
+      "id": "fe19",
+      "chave": "logquiz__question141answer2",
+      "hash_es": "3bf6b51b7b6ca4a0",
+      "texto_ptbr": "Robô",
+      "lote": "515"
+    },
+    {
+      "id": "fe1a",
+      "chave": "logquiz__question141answer3",
+      "hash_es": "d0149e5ea5c9d25f",
+      "texto_ptbr": "Nerd de ficção científica",
+      "lote": "515"
+    },
+    {
+      "id": "fe1b",
+      "chave": "logquiz__question141answer4",
+      "hash_es": "3dc655e3269ab26e",
+      "texto_ptbr": "Caubói",
+      "lote": "515"
+    },
+    {
+      "id": "d2f9",
+      "chave": "logquiz__question142answer1",
+      "hash_es": "962c1464c2e78f12",
+      "texto_ptbr": "Terra",
+      "lote": "515"
+    },
+    {
+      "id": "d2fa",
+      "chave": "logquiz__question142answer2",
+      "hash_es": "45b44ee9fbe304f3",
+      "texto_ptbr": "Urano",
+      "lote": "515"
+    },
+    {
+      "id": "d2fb",
+      "chave": "logquiz__question142answer3",
+      "hash_es": "2d1a9184705cb39f",
+      "texto_ptbr": "Marte",
+      "lote": "515"
+    },
+    {
+      "id": "d2fc",
+      "chave": "logquiz__question142answer4",
+      "hash_es": "e39596d05884a8ce",
+      "texto_ptbr": "Muddy X-115 Beta",
+      "lote": "515"
+    },
+    {
+      "id": "a7da",
+      "chave": "logquiz__question143answer1",
+      "hash_es": "101de8b737d2a9bf",
+      "texto_ptbr": "U3",
+      "lote": "515"
+    },
+    {
+      "id": "a7db",
+      "chave": "logquiz__question143answer2",
+      "hash_es": "325a90f389d8331f",
+      "texto_ptbr": "U2",
+      "lote": "515"
+    },
+    {
+      "id": "a7dc",
+      "chave": "logquiz__question143answer3",
+      "hash_es": "316ca0efda6296d8",
+      "texto_ptbr": "U1",
+      "lote": "515"
+    },
+    {
+      "id": "a7dd",
+      "chave": "logquiz__question143answer4",
+      "hash_es": "a6632a279ff1062c",
+      "texto_ptbr": "Feito pelo L.O.G.",
+      "lote": "515"
+    },
+    {
+      "id": "7cbb",
+      "chave": "logquiz__question144answer1",
+      "hash_es": "265a0222634a7a2e",
+      "texto_ptbr": "Nenhuma",
+      "lote": "515"
+    },
+    {
+      "id": "7cbc",
+      "chave": "logquiz__question144answer2",
+      "hash_es": "4a44dc15364204a8",
+      "texto_ptbr": "10",
+      "lote": "515"
+    },
+    {
+      "id": "7cbd",
+      "chave": "logquiz__question144answer3",
+      "hash_es": "e7f6c011776e8db7",
+      "texto_ptbr": "6",
+      "lote": "515"
+    },
+    {
+      "id": "7cbe",
+      "chave": "logquiz__question144answer4",
+      "hash_es": "2c624232cdd22177",
+      "texto_ptbr": "8",
+      "lote": "515"
+    },
+    {
+      "id": "519c",
+      "chave": "logquiz__question145answer1",
+      "hash_es": "5ba0a1dff3d900f2",
+      "texto_ptbr": "Grabbed by the Ghoulies",
+      "lote": "515"
+    },
+    {
+      "id": "519d",
+      "chave": "logquiz__question145answer2",
+      "hash_es": "d93d6ced9e1a9a5b",
+      "texto_ptbr": "Briga de Monstros de Papel-Machê",
+      "lote": "515"
+    },
+    {
+      "id": "519e",
+      "chave": "logquiz__question145answer3",
+      "hash_es": "5bca16306400fbff",
+      "texto_ptbr": "Banjo-Tooie",
+      "lote": "515"
+    },
+    {
+      "id": "519f",
+      "chave": "logquiz__question145answer4",
+      "hash_es": "cefbd04e1145d439",
+      "texto_ptbr": "Kameo: Elements of Power",
+      "lote": "515"
+    },
+    {
+      "id": "3247",
+      "chave": "logquiz__question14answer1",
+      "hash_es": "75f9577a1637cf7a",
+      "texto_ptbr": "Rosa",
+      "lote": "515"
+    },
+    {
+      "id": "3248",
+      "chave": "logquiz__question14answer2",
+      "hash_es": "7069e90c206b0e2d",
+      "texto_ptbr": "Vermelho",
+      "lote": "515"
+    },
+    {
+      "id": "3249",
+      "chave": "logquiz__question14answer3",
+      "hash_es": "8a7ae3ac199faeda",
+      "texto_ptbr": "Amarelo",
+      "lote": "515"
+    },
+    {
+      "id": "324a",
+      "chave": "logquiz__question14answer4",
+      "hash_es": "b2a78cb479c54123",
+      "texto_ptbr": "Roxo",
+      "lote": "515"
+    },
+    {
+      "id": "0728",
+      "chave": "logquiz__question15answer1",
+      "hash_es": "6a6570718538afd7",
+      "texto_ptbr": "Um cabideiro",
+      "lote": "515"
+    },
+    {
+      "id": "0729",
+      "chave": "logquiz__question15answer2",
+      "hash_es": "62c03778ad95bdf3",
+      "texto_ptbr": "Uma tribuna",
+      "lote": "515"
+    },
+    {
+      "id": "072a",
+      "chave": "logquiz__question15answer3",
+      "hash_es": "05c249f5aa323ff3",
+      "texto_ptbr": "Um coreto",
+      "lote": "515"
+    },
+    {
+      "id": "072b",
+      "chave": "logquiz__question15answer4",
+      "hash_es": "77174bd2c61a6e45",
+      "texto_ptbr": "O L.O.G. plantando bananeira",
+      "lote": "515"
+    },
+    {
+      "id": "6653",
+      "chave": "logquiz__question1answer1",
+      "hash_es": "8029bfc6aae22a8e",
+      "texto_ptbr": "Mumbo Jumbo",
+      "lote": "515"
+    },
+    {
+      "id": "6654",
+      "chave": "logquiz__question1answer2",
+      "hash_es": "0f700664012f66fa",
+      "texto_ptbr": "Mr. Mumbles",
+      "lote": "515"
+    },
+    {
+      "id": "6655",
+      "chave": "logquiz__question1answer3",
+      "hash_es": "aa8962a3e5a5c571",
+      "texto_ptbr": "Jumbo Bumbo",
+      "lote": "515"
+    },
+    {
+      "id": "6656",
+      "chave": "logquiz__question1answer4",
+      "hash_es": "be6b75a5660ed002",
+      "texto_ptbr": "Mumbo Mágico",
+      "lote": "515"
+    },
+    {
+      "id": "24a5",
+      "chave": "logquiz__question21answer1",
+      "hash_es": "0c02ae211f201211",
+      "texto_ptbr": "Ele faz malabarismo com os olhos",
+      "lote": "515"
+    },
+    {
+      "id": "24a6",
+      "chave": "logquiz__question21answer2",
+      "hash_es": "6443eb003b44a21e",
+      "texto_ptbr": "Ele troca os braços e as pernas de lugar",
+      "lote": "515"
+    },
+    {
+      "id": "24a7",
+      "chave": "logquiz__question21answer3",
+      "hash_es": "a7cd4685b2855cdc",
+      "texto_ptbr": "Ele dá um espacate",
+      "lote": "515"
+    },
+    {
+      "id": "24a8",
+      "chave": "logquiz__question21answer4",
+      "hash_es": "2a3be8248cc6318c",
+      "texto_ptbr": "Ele tira a própria cabeça",
+      "lote": "515"
+    },
+    {
+      "id": "f986",
+      "chave": "logquiz__question22answer1",
+      "hash_es": "a3b3446257702dc3",
+      "texto_ptbr": "McRibbsies",
+      "lote": "515"
+    },
+    {
+      "id": "f987",
+      "chave": "logquiz__question22answer2",
+      "hash_es": "cdd701c8c7c96364",
+      "texto_ptbr": "Costelas na Brasa do Mr. Ribs",
+      "lote": "515"
+    },
+    {
+      "id": "f988",
+      "chave": "logquiz__question22answer3",
+      "hash_es": "ef1c2cebebb72e18",
+      "texto_ptbr": "Costelas Roubadas",
+      "lote": "515"
+    },
+    {
+      "id": "f989",
+      "chave": "logquiz__question22answer4",
+      "hash_es": "7e41e47bba86a349",
+      "texto_ptbr": "Toca da Costela",
+      "lote": "515"
+    },
+    {
+      "id": "ce67",
+      "chave": "logquiz__question23answer1",
+      "hash_es": "e5139caf7248dcb3",
+      "texto_ptbr": "3 e 91",
+      "lote": "515"
+    },
+    {
+      "id": "ce68",
+      "chave": "logquiz__question23answer2",
+      "hash_es": "e27c426916957eca",
+      "texto_ptbr": "45 e 50",
+      "lote": "515"
+    },
+    {
+      "id": "ce69",
+      "chave": "logquiz__question23answer3",
+      "hash_es": "2151291f766e90be",
+      "texto_ptbr": "11 e 44",
+      "lote": "515"
+    },
+    {
+      "id": "ce6a",
+      "chave": "logquiz__question23answer4",
+      "hash_es": "a14dc00e0838c49e",
+      "texto_ptbr": "1 e 90",
+      "lote": "515"
+    },
+    {
+      "id": "a348",
+      "chave": "logquiz__question24answer1",
+      "hash_es": "8caf03f20c378ab7",
+      "texto_ptbr": "Más Notícias e Fofocas de Celebridades",
+      "lote": "515"
+    },
+    {
+      "id": "a349",
+      "chave": "logquiz__question24answer2",
+      "hash_es": "1f8cc3b9c28acfcf",
+      "texto_ptbr": "Fofocas de Showdown",
+      "lote": "515"
+    },
+    {
+      "id": "a34a",
+      "chave": "logquiz__question24answer3",
+      "hash_es": "4d98fad078cd3212",
+      "texto_ptbr": "O Arauto do L.O.G.",
+      "lote": "515"
+    },
+    {
+      "id": "a34b",
+      "chave": "logquiz__question24answer4",
+      "hash_es": "4a21b72f0dc2432e",
+      "texto_ptbr": "O Diário do L.O.G.",
+      "lote": "515"
+    },
+    {
+      "id": "7829",
+      "chave": "logquiz__question25answer1",
+      "hash_es": "22a9f5417db11502",
+      "texto_ptbr": "Ele bateu o OVNI",
+      "lote": "515"
+    },
+    {
+      "id": "782a",
+      "chave": "logquiz__question25answer2",
+      "hash_es": "555af0ba22eab0b8",
+      "texto_ptbr": "Ele bateu o dedão do pé",
+      "lote": "515"
+    },
+    {
+      "id": "782b",
+      "chave": "logquiz__question25answer3",
+      "hash_es": "c9230d4bfc5b8251",
+      "texto_ptbr": "Ele não sabia para onde ir",
+      "lote": "515"
+    },
+    {
+      "id": "782c",
+      "chave": "logquiz__question25answer4",
+      "hash_es": "755d28799f74d587",
+      "texto_ptbr": "Ele foi atacado por um corvo",
+      "lote": "515"
+    },
+    {
+      "id": "3b34",
+      "chave": "logquiz__question2answer1",
+      "hash_es": "7a2d6e9fb22f4b02",
+      "texto_ptbr": "Loja de Tortas do Boggy",
+      "lote": "515"
+    },
+    {
+      "id": "3b35",
+      "chave": "logquiz__question2answer2",
+      "hash_es": "51d7d9376b24ca65",
+      "texto_ptbr": "Academia do Boggy",
+      "lote": "515"
+    },
+    {
+      "id": "3b36",
+      "chave": "logquiz__question2answer3",
+      "hash_es": "66bf689881747712",
+      "texto_ptbr": "Loja de Fritas do Boggy",
+      "lote": "515"
+    },
+    {
+      "id": "3b37",
+      "chave": "logquiz__question2answer4",
+      "hash_es": "42a7367966c13a12",
+      "texto_ptbr": "Lava-Rápido do Boggy",
+      "lote": "515"
+    },
+    {
+      "id": "95a6",
+      "chave": "logquiz__question31answer1",
+      "hash_es": "7aee44ba51b55be8",
+      "texto_ptbr": "Ultra Banjo Universe",
+      "lote": "515"
+    },
+    {
+      "id": "95a7",
+      "chave": "logquiz__question31answer2",
+      "hash_es": "c49cd84e89e30cad",
+      "texto_ptbr": "Banjo-Threeie",
+      "lote": "515"
+    },
+    {
+      "id": "95a8",
+      "chave": "logquiz__question31answer3",
+      "hash_es": "d761bd9271ae2685",
+      "texto_ptbr": "Banjo-Kazooie",
+      "lote": "515"
+    },
+    {
+      "id": "95a9",
+      "chave": "logquiz__question31answer4",
+      "hash_es": "adfd139b3067787f",
+      "texto_ptbr": "Jiggy Force Gemini",
+      "lote": "515"
+    },
+    {
+      "id": "6a87",
+      "chave": "logquiz__question32answer1",
+      "hash_es": "a326a7b81129845a",
+      "texto_ptbr": "Ovos Azuis",
+      "lote": "515"
+    },
+    {
+      "id": "6a88",
+      "chave": "logquiz__question32answer2",
+      "hash_es": "e11e5b0878a818a3",
+      "texto_ptbr": "Favos Dourados",
+      "lote": "515"
+    },
+    {
+      "id": "6a89",
+      "chave": "logquiz__question32answer3",
+      "hash_es": "97cd6ba7633b366f",
+      "texto_ptbr": "Bebidas com Cafeína",
+      "lote": "515"
+    },
+    {
+      "id": "6a8a",
+      "chave": "logquiz__question32answer4",
+      "hash_es": "e5a8cc0254eadd8e",
+      "texto_ptbr": "Penas Vermelhas",
+      "lote": "515"
+    },
+    {
+      "id": "3f68",
+      "chave": "logquiz__question33answer1",
+      "hash_es": "75a6ebdb42fb427b",
+      "texto_ptbr": "Gruntilda",
+      "lote": "515"
+    },
+    {
+      "id": "3f69",
+      "chave": "logquiz__question33answer2",
+      "hash_es": "bf42278a064d513b",
+      "texto_ptbr": "Brentilda",
+      "lote": "515"
+    },
+    {
+      "id": "3f6a",
+      "chave": "logquiz__question33answer3",
+      "hash_es": "d4bc2bc823e87ead",
+      "texto_ptbr": "Mingella",
+      "lote": "515"
+    },
+    {
+      "id": "3f6b",
+      "chave": "logquiz__question33answer4",
+      "hash_es": "7f63ef21a61ea43b",
+      "texto_ptbr": "Kazooie",
+      "lote": "515"
+    },
+    {
+      "id": "1449",
+      "chave": "logquiz__question34answer1",
+      "hash_es": "68b8a142a801c4d0",
+      "texto_ptbr": "3 meses",
+      "lote": "515"
+    },
+    {
+      "id": "144a",
+      "chave": "logquiz__question34answer2",
+      "hash_es": "68c5bfd6ffb68dcd",
+      "texto_ptbr": "10 anos",
+      "lote": "515"
+    },
+    {
+      "id": "144b",
+      "chave": "logquiz__question34answer3",
+      "hash_es": "cd025baed697c1f4",
+      "texto_ptbr": "8 anos",
+      "lote": "515"
+    },
+    {
+      "id": "144c",
+      "chave": "logquiz__question34answer4",
+      "hash_es": "c6eafa5007167a1f",
+      "texto_ptbr": "20 anos",
+      "lote": "515"
+    },
+    {
+      "id": "e92a",
+      "chave": "logquiz__question35answer1",
+      "hash_es": "2f7d6a5debbb7e6d",
+      "texto_ptbr": "Ficava parado assobiando à toa",
+      "lote": "515"
+    },
+    {
+      "id": "e92b",
+      "chave": "logquiz__question35answer2",
+      "hash_es": "f9bc4e19bc3baa5a",
+      "texto_ptbr": "Ensinava novas habilidades ao Banjo",
+      "lote": "515"
+    },
+    {
+      "id": "e92c",
+      "chave": "logquiz__question35answer3",
+      "hash_es": "b068685ca6c86408",
+      "texto_ptbr": "Transformava o Banjo em objetos",
+      "lote": "515"
+    },
+    {
+      "id": "e92d",
+      "chave": "logquiz__question35answer4",
+      "hash_es": "23f029c19f3a2a4b",
+      "texto_ptbr": "Misturava poções para teleportar de fase",
+      "lote": "515"
+    },
+    {
+      "id": "1015",
+      "chave": "logquiz__question3answer1",
+      "hash_es": "fec7f47ead51a7d5",
+      "texto_ptbr": "Super Klungo",
+      "lote": "515"
+    },
+    {
+      "id": "1016",
+      "chave": "logquiz__question3answer2",
+      "hash_es": "95196e95707be0bd",
+      "texto_ptbr": "Klungo-Klungooie",
+      "lote": "515"
+    },
+    {
+      "id": "1017",
+      "chave": "logquiz__question3answer3",
+      "hash_es": "89017cdff96f0479",
+      "texto_ptbr": "Hero Klungo Sssavesss Teh World",
+      "lote": "515"
+    },
+    {
+      "id": "1018",
+      "chave": "logquiz__question3answer4",
+      "hash_es": "ff590e3e73715021",
+      "texto_ptbr": "Klungo Kart",
+      "lote": "515"
+    },
+    {
+      "id": "06a7",
+      "chave": "logquiz__question41answer1",
+      "hash_es": "6253fe0460b0e41c",
+      "texto_ptbr": "A Grunty sequestrou a irmã do Banjo",
+      "lote": "515"
+    },
+    {
+      "id": "06a8",
+      "chave": "logquiz__question41answer2",
+      "hash_es": "48dd78b8870a5c29",
+      "texto_ptbr": "A Grunty matou o Bottles",
+      "lote": "515"
+    },
+    {
+      "id": "06a9",
+      "chave": "logquiz__question41answer3",
+      "hash_es": "a77bfdc7bc06adc4",
+      "texto_ptbr": "A Grunty insultou a mãe do Banjo",
+      "lote": "515"
+    },
+    {
+      "id": "06aa",
+      "chave": "logquiz__question41answer4",
+      "hash_es": "05e838ad110540f4",
+      "texto_ptbr": "A Grunty arruinou as férias do Banjo",
+      "lote": "515"
+    },
+    {
+      "id": "db88",
+      "chave": "logquiz__question42answer1",
+      "hash_es": "9d0bd141c97d3a96",
+      "texto_ptbr": "A Fonte do Fulgore",
+      "lote": "515"
+    },
+    {
+      "id": "db89",
+      "chave": "logquiz__question42answer2",
+      "hash_es": "bf43fa999ab62218",
+      "texto_ptbr": "A Montanha do Mumbo",
+      "lote": "515"
+    },
+    {
+      "id": "db8a",
+      "chave": "logquiz__question42answer3",
+      "hash_es": "11687f2aa394f99a",
+      "texto_ptbr": "Templo Mayahem",
+      "lote": "515"
+    },
+    {
+      "id": "db8b",
+      "chave": "logquiz__question42answer4",
+      "hash_es": "b2118b12a833965e",
+      "texto_ptbr": "O Jardim da Coleta Inútil",
+      "lote": "515"
+    },
+    {
+      "id": "b069",
+      "chave": "logquiz__question43answer1",
+      "hash_es": "9988ad0a66f28fe8",
+      "texto_ptbr": "1888",
+      "lote": "515"
+    },
+    {
+      "id": "b06a",
+      "chave": "logquiz__question43answer2",
+      "hash_es": "d54123de468bd42e",
+      "texto_ptbr": "1998",
+      "lote": "515"
+    },
+    {
+      "id": "b06b",
+      "chave": "logquiz__question43answer3",
+      "hash_es": "81a83544cf93c245",
+      "texto_ptbr": "2000",
+      "lote": "515"
+    },
+    {
+      "id": "b06c",
+      "chave": "logquiz__question43answer4",
+      "hash_es": "e5e53c784d5d49de",
+      "texto_ptbr": "2008",
+      "lote": "515"
+    },
+    {
+      "id": "854a",
+      "chave": "logquiz__question44answer1",
+      "hash_es": "2ecd8c041859aabb",
+      "texto_ptbr": "O avô dela",
+      "lote": "515"
+    },
+    {
+      "id": "854b",
+      "chave": "logquiz__question44answer2",
+      "hash_es": "8029bfc6aae22a8e",
+      "texto_ptbr": "Mumbo Jumbo",
+      "lote": "515"
+    },
+    {
+      "id": "854c",
+      "chave": "logquiz__question44answer3",
+      "hash_es": "a43687ed82c3c261",
+      "texto_ptbr": "Klungo",
+      "lote": "515"
+    },
+    {
+      "id": "854d",
+      "chave": "logquiz__question44answer4",
+      "hash_es": "eed66da861cd9a25",
+      "texto_ptbr": "O Jinjonator",
+      "lote": "515"
+    },
+    {
+      "id": "5a2b",
+      "chave": "logquiz__question45answer1",
+      "hash_es": "12e2aabb4ae479fd",
+      "texto_ptbr": "Diddy Kong Racing",
+      "lote": "515"
+    },
+    {
+      "id": "5a2c",
+      "chave": "logquiz__question45answer2",
+      "hash_es": "5eb42d8b7a376f64",
+      "texto_ptbr": "Killer Instinct",
+      "lote": "515"
+    },
+    {
+      "id": "5a2d",
+      "chave": "logquiz__question45answer3",
+      "hash_es": "5ba0a1dff3d900f2",
+      "texto_ptbr": "Grabbed by the Ghoulies",
+      "lote": "515"
+    },
+    {
+      "id": "5a2e",
+      "chave": "logquiz__question45answer4",
+      "hash_es": "dc5a167ec7c5eabc",
+      "texto_ptbr": "Time Lord",
+      "lote": "515"
+    },
+    {
+      "id": "e4f6",
+      "chave": "logquiz__question4answer1",
+      "hash_es": "a113701e16f6d8cb",
+      "texto_ptbr": "A usina elétrica subterrânea do L.O.G.",
+      "lote": "515"
+    },
+    {
+      "id": "e4f7",
+      "chave": "logquiz__question4answer2",
+      "hash_es": "5725557b809cb020",
+      "texto_ptbr": "A base secreta de foguetes do L.O.G.",
+      "lote": "515"
+    },
+    {
+      "id": "e4f8",
+      "chave": "logquiz__question4answer3",
+      "hash_es": "7d268322ead81bc0",
+      "texto_ptbr": "O farol do L.O.G.",
+      "lote": "515"
+    },
+    {
+      "id": "e4f9",
+      "chave": "logquiz__question4answer4",
+      "hash_es": "d05d9038f6873da7",
+      "texto_ptbr": "A fábrica de videogames do L.O.G.",
+      "lote": "515"
+    },
+    {
+      "id": "77a8",
+      "chave": "logquiz__question51answer1",
+      "hash_es": "48268633788af742",
+      "texto_ptbr": "A.L.F.",
+      "lote": "515"
+    },
+    {
+      "id": "77a9",
+      "chave": "logquiz__question51answer2",
+      "hash_es": "c9282d486fa4badb",
+      "texto_ptbr": "S.U.X.X.O.R.Z.",
+      "lote": "515"
+    },
+    {
+      "id": "77aa",
+      "chave": "logquiz__question51answer3",
+      "hash_es": "865e051247a76276",
+      "texto_ptbr": "B.O.B",
+      "lote": "515"
+    },
+    {
+      "id": "77ab",
+      "chave": "logquiz__question51answer4",
+      "hash_es": "e1ac2c466699a114",
+      "texto_ptbr": "E.R.S.A.",
+      "lote": "515"
+    },
+    {
+      "id": "4c89",
+      "chave": "logquiz__question52answer1",
+      "hash_es": "2741899262a54a1b",
+      "texto_ptbr": "Caos da Múltipla Escolha",
+      "lote": "515"
+    },
+    {
+      "id": "4c8a",
+      "chave": "logquiz__question52answer2",
+      "hash_es": "8b1840a046f9b3a8",
+      "texto_ptbr": "Roleta do Infortúnio",
+      "lote": "515"
+    },
+    {
+      "id": "4c8b",
+      "chave": "logquiz__question52answer3",
+      "hash_es": "874d869833c82e09",
+      "texto_ptbr": "Bata na Campainha",
+      "lote": "515"
+    },
+    {
+      "id": "4c8c",
+      "chave": "logquiz__question52answer4",
+      "hash_es": "b55bdbe938fc9e43",
+      "texto_ptbr": "A Diversão da Fornalha da Grunty",
+      "lote": "515"
+    },
+    {
+      "id": "216a",
+      "chave": "logquiz__question53answer1",
+      "hash_es": "401f086cf154ff60",
+      "texto_ptbr": "Tooty",
+      "lote": "515"
+    },
+    {
+      "id": "216b",
+      "chave": "logquiz__question53answer2",
+      "hash_es": "cb27401b6d16a8af",
+      "texto_ptbr": "Tarty",
+      "lote": "515"
+    },
+    {
+      "id": "216c",
+      "chave": "logquiz__question53answer3",
+      "hash_es": "cb380db3c29154cb",
+      "texto_ptbr": "Treaty",
+      "lote": "515"
+    },
+    {
+      "id": "216d",
+      "chave": "logquiz__question53answer4",
+      "hash_es": "785644060b13df4f",
+      "texto_ptbr": "Tufty",
+      "lote": "515"
+    },
+    {
+      "id": "f64b",
+      "chave": "logquiz__question54answer1",
+      "hash_es": "a8ec196130be3595",
+      "texto_ptbr": "Sacode e Aperta",
+      "lote": "515"
+    },
+    {
+      "id": "f64c",
+      "chave": "logquiz__question54answer2",
+      "hash_es": "a59071d50c818a37",
+      "texto_ptbr": "Stop 'n' Swop",
+      "lote": "515"
+    },
+    {
+      "id": "f64d",
+      "chave": "logquiz__question54answer3",
+      "hash_es": "6c10008f088e654e",
+      "texto_ptbr": "Puxa e Empurra",
+      "lote": "515"
+    },
+    {
+      "id": "f64e",
+      "chave": "logquiz__question54answer4",
+      "hash_es": "f8085dbfc528f036",
+      "texto_ptbr": "Cola e Gruda",
+      "lote": "515"
+    },
+    {
+      "id": "cb2c",
+      "chave": "logquiz__question55answer1",
+      "hash_es": "9aeb1b210a8f6cc3",
+      "texto_ptbr": "Mouldy Mango",
+      "lote": "515"
+    },
+    {
+      "id": "cb2d",
+      "chave": "logquiz__question55answer2",
+      "hash_es": "ba48385c358d7ddd",
+      "texto_ptbr": "Mangy Wango",
+      "lote": "515"
+    },
+    {
+      "id": "cb2e",
+      "chave": "logquiz__question55answer3",
+      "hash_es": "0efa66bba6fec18e",
+      "texto_ptbr": "Mingy Jongo",
+      "lote": "515"
+    },
+    {
+      "id": "cb2f",
+      "chave": "logquiz__question55answer4",
+      "hash_es": "9f771fce5c0d850f",
+      "texto_ptbr": "Mungo Klungo",
+      "lote": "515"
+    },
+    {
+      "id": "b9d7",
+      "chave": "logquiz__question5answer1",
+      "hash_es": "187037c76e9bd63e",
+      "texto_ptbr": "Palácio do Bingo do Jingaling",
+      "lote": "515"
+    },
+    {
+      "id": "b9d8",
+      "chave": "logquiz__question5answer2",
+      "hash_es": "834f56cce5f62f6b",
+      "texto_ptbr": "O Banco de Jiggies",
+      "lote": "515"
+    },
+    {
+      "id": "b9d9",
+      "chave": "logquiz__question5answer3",
+      "hash_es": "2f6caa6ffec5f802",
+      "texto_ptbr": "Uma Máquina de Jiggies",
+      "lote": "515"
+    },
+    {
+      "id": "b9da",
+      "chave": "logquiz__question5answer4",
+      "hash_es": "c7df122344aae13a",
+      "texto_ptbr": "Uma jogabilidade decente",
+      "lote": "515"
+    },
+    {
+      "id": "e8a9",
+      "chave": "logquiz__question61answer1",
+      "hash_es": "c792adf69c4637ae",
+      "texto_ptbr": "LOGBOX 720",
+      "lote": "515"
+    },
+    {
+      "id": "e8aa",
+      "chave": "logquiz__question61answer2",
+      "hash_es": "78633c8806623f55",
+      "texto_ptbr": "Speccy 48K",
+      "lote": "515"
+    },
+    {
+      "id": "e8ab",
+      "chave": "logquiz__question61answer3",
+      "hash_es": "7e24c1a2716607b6",
+      "texto_ptbr": "W.H.O.P.P.A.",
+      "lote": "515"
+    },
+    {
+      "id": "e8ac",
+      "chave": "logquiz__question61answer4",
+      "hash_es": "e31391836672c09a",
+      "texto_ptbr": "Mundo-Conso",
+      "lote": "515"
+    },
+    {
+      "id": "bd8a",
+      "chave": "logquiz__question62answer1",
+      "hash_es": "40598e1cb1d239fd",
+      "texto_ptbr": "Verde",
+      "lote": "515"
+    },
+    {
+      "id": "bd8b",
+      "chave": "logquiz__question62answer2",
+      "hash_es": "75f9577a1637cf7a",
+      "texto_ptbr": "Rosa",
+      "lote": "515"
+    },
+    {
+      "id": "bd8c",
+      "chave": "logquiz__question62answer3",
+      "hash_es": "b0bf526b23af1961",
+      "texto_ptbr": "Azul",
+      "lote": "515"
+    },
+    {
+      "id": "bd8d",
+      "chave": "logquiz__question62answer4",
+      "hash_es": "7d764f3d16cec722",
+      "texto_ptbr": "Preto com bolinhas brancas",
+      "lote": "515"
+    },
+    {
+      "id": "926b",
+      "chave": "logquiz__question63answer1",
+      "hash_es": "d554f5a2cd7faff8",
+      "texto_ptbr": "No fundo do tanque de gosma",
+      "lote": "609"
+    },
+    {
+      "id": "926c",
+      "chave": "logquiz__question63answer2",
+      "hash_es": "5946b562060e3d61",
+      "texto_ptbr": "Em cima do Chip de Gráficos",
+      "lote": "515"
+    },
+    {
+      "id": "926d",
+      "chave": "logquiz__question63answer3",
+      "hash_es": "931ce3d25fe3faca",
+      "texto_ptbr": "Na sala de energia",
+      "lote": "515"
+    },
+    {
+      "id": "926e",
+      "chave": "logquiz__question63answer4",
+      "hash_es": "043b7ae6afce0ac1",
+      "texto_ptbr": "Ao lado da loja de peixe e fritas",
+      "lote": "515"
+    },
+    {
+      "id": "674c",
+      "chave": "logquiz__question64answer1",
+      "hash_es": "99843868b4d57574",
+      "texto_ptbr": "Engrenagens gigantes",
+      "lote": "515"
+    },
+    {
+      "id": "674d",
+      "chave": "logquiz__question64answer2",
+      "hash_es": "7d28ac002c570545",
+      "texto_ptbr": "A melhor porcelana do L.O.G.",
+      "lote": "515"
+    },
+    {
+      "id": "674e",
+      "chave": "logquiz__question64answer3",
+      "hash_es": "36204f5d11632e69",
+      "texto_ptbr": "Carrosséis",
+      "lote": "515"
+    },
+    {
+      "id": "674f",
+      "chave": "logquiz__question64answer4",
+      "hash_es": "0ac18b08bb86f0eb",
+      "texto_ptbr": "Discos de videogame",
+      "lote": "515"
+    },
+    {
+      "id": "3c2d",
+      "chave": "logquiz__question65answer1",
+      "hash_es": "741be43c0810ce88",
+      "texto_ptbr": "Chips",
+      "lote": "515"
+    },
+    {
+      "id": "3c2e",
+      "chave": "logquiz__question65answer2",
+      "hash_es": "af8c342c05df5860",
+      "texto_ptbr": "Chops",
+      "lote": "515"
+    },
+    {
+      "id": "3c2f",
+      "chave": "logquiz__question65answer3",
+      "hash_es": "bead8677698a4b14",
+      "texto_ptbr": "Chaps",
+      "lote": "515"
+    },
+    {
+      "id": "3c30",
+      "chave": "logquiz__question65answer4",
+      "hash_es": "2ab914ee34e6f568",
+      "texto_ptbr": "Chumps",
+      "lote": "515"
+    },
+    {
+      "id": "59aa",
+      "chave": "logquiz__question71answer1",
+      "hash_es": "6b86b273ff34fce1",
+      "texto_ptbr": "1",
+      "lote": "515"
+    },
+    {
+      "id": "59ab",
+      "chave": "logquiz__question71answer2",
+      "hash_es": "4b227777d4dd1fc6",
+      "texto_ptbr": "4",
+      "lote": "515"
+    },
+    {
+      "id": "59ac",
+      "chave": "logquiz__question71answer3",
+      "hash_es": "e7f6c011776e8db7",
+      "texto_ptbr": "6",
+      "lote": "515"
+    },
+    {
+      "id": "59ad",
+      "chave": "logquiz__question71answer4",
+      "hash_es": "6b51d431df5d7f14",
+      "texto_ptbr": "12",
+      "lote": "515"
+    },
+    {
+      "id": "2e8b",
+      "chave": "logquiz__question72answer1",
+      "hash_es": "45b842ef61da7825",
+      "texto_ptbr": "Uma caneca de café",
+      "lote": "515"
+    },
+    {
+      "id": "2e8c",
+      "chave": "logquiz__question72answer2",
+      "hash_es": "af3a7396300f332b",
+      "texto_ptbr": "Giz de cera",
+      "lote": "515"
+    },
+    {
+      "id": "2e8d",
+      "chave": "logquiz__question72answer3",
+      "hash_es": "a0ca29acbb1df3de",
+      "texto_ptbr": "Uma orelha",
+      "lote": "515"
+    },
+    {
+      "id": "2e8e",
+      "chave": "logquiz__question72answer4",
+      "hash_es": "6f9c8798c9c134a4",
+      "texto_ptbr": "Alto-falante",
+      "lote": "515"
+    },
+    {
+      "id": "036c",
+      "chave": "logquiz__question73answer1",
+      "hash_es": "af3a7396300f332b",
+      "texto_ptbr": "Giz de cera",
+      "lote": "515"
+    },
+    {
+      "id": "036d",
+      "chave": "logquiz__question73answer2",
+      "hash_es": "6f9c8798c9c134a4",
+      "texto_ptbr": "Alto-falante",
+      "lote": "515"
+    },
+    {
+      "id": "036e",
+      "chave": "logquiz__question73answer3",
+      "hash_es": "8e98131744b839e7",
+      "texto_ptbr": "Uma lata de tinta",
+      "lote": "515"
+    },
+    {
+      "id": "036f",
+      "chave": "logquiz__question73answer4",
+      "hash_es": "630cdae389250e6d",
+      "texto_ptbr": "Três ratinhos",
+      "lote": "515"
+    },
+    {
+      "id": "d84d",
+      "chave": "logquiz__question74answer1",
+      "hash_es": "5ba0a1dff3d900f2",
+      "texto_ptbr": "Grabbed by the Ghoulies",
+      "lote": "515"
+    },
+    {
+      "id": "d84e",
+      "chave": "logquiz__question74answer2",
+      "hash_es": "d761bd9271ae2685",
+      "texto_ptbr": "Banjo-Kazooie",
+      "lote": "515"
+    },
+    {
+      "id": "d84f",
+      "chave": "logquiz__question74answer3",
+      "hash_es": "06697e5848d5a948",
+      "texto_ptbr": "Drenagem Cerebral do Dr. Klungo",
+      "lote": "515"
+    },
+    {
+      "id": "d850",
+      "chave": "logquiz__question74answer4",
+      "hash_es": "ab20ad69a4bac34e",
+      "texto_ptbr": "Capitão Skyhawk",
+      "lote": "515"
+    },
+    {
+      "id": "ad2e",
+      "chave": "logquiz__question75answer1",
+      "hash_es": "d8b81aa17846f18a",
+      "texto_ptbr": "Morcegos",
+      "lote": "515"
+    },
+    {
+      "id": "ad2f",
+      "chave": "logquiz__question75answer2",
+      "hash_es": "04254e280c97f724",
+      "texto_ptbr": "Casacos",
+      "lote": "515"
+    },
+    {
+      "id": "ad30",
+      "chave": "logquiz__question75answer3",
+      "hash_es": "02f632c6a1bdeaa1",
+      "texto_ptbr": "Uma esponja",
+      "lote": "515"
+    },
+    {
+      "id": "ad31",
+      "chave": "logquiz__question75answer4",
+      "hash_es": "a2f8b60cc3bdd682",
+      "texto_ptbr": "Uma lâmpada gigante",
+      "lote": "515"
+    },
+    {
+      "id": "caab",
+      "chave": "logquiz__question81answer1",
+      "hash_es": "825034ab6688f4da",
+      "texto_ptbr": "Banjo-Kazooie: Nuts & Bolts",
+      "lote": "515"
+    },
+    {
+      "id": "caac",
+      "chave": "logquiz__question81answer2",
+      "hash_es": "5bca16306400fbff",
+      "texto_ptbr": "Banjo-Tooie",
+      "lote": "515"
+    },
+    {
+      "id": "caad",
+      "chave": "logquiz__question81answer3",
+      "hash_es": "d761bd9271ae2685",
+      "texto_ptbr": "Banjo-Kazooie",
+      "lote": "515"
+    },
+    {
+      "id": "caae",
+      "chave": "logquiz__question81answer4",
+      "hash_es": "4869e66752a68570",
+      "texto_ptbr": "It's Mr. Pants",
+      "lote": "515"
+    },
+    {
+      "id": "9f8c",
+      "chave": "logquiz__question82answer1",
+      "hash_es": "5e607885e16d8204",
+      "texto_ptbr": "Pikelet",
+      "lote": "515"
+    },
+    {
+      "id": "9f8d",
+      "chave": "logquiz__question82answer2",
+      "hash_es": "6c50467991adab86",
+      "texto_ptbr": "Jolly Dodger",
+      "lote": "515"
+    },
+    {
+      "id": "9f8e",
+      "chave": "logquiz__question82answer3",
+      "hash_es": "8029bfc6aae22a8e",
+      "texto_ptbr": "Mumbo Jumbo",
+      "lote": "515"
+    },
+    {
+      "id": "9f8f",
+      "chave": "logquiz__question82answer4",
+      "hash_es": "b268f69416012c88",
+      "texto_ptbr": "Lord Woo Fak Fak",
+      "lote": "515"
+    },
+    {
+      "id": "746d",
+      "chave": "logquiz__question83answer1",
+      "hash_es": "6438c29c6536a2ca",
+      "texto_ptbr": "Morango",
+      "lote": "515"
+    },
+    {
+      "id": "746e",
+      "chave": "logquiz__question83answer2",
+      "hash_es": "35889952ade36157",
+      "texto_ptbr": "Cheesecake de Groselha",
+      "lote": "515"
+    },
+    {
+      "id": "746f",
+      "chave": "logquiz__question83answer3",
+      "hash_es": "a3fadc52bc7422ea",
+      "texto_ptbr": "Uva",
+      "lote": "515"
+    },
+    {
+      "id": "7470",
+      "chave": "logquiz__question83answer4",
+      "hash_es": "086819a1662ce16e",
+      "texto_ptbr": "Cenoura",
+      "lote": "515"
+    },
+    {
+      "id": "494e",
+      "chave": "logquiz__question84answer1",
+      "hash_es": "4e07408562bedb8b",
+      "texto_ptbr": "3",
+      "lote": "515"
+    },
+    {
+      "id": "494f",
+      "chave": "logquiz__question84answer2",
+      "hash_es": "2c624232cdd22177",
+      "texto_ptbr": "8",
+      "lote": "515"
+    },
+    {
+      "id": "4950",
+      "chave": "logquiz__question84answer3",
+      "hash_es": "6b51d431df5d7f14",
+      "texto_ptbr": "12",
+      "lote": "515"
+    },
+    {
+      "id": "4951",
+      "chave": "logquiz__question84answer4",
+      "hash_es": "4a44dc15364204a8",
+      "texto_ptbr": "10",
+      "lote": "515"
+    },
+    {
+      "id": "1e2f",
+      "chave": "logquiz__question85answer1",
+      "hash_es": "404325ea00c827f2",
+      "texto_ptbr": "Um ventilador enorme",
+      "lote": "515"
+    },
+    {
+      "id": "1e30",
+      "chave": "logquiz__question85answer2",
+      "hash_es": "697abddb492dc9c7",
+      "texto_ptbr": "Um grande lago de gosma",
+      "lote": "609"
+    },
+    {
+      "id": "1e31",
+      "chave": "logquiz__question85answer3",
+      "hash_es": "3a4b2f4d85f93c39",
+      "texto_ptbr": "Um interruptor colossal",
+      "lote": "515"
+    },
+    {
+      "id": "1e32",
+      "chave": "logquiz__question85answer4",
+      "hash_es": "73ea1444a9ca8a5b",
+      "texto_ptbr": "Uma fileira enorme de espinhos",
+      "lote": "515"
+    },
+    {
+      "id": "3bac",
+      "chave": "logquiz__question91answer1",
+      "hash_es": "5cde31756c9ecab3",
+      "texto_ptbr": "Banjolard",
+      "lote": "515"
+    },
+    {
+      "id": "3bad",
+      "chave": "logquiz__question91answer2",
+      "hash_es": "561969f1772cba97",
+      "texto_ptbr": "Bajnoland",
+      "lote": "515"
+    },
+    {
+      "id": "3bae",
+      "chave": "logquiz__question91answer3",
+      "hash_es": "f8694c750b56d05f",
+      "texto_ptbr": "Banjoland",
+      "lote": "515"
+    },
+    {
+      "id": "3baf",
+      "chave": "logquiz__question91answer4",
+      "hash_es": "dd28aa120a0b0263",
+      "texto_ptbr": "Bingoland",
+      "lote": "515"
+    },
+    {
+      "id": "108d",
+      "chave": "logquiz__question92answer1",
+      "hash_es": "78329fe5f4ab0990",
+      "texto_ptbr": "O cheiro de jogos reciclados",
+      "lote": "515"
+    },
+    {
+      "id": "108e",
+      "chave": "logquiz__question92answer2",
+      "hash_es": "86eb54ec0107b09a",
+      "texto_ptbr": "Penas",
+      "lote": "515"
+    },
+    {
+      "id": "108f",
+      "chave": "logquiz__question92answer3",
+      "hash_es": "d48f650c9b96e0b8",
+      "texto_ptbr": "Terry",
+      "lote": "515"
+    },
+    {
+      "id": "1090",
+      "chave": "logquiz__question92answer4",
+      "hash_es": "e28472c694f68b29",
+      "texto_ptbr": "Ovos",
+      "lote": "515"
+    },
+    {
+      "id": "e56e",
+      "chave": "logquiz__question93answer1",
+      "hash_es": "aa33514d5da44bda",
+      "texto_ptbr": "Uma pirâmide",
+      "lote": "515"
+    },
+    {
+      "id": "e56f",
+      "chave": "logquiz__question93answer2",
+      "hash_es": "f0029d276eca1a0e",
+      "texto_ptbr": "Um balde e uma pá gigantes",
+      "lote": "515"
+    },
+    {
+      "id": "e570",
+      "chave": "logquiz__question93answer3",
+      "hash_es": "c1b9948dde5db4a7",
+      "texto_ptbr": "Um resort de praia",
+      "lote": "515"
+    },
+    {
+      "id": "e571",
+      "chave": "logquiz__question93answer4",
+      "hash_es": "8bb56ce1115b1b21",
+      "texto_ptbr": "Um iglu",
+      "lote": "515"
+    },
+    {
+      "id": "ba4f",
+      "chave": "logquiz__question94answer1",
+      "hash_es": "f1968c1d89861728",
+      "texto_ptbr": "Uma refeição de cinco pratos",
+      "lote": "515"
+    },
+    {
+      "id": "ba50",
+      "chave": "logquiz__question94answer2",
+      "hash_es": "f12958816a49adfa",
+      "texto_ptbr": "Pizza",
+      "lote": "515"
+    },
+    {
+      "id": "ba51",
+      "chave": "logquiz__question94answer3",
+      "hash_es": "c868059446aab180",
+      "texto_ptbr": "Sorvete",
+      "lote": "515"
+    },
+    {
+      "id": "ba52",
+      "chave": "logquiz__question94answer4",
+      "hash_es": "87682496c10fd195",
+      "texto_ptbr": "Chá com biscoitos",
+      "lote": "515"
+    },
+    {
+      "id": "8f30",
+      "chave": "logquiz__question95answer1",
+      "hash_es": "a06df71ce9a60708",
+      "texto_ptbr": "As vitrines de troféus do T.T.",
+      "lote": "515"
+    },
+    {
+      "id": "8f31",
+      "chave": "logquiz__question95answer2",
+      "hash_es": "4e07d5f31f219371",
+      "texto_ptbr": "Vestiários",
+      "lote": "515"
+    },
+    {
+      "id": "8f32",
+      "chave": "logquiz__question95answer3",
+      "hash_es": "43799ba447230f5f",
+      "texto_ptbr": "Praça de alimentação",
+      "lote": "515"
+    },
+    {
+      "id": "8f33",
+      "chave": "logquiz__question95answer4",
+      "hash_es": "7843589d8cbe213f",
+      "texto_ptbr": "Um portal para a era dos jogos divertidos",
+      "lote": "515"
+    }
+  ]
+}

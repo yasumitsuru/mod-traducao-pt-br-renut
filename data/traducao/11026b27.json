@@ -1,0 +1,720 @@
+{
+  "arquivo": "11026b27",
+  "asset": "aid_loctext_banjox_terrorium_act2",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "655bd5545a376519",
+      "texto_ptbr": "Revanche, rapaz? Desta vez você não vai ver nem a minha poeira espacial!",
+      "lote": "607"
+    },
+    {
+      "id": "9744",
+      "chave": "dialog__game1_intro",
+      "hash_es": "6958f9a5fd1bf40e",
+      "texto_ptbr": "Arrr, meu rapaz! Capitão Flash McBlubber ao seu dispor, cruzado espacial e aventureiro intergaláctico! A quem recorro para um bom teste das minhas habilidades de corrida espacial?",
+      "lote": "601"
+    },
+    {
+      "id": "396b",
+      "chave": "dialog__game1_lose",
+      "hash_es": "c883e7450a19767c",
+      "texto_ptbr": "{MOODHAPPY}Flash McBlubber triunfa de novo! No fim, não estava tão enferrujado, marujo!",
+      "lote": "601"
+    },
+    {
+      "id": "4127",
+      "chave": "dialog__game1_objectivesa",
+      "hash_es": "6587755e53262371",
+      "texto_ptbr": "{MOODSAD}Não entrei para a Elite dos Heróis Espaciais para ser babá de um bando de observadores de plantas. Eu deveria estar lá fora explorando novas galáxias!",
+      "lote": "601"
+    },
+    {
+      "id": "4128",
+      "chave": "dialog__game1_objectivesb",
+      "hash_es": "bd37e28dc9093197",
+      "texto_ptbr": "Então por que você não some daqui, é... Capitão McBlubber?",
+      "lote": "601"
+    },
+    {
+      "id": "4129",
+      "chave": "dialog__game1_objectivesc",
+      "hash_es": "471009ab1a959f60",
+      "texto_ptbr": "{MOODSAD}Minhas habilidades de piloto estão meio enferrujadas. Preciso de um rival de corrida para me ajudar a treinar, alguém que encare terra e ar!",
+      "lote": "601"
+    },
+    {
+      "id": "412a",
+      "chave": "dialog__game1_objectivesd",
+      "hash_es": "5ac17c3945c711c5",
+      "texto_ptbr": "Parece que é a nossa deixa. Aceitamos o desafio, cara de foguete.",
+      "lote": "601"
+    },
+    {
+      "id": "412b",
+      "chave": "dialog__game1_objectivese",
+      "hash_es": "424580b2d065fea6",
+      "texto_ptbr": "{MOODHAPPY}Arrr! Aceito o desafio de vocês, meus marujos!",
+      "lote": "601"
+    },
+    {
+      "id": "2767",
+      "chave": "dialog__game1_wina",
+      "hash_es": "700566fa412c30ab",
+      "texto_ptbr": "{MOODSAD}Rivais deveriam ser equilibrados, mas vocês me derrotaram por anos-luz! Eu deveria devolver meu distintivo de Herói Espacial...",
+      "lote": "601"
+    },
+    {
+      "id": "2769",
+      "chave": "dialog__game1_winc",
+      "hash_es": "d52621ca79f1c270",
+      "texto_ptbr": "{MOODSAD}Estou mais enferrujado do que eu pensava! Aproveitem o prêmio, o precioso Jiggy de McBlubber, vindo do distante planeta... é... Jiggatron.",
+      "lote": "607"
+    },
+    {
+      "id": "276b",
+      "chave": "dialog__game1_wine",
+      "hash_es": "eecd56a9c7721310",
+      "texto_ptbr": "Foi por um triz, eu lhes digo! Flash McBlubber se saiu bem. Corram mais forte para ganhar os grandes prêmios!",
+      "lote": "601"
+    },
+    {
+      "id": "f828",
+      "chave": "dialog__game2_beaten",
+      "hash_es": "49d2e139f66c6cfa",
+      "texto_ptbr": "{MOODHAPPY}Urssso também querer provar fruta essspecial? Aqui ter mais para amadurecer!",
+      "lote": "601"
+    },
+    {
+      "id": "d405",
+      "chave": "dialog__game2_intro",
+      "hash_es": "1fe02ab70c172f82",
+      "texto_ptbr": "{MOODHAPPY}O sssonho de Klungo quase realizar, deliciosssa amora flutuante dessstinada à barriga de Klungo! Urssso ajudar a amadurecer fruta?",
+      "lote": "601"
+    },
+    {
+      "id": "620c",
+      "chave": "dialog__game2_lose",
+      "hash_es": "a14fae9ed652e4b3",
+      "texto_ptbr": "{MOODSAD}Ninguém comer fruta se não madura. Urssso inútil ir arruinar o dia de outra pesssoa!",
+      "lote": "601"
+    },
+    {
+      "id": "4aa8",
+      "chave": "dialog__game2_objectivesa",
+      "hash_es": "0e106a8fb66a7316",
+      "texto_ptbr": "{MOODHAPPY}Pequeno problema, Klungo esquecer regador e fruta não amadurecer sem ajuda. É aqui que Urssso entrar em ação!",
+      "lote": "601"
+    },
+    {
+      "id": "4aa9",
+      "chave": "dialog__game2_objectivesb",
+      "hash_es": "17fc68980581df7d",
+      "texto_ptbr": "E o que a gente ganha por ajudar, bolo de frutas? Não me diga que é um Jiggy?",
+      "lote": "607"
+    },
+    {
+      "id": "4aaa",
+      "chave": "dialog__game2_objectivesc",
+      "hash_es": "4f135c5e8683c78a",
+      "texto_ptbr": "{MOODHAPPY}Talvez um Jiggy brilhante, e Klungo deixar Urssso e pássaro provar a amora flutuante primeiro!",
+      "lote": "601"
+    },
+    {
+      "id": "4aab",
+      "chave": "dialog__game2_objectivesd",
+      "hash_es": "739e2a3420625952",
+      "texto_ptbr": "Vamos nessa, Kazooie! Mal posso esperar para me empanturrar... e ganhar outro Jiggy, claro, isso também importa.",
+      "lote": "601"
+    },
+    {
+      "id": "7f79",
+      "chave": "dialog__game2_objectivesrepeat1",
+      "hash_es": "fd38637d312a3249",
+      "texto_ptbr": "Urssso e pássaro não comer se não regar fruta!",
+      "lote": "601"
+    },
+    {
+      "id": "7f7a",
+      "chave": "dialog__game2_objectivesrepeat2",
+      "hash_es": "c2a3aaabffec6ff6",
+      "texto_ptbr": "Klungo definir meta total. Ter que amadurecer pelo menosss essa quantidade!",
+      "lote": "601"
+    },
+    {
+      "id": "5008",
+      "chave": "dialog__game2_wina",
+      "hash_es": "7cdb9cb1205e0d6e",
+      "texto_ptbr": "{MOODHAPPY}Olhos de Klungo saltar da cabeça e língua desenrolar como tapete de comédia! Urssso pegar prêmios e Klungo se empanturrar!",
+      "lote": "601"
+    },
+    {
+      "id": "500a",
+      "chave": "dialog__game2_winc",
+      "hash_es": "25e95d15a44b7db3",
+      "texto_ptbr": "{MOODHAPPY}Amora flutuante madura e sssaborosa! Urssso dar mordida rápida e pegar Jiggy dourado, deixar espaço para Klungo!",
+      "lote": "601"
+    },
+    {
+      "id": "500c",
+      "chave": "dialog__game2_wine",
+      "hash_es": "826be79fbb974d55",
+      "texto_ptbr": "Urssso não se esforçar de verdade. Klungo ficar mais decepcionado do que faminto. Só pequena recompensa, fazer melhor da próxima vez!",
+      "lote": "601"
+    },
+    {
+      "id": "cd09",
+      "chave": "dialog__game3_beaten",
+      "hash_es": "2bdf88ec791580ed",
+      "texto_ptbr": "{MOODHAPPY}Graças a vocês, agora sou oficialmente um alienígena. Vamos encarar de novo aquele circuito de treinamento em dupla?",
+      "lote": "601"
+    },
+    {
+      "id": "10c6",
+      "chave": "dialog__game3_intro",
+      "hash_es": "3aae5caa59a2d325",
+      "texto_ptbr": "{MOODSAD}É impossível! Como vou atirar nos alvos e voar ao mesmo tempo? Quero ser um alienígena, não um ninja!",
+      "lote": "601"
+    },
+    {
+      "id": "8aad",
+      "chave": "dialog__game3_lose",
+      "hash_es": "12d3b2b35df42949",
+      "texto_ptbr": "{MOODSAD}Nunca vou virar alienígena! Você não sabe como é chato ser um urso velho e sem graça? Ah, suponho que saiba.",
+      "lote": "601"
+    },
+    {
+      "id": "5429",
+      "chave": "dialog__game3_objectivesa",
+      "hash_es": "1e1a24172860da5e",
+      "texto_ptbr": "Atirar em alvos? Alienígenas? Do que se trata tudo isso, Boggy?",
+      "lote": "601"
+    },
+    {
+      "id": "542a",
+      "chave": "dialog__game3_objectivesb",
+      "hash_es": "7cbd2b901567254e",
+      "texto_ptbr": "{MOODSAD}Não sou o Boggy, sou B-066Y, o alienígena... quer dizer, eu seria se conseguisse passar no curso de admissão.",
+      "lote": "601"
+    },
+    {
+      "id": "542b",
+      "chave": "dialog__game3_objectivesc",
+      "hash_es": "765c0f8cffc3dd40",
+      "texto_ptbr": "Um curso de admissão para alienígenas? Isso só melhora.",
+      "lote": "601"
+    },
+    {
+      "id": "542c",
+      "chave": "dialog__game3_objectivesd",
+      "hash_es": "fb2299429e1a3bb2",
+      "texto_ptbr": "{MOODSAD}Todos os melhores extraterrestres fizeram um. Não vão confiar o R.D.M. a mim até eu provar minha pontaria!",
+      "lote": "601"
+    },
+    {
+      "id": "542d",
+      "chave": "dialog__game3_objectivese",
+      "hash_es": "8cc16e2b682ce8ca",
+      "texto_ptbr": "Espera. O que diabos é o R.D.M. nesta galáxia toda?",
+      "lote": "601"
+    },
+    {
+      "id": "542e",
+      "chave": "dialog__game3_objectivesf",
+      "hash_es": "b63ff9bdcebe6bce",
+      "texto_ptbr": "{MOODSAD}É a arma secreta dos alienígenas, o Raio da Morte (TM). Eles usam para explodir planetas, mas eu não acerto nem os planetas falsos de treinamento!",
+      "lote": "601"
+    },
+    {
+      "id": "542f",
+      "chave": "dialog__game3_objectivesg",
+      "hash_es": "3f15475c35b3a645",
+      "texto_ptbr": "Explodir planetas? Parece divertido! Tá bom, você se concentra em voar e nós cuidamos dos alvos...",
+      "lote": "601"
+    },
+    {
+      "id": "78a9",
+      "chave": "dialog__game3_wina",
+      "hash_es": "8a528d083ecb0279",
+      "texto_ptbr": "{MOODHAPPY}Que equipe! Acho que batemos o recorde deles! Vocês mereceram essas recompensas por ajudar B-066Y a realizar o sonho de uma vida...",
+      "lote": "601"
+    },
+    {
+      "id": "78ab",
+      "chave": "dialog__game3_winc",
+      "hash_es": "27f8a7641e72424a",
+      "texto_ptbr": "{MOODHAPPY}Isso! Agora seremos reconhecidos como alienígenas, com certeza! Espero que goste desse Jiggy, meu amigo interplanetário!",
+      "lote": "601"
+    },
+    {
+      "id": "78ad",
+      "chave": "dialog__game3_wine",
+      "hash_es": "2b262f0476967556",
+      "texto_ptbr": "Isso é que foi passar raspando! Eu quero me destacar da multidão de alienígenas! Vamos de novo e tentar causar uma grande impressão!",
+      "lote": "607"
+    },
+    {
+      "id": "a1ea",
+      "chave": "dialog__game4_beaten",
+      "hash_es": "1195d54f9fbe19a9",
+      "texto_ptbr": "{MOODHAPPY}Vocês já purgaram o Terrarium do horrível veneno de fungo! Voltaram para ter certeza?",
+      "lote": "601"
+    },
+    {
+      "id": "4d87",
+      "chave": "dialog__game4_intro",
+      "hash_es": "ef0cb14112170e82",
+      "texto_ptbr": "{MOODSAD}Ajuda! Este fungo nojento está contaminando tudo que a gente vê!",
+      "lote": "601"
+    },
+    {
+      "id": "b34e",
+      "chave": "dialog__game4_lose",
+      "hash_es": "bb3a86800f4f7ecc",
+      "texto_ptbr": "{MOODSAD}Tarde demais! Agora o Terrarium inteiro será infectado, junto com todos que estão nele, incluindo meu gêmeo alienígena... é melhor tentar de novo!",
+      "lote": "607"
+    },
+    {
+      "id": "5daa",
+      "chave": "dialog__game4_objectivesa",
+      "hash_es": "52835ddc94615445",
+      "texto_ptbr": "Não acabamos de te ver ali antes, Boggy? Como conseguiu chegar aqui tão rápido?",
+      "lote": "601"
+    },
+    {
+      "id": "5dab",
+      "chave": "dialog__game4_objectivesb",
+      "hash_es": "cda9af0b0e175465",
+      "texto_ptbr": "{MOODSAD}É... deve ter sido meu... incrível sósia alienígena.",
+      "lote": "601"
+    },
+    {
+      "id": "5dac",
+      "chave": "dialog__game4_objectivesc",
+      "hash_es": "006ef2d99ccf20ab",
+      "texto_ptbr": "Sabe, antigamente os personagens nunca eram reaproveitados dessa forma descarada. O S.J. deve estar com um orçamento bem apertado.",
+      "lote": "601"
+    },
+    {
+      "id": "5dad",
+      "chave": "dialog__game4_objectivesd",
+      "hash_es": "011ebcfa481719da",
+      "texto_ptbr": "Então, com o que você precisa de ajuda, Outro Boggy?",
+      "lote": "607"
+    },
+    {
+      "id": "5dae",
+      "chave": "dialog__game4_objectivese",
+      "hash_es": "121a4143d65ae6a0",
+      "texto_ptbr": "{MOODSAD}A Grunty derrubou uma bola de fungo, eu tropecei nela e agora esse gás verde nojento está vazando. Está envenenando o Terrarium!",
+      "lote": "601"
+    },
+    {
+      "id": "5daf",
+      "chave": "dialog__game4_objectivesf",
+      "hash_es": "691911a445418971",
+      "texto_ptbr": "Bom, isso não é nada bom. Alguma ideia de como se livrar disso?",
+      "lote": "601"
+    },
+    {
+      "id": "5db0",
+      "chave": "dialog__game4_objectivesg",
+      "hash_es": "30b386cbebbe2633",
+      "texto_ptbr": "{MOODSAD}Segundo o &quot;Guia Idiota das Plantas Alienígenas&quot;, se você levar alto o bastante, ele implode. Mas fica mais pesado quanto mais alto vai!",
+      "lote": "601"
+    },
+    {
+      "id": "4bfb",
+      "chave": "dialog__game4_objectivesrepeat1",
+      "hash_es": "e87a21d3183734bb",
+      "texto_ptbr": "Não diminua a velocidade, você deve estar perto! Ele vai estourar logo!",
+      "lote": "601"
+    },
+    {
+      "id": "4bfc",
+      "chave": "dialog__game4_objectivesrepeat2",
+      "hash_es": "19ab4a9dbac18abf",
+      "texto_ptbr": "Você não vai deixar cair, vai? Devo começar a correr?",
+      "lote": "601"
+    },
+    {
+      "id": "a14a",
+      "chave": "dialog__game4_wina",
+      "hash_es": "e20875538d834c34",
+      "texto_ptbr": "{MOODHAPPY}Vocês salvaram o dia com o estilo e o talento de sempre! Aproveitem as recompensas em nome de todos os colonos do Terrarium!",
+      "lote": "601"
+    },
+    {
+      "id": "a14c",
+      "chave": "dialog__game4_winc",
+      "hash_es": "99f389447040c820",
+      "texto_ptbr": "{MOODHAPPY}Jiggitástico! Isso deu uma lição na Grunty e também apagou todos os sinais da minha negligência perigosa!",
+      "lote": "601"
+    },
+    {
+      "id": "a14e",
+      "chave": "dialog__game4_wine",
+      "hash_es": "60927b49c16dfa53",
+      "texto_ptbr": "Ufa! Foi por pouco. Fiquei tão nervoso que engoli a recompensa de vocês. Desculpa! Voltem depois!",
+      "lote": "601"
+    },
+    {
+      "id": "76cb",
+      "chave": "dialog__game5_beaten",
+      "hash_es": "3528e5e6d94955cc",
+      "texto_ptbr": "{MOODHAPPY}Terrarium florescer de novo, graças a Banjo e Kazooie. Banjo querer tentar salvar mundo em menos tempo?",
+      "lote": "601"
+    },
+    {
+      "id": "8a48",
+      "chave": "dialog__game5_intro",
+      "hash_es": "4778c30f2320d4b8",
+      "texto_ptbr": "{MOODSAD}Coisa terrível acontecer no Terrarium! Lixo espacial sujo e perigoso em todo lugar que Humba olhar!",
+      "lote": "601"
+    },
+    {
+      "id": "dbef",
+      "chave": "dialog__game5_lose",
+      "hash_es": "408383b1ec792a90",
+      "texto_ptbr": "{MOODSAD}Este lugar ser um atentado aos olhos, e Banjo não ajudar muito a limpar. Vocês, homens... todos iguais!",
+      "lote": "601"
+    },
+    {
+      "id": "672b",
+      "chave": "dialog__game5_objectivesa",
+      "hash_es": "858ef2dc66e80df6",
+      "texto_ptbr": "{MOODANGRY}Humba anotar para denunciar Capitão Flash McBlubber à comissão da Elite dos Heróis Espaciais!",
+      "lote": "601"
+    },
+    {
+      "id": "672c",
+      "chave": "dialog__game5_objectivesb",
+      "hash_es": "7fbb30e10e311823",
+      "texto_ptbr": "Ele deve ter feito algo terrível, Humba. Você parece furiosa!",
+      "lote": "601"
+    },
+    {
+      "id": "672d",
+      "chave": "dialog__game5_objectivesc",
+      "hash_es": "bc1e805b02f35056",
+      "texto_ptbr": "{MOODANGRY}Ele deveria ser o &quot;Protetor do Universo&quot;. Onde ele estava quando Grunty veio despejar lixo espacial ecologicamente incorreto?",
+      "lote": "601"
+    },
+    {
+      "id": "672e",
+      "chave": "dialog__game5_objectivesd",
+      "hash_es": "093401ab9ccf172f",
+      "texto_ptbr": "Calma, Humba, ele provavelmente nem sabe. Vamos ajudar você a limpar tudo no lugar dele.",
+      "lote": "601"
+    },
+    {
+      "id": "672f",
+      "chave": "dialog__game5_objectivese",
+      "hash_es": "28d8690c34e578a5",
+      "texto_ptbr": "{MOODHAPPY}Banjo tão prestativo! Humba já trazer quase todo o lixo, mas capangas da bruxa guardar a eclusa. Banjo passar com o lixo pelos Gruntbots e pôr na eclusa, nós ejetar tudo no espaço!",
+      "lote": "601"
+    },
+    {
+      "id": "6730",
+      "chave": "dialog__game5_objectivesf",
+      "hash_es": "01124da337899cc2",
+      "texto_ptbr": "Sem problema, Humba! Os faxineiros de lixo espacial estão no caso!",
+      "lote": "601"
+    },
+    {
+      "id": "6731",
+      "chave": "dialog__game5_objectivesg",
+      "hash_es": "8c77b4b3efb25179",
+      "texto_ptbr": "Mais uma coisa. Eclusa ter mecanismo de segurança e só ficar aberta por pouco tempo. Ter que ser rápido! E se Banjo ver o idiota do McBlubber, dar um belo soco no focinho dele.",
+      "lote": "601"
+    },
+    {
+      "id": "b23c",
+      "chave": "dialog__game5_objectivesrepeat1",
+      "hash_es": "3e36a97f57ddb19d",
+      "texto_ptbr": "Eclusa não ficar aberta muito tempo, e não ter outro lugar para pôr o lixo!",
+      "lote": "601"
+    },
+    {
+      "id": "b23d",
+      "chave": "dialog__game5_objectivesrepeat2",
+      "hash_es": "f8c701699375b66c",
+      "texto_ptbr": "Banjo limpar o lixo por perto, não deixar Gruntbots atrapalhar...",
+      "lote": "601"
+    },
+    {
+      "id": "c9eb",
+      "chave": "dialog__game5_wina",
+      "hash_es": "0ba87d739e5fead1",
+      "texto_ptbr": "{MOODHAPPY}Terrarium sem lixo em menos tempo do que Grunty levou para despejar o lixo! Banjo confiável como sempre, ganhar grande recompensa!",
+      "lote": "601"
+    },
+    {
+      "id": "c9ed",
+      "chave": "dialog__game5_winc",
+      "hash_es": "1b5d96064d073e28",
+      "texto_ptbr": "{MOODHAPPY}Bom voltar ao paraíso intocado. O Jiggy representa o agradecimento da Equipe de Ação Selvagem do Terrarium.",
+      "lote": "601"
+    },
+    {
+      "id": "c9ef",
+      "chave": "dialog__game5_wine",
+      "hash_es": "19961ebf0db071a5",
+      "texto_ptbr": "Obrigada, Banjo. Um pouco mais lento que o normal. Jiggies serem mais difíceis nos níveis finais, não mais fáceis!",
+      "lote": "601"
+    },
+    {
+      "id": "4bac",
+      "chave": "dialog__game6_beaten",
+      "hash_es": "e8530f5295eb961b",
+      "texto_ptbr": "Voltou para garantir que aqueles germes sujos saibam quem manda, né?",
+      "lote": "601"
+    },
+    {
+      "id": "c709",
+      "chave": "dialog__game6_intro",
+      "hash_es": "d56cafd0c2dad794",
+      "texto_ptbr": "{MOODANGRY}Ei, o que vocês estão fazendo aqui? Este é o meu esconderijo! Vocês não perceberam que tem inimigos chegando?",
+      "lote": "601"
+    },
+    {
+      "id": "0490",
+      "chave": "dialog__game6_lose",
+      "hash_es": "3f60231183ffa083",
+      "texto_ptbr": "{MOODSAD}Vocês deixaram eles entrarem! Cara, é como se o gancho dos Germogroides Asquerosos do episódio 99 de &quot;Star Spanners&quot; estivesse se tornando realidade!",
+      "lote": "601"
+    },
+    {
+      "id": "70ac",
+      "chave": "dialog__game6_objectivesa",
+      "hash_es": "55cdb06e65c1360d",
+      "texto_ptbr": "{MOODANGRY}Eu estive monitorando as comunicações da polícia: a Grunty está vindo para cá com uns germes malignos do sistema Dhogzit. Eles vão entrar pelas unidades de filtragem!",
+      "lote": "601"
+    },
+    {
+      "id": "70ad",
+      "chave": "dialog__game6_objectivesb",
+      "hash_es": "78a8813b7b7e3912",
+      "texto_ptbr": "Então você correu para se esconder em vez de tentar detê-los?",
+      "lote": "601"
+    },
+    {
+      "id": "70ae",
+      "chave": "dialog__game6_objectivesc",
+      "hash_es": "f5802a68ca13b87e",
+      "texto_ptbr": "{MOODANGRY}Eu teria detonado eles com meu fasador, mas vendi para pagar a nave que me trouxe até aqui. Queria não ter me dado ao trabalho agora...",
+      "lote": "601"
+    },
+    {
+      "id": "70af",
+      "chave": "dialog__game6_objectivesd",
+      "hash_es": "8b9561ff2a1dc902",
+      "texto_ptbr": "E o que acontece se eles entrarem, cérebro de bacon?",
+      "lote": "601"
+    },
+    {
+      "id": "70b0",
+      "chave": "dialog__game6_objectivese",
+      "hash_es": "c7a5cfad0aa0ab3e",
+      "texto_ptbr": "{MOODANGRY}Todas as plantas e todos os pesquisadores serão infectados com doenças horríveis, eu acho. O que eu pareço, um especialista em germes?",
+      "lote": "601"
+    },
+    {
+      "id": "70b1",
+      "chave": "dialog__game6_objectivesf",
+      "hash_es": "cf6c6715a25ee55f",
+      "texto_ptbr": "É... melhor nem pensar nisso. Melhor a gente ver se consegue detê-los, já que você está tão ocupado se escondendo.",
+      "lote": "601"
+    },
+    {
+      "id": "187d",
+      "chave": "dialog__game6_objectivesrepeat1",
+      "hash_es": "84eab079247ff2a6",
+      "texto_ptbr": "Eles só podem entrar pelas unidades de filtragem! Interceptem!",
+      "lote": "601"
+    },
+    {
+      "id": "187e",
+      "chave": "dialog__game6_objectivesrepeat2",
+      "hash_es": "36116b1643533af5",
+      "texto_ptbr": "Se aquela coisa aguentasse meu peso, eu detonava todos num instante!",
+      "lote": "601"
+    },
+    {
+      "id": "f28c",
+      "chave": "dialog__game6_wina",
+      "hash_es": "389985594a4e3b78",
+      "texto_ptbr": "{MOODHAPPY}Isso foi simplesmente incrível! Como no episódio 23 de &quot;Star Spanners&quot;, quando o Capitão Foobar vaporizou os Drones Dangleberry!",
+      "lote": "601"
+    },
+    {
+      "id": "f28e",
+      "chave": "dialog__game6_winc",
+      "hash_es": "d5c8b2eb0bb67d48",
+      "texto_ptbr": "Ei, belos movimentos. Nem chegou perto do Capitão Foobar do meu programa favorito, &quot;Star Spanners&quot;, mas pelo menos valeu o Jiggy.",
+      "lote": "601"
+    },
+    {
+      "id": "f290",
+      "chave": "dialog__game6_wine",
+      "hash_es": "23b40d37baf3c949",
+      "texto_ptbr": "É, acho que no fim vocês pegaram eles. Só não larguem o emprego de dia, nem esperem ganhar prêmios sérios.",
+      "lote": "601"
+    },
+    {
+      "id": "208d",
+      "chave": "dialog__game7_beaten",
+      "hash_es": "944c38e2bfda922c",
+      "texto_ptbr": "{MOODHAPPY}Gostaria de oferecer seus serviços novamente, Mestre Banjo? Ficaríamos muito gratos!",
+      "lote": "601"
+    },
+    {
+      "id": "a96b",
+      "chave": "dialog__game7_blubbercollected",
+      "hash_es": "57cc4a1ed6903e6c",
+      "texto_ptbr": "{MOODHAPPY}Muito obrigado, meu rapaz! Toda essa vida alienígena é fascinante!",
+      "lote": "601"
+    },
+    {
+      "id": "d3fa",
+      "chave": "dialog__game7_humbacollected",
+      "hash_es": "e983fbd9891b10af",
+      "texto_ptbr": "{MOODHAPPY}O importante trabalho da equipe de pesquisa continuar, graças a Banjo!",
+      "lote": "601"
+    },
+    {
+      "id": "03ca",
+      "chave": "dialog__game7_intro",
+      "hash_es": "415bcfd15c73e00b",
+      "texto_ptbr": "{MOODSAD}Oh, Mestre Banjo, estou condenado! Se eu não conseguir transporte adequado para minha equipe, serei transformado em um toca-fitas!",
+      "lote": "601"
+    },
+    {
+      "id": "6077",
+      "chave": "dialog__game7_jollycollected",
+      "hash_es": "7c8766f511f7b3a4",
+      "texto_ptbr": "{MOODHAPPY}Tem minha mais profunda gratidão, Mestre Banjo!",
+      "lote": "601"
+    },
+    {
+      "id": "bd5d",
+      "chave": "dialog__game7_klungocollected",
+      "hash_es": "74b1984db5d0bed9",
+      "texto_ptbr": "{MOODHAPPY}Obrigadoss, urssso. Klungo não estar pronto para dizer adeusss às plantasss...",
+      "lote": "607"
+    },
+    {
+      "id": "2d31",
+      "chave": "dialog__game7_lose",
+      "hash_es": "bdd42c9fe2f1df2e",
+      "texto_ptbr": "{MOODSAD}Ah, não! Você era minha última esperança! Estou condenado a tocar formatos de música ultrapassados pelo resto dos meus dias!",
+      "lote": "601"
+    },
+    {
+      "id": "7a2d",
+      "chave": "dialog__game7_objectivesa",
+      "hash_es": "23e16905205c7684",
+      "texto_ptbr": "{MOODSAD}O Capitão Flash McBlubber bateu o táxi da equipe de pesquisa. Como membro mais novo da equipe, preciso encontrar outro transporte ou vou ter meus circuitos remexidos!",
+      "lote": "601"
+    },
+    {
+      "id": "7a2e",
+      "chave": "dialog__game7_objectivesb",
+      "hash_es": "86185840405ce2ba",
+      "texto_ptbr": "Não se preocupe... é... Jolly? A gente já pegou o jeito com veículos, vamos levar seu pessoal aonde precisa ir.",
+      "lote": "601"
+    },
+    {
+      "id": "7ebe",
+      "chave": "dialog__game7_objectivesrepeat1",
+      "hash_es": "943145d4feed148a",
+      "texto_ptbr": "Rápido, Mestre Banjo! Os pesquisadores precisam assumir seus novos postos!",
+      "lote": "601"
+    },
+    {
+      "id": "7ebf",
+      "chave": "dialog__game7_objectivesrepeat2",
+      "hash_es": "aa53923445f79553",
+      "texto_ptbr": "Fique atento aos destinos deles e considere a melhor rota!",
+      "lote": "601"
+    },
+    {
+      "id": "1b2d",
+      "chave": "dialog__game7_wina",
+      "hash_es": "34270ad33fe7439e",
+      "texto_ptbr": "{MOODHAPPY}Salvo da humilhação das fitas mix de new romantic da senhora Humba! Seu serviço veloz garantiu minhas melhores recompensas!",
+      "lote": "601"
+    },
+    {
+      "id": "1b2f",
+      "chave": "dialog__game7_winc",
+      "hash_es": "ae812166fa2ff2b6",
+      "texto_ptbr": "{MOODHAPPY}Sucesso! Vou mandar lubrificar minhas peças para comemorar! Você, Mestre Banjo, certamente mereceu meu Jiggy pela ajuda!",
+      "lote": "601"
+    },
+    {
+      "id": "1b31",
+      "chave": "dialog__game7_wine",
+      "hash_es": "f5775996ab7638bb",
+      "texto_ptbr": "Sua ajuda é reconhecida, Mestre Banjo, mas a demora significa que ainda posso ser recablado. Isso significa que não haverá prêmio de alto nível!",
+      "lote": "607"
+    },
+    {
+      "id": "ca0d",
+      "chave": "dialog__jinjogreen_greeting",
+      "hash_es": "a1c8ae6f7f9eca41",
+      "texto_ptbr": "{MOODHAPPY}É, eu sei, pegar carona com estranhos pode ser uma péssima ideia. Mas olha para você! É só um ursão fofinho!",
+      "lote": "601"
+    },
+    {
+      "id": "de4b",
+      "chave": "dialog__jinjogreen_lose",
+      "hash_es": "9c40ba4533cbd0d3",
+      "texto_ptbr": "{MOODSAD}Hmmm, acho que vou ter que achar outra coisa para fazer. Talvez eu vá cutucar aquele outro Jinjo chato com um graveto.",
+      "lote": "601"
+    },
+    {
+      "id": "0ce6",
+      "chave": "dialog__jinjogreen_objectives",
+      "hash_es": "06b6991f39cfa17b",
+      "texto_ptbr": "{MOODHAPPY}Você me leva até a eclusa? Eu adoro ver coisas sendo ejetadas no espaço!",
+      "lote": "601"
+    },
+    {
+      "id": "e726",
+      "chave": "dialog__jinjogreen_win",
+      "hash_es": "4912b2cfcf40e5a4",
+      "texto_ptbr": "{MOODHAPPY}Já chegamos? Que demais! Obrigado por não ser um maníaco e me abandonar em qualquer lugar!",
+      "lote": "601"
+    },
+    {
+      "id": "7f77",
+      "chave": "dialog__jinjored_greeting",
+      "hash_es": "762911bd2a38be6d",
+      "texto_ptbr": "{MOODHAPPY}Feliz, eu estou tão feliz! Eu tenho aquela personalidade irritante de &quot;sempre feliz&quot;! Vamos correr só pela diversão!",
+      "lote": "607"
+    },
+    {
+      "id": "6eb5",
+      "chave": "dialog__jinjored_lose",
+      "hash_es": "0e572f6e2ae26420",
+      "texto_ptbr": "{MOODHAPPY}Estou tão feliz por ter ganhado! Não me deixe ganhar de novo, eu posso explodir!",
+      "lote": "601"
+    },
+    {
+      "id": "c4d0",
+      "chave": "dialog__jinjored_objectives",
+      "hash_es": "5f3e787a2556eda6",
+      "texto_ptbr": "{MOODHAPPY}Vamos! Corra comigo ao redor desta lagoa! A Lagoa Feliz, como eu chamo!",
+      "lote": "607"
+    },
+    {
+      "id": "1250",
+      "chave": "dialog__jinjored_win",
+      "hash_es": "d25bb1d161c333b7",
+      "texto_ptbr": "{MOODHAPPY}Você ganhou! Eu não poderia estar mais feliz por você! Não é irritante?",
+      "lote": "601"
+    }
+  ]
+}

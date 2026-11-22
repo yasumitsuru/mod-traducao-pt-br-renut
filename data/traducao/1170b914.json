@@ -1,0 +1,1334 @@
+{
+  "arquivo": "1170b914",
+  "asset": "aid_loctext_banjox_instructions_garage",
+  "frases": [
+    {
+      "id": "56f5",
+      "chave": "dialog__blueprint_delete",
+      "hash_es": "cb03d188a12cc563",
+      "texto_ptbr": "Deixar urso se livrar de projetos de veículo ruins.",
+      "lote": "503"
+    },
+    {
+      "id": "ada3",
+      "chave": "dialog__blueprint_guides",
+      "hash_es": "7ceb0f279c62a9f5",
+      "texto_ptbr": "Mostrar como construir veículos ótimos. Mumbo dar muita ajuda para urso não cometer erros vergonhosos.",
+      "lote": "503"
+    },
+    {
+      "id": "8b87",
+      "chave": "dialog__blueprint_guidesinsdtonly",
+      "hash_es": "190b413da0334994",
+      "texto_ptbr": "Urso não acessar guias daqui. Precisar entrar na garagem direito por Showdown Town para ver o brilhante material de treinamento do Mumbo.",
+      "lote": "518"
+    },
+    {
+      "id": "3cc2",
+      "chave": "dialog__blueprint_load",
+      "hash_es": "6ad2a7d9ae47bc50",
+      "texto_ptbr": "Buscar veículo na lista de projetos disponíveis.",
+      "lote": "503"
+    },
+    {
+      "id": "2fec",
+      "chave": "dialog__blueprint_new",
+      "hash_es": "365b5c8dc88e168b",
+      "texto_ptbr": "Mumbo limpar tudo da área de construção, devolver peças à Loja de Peças, então urso começar veículo novo.",
+      "lote": "503"
+    },
+    {
+      "id": "8460",
+      "chave": "dialog__blueprint_noliveprofile",
+      "hash_es": "b35b8fdeebc94cdb",
+      "texto_ptbr": "Urso não estar usando a magia do Xbox LIVE agora. Precisar de perfil de jogador habilitado para Xbox LIVE e fazer login no Xbox LIVE para compartilhar projetos.",
+      "lote": "503"
+    },
+    {
+      "id": "c086",
+      "chave": "dialog__blueprint_noreceived",
+      "hash_es": "fae7fdd822f61536",
+      "texto_ptbr": "Urso não receber nenhum projeto, precisar de mais amigos!",
+      "lote": "503"
+    },
+    {
+      "id": "c753",
+      "chave": "dialog__blueprint_nousergencontent",
+      "hash_es": "0c12d1720031530a",
+      "texto_ptbr": "Urso não ter permissão para ver conteúdo de usuários. Mumbo sentir muito, recurso indisponível.",
+      "lote": "503"
+    },
+    {
+      "id": "da91",
+      "chave": "dialog__blueprint_save",
+      "hash_es": "8eb0f5359bba2a66",
+      "texto_ptbr": "Gravar veículo como projeto para urso buscar e usar quando quiser.",
+      "lote": "503"
+    },
+    {
+      "id": "fff1",
+      "chave": "dialog__blueprint_templates",
+      "hash_es": "8c0c3a94486f81c7",
+      "texto_ptbr": "Mumbo ter seleção impressionante de veículos meio prontos. Urso usar para fazer veículos completos com pouco esforço.",
+      "lote": "503"
+    },
+    {
+      "id": "0c23",
+      "chave": "dialog__choosebench_database",
+      "hash_es": "cb250f1dbb3000b2",
+      "texto_ptbr": "Salvar e carregar veículos aqui. Mumbo esperto também guardar veículos meio prontos e guias em vídeo para urso usar.",
+      "lote": "503"
+    },
+    {
+      "id": "3c08",
+      "chave": "dialog__choosebench_exit",
+      "hash_es": "a1f15a3602d773f8",
+      "texto_ptbr": "Porta de saída ali deixar urso sair dos Motores do Mumbo e voltar ao lugar anterior. Urso lembrar: na Cidade só Carrinho permitido, veículos da garagem ser só para Mundos de Jogo.",
+      "lote": "503"
+    },
+    {
+      "id": "b284",
+      "chave": "dialog__choosebench_nothingtopaint",
+      "hash_es": "8cf4cf481cc33398",
+      "texto_ptbr": "Urso bobo ainda não poder pintar. Sem veículo para pintar! Oomenacka!",
+      "lote": "503"
+    },
+    {
+      "id": "56d7",
+      "chave": "dialog__choosebench_nothingtosave",
+      "hash_es": "1c77169f24be8056",
+      "texto_ptbr": "Mumbo não conseguir salvar veículo. Urso não ter veículo para salvar! Suspiro.",
+      "lote": "503"
+    },
+    {
+      "id": "f3e8",
+      "chave": "dialog__choosebench_nothingtotest",
+      "hash_es": "58d9a4eab69d2bcd",
+      "texto_ptbr": "Urso não ir a Test-O-Track do xamã até ter veículo na garagem para testar!",
+      "lote": "518"
+    },
+    {
+      "id": "df3d",
+      "chave": "dialog__choosebench_paints",
+      "hash_es": "93587c34f850d6bf",
+      "texto_ptbr": "Pintar veículo aqui. Mumbo ter muitas cores para escolher.",
+      "lote": "503"
+    },
+    {
+      "id": "7a63",
+      "chave": "dialog__choosebench_testtrack",
+      "hash_es": "845c465bc279cecd",
+      "texto_ptbr": "Ir à pista incrível que Mumbo guardar embaixo da garagem para testar veículos.",
+      "lote": "503"
+    },
+    {
+      "id": "3eeb",
+      "chave": "dialog__choosebench_workshop",
+      "hash_es": "e92a547fc3ef65fa",
+      "texto_ptbr": "Aqui urso construir e modificar veículos com peças coletadas.",
+      "lote": "503"
+    },
+    {
+      "id": "c8a4",
+      "chave": "dialog__desc_block_aerial",
+      "hash_es": "8c66723981295b30",
+      "texto_ptbr": "Com isto urso às vezes ouvir coisas. Mumbo não dizer o quê.",
+      "lote": "503"
+    },
+    {
+      "id": "7f0b",
+      "chave": "dialog__desc_block_aircushion",
+      "hash_es": "3814724e4e21d80b",
+      "texto_ptbr": "Grande saco de vento, como Humba. Urso poder fazer Hovercrafts se ser esperto o bastante e software funcionar direito.",
+      "lote": "503"
+    },
+    {
+      "id": "40ff",
+      "chave": "dialog__desc_block_airtightseat",
+      "hash_es": "07f855f3bc4896f2",
+      "texto_ptbr": "Mumbo prender garrafas de oxigênio no assento para urso poder ir debaixo da água sem precisar de ar.",
+      "lote": "503"
+    },
+    {
+      "id": "192b",
+      "chave": "dialog__desc_block_ammolarge",
+      "hash_es": "c7eb78e7d3c188ee",
+      "texto_ptbr": "Ter muita munição, mas ser o maior e mais pesado.",
+      "lote": "503"
+    },
+    {
+      "id": "26e1",
+      "chave": "dialog__desc_block_ammomedium",
+      "hash_es": "ed64f86b3912e612",
+      "texto_ptbr": "Mais munição que versão pequena, assim urso atirar em mais vilões.",
+      "lote": "503"
+    },
+    {
+      "id": "1199",
+      "chave": "dialog__desc_block_ammosmall",
+      "hash_es": "26cd00ad52366b1f",
+      "texto_ptbr": "Pouca munição neste, por isso ser pequeno e leve.",
+      "lote": "503"
+    },
+    {
+      "id": "b38f",
+      "chave": "dialog__desc_block_ammosuper",
+      "hash_es": "ae79d50b39455724",
+      "texto_ptbr": "Oomenacka! Mumbo impressionado. Esta peça pequena, leve e ter mais munição de todas. Urso poder atirar à vontade!",
+      "lote": "503"
+    },
+    {
+      "id": "656c",
+      "chave": "dialog__desc_block_armour",
+      "hash_es": "fd09e7c18b5777ee",
+      "texto_ptbr": "Proteger peças do veículo de dano grande. Muito pesada, então urso precisar de muita potência.",
+      "lote": "503"
+    },
+    {
+      "id": "1617",
+      "chave": "dialog__desc_block_autopilot",
+      "hash_es": "386a0cc6d12d8a48",
+      "texto_ptbr": "Programador ruim contar a Mumbo que esta peça ter sido removida do jogo. Hmm. Não saber o que dizer.",
+      "lote": "503"
+    },
+    {
+      "id": "c5dd",
+      "chave": "dialog__desc_block_balloon",
+      "hash_es": "8407117f38f1bd39",
+      "texto_ptbr": "Apertar botão para inflar balão e veículo talvez flutuar no ar. Veículos pesados precisar de muitos balões para subir.",
+      "lote": "503"
+    },
+    {
+      "id": "871e",
+      "chave": "dialog__desc_block_beacon",
+      "hash_es": "53c44c3f92c09566",
+      "texto_ptbr": "Luz piscante fazer urso parecer polícia. Talvez prender Humba duvidosa, ela vender projetos roubados! Talvez.",
+      "lote": "503"
+    },
+    {
+      "id": "33c1",
+      "chave": "dialog__desc_block_blower",
+      "hash_es": "386a0cc6d12d8a48",
+      "texto_ptbr": "Programador ruim contar a Mumbo que esta peça ter sido removida do jogo. Hmm. Não saber o que dizer.",
+      "lote": "503"
+    },
+    {
+      "id": "188a",
+      "chave": "dialog__desc_block_boot",
+      "hash_es": "7c2e716ecb2a3bd5",
+      "texto_ptbr": "Bota pirata saltar do baú para chutar coisas quando urso apertar botão. Muito divertido!",
+      "lote": "503"
+    },
+    {
+      "id": "6d5f",
+      "chave": "dialog__desc_block_box",
+      "hash_es": "04c18dab94954fec",
+      "texto_ptbr": "Caixa pequena com laterais altas para urso carregar objetos com mais segurança.",
+      "lote": "503"
+    },
+    {
+      "id": "d890",
+      "chave": "dialog__desc_block_buffer",
+      "hash_es": "e8d544d7ede4d6d7",
+      "texto_ptbr": "Proteger peças do veículo de dano pequeno. Talvez jogadores criativos também fazer veículos quicantes.",
+      "lote": "503"
+    },
+    {
+      "id": "cee2",
+      "chave": "dialog__desc_block_chameleon",
+      "hash_es": "5bc642e3b1384345",
+      "texto_ptbr": "Veículo ficar todo ondulante e difícil de ver quando urso apertar botão. Como filme com homem musculoso e alienígena grande e malvado.",
+      "lote": "503"
+    },
+    {
+      "id": "bd90",
+      "chave": "dialog__desc_block_citrus",
+      "hash_es": "08e13562b150ea13",
+      "texto_ptbr": "Apertar botão para disparar laranja. Se laranja acertar veículo, ele ficar difícil de controlar. Mumbo corajoso roubar laranjas do Conga para inventar isto.",
+      "lote": "503"
+    },
+    {
+      "id": "a4c5",
+      "chave": "dialog__desc_block_clockwork",
+      "hash_es": "0a016d8dc665b86f",
+      "texto_ptbr": "Pássaro de metal sair disparado sozinho, perseguir alvo e explodir. Mumbo recomendar para jogadores com mira péssima.",
+      "lote": "503"
+    },
+    {
+      "id": "24bf",
+      "chave": "dialog__desc_block_corner",
+      "hash_es": "d83b14b203aa43e0",
+      "texto_ptbr": "Fazer veículos parecer menos quadrados, ao contrário de nariz de urso.",
+      "lote": "503"
+    },
+    {
+      "id": "bcb5",
+      "chave": "dialog__desc_block_cube",
+      "hash_es": "2d301e74b42b3a53",
+      "texto_ptbr": "Caixa sólida com seis lados, fazer formas de veículo mais fortes.",
+      "lote": "503"
+    },
+    {
+      "id": "a2b6",
+      "chave": "dialog__desc_block_detacher",
+      "hash_es": "54a1743adda150eb",
+      "texto_ptbr": "Fixar partes do veículo nisto e apertar botão para separar. Como quando grande foguete espacial soltar tanques de combustível vazios.",
+      "lote": "503"
+    },
+    {
+      "id": "1fc8",
+      "chave": "dialog__desc_block_disco",
+      "hash_es": "7005d89528ad2ae6",
+      "texto_ptbr": "Item de muito bom gosto, pôr bolsas no chão e dançar em volta. Mumbo dançarino excelente, mostrar passos legais para impressionar damas xamãs.",
+      "lote": "503"
+    },
+    {
+      "id": "8e13",
+      "chave": "dialog__desc_block_egggun",
+      "hash_es": "a375d13a676037db",
+      "texto_ptbr": "Disparar ovo azul quando urso apertar botão. Não causar muito dano, mas melhor que dedo no olho.",
+      "lote": "503"
+    },
+    {
+      "id": "6d4f",
+      "chave": "dialog__desc_block_eggturret",
+      "hash_es": "577a45290d8fa410",
+      "texto_ptbr": "Urso entrar no assento da torreta, usar [LSTICK] analógico esquerdo para mirar ovo e apertar botão para disparar.",
+      "lote": "503"
+    },
+    {
+      "id": "6f4f",
+      "chave": "dialog__desc_block_ejectorseat",
+      "hash_es": "417c31e3c24fb77b",
+      "texto_ptbr": "Deixar veículo como carro de agente secreto. Apertar botão e urso voar do assento!",
+      "lote": "503"
+    },
+    {
+      "id": "79d8",
+      "chave": "dialog__desc_block_emp",
+      "hash_es": "7ef753560180dcfa",
+      "texto_ptbr": "Tempestade elétrica grande e chique, parar todas as armas e engenhocas por perto quando urso apertar botão. Precisar de muita munição para criar tempestade.",
+      "lote": "503"
+    },
+    {
+      "id": "ba59",
+      "chave": "dialog__desc_block_energyshield",
+      "hash_es": "d6d4b59b6488e4b2",
+      "texto_ptbr": "Isto ativar sozinho para proteger veículo de todo dano, mas pesar ainda mais que urso no começo do jogo!",
+      "lote": "503"
+    },
+    {
+      "id": "3100",
+      "chave": "dialog__desc_block_fish",
+      "hash_es": "4f0064ec67ba64a7",
+      "texto_ptbr": "Peixinho dourado azarado de urso ser cozido e esmagado em jogos anteriores. Agora Roysten sofrer grandes acidentes de veículo também!",
+      "lote": "503"
+    },
+    {
+      "id": "3b70",
+      "chave": "dialog__desc_block_flag",
+      "hash_es": "0460e8e15a747b0a",
+      "texto_ptbr": "Perdão a todos os outros países, Mumbo só fazer bandeira do Reino Unido. Oferecer muito dinheiro e talvez xamã fazer outras.",
+      "lote": "503"
+    },
+    {
+      "id": "cd23",
+      "chave": "dialog__desc_block_floater",
+      "hash_es": "e3b90aab5601dda9",
+      "texto_ptbr": "Flutuador de borracha fazer veículos flutuar. Urso poder apertar botão para esvaziar e inflar o anel.",
+      "lote": "503"
+    },
+    {
+      "id": "db17",
+      "chave": "dialog__desc_block_fluffydice",
+      "hash_es": "6f79acc718211102",
+      "texto_ptbr": "Mumbo ganhar isto de graça no posto. Ser legal há uns 30 anos.",
+      "lote": "503"
+    },
+    {
+      "id": "fd3c",
+      "chave": "dialog__desc_block_foldprop",
+      "hash_es": "bb72d2b6247cc23a",
+      "texto_ptbr": "Mumbo engenhoso inventar Hélice Grande que dobrar e desdobrar quando urso apertar botão. Talvez usar para fazer carrocóptero ou algo assim?",
+      "lote": "503"
+    },
+    {
+      "id": "ad70",
+      "chave": "dialog__desc_block_foldwing",
+      "hash_es": "5e05878e575f905d",
+      "texto_ptbr": "Mumbo fazer Asa esperta que dobrar e desdobrar quando urso apertar botão. Um pouco frágil, porém.",
+      "lote": "503"
+    },
+    {
+      "id": "4e0f",
+      "chave": "dialog__desc_block_freezeezy",
+      "hash_es": "962535edfaea6cb8",
+      "texto_ptbr": "Geladeira disparar cubos de gelo quando urso apertar botão, congelar coisas para não se mexer. Ver ímãs de geladeira que Mumbo colar nela!",
+      "lote": "503"
+    },
+    {
+      "id": "4482",
+      "chave": "dialog__desc_block_googleyeyes",
+      "hash_es": "a8917248d581a777",
+      "texto_ptbr": "Jogo do Banjo não ser jogo do Banjo sem olhos esbugalhados bobos. Mas Mumbo lamentar confirmar muito menos olhos esbugalhados neste jogo que antes.",
+      "lote": "503"
+    },
+    {
+      "id": "677f",
+      "chave": "dialog__desc_block_grenegggun",
+      "hash_es": "ac673adbee00e074",
+      "texto_ptbr": "Disparar ovo-granada quando urso apertar botão. Causar mais dano que ovo azul, mas gastar mais munição.",
+      "lote": "503"
+    },
+    {
+      "id": "df3b",
+      "chave": "dialog__desc_block_greneggturret",
+      "hash_es": "a2e76ff088497477",
+      "texto_ptbr": "Urso entrar no assento da torreta, usar [LSTICK] analógico esquerdo para mirar ovo-granada e apertar botão para disparar.",
+      "lote": "503"
+    },
+    {
+      "id": "0157",
+      "chave": "dialog__desc_block_gyro",
+      "hash_es": "fbf11d60a1657b06",
+      "texto_ptbr": "Fazer veículo dar giros e cambalhotas loucos quando urso segurar botão e mover [LSTICK] analógico esquerdo!",
+      "lote": "503"
+    },
+    {
+      "id": "009d",
+      "chave": "dialog__desc_block_highgripwheel",
+      "hash_es": "772969510303b46d",
+      "texto_ptbr": "Pneus desta roda ter muita aderência, mas reduzir um pouco a velocidade do veículo.",
+      "lote": "503"
+    },
+    {
+      "id": "632d",
+      "chave": "dialog__desc_block_horn",
+      "hash_es": "67b27f8a24ead31c",
+      "texto_ptbr": "Fazer barulho alto como pássaro bocudo quando urso apertar botão. Assustar qualquer coisa, até fantasmas.",
+      "lote": "503"
+    },
+    {
+      "id": "990a",
+      "chave": "dialog__desc_block_largebox",
+      "hash_es": "3946c8ba0c941d31",
+      "texto_ptbr": "Caixa grande com laterais altas para urso carregar objetos maiores com segurança.",
+      "lote": "503"
+    },
+    {
+      "id": "50f7",
+      "chave": "dialog__desc_block_largeengine",
+      "hash_es": "09a84b7290c4c08f",
+      "texto_ptbr": "Muita potência aqui, mas ser grande e gastar muito combustível.",
+      "lote": "503"
+    },
+    {
+      "id": "034d",
+      "chave": "dialog__desc_block_largefuel",
+      "hash_es": "5da026847549397e",
+      "texto_ptbr": "Muito combustível aqui, mas ser o maior e mais pesado.",
+      "lote": "503"
+    },
+    {
+      "id": "b9c4",
+      "chave": "dialog__desc_block_largejet",
+      "hash_es": "461afe35a42ffa7c",
+      "texto_ptbr": "Duvidar que urso aguentar potência de Jato grande. Fazer todo veículo ir muito rápido, mas precisar de mais combustível.",
+      "lote": "503"
+    },
+    {
+      "id": "1309",
+      "chave": "dialog__desc_block_largepassenger",
+      "hash_es": "c441d5d7933fb4d6",
+      "texto_ptbr": "Mumbo pegar emprestado sofá cheio de pulgas da casa de urso, levar 1 passageiro grande ou 2 pequenos.",
+      "lote": "503"
+    },
+    {
+      "id": "73a2",
+      "chave": "dialog__desc_block_largeprop",
+      "hash_es": "65909bf75f121dc9",
+      "texto_ptbr": "Hélice maior ajudar veículos a se mover melhor no ar e na água.",
+      "lote": "503"
+    },
+    {
+      "id": "a361",
+      "chave": "dialog__desc_block_largetray",
+      "hash_es": "935afb1725d1d31d",
+      "texto_ptbr": "Versão maior da bandeja, permitir carregar objetos maiores.",
+      "lote": "503"
+    },
+    {
+      "id": "810d",
+      "chave": "dialog__desc_block_laser",
+      "hash_es": "69d26bb3ecfcb728",
+      "texto_ptbr": "Muito perigoso! Segurar botão e luz brilhante cortar vilões como faca na manteiga. Precisar de muita munição.",
+      "lote": "503"
+    },
+    {
+      "id": "913e",
+      "chave": "dialog__desc_block_liquid",
+      "hash_es": "410292a128efb427",
+      "texto_ptbr": "Pistola de água chique, urso mergulhar em líquido e apertar botão para esguichar. Perfeito para carro de palhaço.",
+      "lote": "503"
+    },
+    {
+      "id": "5872",
+      "chave": "dialog__desc_block_lpanel",
+      "hash_es": "56e90feb463bba07",
+      "texto_ptbr": "Painel dobrado, em forma de letra &quot;L&quot;.",
+      "lote": "513"
+    },
+    {
+      "id": "aa92",
+      "chave": "dialog__desc_block_lpole",
+      "hash_es": "f69b074d7edc0f41",
+      "texto_ptbr": "Haste dobrada, em forma de letra &quot;L&quot;.",
+      "lote": "503"
+    },
+    {
+      "id": "d9ed",
+      "chave": "dialog__desc_block_mediumengine",
+      "hash_es": "c8285457ad6a905b",
+      "texto_ptbr": "Mais potência que o pequeno, mas um pouco maior e precisar de mais combustível.",
+      "lote": "503"
+    },
+    {
+      "id": "d6c3",
+      "chave": "dialog__desc_block_mediumfuel",
+      "hash_es": "50f8e3bde4bd6e74",
+      "texto_ptbr": "Mais combustível que o pequeno, então veículos ir mais longe.",
+      "lote": "503"
+    },
+    {
+      "id": "3a51",
+      "chave": "dialog__desc_block_mirror",
+      "hash_es": "f31c06a04019e4cf",
+      "texto_ptbr": "Espelho ter muitos usos. Rir de perdedores quilômetros atrás. Construir lambreta fraca com muitos espelhos. Pássaro feio até conferir maquiagem ruim!",
+      "lote": "503"
+    },
+    {
+      "id": "2043",
+      "chave": "dialog__desc_block_mole",
+      "hash_es": "33b720ccbf63eb1a",
+      "texto_ptbr": "Xamã sem palavras, por que Sra. Bottles na ponta de haste? Mumbo simplesmente não entender ideias malucas do S.J.",
+      "lote": "503"
+    },
+    {
+      "id": "afd3",
+      "chave": "dialog__desc_block_monsterwheel",
+      "hash_es": "6698dd715e2f34f6",
+      "texto_ptbr": "Rodas grandes ficar legais e andar muito bem em terreno irregular. Mas velocidade máxima do veículo cair bastante.",
+      "lote": "503"
+    },
+    {
+      "id": "6b1b",
+      "chave": "dialog__desc_block_mrpants",
+      "hash_es": "6bbb877fd4019527",
+      "texto_ptbr": "Mascote ruim do site da Rare agora mascote ruim de veículo. Não ser exatamente dama voadora de carros sofisticados.",
+      "lote": "503"
+    },
+    {
+      "id": "7736",
+      "chave": "dialog__desc_block_mumbo",
+      "hash_es": "49b55a95db14b846",
+      "texto_ptbr": "Caveira temível abrir boca para cuspir bombas quando urso apertar botão. Muito assustador, mas também muito bonito.",
+      "lote": "503"
+    },
+    {
+      "id": "8286",
+      "chave": "dialog__desc_block_neon",
+      "hash_es": "01f58442f9a5462e",
+      "texto_ptbr": "Turbinar veículo com luzes estilosas de rolê. Todo mundo saber que veículo andar muito mais rápido com isto.",
+      "lote": "503"
+    },
+    {
+      "id": "9275",
+      "chave": "dialog__desc_block_numberplate",
+      "hash_es": "df86f4ec2fc60d3b",
+      "texto_ptbr": "Isto dever mostrar Gamertag, mas meio quebrado, só dizer &quot;Banjo 1&quot;. S.J. preguiçoso.",
+      "lote": "503"
+    },
+    {
+      "id": "cdc6",
+      "chave": "dialog__desc_block_panel",
+      "hash_es": "1848d90cb5765b25",
+      "texto_ptbr": "Painel quadrado com quatro bordas.",
+      "lote": "513"
+    },
+    {
+      "id": "a087",
+      "chave": "dialog__desc_block_papery",
+      "hash_es": "1174e55f8600b711",
+      "texto_ptbr": "Urso pôr bicho de papel no veículo e se encher de diversão. Mumbo gostar de &quot;Trouble in Paradise&quot;, recomendar jogador comprar amanhã.",
+      "lote": "503"
+    },
+    {
+      "id": "9fd5",
+      "chave": "dialog__desc_block_plant",
+      "hash_es": "765e4a6365a9bfd4",
+      "texto_ptbr": "Planta bonita ajudar a reduzir pegada de carbono. Permitir urso colocar outro Motor grande sem se sentir culpado.",
+      "lote": "503"
+    },
+    {
+      "id": "c566",
+      "chave": "dialog__desc_block_pole",
+      "hash_es": "f1e6042b334d19ca",
+      "texto_ptbr": "Haste com duas pontas.",
+      "lote": "503"
+    },
+    {
+      "id": "af96",
+      "chave": "dialog__desc_block_ram",
+      "hash_es": "5c95926da814009b",
+      "texto_ptbr": "Quando veículo andar rápido o bastante, punho fechar e socar coisas com força. Por favor, fazer favor a Mumbo e socar Grunty.",
+      "lote": "503"
+    },
+    {
+      "id": "6aa3",
+      "chave": "dialog__desc_block_remotecontrol",
+      "hash_es": "386a0cc6d12d8a48",
+      "texto_ptbr": "Programador ruim contar a Mumbo que esta peça ter sido removida do jogo. Hmm. Não saber o que dizer.",
+      "lote": "503"
+    },
+    {
+      "id": "9db7",
+      "chave": "dialog__desc_block_replenisher",
+      "hash_es": "dd5d4c41485a2192",
+      "texto_ptbr": "Isto reabastecer combustível e munição sozinho. Mumbo explicar bem esta, então não dizer mais nada.",
+      "lote": "503"
+    },
+    {
+      "id": "53cf",
+      "chave": "dialog__desc_block_robofix",
+      "hash_es": "36a30920c74b6cd2",
+      "texto_ptbr": "Obra-prima de Mumbo. Incrível robô xamã consertar sozinho danos nas peças do veículo.",
+      "lote": "503"
+    },
+    {
+      "id": "94fd",
+      "chave": "dialog__desc_block_rustbin",
+      "hash_es": "23147f912e9b677f",
+      "texto_ptbr": "Lata de lixo disparar bola de ferrugem quando urso apertar botão. Bola de ferrugem grudar no alvo e drenar energia.",
+      "lote": "503"
+    },
+    {
+      "id": "2e9f",
+      "chave": "dialog__desc_block_sail",
+      "hash_es": "60f53051d12e2a4e",
+      "texto_ptbr": "Vela incrível de Mumbo, fazer veículo andar sem combustível nem vento! Apertar botão para fechar vela e gerar um pouco de potência.",
+      "lote": "503"
+    },
+    {
+      "id": "3cee",
+      "chave": "dialog__desc_block_selfdestruct",
+      "hash_es": "89a49c5b7f7970e2",
+      "texto_ptbr": "Apertar botão e veículo explodir em muitos pedaços. Oomenacka!",
+      "lote": "503"
+    },
+    {
+      "id": "dd82",
+      "chave": "dialog__desc_block_sinker",
+      "hash_es": "96956ebf729e53a3",
+      "texto_ptbr": "Bolota grande e pesada que puxar veículo para baixo. Igual a pássaro depois de comer pizza grande.",
+      "lote": "503"
+    },
+    {
+      "id": "63e5",
+      "chave": "dialog__desc_block_smallengine",
+      "hash_es": "0404c8c850571b44",
+      "texto_ptbr": "Este não dar muita potência, mas ainda ser útil por ser pequeno e não precisar de muito combustível.",
+      "lote": "503"
+    },
+    {
+      "id": "82bb",
+      "chave": "dialog__desc_block_smallfuel",
+      "hash_es": "87a9022deee80687",
+      "texto_ptbr": "Pouco combustível aqui, mas ser o menor e mais leve.",
+      "lote": "503"
+    },
+    {
+      "id": "0372",
+      "chave": "dialog__desc_block_smalljet",
+      "hash_es": "d392ae722aca1263",
+      "texto_ptbr": "Este mais potente que todos os motores, mas gastar mais combustível que todos também.",
+      "lote": "503"
+    },
+    {
+      "id": "6737",
+      "chave": "dialog__desc_block_smallpassenger",
+      "hash_es": "ad6ee4443b6d1371",
+      "texto_ptbr": "Isto levar 1 passageiro pequeno. Não estar em ótimo estado, mas ser confortável.",
+      "lote": "503"
+    },
+    {
+      "id": "f310",
+      "chave": "dialog__desc_block_smallprop",
+      "hash_es": "82b2e8869a6b9ce6",
+      "texto_ptbr": "Fazer veículos andar pelo ar e pela água.",
+      "lote": "503"
+    },
+    {
+      "id": "b0d5",
+      "chave": "dialog__desc_block_smoke",
+      "hash_es": "08d6f523993d6151",
+      "texto_ptbr": "Criar nuvens de fumaça quando urso apertar botão, assim veículo parecer calhambeque velho.",
+      "lote": "503"
+    },
+    {
+      "id": "4c8c",
+      "chave": "dialog__desc_block_specospy",
+      "hash_es": "fc5529118beabcf2",
+      "texto_ptbr": "Aparelho do Bottles enxerido para achar Jinjos sozinho e espionar coisas quando urso apertar botão.",
+      "lote": "503"
+    },
+    {
+      "id": "3c72",
+      "chave": "dialog__desc_block_spike",
+      "hash_es": "b105b65fe77f3d85",
+      "texto_ptbr": "Fixar pontas afiadas para transformar veículo em Fudgehog.",
+      "lote": "503"
+    },
+    {
+      "id": "c674",
+      "chave": "dialog__desc_block_spoiler",
+      "hash_es": "7a871d679bb984b8",
+      "texto_ptbr": "Ajudar veículos terrestres a render melhor. Difícil explicar por quê, Mumbo não entender bobagem de fluxo de ar.",
+      "lote": "503"
+    },
+    {
+      "id": "02f4",
+      "chave": "dialog__desc_block_spotlight",
+      "hash_es": "9b7977abf867ca00",
+      "texto_ptbr": "Até pássaro burro saber o que ser isto, certo? Apertar botão para ligar e desligar luz.",
+      "lote": "503"
+    },
+    {
+      "id": "b329",
+      "chave": "dialog__desc_block_spring",
+      "hash_es": "15ed0999955f5392",
+      "texto_ptbr": "Pôr mola embaixo para veículo pular quando urso apertar botão. Ou pôr do lado, ou até em cima se urso insistir mesmo.",
+      "lote": "503"
+    },
+    {
+      "id": "cbb4",
+      "chave": "dialog__desc_block_standardseat",
+      "hash_es": "5a75d9750f54c3d1",
+      "texto_ptbr": "Não ser chique, mas cumprir bem a função. Mumbo achar que Banjo inflável parecer o de verdade.",
+      "lote": "503"
+    },
+    {
+      "id": "58dc",
+      "chave": "dialog__desc_block_standardwheel",
+      "hash_es": "f2d2c2d1c03227ab",
+      "texto_ptbr": "Estas não dar muita aderência, mas pelo menos não ser quadradas.",
+      "lote": "503"
+    },
+    {
+      "id": "1968",
+      "chave": "dialog__desc_block_stereo",
+      "hash_es": "af33b58645a2e4d2",
+      "texto_ptbr": "Ouvir monte de músicas velhas péssimas quando urso apertar botão.",
+      "lote": "503"
+    },
+    {
+      "id": "a288",
+      "chave": "dialog__desc_block_stickyball",
+      "hash_es": "bbc5ff867d8ac807",
+      "texto_ptbr": "Apertar botão para disparar bola presa em corrente. Bola grudar em coisas para urso arrastar. Apertar botão de novo para soltar objeto e recolher corrente. Mumbo orgulhoso desta.",
+      "lote": "503"
+    },
+    {
+      "id": "1a60",
+      "chave": "dialog__desc_block_strongseat",
+      "hash_es": "ce1c9506a637e277",
+      "texto_ptbr": "Xamã fixar barras grandes nisto, então bem forte. Urso muito seguro neste assento.",
+      "lote": "503"
+    },
+    {
+      "id": "fb63",
+      "chave": "dialog__desc_block_sucker",
+      "hash_es": "654cfd367a35e052",
+      "texto_ptbr": "Não estar no jogo!",
+      "lote": "503"
+    },
+    {
+      "id": "552e",
+      "chave": "dialog__desc_block_sucknblow",
+      "hash_es": "dc0eb3e7c78f6da7",
+      "texto_ptbr": "Poder soprar coisas para longe ou sugar coisas para perto ao apertar botão. Mumbo recomendar pôr soprar em um botão e sugar em outro. Com sorte, urso achar utilidade para isto.",
+      "lote": "503"
+    },
+    {
+      "id": "265b",
+      "chave": "dialog__desc_block_superengine",
+      "hash_es": "4eb00ff51bd7cae0",
+      "texto_ptbr": "Oomenacka! Urso fazer bonito. Melhor motor do jogo ter potência máxima e não gastar muito combustível.",
+      "lote": "503"
+    },
+    {
+      "id": "2fb1",
+      "chave": "dialog__desc_block_superfuel",
+      "hash_es": "d32e959dab27b0a0",
+      "texto_ptbr": "Oomenacka! Onde urso conseguir isto? Pequeno, leve e ter mais combustível de todos. Muito bom. Urso poder dirigir o caminho todo até a Ilha Piñata!",
+      "lote": "503"
+    },
+    {
+      "id": "0c12",
+      "chave": "dialog__desc_block_superseat",
+      "hash_es": "3b441ee499b1b3a7",
+      "texto_ptbr": "Oomenacka! Isto mais trono que assento. Forte, leve e hermético. Mumbo sempre querer um destes.",
+      "lote": "503"
+    },
+    {
+      "id": "a4fa",
+      "chave": "dialog__desc_block_superwheel",
+      "hash_es": "5880c06c6758a4e7",
+      "texto_ptbr": "Oomenacka! Melhores rodas que urso poder conseguir. Muita aderência e sem perda de velocidade.",
+      "lote": "503"
+    },
+    {
+      "id": "38f7",
+      "chave": "dialog__desc_block_thruster",
+      "hash_es": "386a0cc6d12d8a48",
+      "texto_ptbr": "Programador ruim contar a Mumbo que esta peça ter sido removida do jogo. Hmm. Não saber o que dizer.",
+      "lote": "503"
+    },
+    {
+      "id": "525e",
+      "chave": "dialog__desc_block_torpedile",
+      "hash_es": "c6f10fab740169c1",
+      "texto_ptbr": "Míssil teleguiado funcionar no ar e debaixo da água. Até urso desajeitado acertar alvo com isto, só apertar botão e ver!",
+      "lote": "503"
+    },
+    {
+      "id": "61c5",
+      "chave": "dialog__desc_block_towbar",
+      "hash_es": "2f1463e6c20b5389",
+      "texto_ptbr": "Rebocar outros veículos quando barra de reboque de urso tocar outra barra de reboque. Mas não no multijogador, veículos emendados bagunçar jogo.",
+      "lote": "503"
+    },
+    {
+      "id": "9d7a",
+      "chave": "dialog__desc_block_tpanel",
+      "hash_es": "db3c12a000f1ecea",
+      "texto_ptbr": "Outro painel, este em forma de letra &quot;T&quot;.",
+      "lote": "513"
+    },
+    {
+      "id": "6e9a",
+      "chave": "dialog__desc_block_tpole",
+      "hash_es": "d086e625950fef03",
+      "texto_ptbr": "Haste esquisita com três pontas, em forma de letra &quot;T&quot;.",
+      "lote": "503"
+    },
+    {
+      "id": "0256",
+      "chave": "dialog__desc_block_tray",
+      "hash_es": "ed8a046c09ed09ef",
+      "texto_ptbr": "Urso poder pôr objetos nisto para veículo carregar por aí.",
+      "lote": "503"
+    },
+    {
+      "id": "b7c7",
+      "chave": "dialog__desc_block_vacuum",
+      "hash_es": "b6644c23f0167d31",
+      "texto_ptbr": "Coletar objetos pequenos sozinho, sugar por baixo e cuspir por cima. Bom se urso gordo preguiçoso não querer sair do assento!",
+      "lote": "503"
+    },
+    {
+      "id": "8082",
+      "chave": "dialog__desc_block_wedge",
+      "hash_es": "626f390914115134",
+      "texto_ptbr": "Meia caixa para fazer partes inclinadas, rampas e outras ideias geniais.",
+      "lote": "503"
+    },
+    {
+      "id": "e6f5",
+      "chave": "dialog__desc_block_weldar",
+      "hash_es": "f00764a9e616ee5d",
+      "texto_ptbr": "Mumbo achar Weldar em caçamba e transformar em lança-chamas. Segurar botão para deixar coisas torradinhas.",
+      "lote": "503"
+    },
+    {
+      "id": "7148",
+      "chave": "dialog__desc_block_windscreen",
+      "hash_es": "80057c903a360303",
+      "texto_ptbr": "Impedir urso de levar mosca na cara. Também ajudar a fazer carro realista em vez de bagunça feia de blocos quadrados.",
+      "lote": "503"
+    },
+    {
+      "id": "82cb",
+      "chave": "dialog__desc_block_wing",
+      "hash_es": "6565100ba3718cd3",
+      "texto_ptbr": "Asa sólida e bonita que fazer veículos voar.",
+      "lote": "503"
+    },
+    {
+      "id": "ba6d",
+      "chave": "dialog__desc_class_accessory",
+      "hash_es": "5488c1a901ba4ef5",
+      "texto_ptbr": "Urso personalizar veículo com seleção de peças legais aprovadas por Mumbo.",
+      "lote": "503"
+    },
+    {
+      "id": "814b",
+      "chave": "dialog__desc_class_ammo",
+      "hash_es": "39042ab47be0c4cb",
+      "texto_ptbr": "Munição fazer armas funcionar e vilões dizer 'ai'.",
+      "lote": "503"
+    },
+    {
+      "id": "0fcd",
+      "chave": "dialog__desc_class_ammofree",
+      "hash_es": "9248076c95ccf284",
+      "texto_ptbr": "Armas menos potentes, mas não precisar de munição para funcionar.",
+      "lote": "503"
+    },
+    {
+      "id": "150f",
+      "chave": "dialog__desc_class_body",
+      "hash_es": "f2404c8c7aec2e40",
+      "texto_ptbr": "Construir forma básica do veículo com estas.",
+      "lote": "503"
+    },
+    {
+      "id": "65d7",
+      "chave": "dialog__desc_class_engine",
+      "hash_es": "757f0e7bc4d05090",
+      "texto_ptbr": "Motores fazer rodas e hélices girar.",
+      "lote": "503"
+    },
+    {
+      "id": "3b15",
+      "chave": "dialog__desc_class_flyandfloat",
+      "hash_es": "743d9c19e9062524",
+      "texto_ptbr": "Se urso querer construir veículos que ir no céu ou na água, dar uma olhada aqui.",
+      "lote": "503"
+    },
+    {
+      "id": "602d",
+      "chave": "dialog__desc_class_fuel",
+      "hash_es": "69172fab1498e372",
+      "texto_ptbr": "Se motores e jatos não ter combustível, veículo de urso não andar.",
+      "lote": "503"
+    },
+    {
+      "id": "8faf",
+      "chave": "dialog__desc_class_fuelfree",
+      "hash_es": "099128735e9cce54",
+      "texto_ptbr": "Fazer veículo andar sem precisar de combustível.",
+      "lote": "503"
+    },
+    {
+      "id": "c9cd",
+      "chave": "dialog__desc_class_gadget",
+      "hash_es": "4af9b7369fa529ea",
+      "texto_ptbr": "Favoritas de Mumbo. Fazer veículos fazer todo tipo de coisa maluca e útil!",
+      "lote": "503"
+    },
+    {
+      "id": "c17e",
+      "chave": "dialog__desc_class_heavy",
+      "hash_es": "763661333558fd3f",
+      "texto_ptbr": "Bonitas e fortes como Mumbo, mas pesar muito como urso gordinho.",
+      "lote": "503"
+    },
+    {
+      "id": "faa4",
+      "chave": "dialog__desc_class_jet",
+      "hash_es": "da97293f33d18ab4",
+      "texto_ptbr": "Urso ouvir barulho alto e ver chamas, então veículo ir muito rápido.",
+      "lote": "503"
+    },
+    {
+      "id": "6cb9",
+      "chave": "dialog__desc_class_light",
+      "hash_es": "748d146170bae250",
+      "texto_ptbr": "Estas não pesar muito, mas também não ser muito fortes.",
+      "lote": "503"
+    },
+    {
+      "id": "7be9",
+      "chave": "dialog__desc_class_passenger",
+      "hash_es": "31aab465c6b61214",
+      "texto_ptbr": "Deixar urso levar outras pessoas no veículo.",
+      "lote": "503"
+    },
+    {
+      "id": "5cae",
+      "chave": "dialog__desc_class_power",
+      "hash_es": "4bccc9e50fad4af4",
+      "texto_ptbr": "Fazer veículo andar. Simples o bastante até para urso entender.",
+      "lote": "503"
+    },
+    {
+      "id": "e135",
+      "chave": "dialog__desc_class_props",
+      "hash_es": "302ab4a9b1a77d79",
+      "texto_ptbr": "Veículos legais como helicópteros, aviões e barcos usar estas. Precisar de motor para funcionar!",
+      "lote": "503"
+    },
+    {
+      "id": "87c8",
+      "chave": "dialog__desc_class_protection",
+      "hash_es": "3f52c5ee74bb1fb2",
+      "texto_ptbr": "Defender veículo de ataques de vilões.",
+      "lote": "503"
+    },
+    {
+      "id": "3c8e",
+      "chave": "dialog__desc_class_seat",
+      "hash_es": "4cdcdab3dee8184a",
+      "texto_ptbr": "Urso precisar de um destes para controlar veículo. Usar cérebro, urso burro.",
+      "lote": "503"
+    },
+    {
+      "id": "e3d6",
+      "chave": "dialog__desc_class_storage",
+      "hash_es": "fdbd5812c22fd9bd",
+      "texto_ptbr": "Muitos objetos para carregar neste jogo. Ainda bem que Mumbo fazer contêineres.",
+      "lote": "503"
+    },
+    {
+      "id": "d2b0",
+      "chave": "dialog__desc_class_super",
+      "hash_es": "b74a64b9d021cb20",
+      "texto_ptbr": "Oomenacka! Urso ter sorte de ter estas. Muito fortes e muito leves.",
+      "lote": "503"
+    },
+    {
+      "id": "2118",
+      "chave": "dialog__desc_class_useammo",
+      "hash_es": "028b216b516da98b",
+      "texto_ptbr": "Estas armas potentes, mas precisar de munição ou não funcionar.",
+      "lote": "503"
+    },
+    {
+      "id": "384b",
+      "chave": "dialog__desc_class_weapon",
+      "hash_es": "714292d8b2ea8174",
+      "texto_ptbr": "Atacar vilões com grande variedade de poder de fogo do xamã.",
+      "lote": "503"
+    },
+    {
+      "id": "8429",
+      "chave": "dialog__desc_class_wheels",
+      "hash_es": "7a175f08f52f2174",
+      "texto_ptbr": "Pensar, urso. Veículo não ir muito bem por terra se não ter rodas.",
+      "lote": "503"
+    },
+    {
+      "id": "97e9",
+      "chave": "dialog__desc_class_wings",
+      "hash_es": "9c18bcdc212afe99",
+      "texto_ptbr": "Todo mundo saber o que asas fazer. Urso fazer coisas como planadores e aviões. Mumbo recomendar veículos ter pelo menos uma asa de cada lado, ou provavelmente ficar meio bamboleante.",
+      "lote": "503"
+    },
+    {
+      "id": "a9ea",
+      "chave": "dialog__edit_deleted",
+      "hash_es": "98270e05bfbfb16c",
+      "texto_ptbr": "Mumbo devolver peças excluídas à Loja de Peças para usar de novo depois. Se urso querer excluir todas as peças, segurar Botão [Y] por alguns segundos.",
+      "lote": "503"
+    },
+    {
+      "id": "95bc",
+      "chave": "dialog__edit_detachedpart",
+      "hash_es": "71fe8363f15cc9dc",
+      "texto_ptbr": "Peça agora separada. Urso poder mover peça e fixar em outro lugar, ou apertar Botão [B] para pôr peça de volta no mesmo lugar.",
+      "lote": "503"
+    },
+    {
+      "id": "fee6",
+      "chave": "dialog__edit_enteredpickup",
+      "hash_es": "521b24d5eee94bef",
+      "texto_ptbr": "Quando mais de uma peça no chão, urso poder usar [LSTICK] analógico esquerdo para escolher.",
+      "lote": "503"
+    },
+    {
+      "id": "2273",
+      "chave": "dialog__edit_selectedpart",
+      "hash_es": "26a7aeb17d7d63e3",
+      "texto_ptbr": "Urso agora escolher peça. Para separar peça do veículo, apertar Botão [A] de novo. Urso poder selecionar várias peças e apertar Botão [A] para remover todas de uma vez.",
+      "lote": "503"
+    },
+    {
+      "id": "6fb3",
+      "chave": "dialog__entergarage",
+      "hash_es": "12fc036e28000e39",
+      "texto_ptbr": "Bem-vindos, urso e pássaro! Magníficos Motores do Mumbo aqui para heróis construir ótimos veículos e derrotar bruxa feia Gruntilda.",
+      "lote": "503"
+    },
+    {
+      "id": "0864",
+      "chave": "dialog__guides_advanced",
+      "hash_es": "7cd046dc99f04a80",
+      "texto_ptbr": "Mumbo recomendar isto só quando urso construir muitos veículos. Xamã mostrar como ajustar rodas e hélices para fazer veículo único.",
+      "lote": "503"
+    },
+    {
+      "id": "51e6",
+      "chave": "dialog__guides_buildpart1",
+      "hash_es": "7cb5fb9367a51485",
+      "texto_ptbr": "Urso ver isto primeiro para conhecer todas as técnicas básicas de construção de veículos.",
+      "lote": "503"
+    },
+    {
+      "id": "51e7",
+      "chave": "dialog__guides_buildpart2",
+      "hash_es": "ee07282b1b94f75b",
+      "texto_ptbr": "Ver como modificar veículo se urso não ter muito sucesso construindo até agora.",
+      "lote": "503"
+    },
+    {
+      "id": "c25e",
+      "chave": "dialog__guides_buildtips",
+      "hash_es": "dba3a530838045e8",
+      "texto_ptbr": "Qualquer um poder construir veículo, mas melhor ver isto primeiro para garantir veículo bom. Mumbo saber tudo de construir veículos, aprender com o tempo com muitos erros bobos.",
+      "lote": "503"
+    },
+    {
+      "id": "371a",
+      "chave": "dialog__guides_vehicleinfo",
+      "hash_es": "a47757e6492cf20a",
+      "texto_ptbr": "Se urso saber o que todos os medidores e coisas significar, ser mais fácil construir veículos ótimos. Mumbo explicar e tentar não ser muito chato.",
+      "lote": "503"
+    },
+    {
+      "id": "1291",
+      "chave": "dialog__guides_vehiclemaintenance",
+      "hash_es": "2cdea97c5125f1fc",
+      "texto_ptbr": "Mumbo mostrar a urso o que fazer se veículo se despedaçar durante jogo, ou se urso achar peças novas para fixar.",
+      "lote": "503"
+    },
+    {
+      "id": "bd70",
+      "chave": "dialog__load_seenghosts",
+      "hash_es": "ac8a9ea7e2afa6f6",
+      "texto_ptbr": "Urso não ter todas as peças necessárias para veículo. Peças que faltar aparecer como fantasmas. Urso poder tentar usar veículo sem peças que faltar, ou talvez preencher lacunas dos fantasmas com outras peças?",
+      "lote": "503"
+    },
+    {
+      "id": "8e21",
+      "chave": "dialog__mp_notenough",
+      "hash_es": "cac446b102cf3f6b",
+      "texto_ptbr": "Eekumbokum. Urso não ter todas as peças necessárias para fazer veículo, então não disponível para usar agora.",
+      "lote": "503"
+    },
+    {
+      "id": "9861",
+      "chave": "dialog__mpnodriverseat",
+      "hash_es": "f58ea3da49e31b44",
+      "texto_ptbr": "Eekumbokum. Urso não ter assento para multijogador! Às vezes Mumbo se desesperar.",
+      "lote": "503"
+    },
+    {
+      "id": "c6df",
+      "chave": "dialog__paint_enteredpaints",
+      "hash_es": "70c6819c06bef5a4",
+      "texto_ptbr": "Escolher cor e começar a pintar. Mumbo duvidar muito que urso ser próximo Picasso, mas todo mundo começar de algum lugar.",
+      "lote": "503"
+    },
+    {
+      "id": "0f27",
+      "chave": "dialog__paint_paintedall",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "a759",
+      "chave": "dialog__paint_paintedblock",
+      "hash_es": "c267a6db419c763f",
+      "texto_ptbr": "Se urso não gostar de cor, apertar Botão [X] para limpar tinta e devolver peça à cor original.",
+      "lote": "503"
+    },
+    {
+      "id": "174b",
+      "chave": "dialog__paint_selectedall",
+      "hash_es": "32ccc1366b67b111",
+      "texto_ptbr": "Isto deixar urso pintar todas as peças do veículo ao mesmo tempo. Apertar Botão [Y] de novo para voltar a pintar peça individual.",
+      "lote": "503"
+    },
+    {
+      "id": "59e6",
+      "chave": "dialog__paint_selectedcolour",
+      "hash_es": "df9d3d9701f743aa",
+      "texto_ptbr": "Escolher peça para pintar e apertar Botão [A]. Se urso querer pintar veículo inteiro de uma vez, apertar Botão [Y].",
+      "lote": "503"
+    },
+    {
+      "id": "9f3c",
+      "chave": "dialog__partsshop_entermodifymode",
+      "hash_es": "3c0d7d719b3f5e4d",
+      "texto_ptbr": "Urso poder selecionar peças para mover a outro lugar, excluir ou largar no chão.",
+      "lote": "503"
+    },
+    {
+      "id": "2be8",
+      "chave": "dialog__partsshop_notenough",
+      "hash_es": "4491e48af4e7bd37",
+      "texto_ptbr": "Eekumbokum! Não sobrar mais dessa peça, todas usadas no veículo.",
+      "lote": "503"
+    },
+    {
+      "id": "39b4",
+      "chave": "dialog__place_addassignable",
+      "hash_es": "50e6051186e5f874",
+      "texto_ptbr": "Peças com ícone de Botão [X][B][A] no canto inferior direito ativar ao apertar botão. Usar recurso do Menu de pausa para escolher botões.",
+      "lote": "503"
+    },
+    {
+      "id": "cf0a",
+      "chave": "dialog__place_cannotdrop",
+      "hash_es": "9a1bd7ad323a8c24",
+      "texto_ptbr": "Eekumbokum! Urso não largar peça em cima de veículo. Afastar peça do veículo, depois largar quando ter espaço suficiente.",
+      "lote": "503"
+    },
+    {
+      "id": "0399",
+      "chave": "dialog__place_invalid",
+      "hash_es": "858ad2310330d4cc",
+      "texto_ptbr": "Urso não pôr peça em cima de outra peça, isso ser burrice. Mumbo desenhar contorno vermelho para mostrar. Usar [LSTICK] analógico esquerdo para mover peça a outro lugar. Verde significar certo, vermelho significar errado!",
+      "lote": "503"
+    },
+    {
+      "id": "a716",
+      "chave": "dialog__place_notconnected",
+      "hash_es": "08c960d0a58b4050",
+      "texto_ptbr": "Eekumbokum! Aquela peça não conectada a outras peças. Mumbo desenhar contornos laranja para mostrar grupos separados. Urso poder preencher espaço com outras peças ou apertar Botão [X] para mover peças e juntar.",
+      "lote": "503"
+    },
+    {
+      "id": "5209",
+      "chave": "dialog__place_notenough",
+      "hash_es": "431af999584e8f23",
+      "texto_ptbr": "Eekumbokum! Urso não ter mais dessa peça.",
+      "lote": "503"
+    },
+    {
+      "id": "b057",
+      "chave": "dialog__place_partdropped",
+      "hash_es": "90cf25b5c40f4998",
+      "texto_ptbr": "Peça largada no chão. Urso poder apertar [LS] botão superior esquerdo para pegar peças largadas.",
+      "lote": "503"
+    },
+    {
+      "id": "0544",
+      "chave": "dialog__place_reachedmax",
+      "hash_es": "2a81235656e6a1b4",
+      "texto_ptbr": "Eekumbokum! Veículo agora ter número máximo de peças. Regras bobas de saúde e segurança do S.J. não permitir mais.",
+      "lote": "503"
+    },
+    {
+      "id": "5f01",
+      "chave": "dialog__place_rotate",
+      "hash_es": "810cb52cb73d072e",
+      "texto_ptbr": "Urso poder girar peça em todas as direções com cima, baixo, esquerda e direita no [DPAD] direcional. Também poder segurar [DPAD] direcional por alguns segundos para voltar peça à visão original.",
+      "lote": "503"
+    },
+    {
+      "id": "182f",
+      "chave": "dialog__secondentergarage",
+      "hash_es": "d0cafebc021f1df3",
+      "texto_ptbr": "Mumbo achar que urso não demorar a voltar e construir veículos novos. Se urso precisar de ajuda, ver Guias em vídeo no arco Banco de dados de veículos. Construir ser muito divertido!",
+      "lote": "503"
+    },
+    {
+      "id": "b0a8",
+      "chave": "dialog__select_cantmovecursor",
+      "hash_es": "9b6cfb65956c88ae",
+      "texto_ptbr": "Eekumbokum! Sem espaço para aumentar veículo nessa direção. Se jogo vender bem, talvez Mumbo construir ampliação da garagem.",
+      "lote": "503"
+    },
+    {
+      "id": "5634",
+      "chave": "dialog__select_changedlayer",
+      "hash_es": "e7194416f6a73216",
+      "texto_ptbr": "Puxar [LT] gatilho esquerdo e [RT] gatilho direito para subir e descer pelas camadas do veículo. Mumbo esperto deixar todas as outras camadas cinza para camada escolhida se destacar. Não precisar agradecer a Mumbo, fazer parte do trabalho.",
+      "lote": "503"
+    },
+    {
+      "id": "0e4c",
+      "chave": "dialog__select_componentinfo",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "7ff6",
+      "chave": "dialog__select_needstransparency",
+      "hash_es": "2ea3c6ff906690ca",
+      "texto_ptbr": "Empurrar [RSTICK] analógico direito para mover câmera e ter melhor visão. Urso poder mover câmera para esquerda, direita, cima e baixo. Também clicar [RSTICK] analógico direito para aproximar ou afastar câmera.",
+      "lote": "503"
+    },
+    {
+      "id": "4679",
+      "chave": "dialog__sharing_inbox",
+      "hash_es": "9e53e3d62845a491",
+      "texto_ptbr": "Aqui ficar todos os projetos que urso receber de outros jogadores.",
+      "lote": "503"
+    },
+    {
+      "id": "5bba",
+      "chave": "dialog__sharing_outbox",
+      "hash_es": "31c132b6bb0e7268",
+      "texto_ptbr": "Aqui ficar todos os projetos que urso enviar a outros jogadores.",
+      "lote": "503"
+    },
+    {
+      "id": "1650",
+      "chave": "dialog__tip_powernofuel",
+      "hash_es": "544df035d70ab3e4",
+      "texto_ptbr": "Eekumbokum! Veículo precisar de combustível ou não ter potência nenhuma.",
+      "lote": "503"
+    },
+    {
+      "id": "cd6e",
+      "chave": "dialog__tip_propnoengine",
+      "hash_es": "4f2f1881ca9e6f3b",
+      "texto_ptbr": "Eekumbokum! Veículo precisar de motor ou hélices não funcionar.",
+      "lote": "503"
+    },
+    {
+      "id": "5829",
+      "chave": "dialog__tip_tooheavy",
+      "hash_es": "be55efd78ad95371",
+      "texto_ptbr": "Eekumbokum! Veículo começar a ficar pesado. Veículos pesados não ser muito ágeis e precisar de muita potência.",
+      "lote": "503"
+    },
+    {
+      "id": "11a6",
+      "chave": "dialog__tip_toomuchpower",
+      "hash_es": "74c5655c54bd2755",
+      "texto_ptbr": "Eekumbokum! Veículo ter muita potência. Esperar urso ser muito bom ao volante ou Mumbo esperar ouvir grande batida.",
+      "lote": "503"
+    },
+    {
+      "id": "a699",
+      "chave": "dialog__tip_tootall",
+      "hash_es": "52753ead0ed63152",
+      "texto_ptbr": "Eekumbokum! Veículo muito alto. Cuidado, veículos altos tombar se parte de baixo não ser larga o bastante.",
+      "lote": "503"
+    },
+    {
+      "id": "1707",
+      "chave": "dialog__tip_unbalanced",
+      "hash_es": "81fa4c7fbfe7688b",
+      "texto_ptbr": "Eekumbokum! Veículo não equilibrado. Urso tentar distribuir peças com mais equilíbrio, ou veículo não render bem.",
+      "lote": "503"
+    },
+    {
+      "id": "1beb",
+      "chave": "dialog__tip_weaponnoammo",
+      "hash_es": "636365442b02478f",
+      "texto_ptbr": "Eekumbokum! Veículo precisar de munição, senão armas não funcionar.",
+      "lote": "503"
+    },
+    {
+      "id": "d06a",
+      "chave": "dialog__tip_wheelstooclose",
+      "hash_es": "eee8a47dc8ea9129",
+      "texto_ptbr": "Eekumbokum! Se rodas juntas demais, veículo não render bem. Mumbo recomendar urso espaçar rodas e pôr nos cantos.",
+      "lote": "503"
+    }
+  ]
+}

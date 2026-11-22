@@ -1,0 +1,27 @@
+{
+  "arquivo": "11e5cfe6",
+  "asset": "aid_loctext_banjox_showdowntown_klungo",
+  "frases": [
+    {
+      "id": "e594",
+      "chave": "dialog__instructions1",
+      "hash_es": "0a751778342e1ec0",
+      "texto_ptbr": "Aperte o Botão [A] para Klungo pular. Fim dasss inssstruçõesss!",
+      "lote": "001"
+    },
+    {
+      "id": "3c31",
+      "chave": "dialog__levelcrashed1",
+      "hash_es": "5738846e65500c96",
+      "texto_ptbr": "Aaarrghhh! Jogo travar de novo, Klungo ter certeza de ter consssertado isssso... Essspera, Klungo precisssar reiniciar...",
+      "lote": "001"
+    },
+    {
+      "id": "b6cb",
+      "chave": "dialog__levelwon1",
+      "hash_es": "e847779a1617db54",
+      "texto_ptbr": "Ursso ver agora? Jogo de Klungo ssser o melhor do mundo! Por ssser tão bom em jogo de plataforma, Klungo recompensar com muitasss notasss!",
+      "lote": "001"
+    }
+  ]
+}

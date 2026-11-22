@@ -1,0 +1,307 @@
+{
+  "arquivo": "11f1d3b7",
+  "asset": "aid_loctext_banjox_banjoland_actww",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "65d329ff2efc90df",
+      "texto_ptbr": "Bom te ver de novo, Banjo. Está louco para caçar mais algumas ovelhas chatas?",
+      "lote": "604"
+    },
+    {
+      "id": "b254",
+      "chave": "dialog__game1_fail",
+      "hash_es": "3fb37fde18796ed5",
+      "texto_ptbr": "{MOODSAD}Olha só todas aquelas destruidoras fofinhas ainda soltas por aí! É uma bagunça! Vamos fechar as portas, na certa!",
+      "lote": "604"
+    },
+    {
+      "id": "9744",
+      "chave": "dialog__game1_intro",
+      "hash_es": "d727823ff39252b0",
+      "texto_ptbr": "{MOODSAD}Banjo! Eu realmente preciso da sua ajuda! Você não vai acreditar no que aconteceu desta vez...",
+      "lote": "604"
+    },
+    {
+      "id": "8026",
+      "chave": "dialog__game1_introb",
+      "hash_es": "736899467762c6d3",
+      "texto_ptbr": "Manda ver, Baixinho. Nada mais nos surpreende.",
+      "lote": "604"
+    },
+    {
+      "id": "8027",
+      "chave": "dialog__game1_introc",
+      "hash_es": "4f3a30ca778e12f3",
+      "texto_ptbr": "Um rebanho de ovelhas infláveis escapou da sala 'Cortado por Prazo'! Devia estar tão cheia que a porta não fechava direito, e agora as ameaças de lã estão soltas por aí!",
+      "lote": "604"
+    },
+    {
+      "id": "8028",
+      "chave": "dialog__game1_introd",
+      "hash_es": "7967645018aa56b4",
+      "texto_ptbr": "Na verdade, isso é bem surpreendente. Bottles, às vezes você é um pastor de meia-tigela.",
+      "lote": "604"
+    },
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "fcc8f8a2eff37aee",
+      "texto_ptbr": "É uma infestação! Precisamos juntar o máximo de ovelhas possível e enfiá-las pelo cano do Loggo. Ele dá na sala 'Cortado por Prazo', para descarte fácil de recursos cortados.",
+      "lote": "604"
+    },
+    {
+      "id": "1938",
+      "chave": "dialog__game1_objectivesrepeat1",
+      "hash_es": "e650413f43d97ec8",
+      "texto_ptbr": "Acho que não precisamos de todas, só do máximo que conseguirmos...",
+      "lote": "604"
+    },
+    {
+      "id": "1939",
+      "chave": "dialog__game1_objectivesrepeat2",
+      "hash_es": "dccccddc926aa345",
+      "texto_ptbr": "Diretriz de segurança G00-B44: balões ovinos podem assustar as crianças!",
+      "lote": "604"
+    },
+    {
+      "id": "d532",
+      "chave": "dialog__game1_successa",
+      "hash_es": "1af545f3095d2d1f",
+      "texto_ptbr": "{MOODHAPPY}Ei, ei, ei, olha o Rei das Ovelhas em ação! Sua variedade de talentos nunca deixa de me surpreender e, às vezes, de me perturbar!",
+      "lote": "604"
+    },
+    {
+      "id": "d534",
+      "chave": "dialog__game1_successc",
+      "hash_es": "a4217ea8bfebd545",
+      "texto_ptbr": "Muito bem, Banjo! Está claro que você tem experiência em perseguir ovelhas. Já deve bastar por enquanto!",
+      "lote": "604"
+    },
+    {
+      "id": "d536",
+      "chave": "dialog__game1_successe",
+      "hash_es": "026429fbadeaa5b2",
+      "texto_ptbr": "Acho que já serve. Embora, para ser sincero, eu esperasse juntar mais algumas...",
+      "lote": "604"
+    },
+    {
+      "id": "f828",
+      "chave": "dialog__game2_beaten",
+      "hash_es": "13dcad9e66517d72",
+      "texto_ptbr": "Bem-vindo outra vez a Banjoland, o... ah, é você de novo. Voltou para outra voltinha no Gobi-móvel?",
+      "lote": "604"
+    },
+    {
+      "id": "daf5",
+      "chave": "dialog__game2_fail",
+      "hash_es": "3b065b59a468a9c8",
+      "texto_ptbr": "Não conseguiu, né? Talvez eu tenha deixado a corrida difícil demais. Isso explicaria a baixa adesão...",
+      "lote": "604"
+    },
+    {
+      "id": "d405",
+      "chave": "dialog__game2_intro",
+      "hash_es": "975b00fc33982b1c",
+      "texto_ptbr": "{MOODHAPPY}Bem-vindo outra vez a Banjoland, o maior museu do, é... o maior, é... bem-vindo!",
+      "lote": "604"
+    },
+    {
+      "id": "5507",
+      "chave": "dialog__game2_introb",
+      "hash_es": "ae6e86b1400c1442",
+      "texto_ptbr": "Ei, Banjo, as únicas peças de museu que eu vejo aqui são as roupas que esse palhaço insiste em usar.",
+      "lote": "604"
+    },
+    {
+      "id": "5508",
+      "chave": "dialog__game2_introc",
+      "hash_es": "d1e5930656d90b5a",
+      "texto_ptbr": "Imagino que vocês dois estejam aqui para testar meu novo desafio de velocidade? Esperem até ver o veículo &quot;Gobi&quot; de edição limitada. É camelicioso!",
+      "lote": "604"
+    },
+    {
+      "id": "9d67",
+      "chave": "dialog__game2_objectives",
+      "hash_es": "f0af3ca6f5f0e8bb",
+      "texto_ptbr": "Pé no acelerador, magrelo. Passe pelos portões na velocidade mínima indicada ou acima dela, e termine o percurso o mais rápido possível.",
+      "lote": "604"
+    },
+    {
+      "id": "4aa9",
+      "chave": "dialog__game2_objectivesb",
+      "hash_es": "27eb48275cdef036",
+      "texto_ptbr": "Não que você deva sair em alta velocidade por Banjoland. Espero que haja centenas de visitantes chegando a qualquer momento, e não queremos acidentes!",
+      "lote": "604"
+    },
+    {
+      "id": "6653",
+      "chave": "dialog__game2_successa",
+      "hash_es": "a1887a1e94d134c0",
+      "texto_ptbr": "Isso sim foi uma corrida de especialista! Começo a entender por que você tem o próprio jogo e eu sou um personagem secundário genérico...",
+      "lote": "604"
+    },
+    {
+      "id": "6655",
+      "chave": "dialog__game2_successc",
+      "hash_es": "1da7d8b7992277d3",
+      "texto_ptbr": "Feito com suavidade e digno desse Jiggy. Me pergunto a que velocidade você poderia chegar se pisasse fundo de verdade?",
+      "lote": "604"
+    },
+    {
+      "id": "6657",
+      "chave": "dialog__game2_successe",
+      "hash_es": "396b29c640f4d23a",
+      "texto_ptbr": "Nada mal, magrelo, mas já vi você fazer melhor. Vamos, se esforce! Se esforce por prêmios maiores e melhores!",
+      "lote": "604"
+    },
+    {
+      "id": "cd09",
+      "chave": "dialog__game3_beaten",
+      "hash_es": "4ca2729e6edffcc5",
+      "texto_ptbr": "Urssso demônio da velocidade voltar para tentar a corrida sssuper sssecreta de novo?",
+      "lote": "604"
+    },
+    {
+      "id": "0396",
+      "chave": "dialog__game3_fail",
+      "hash_es": "f4678eaa8bab7d53",
+      "texto_ptbr": "Urssso deve estar carregando peso demais para dirigir tão devagar. Tentar de novo, mas talvez jogar o pássaro na água primeiro... heh heh.",
+      "lote": "604"
+    },
+    {
+      "id": "10c6",
+      "chave": "dialog__game3_intro",
+      "hash_es": "beeb786deb536d9d",
+      "texto_ptbr": "Klungo preparar veículo Gobi para a nova reunião do clube sssecreto de corrida, agora ele andar na água também! Ainda nenhum visitante aqui, então sem preocupação em dirigir como maníaco.",
+      "lote": "609"
+    },
+    {
+      "id": "29e8",
+      "chave": "dialog__game3_introb",
+      "hash_es": "b0c3ceb2c1d8de05",
+      "texto_ptbr": "Sabe com o que eu me preocupo? Nunca conseguir estrelar um jogo com personagens que falam direito.",
+      "lote": "604"
+    },
+    {
+      "id": "29e9",
+      "chave": "dialog__game3_introc",
+      "hash_es": "c9bec042ac9b09e2",
+      "texto_ptbr": "Não zombe, Kazooie! Aturar ele não custa nada...",
+      "lote": "604"
+    },
+    {
+      "id": "fac8",
+      "chave": "dialog__game3_objectives",
+      "hash_es": "9e625f8fade4ddaf",
+      "texto_ptbr": "Apenas correr contra os amigoss do Klungo e tentar vencê-los. Pouco provável, urssso lento!",
+      "lote": "608"
+    },
+    {
+      "id": "f774",
+      "chave": "dialog__game3_successa",
+      "hash_es": "d9e7fccbeabc15af",
+      "texto_ptbr": "Klungo impressionado, urssso atingir velocidades alucinantes e chegar em primeiro! No topo do pódio dos vencedores de novo!",
+      "lote": "604"
+    },
+    {
+      "id": "f776",
+      "chave": "dialog__game3_successc",
+      "hash_es": "84dca80301e8c148",
+      "texto_ptbr": "Urssso alcançar nota Jiggy pelo controle impressionante do carro camelo. Mas Klungo achar que ainda dá para melhorar...",
+      "lote": "604"
+    },
+    {
+      "id": "f778",
+      "chave": "dialog__game3_successe",
+      "hash_es": "231bf5f3bdba5fea",
+      "texto_ptbr": "Linha de chegada atravessada, mas tempo de volta lento para os padrões do urssso. Urssso querer prêmio grande, começar corrida de novo!",
+      "lote": "604"
+    },
+    {
+      "id": "c0c4",
+      "chave": "dialog__jinjoblue_greeting",
+      "hash_es": "f2f4e7686a3461ac",
+      "texto_ptbr": "{MOODSAD}As pessoas passaram o dia todo acertando bolas de futebol em mim! Estou um pouco tonto, é melhor você me levar a um banheiro...",
+      "lote": "604"
+    },
+    {
+      "id": "1182",
+      "chave": "dialog__jinjoblue_lose",
+      "hash_es": "26849e4a9a7e1312",
+      "texto_ptbr": "{MOODSAD}Ah, ótimo, então acho que vou vomitar aqui mesmo...",
+      "lote": "604"
+    },
+    {
+      "id": "8d5d",
+      "chave": "dialog__jinjoblue_objectives",
+      "hash_es": "5320026c813c9723",
+      "texto_ptbr": "{MOODSAD}Me leve até a tigela do Loggo, rápido! Preciso gritar para a porcelana!",
+      "lote": "604"
+    },
+    {
+      "id": "0f7d",
+      "chave": "dialog__jinjoblue_win",
+      "hash_es": "1e92bce91e302b88",
+      "texto_ptbr": "{MOODHAPPY}Cenouras? Eu não comi cenoura nenhuma... deixa pra lá, aqui está sua recompensa. Obrigado pela carona!",
+      "lote": "604"
+    },
+    {
+      "id": "fad8",
+      "chave": "dialog__jinjoorange_greeting",
+      "hash_es": "ac99052b8fe51116",
+      "texto_ptbr": "{MOODSAD}Vim aqui procurar meu bichinho de pelúcia, você o viu? Por favor, diga que viu!",
+      "lote": "604"
+    },
+    {
+      "id": "6196",
+      "chave": "dialog__jinjoorange_lose",
+      "hash_es": "927f4c3e0e7d2215",
+      "texto_ptbr": "{MOODSAD}Nem sinal do Fergie? Ele não é real, sabia? Não é como se fosse fugir de você. Se for procurar, procure direito!",
+      "lote": "604"
+    },
+    {
+      "id": "9c71",
+      "chave": "dialog__jinjoorange_objectives",
+      "hash_es": "276372c7cdb0b9e3",
+      "texto_ptbr": "{MOODSAD}Você encontraria meu Fergie? Não consigo dormir sem ele! Fazemos tudo juntos. A gente até subiu na árvore do Bosque Tic-Tac mais cedo!",
+      "lote": "604"
+    },
+    {
+      "id": "ad11",
+      "chave": "dialog__jinjoorange_win",
+      "hash_es": "06e91a31189dceba",
+      "texto_ptbr": "{MOODHAPPY}Ah, Fergie! Finalmente reunidos! Por favor, aceite isto como prova da minha gratidão! Agora nos deixe, temos planos.",
+      "lote": "604"
+    },
+    {
+      "id": "e358",
+      "chave": "dialog__jinjoyellow_greeting",
+      "hash_es": "a4354d60c28acd20",
+      "texto_ptbr": "{MOODANGRY}O trabalho pode envolver viagens, eles disseram... destinos intocados, eles disseram... e aqui estou eu. Brilhante. Que tal um jogo para aquecer?",
+      "lote": "604"
+    },
+    {
+      "id": "0a16",
+      "chave": "dialog__jinjoyellow_lose",
+      "hash_es": "d0c9a0c83fe0b835",
+      "texto_ptbr": "{MOODSAD}Isso devia me aquecer? Da próxima vez traga um casaco grande e vamos fazer agachamentos no lugar.",
+      "lote": "604"
+    },
+    {
+      "id": "a4f1",
+      "chave": "dialog__jinjoyellow_objectives",
+      "hash_es": "f3d5c88f8986c433",
+      "texto_ptbr": "{MOODHAPPY}A velocidade-alvo indicada deve bombear um pouco de adrenalina! Veja se consegue atingi-la!",
+      "lote": "604"
+    },
+    {
+      "id": "4591",
+      "chave": "dialog__jinjoyellow_win",
+      "hash_es": "26ac4f8d11d732a4",
+      "texto_ptbr": "{MOODHAPPY}Você não está só quente, está pegando fogo! Sssss!",
+      "lote": "604"
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "arquivo": "1186b8d7",
+  "asset": "aid_loctext_banjox_worldofsport_act2",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "253b5999ad89af91",
+      "texto_ptbr": "Voltou pra outra corrida? Desta vez não vamos pegar leve com você...",
+      "lote": "602"
+    },
+    {
+      "id": "b254",
+      "chave": "dialog__game1_fail",
+      "hash_es": "c8bbcd69e28c78af",
+      "texto_ptbr": "{MOODHAPPY}Como eu pensei, nenhuma resistência. Volte e tente de novo quando estiver disposto a vencer de verdade!",
+      "lote": "602"
+    },
+    {
+      "id": "9744",
+      "chave": "dialog__game1_intro",
+      "hash_es": "027454e341029ae9",
+      "texto_ptbr": "Eu sinto a necessidade... a necessidade de detonar numa corrida de resistência. O seu está disponível pra chute, urso?",
+      "lote": "607"
+    },
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "c80b8c6819d118b8",
+      "texto_ptbr": "Junte-se a mim na pista da arena, se tiver coragem. Coloquei alguns obstáculos só pra deixar as coisas um pouco mais... interessantes.",
+      "lote": "602"
+    },
+    {
+      "id": "4128",
+      "chave": "dialog__game1_objectivesb",
+      "hash_es": "9b29760ac971cbd0",
+      "texto_ptbr": "Sabe o que eu gosto em você, T.T.? Nada, na verdade. Vamos logo, acaba com isso de uma vez!",
+      "lote": "602"
+    },
+    {
+      "id": "4129",
+      "chave": "dialog__game1_objectivesc",
+      "hash_es": "9ab1b1bd805dd75e",
+      "texto_ptbr": "Ótimo. Blubber e o Sr. Em Forma só estão aqui pra completar o número, quem vai estar esperando na linha de chegada sou eu.",
+      "lote": "602"
+    },
+    {
+      "id": "d532",
+      "chave": "dialog__game1_successa",
+      "hash_es": "36b51f25e1012772",
+      "texto_ptbr": "{MOODSAD}Eu odeio levar uma surra! Eu vivo pra vencer! Argh, todo o prêmio vai pra você...",
+      "lote": "602"
+    },
+    {
+      "id": "d534",
+      "chave": "dialog__game1_successc",
+      "hash_es": "bd6e7ef548081027",
+      "texto_ptbr": "{MOODSAD}Você venceu todos nós! Claro que ia vencer os outros, mas eu também? Argh, eu detesto perder um Jiggy!",
+      "lote": "602"
+    },
+    {
+      "id": "d536",
+      "chave": "dialog__game1_successe",
+      "hash_es": "58f469a57287bde6",
+      "texto_ptbr": "Você se saiu surpreendentemente bem, considerando o quanto está fora de forma, mas ainda não está na liga dos profissionais. Que azar!",
+      "lote": "602"
+    },
+    {
+      "id": "f828",
+      "chave": "dialog__game2_beaten",
+      "hash_es": "59b7d61db4a0cac4",
+      "texto_ptbr": "Os negócios estão bombando! Quer fazer outra entrega de pizza freelance?",
+      "lote": "602"
+    },
+    {
+      "id": "29c6",
+      "chave": "dialog__game2_collectpenguin1",
+      "hash_es": "84b846b0aaeaa5da",
+      "texto_ptbr": "Ei, isso foi rápido! Com anchovas extras ainda! Legal.",
+      "lote": "602"
+    },
+    {
+      "id": "29c7",
+      "chave": "dialog__game2_collectpenguin2",
+      "hash_es": "cb6b3328db600cc8",
+      "texto_ptbr": "Isso parece delicioso! Quá! Pinguins fazem quá? Não tenho certeza...",
+      "lote": "602"
+    },
+    {
+      "id": "77d0",
+      "chave": "dialog__game2_collectpig1",
+      "hash_es": "392be9b8fd1a9b06",
+      "texto_ptbr": "Já era hora de eu entrar na jogada... e na pizza também! Fico aqui o dia todo, pessoal!",
+      "lote": "602"
+    },
+    {
+      "id": "77d1",
+      "chave": "dialog__game2_collectpig2",
+      "hash_es": "ab688f94fb121383",
+      "texto_ptbr": "Oinc! Obrigado! Eu trouxe meus próprios guardanapos e talheres...",
+      "lote": "602"
+    },
+    {
+      "id": "0f50",
+      "chave": "dialog__game2_collectrhino1",
+      "hash_es": "80f7323a7ffa5655",
+      "texto_ptbr": "Estou buzinando por pizza! Entendeu? Ah, esquece, só me entrega...",
+      "lote": "602"
+    },
+    {
+      "id": "0f51",
+      "chave": "dialog__game2_collectrhino2",
+      "hash_es": "84cce7e694a35c0f",
+      "texto_ptbr": "A justiça é rápida! E olha, a pizza do Bottles também. Obrigado!",
+      "lote": "602"
+    },
+    {
+      "id": "daf5",
+      "chave": "dialog__game2_fail",
+      "hash_es": "7f4eaa5f279af860",
+      "texto_ptbr": "{MOODANGRY}Isso me custou uma fortuna! Até o Blubber mancando seria um entregador mais rápido! Você está demitido!",
+      "lote": "602"
+    },
+    {
+      "id": "d405",
+      "chave": "dialog__game2_intro",
+      "hash_es": "d3ae0b2e97b2ee02",
+      "texto_ptbr": "Peguem aqui os lanches quentinhos e gostosos do intervalo! Ah, Banjo, justo o urso. Você deve ter experiência no comércio...",
+      "lote": "602"
+    },
+    {
+      "id": "9d67",
+      "chave": "dialog__game2_objectives",
+      "hash_es": "11b8199afbceb1d3",
+      "texto_ptbr": "Tenho uma pilha de pedidos de pizza pra entrega. Entregar comida fria é um pecado capital, então é melhor você acelerar!",
+      "lote": "602"
+    },
+    {
+      "id": "4aa9",
+      "chave": "dialog__game2_objectivesb",
+      "hash_es": "e4d6cd8a3ec33a89",
+      "texto_ptbr": "A gente entende tudo de pizza, Bottles. Onde a gente pega elas?",
+      "lote": "602"
+    },
+    {
+      "id": "4aaa",
+      "chave": "dialog__game2_objectivesc",
+      "hash_es": "52b96761852de4f8",
+      "texto_ptbr": "Estacione a Van de Pizza embaixo do Tubo de Pizza, depois use o interruptor pra liberar as pizzas quentinhas! E Banjo... não coma elas.",
+      "lote": "602"
+    },
+    {
+      "id": "4aab",
+      "chave": "dialog__game2_objectivesd",
+      "hash_es": "bcb6eb5276d9c628",
+      "texto_ptbr": "Você pede demais, Cara de Pizza! E depois, o que a gente faz?",
+      "lote": "602"
+    },
+    {
+      "id": "4aac",
+      "chave": "dialog__game2_objectivese",
+      "hash_es": "466ec5b1784d5327",
+      "texto_ptbr": "Vocês entregam as pizzas aos clientes, é claro! Se elas esfriarem demais, vão ter que voltar pra pegar mais.",
+      "lote": "602"
+    },
+    {
+      "id": "7f79",
+      "chave": "dialog__game2_objectivesrepeat1",
+      "hash_es": "014dcf20f4d76b61",
+      "texto_ptbr": "Nada de babar em cima das pizzas, Banjo! Nada de babar! Urso mau!",
+      "lote": "602"
+    },
+    {
+      "id": "7f7a",
+      "chave": "dialog__game2_objectivesrepeat2",
+      "hash_es": "1dcffedbb3a58b3a",
+      "texto_ptbr": "É só reabastecer no Tubo de Pizza se a sua carga esfriar!",
+      "lote": "602"
+    },
+    {
+      "id": "6653",
+      "chave": "dialog__game2_successa",
+      "hash_es": "e7130106fbd1601e",
+      "texto_ptbr": "{MOODHAPPY}Sabia que você era o urso certo pro trabalho! Clientes felizes, lucro saudável... não gaste o seu bônus de desempenho de uma vez só!",
+      "lote": "602"
+    },
+    {
+      "id": "6655",
+      "chave": "dialog__game2_successc",
+      "hash_es": "00852db407082532",
+      "texto_ptbr": "Eu devia saber que isso não seria problema pra você. Obrigado por colocar a satisfação do cliente em primeiro lugar, Banjo!",
+      "lote": "602"
+    },
+    {
+      "id": "6657",
+      "chave": "dialog__game2_successe",
+      "hash_es": "ea252725aa680d1c",
+      "texto_ptbr": "Bom, já tive subordinados piores... e paguei eles tão mal quanto. Você pode fazer muito melhor, Banjo!",
+      "lote": "602"
+    },
+    {
+      "id": "cd09",
+      "chave": "dialog__game3_beaten",
+      "hash_es": "c8da0d1259d545c2",
+      "texto_ptbr": "Quer tentar de novo? Ah, cara. Então tenho que montar todas as peças de dominó outra vez...",
+      "lote": "602"
+    },
+    {
+      "id": "0396",
+      "chave": "dialog__game3_fail",
+      "hash_es": "57ea519b5808742f",
+      "texto_ptbr": "{MOODSAD}Caramba. Eu suspeitava que dominó podia ser chato, e acho que eu estava certo. Trabalhe a técnica antes da próxima tentativa...",
+      "lote": "602"
+    },
+    {
+      "id": "10c6",
+      "chave": "dialog__game3_intro",
+      "hash_es": "cc81fb2e9ccfc8d3",
+      "texto_ptbr": "Banjo! É, eu ando me ocupando. Só por curiosidade, quantas peças de dominó você acha que consegue derrubar com um empurrão só?",
+      "lote": "602"
+    },
+    {
+      "id": "fac8",
+      "chave": "dialog__game3_objectives",
+      "hash_es": "1a06b30f479ed63b",
+      "texto_ptbr": "Ufa. Quais são as regras, Porco Polar?",
+      "lote": "602"
+    },
+    {
+      "id": "542a",
+      "chave": "dialog__game3_objectivesb",
+      "hash_es": "a4efd183eb34ec98",
+      "texto_ptbr": "Derrube o máximo de peças de dominó que puder com uma única batida. Assim que a primeira peça cair, já era, não depende mais de você!",
+      "lote": "602"
+    },
+    {
+      "id": "f774",
+      "chave": "dialog__game3_successa",
+      "hash_es": "e6f39ba123f71e6a",
+      "texto_ptbr": "{MOODHAPPY}Espetacular! Eu poderia me acostumar com esse tipo de emoção! Espero que você também esteja gostando dos prêmios...",
+      "lote": "602"
+    },
+    {
+      "id": "f776",
+      "chave": "dialog__game3_successc",
+      "hash_es": "95a5a0324261dda6",
+      "texto_ptbr": "A prova de que até os esportes menos cansativos podem ser emocionantes. Faz anos que eu digo isso! Bom trabalho, Banjo!",
+      "lote": "602"
+    },
+    {
+      "id": "f778",
+      "chave": "dialog__game3_successe",
+      "hash_es": "08a09b1eb7a05698",
+      "texto_ptbr": "Nada mal, mas eu quero ver uma reação em cadeia que me dê arrepios. Aí sim valeria um prêmio de verdade!",
+      "lote": "602"
+    },
+    {
+      "id": "c0c4",
+      "chave": "dialog__jinjoblue_greeting",
+      "hash_es": "82f36417d175bb97",
+      "texto_ptbr": "{MOODHAPPY}Eu estive assistindo a todos os jogos daqui! Cara, eu amo os mais rápidos. Até montei o meu próprio jogo de velocidade, quer jogar?",
+      "lote": "602"
+    },
+    {
+      "id": "1182",
+      "chave": "dialog__jinjoblue_lose",
+      "hash_es": "c8fedc8dc8629529",
+      "texto_ptbr": "{MOODSAD}Meh, a aceleração precisa de um pouco de treino. Não é complicado, só pisa fundo!",
+      "lote": "602"
+    },
+    {
+      "id": "8d5d",
+      "chave": "dialog__jinjoblue_objectives",
+      "hash_es": "b2821382d5d6be79",
+      "texto_ptbr": "{MOODHAPPY}Alcance a velocidade mostrada no velocímetro pra vencer o jogo! Não, não era pra ser original. Só vá incrivelmente rápido!",
+      "lote": "602"
+    },
+    {
+      "id": "0f7d",
+      "chave": "dialog__jinjoblue_win",
+      "hash_es": "7a160f3e277202c6",
+      "texto_ptbr": "{MOODHAPPY}Você acabou de acelerar direto pro livro de recordes deste Jinjo!",
+      "lote": "602"
+    },
+    {
+      "id": "fad8",
+      "chave": "dialog__jinjoorange_greeting",
+      "hash_es": "eadd057fa1d895fc",
+      "texto_ptbr": "{MOODHAPPY}Empurrar! Arremessar! Lançar! Jogar! Todos esses são nomes pro que eu quero que façam comigo! Mãos à obra, Banjo!",
+      "lote": "602"
+    },
+    {
+      "id": "6196",
+      "chave": "dialog__jinjoorange_lose",
+      "hash_es": "63e3f7be7851d090",
+      "texto_ptbr": "{MOODSAD}Eu quase nem senti que tinha me movido! Não se segure da próxima vez...",
+      "lote": "602"
+    },
+    {
+      "id": "9c71",
+      "chave": "dialog__jinjoorange_objectives",
+      "hash_es": "d1be9c97430ae608",
+      "texto_ptbr": "{MOODHAPPY}Se você conseguir me arremessar a distância indicada, é hora do prêmio!",
+      "lote": "607"
+    },
+    {
+      "id": "ad11",
+      "chave": "dialog__jinjoorange_win",
+      "hash_es": "93737091f8ca333d",
+      "texto_ptbr": "{MOODHAPPY}Uau, essa eu senti! Um prêmio especial pro urso da força!",
+      "lote": "602"
+    },
+    {
+      "id": "7f77",
+      "chave": "dialog__jinjored_greeting",
+      "hash_es": "51db3f9c012fe32c",
+      "texto_ptbr": "{MOODHAPPY}Bom urso. Faça-me a honra de um combate individual em nome do orgulho universal Jinjo. Você aceita?",
+      "lote": "602"
+    },
+    {
+      "id": "6eb5",
+      "chave": "dialog__jinjored_lose",
+      "hash_es": "5656d2cc8e49b3ca",
+      "texto_ptbr": "{MOODHAPPY}Cara, eu te dei uma surra... Quer dizer, é, a grande honra é minha. Tire sabedoria da derrota e volte quando estiver iluminado.",
+      "lote": "602"
+    },
+    {
+      "id": "c4d0",
+      "chave": "dialog__jinjored_objectives",
+      "hash_es": "72499117082633be",
+      "texto_ptbr": "{MOODHAPPY}Você deve me empurrar pra fora da área pra vencer, enquanto eu, nobremente, tento o mesmo. Lembre-se, você luta em nome de todos os ursos. Comece!",
+      "lote": "602"
+    },
+    {
+      "id": "1250",
+      "chave": "dialog__jinjored_win",
+      "hash_es": "9adf1c15e34c5ccd",
+      "texto_ptbr": "{MOODSAD}Pelo amor de Deus, acho que você quebrou o meu... Quer dizer, é, verdadeiramente a sua grandeza foi marcada em mim. O prêmio é seu.",
+      "lote": "602"
+    }
+  ]
+}

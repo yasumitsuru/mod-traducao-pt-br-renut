@@ -1,0 +1,3935 @@
+{
+  "arquivo": "11606e97",
+  "asset": "aid_loctext_banjox_credits",
+  "frases": [
+    {
+      "id": "2b55",
+      "chave": "credits__aag",
+      "hash_es": "9afc3d0204ba8816",
+      "texto_ptbr": "Mais Rabiscos e Outras Coisas Artísticas (Banjo)",
+      "lote": "516"
+    },
+    {
+      "id": "c70a",
+      "chave": "credits__aagandrewt",
+      "hash_es": "5bf48cce882d92f7",
+      "texto_ptbr": "Andrew Thomas",
+      "lote": "516"
+    },
+    {
+      "id": "dc63",
+      "chave": "credits__aagandyb",
+      "hash_es": "5395db5f74983dd8",
+      "texto_ptbr": "Andy Betts",
+      "lote": "516"
+    },
+    {
+      "id": "f029",
+      "chave": "credits__aagdonnchadhm",
+      "hash_es": "ff55d4a5a7e59a18",
+      "texto_ptbr": "Donnchadh Murphy",
+      "lote": "516"
+    },
+    {
+      "id": "ea2d",
+      "chave": "credits__aagellenh",
+      "hash_es": "af83d2b1247cc377",
+      "texto_ptbr": "Ellen Holland",
+      "lote": "516"
+    },
+    {
+      "id": "9753",
+      "chave": "credits__aaggarethc",
+      "hash_es": "74e64dc547e268bc",
+      "texto_ptbr": "Gareth Cook",
+      "lote": "516"
+    },
+    {
+      "id": "bab0",
+      "chave": "credits__aaggavinf",
+      "hash_es": "fc0e65121b647ce7",
+      "texto_ptbr": "Gavin Flint",
+      "lote": "516"
+    },
+    {
+      "id": "a8f2",
+      "chave": "credits__aagjasonb",
+      "hash_es": "35f5f270e450cc3c",
+      "texto_ptbr": "Jason Baggett",
+      "lote": "516"
+    },
+    {
+      "id": "1ff5",
+      "chave": "credits__aagjonathanm",
+      "hash_es": "7c1b34936d4df459",
+      "texto_ptbr": "Jonathan Mummery",
+      "lote": "516"
+    },
+    {
+      "id": "1e43",
+      "chave": "credits__aagkatherines",
+      "hash_es": "7e72340844085722",
+      "texto_ptbr": "Katherine Sellar",
+      "lote": "516"
+    },
+    {
+      "id": "1b87",
+      "chave": "credits__aagkerig",
+      "hash_es": "ad322023ddc7dbcf",
+      "texto_ptbr": "Keri Gunn",
+      "lote": "516"
+    },
+    {
+      "id": "7658",
+      "chave": "credits__aaglouiser",
+      "hash_es": "93ca7134ce2dea00",
+      "texto_ptbr": "Louise Ridgeway",
+      "lote": "516"
+    },
+    {
+      "id": "e55b",
+      "chave": "credits__aagolivierl",
+      "hash_es": "c151ed43b37108c7",
+      "texto_ptbr": "Olivier Ladeuix",
+      "lote": "516"
+    },
+    {
+      "id": "7175",
+      "chave": "credits__aagpatrickr",
+      "hash_es": "6c0042d5891342bf",
+      "texto_ptbr": "Patrick Rabbette",
+      "lote": "516"
+    },
+    {
+      "id": "71aa",
+      "chave": "credits__aagpaulc",
+      "hash_es": "471e8e7cd85e625f",
+      "texto_ptbr": "Paul Cunningham",
+      "lote": "516"
+    },
+    {
+      "id": "5fed",
+      "chave": "credits__aagpeerl",
+      "hash_es": "6d26f0f14682df02",
+      "texto_ptbr": "Peer Lemmers",
+      "lote": "516"
+    },
+    {
+      "id": "9e0b",
+      "chave": "credits__aagpeteh",
+      "hash_es": "bfe73580887b2f5c",
+      "texto_ptbr": "Peter Hentze",
+      "lote": "516"
+    },
+    {
+      "id": "355f",
+      "chave": "credits__aagrichardm",
+      "hash_es": "89a214d04c99be2d",
+      "texto_ptbr": "Richard Morrall",
+      "lote": "516"
+    },
+    {
+      "id": "485e",
+      "chave": "credits__aagrossb",
+      "hash_es": "439dfd031816ec8c",
+      "texto_ptbr": "Ross Bury",
+      "lote": "516"
+    },
+    {
+      "id": "76f5",
+      "chave": "credits__aagryanf",
+      "hash_es": "53a83ed3b98a7653",
+      "texto_ptbr": "Ryan Firchau",
+      "lote": "516"
+    },
+    {
+      "id": "174e",
+      "chave": "credits__aagsaehoonl",
+      "hash_es": "e68d607400a118f0",
+      "texto_ptbr": "Saehoon Lee",
+      "lote": "516"
+    },
+    {
+      "id": "577f",
+      "chave": "credits__aagstevec",
+      "hash_es": "7c2fe9bcee4aedce",
+      "texto_ptbr": "Steven Crow",
+      "lote": "516"
+    },
+    {
+      "id": "5789",
+      "chave": "credits__aagstevem",
+      "hash_es": "c2feb24e8a684912",
+      "texto_ptbr": "Stephen Mcfarlane",
+      "lote": "516"
+    },
+    {
+      "id": "724b",
+      "chave": "credits__buildlab",
+      "hash_es": "41e2189db25a8d3a",
+      "texto_ptbr": "Andaimes de Jogo e Fita Adesiva",
+      "lote": "516"
+    },
+    {
+      "id": "ba51",
+      "chave": "credits__buildlabchrism",
+      "hash_es": "3697559598d0d411",
+      "texto_ptbr": "Chris Marlow",
+      "lote": "516"
+    },
+    {
+      "id": "2c03",
+      "chave": "credits__buildlabmarkm",
+      "hash_es": "bd1ea4e6b4f9de4a",
+      "texto_ptbr": "Mark Wilson",
+      "lote": "516"
+    },
+    {
+      "id": "2263",
+      "chave": "credits__buildlabtomh",
+      "hash_es": "408cd1eb31160ce8",
+      "texto_ptbr": "Tom Hill",
+      "lote": "516"
+    },
+    {
+      "id": "2931",
+      "chave": "credits__community",
+      "hash_es": "109f1eefc2ca8a0a",
+      "texto_ptbr": "Controle de Fãs Raivosos e Bajulação da Mídia",
+      "lote": "516"
+    },
+    {
+      "id": "27f5",
+      "chave": "credits__communitygeorgek",
+      "hash_es": "ec15b0059b914236",
+      "texto_ptbr": "George Kelion",
+      "lote": "516"
+    },
+    {
+      "id": "55de",
+      "chave": "credits__developaudio1",
+      "hash_es": "2d470ee5043e0f05",
+      "texto_ptbr": "Agradecimentos à Trilha de Áudio da Develop Conference 08",
+      "lote": "516"
+    },
+    {
+      "id": "55df",
+      "chave": "credits__developaudio2",
+      "hash_es": "6a6f683d2233b5d9",
+      "texto_ptbr": "pelas maravilhosas reações da plateia.",
+      "lote": "516"
+    },
+    {
+      "id": "0e2f",
+      "chave": "credits__developaudiotitle",
+      "hash_es": "c4575dd40b3b03a1",
+      "texto_ptbr": "Develop Conference",
+      "lote": "516"
+    },
+    {
+      "id": "2376",
+      "chave": "credits__havok1",
+      "hash_es": "7d490bf47320613e",
+      "texto_ptbr": "O título desenvolvido pelo licenciado usa Havok™.",
+      "lote": "516"
+    },
+    {
+      "id": "2377",
+      "chave": "credits__havok2",
+      "hash_es": "3e9060988dbd0425",
+      "texto_ptbr": "© Copyright 1999-2008. Havok.com Inc. (e seus licenciadores).",
+      "lote": "516"
+    },
+    {
+      "id": "2378",
+      "chave": "credits__havok3",
+      "hash_es": "027086b7cac85f09",
+      "texto_ptbr": "Todos os direitos reservados. Veja www.havok.com para detalhes.",
+      "lote": "516"
+    },
+    {
+      "id": "e7c7",
+      "chave": "credits__havoktitle",
+      "hash_es": "1382d2260f599419",
+      "texto_ptbr": "Havok™",
+      "lote": "516"
+    },
+    {
+      "id": "b75c",
+      "chave": "credits__mgssound",
+      "hash_es": "b32ce39a8913bc92",
+      "texto_ptbr": "Designers de Som e Dubladores da MGS",
+      "lote": "516"
+    },
+    {
+      "id": "29bc",
+      "chave": "credits__mgsthanks",
+      "hash_es": "040e5f0041571c29",
+      "texto_ptbr": "Agradecimentos Especiais da MGS",
+      "lote": "516"
+    },
+    {
+      "id": "1d9e",
+      "chave": "credits__mgsthanksbhonebrink",
+      "hash_es": "ffe0bc2e0dbb88a9",
+      "texto_ptbr": "Beth Honebrink",
+      "lote": "516"
+    },
+    {
+      "id": "77aa",
+      "chave": "credits__mgsthanksckimmell",
+      "hash_es": "c070008934dec9b8",
+      "texto_ptbr": "Chris Kimmell",
+      "lote": "516"
+    },
+    {
+      "id": "4fe5",
+      "chave": "credits__mgsthanksclassen",
+      "hash_es": "95ea3cc8e550ce61",
+      "texto_ptbr": "Chris Lassen",
+      "lote": "516"
+    },
+    {
+      "id": "867b",
+      "chave": "credits__mgsthankscrogalski",
+      "hash_es": "4cb015764f56a41e",
+      "texto_ptbr": "Carol Rogalski",
+      "lote": "516"
+    },
+    {
+      "id": "a322",
+      "chave": "credits__mgsthankseyuen",
+      "hash_es": "ca75241d200b099a",
+      "texto_ptbr": "Earnest Yuen",
+      "lote": "516"
+    },
+    {
+      "id": "3186",
+      "chave": "credits__mgsthanksjgraf",
+      "hash_es": "a3a556a2d146d72d",
+      "texto_ptbr": "Jason Graf",
+      "lote": "516"
+    },
+    {
+      "id": "9a31",
+      "chave": "credits__mgsthanksjmartin",
+      "hash_es": "52c205145e79d4ab",
+      "texto_ptbr": "Jen Martin",
+      "lote": "516"
+    },
+    {
+      "id": "fb46",
+      "chave": "credits__mgsthanksklobb",
+      "hash_es": "80ec44685e2877aa",
+      "texto_ptbr": "Ken Lobb",
+      "lote": "516"
+    },
+    {
+      "id": "73cb",
+      "chave": "credits__mgsthanksmharper",
+      "hash_es": "5e3da9271c4100c1",
+      "texto_ptbr": "Mark Harper",
+      "lote": "516"
+    },
+    {
+      "id": "cd48",
+      "chave": "credits__mgsthanksmjohnson",
+      "hash_es": "b6002963ab49e38a",
+      "texto_ptbr": "Michael Johnson",
+      "lote": "516"
+    },
+    {
+      "id": "0caa",
+      "chave": "credits__mgsthanksmwhite",
+      "hash_es": "6a52ecd4ad181d30",
+      "texto_ptbr": "Matt White",
+      "lote": "516"
+    },
+    {
+      "id": "087c",
+      "chave": "credits__mgsthankspspencer",
+      "hash_es": "5acfefca46d34db3",
+      "texto_ptbr": "Phil Spencer",
+      "lote": "516"
+    },
+    {
+      "id": "ab94",
+      "chave": "credits__mgsthanksrperez",
+      "hash_es": "c9c79a32b636cd8c",
+      "texto_ptbr": "Ross Perez",
+      "lote": "516"
+    },
+    {
+      "id": "e958",
+      "chave": "credits__mgsthankssharris",
+      "hash_es": "3da1831bd5a44b8f",
+      "texto_ptbr": "Simon Harris",
+      "lote": "516"
+    },
+    {
+      "id": "6c80",
+      "chave": "credits__mgsthanksynoma",
+      "hash_es": "0e043656cd1f7777",
+      "texto_ptbr": "Yutaka Noma",
+      "lote": "516"
+    },
+    {
+      "id": "cc69",
+      "chave": "credits__mgsvoice",
+      "hash_es": "46bb3fba1113ced4",
+      "texto_ptbr": "Dubladores da MGS",
+      "lote": "516"
+    },
+    {
+      "id": "7c2c",
+      "chave": "credits__mgsvoicecneal",
+      "hash_es": "22682a1998d7aecd",
+      "texto_ptbr": "Curtis Neal",
+      "lote": "516"
+    },
+    {
+      "id": "c0d1",
+      "chave": "credits__mgsvoicejlinsenbigler",
+      "hash_es": "1bc6daf66f0a7298",
+      "texto_ptbr": "Jeff Linsenbigler",
+      "lote": "516"
+    },
+    {
+      "id": "8c83",
+      "chave": "credits__mgsvoicekkato",
+      "hash_es": "562e31103b6cbbc7",
+      "texto_ptbr": "Ken Kato",
+      "lote": "516"
+    },
+    {
+      "id": "6666",
+      "chave": "credits__mgsvoicekquebe",
+      "hash_es": "38688b1b2cf87afb",
+      "texto_ptbr": "Kristen Quebe",
+      "lote": "516"
+    },
+    {
+      "id": "3bf6",
+      "chave": "credits__mgsvoiceksjoquist",
+      "hash_es": "b274517b1d8b13dc",
+      "texto_ptbr": "Keith Sjoquist",
+      "lote": "516"
+    },
+    {
+      "id": "b72b",
+      "chave": "credits__mgsvoicemyeend",
+      "hash_es": "eb0999cd0730fd50",
+      "texto_ptbr": "Mark Yeend",
+      "lote": "516"
+    },
+    {
+      "id": "2522",
+      "chave": "credits__mgsvoicepcomley",
+      "hash_es": "5607f3a03215c7df",
+      "texto_ptbr": "Peter Comley",
+      "lote": "516"
+    },
+    {
+      "id": "74cf",
+      "chave": "credits__msaccman",
+      "hash_es": "400ad77648f991dd",
+      "texto_ptbr": "Gerente de Contas da Xbox",
+      "lote": "516"
+    },
+    {
+      "id": "5227",
+      "chave": "credits__msaccmanomiyashita",
+      "hash_es": "ee3e0e29d04e0755",
+      "texto_ptbr": "Oliver Miyashita",
+      "lote": "516"
+    },
+    {
+      "id": "8217",
+      "chave": "credits__msbstone",
+      "hash_es": "3c88263a69aac941",
+      "texto_ptbr": "Brian Stone",
+      "lote": "516"
+    },
+    {
+      "id": "ce65",
+      "chave": "credits__mscchamberlain",
+      "hash_es": "f397fb5a3b8b3258",
+      "texto_ptbr": "Chris Chamberlain",
+      "lote": "516"
+    },
+    {
+      "id": "136e",
+      "chave": "credits__msdevaccman",
+      "hash_es": "15e567cbb2a24428",
+      "texto_ptbr": "Gerente de Contas de Desenvolvedores da Xbox",
+      "lote": "516"
+    },
+    {
+      "id": "d185",
+      "chave": "credits__msdevaccmandshaw",
+      "hash_es": "93a8deba3f6cdeaa",
+      "texto_ptbr": "David Shaw",
+      "lote": "516"
+    },
+    {
+      "id": "9ac6",
+      "chave": "credits__msdevmanager",
+      "hash_es": "de4bb323d9b16034",
+      "texto_ptbr": "Gerente de Desenvolvimento",
+      "lote": "516"
+    },
+    {
+      "id": "0c45",
+      "chave": "credits__msdubipe",
+      "hash_es": "52759136735dce2a",
+      "texto_ptbr": "Dublin IPE – Testes",
+      "lote": "516"
+    },
+    {
+      "id": "da71",
+      "chave": "credits__msdubipeischumacher",
+      "hash_es": "f1b998c3f3856bdf",
+      "texto_ptbr": "Ingo Schumacher",
+      "lote": "516"
+    },
+    {
+      "id": "df7b",
+      "chave": "credits__msdubleadipe",
+      "hash_es": "7d90e7bb42bf4d04",
+      "texto_ptbr": "Líder de IPE de Dublin – Testes",
+      "lote": "516"
+    },
+    {
+      "id": "d141",
+      "chave": "credits__msdubleadipeekelly",
+      "hash_es": "3f64c6e2358e25f7",
+      "texto_ptbr": "Enda Kelly",
+      "lote": "516"
+    },
+    {
+      "id": "8761",
+      "chave": "credits__msdublocman",
+      "hash_es": "bd9de2ea80bb46e9",
+      "texto_ptbr": "Gerente de Projeto de Localização de Dublin",
+      "lote": "516"
+    },
+    {
+      "id": "e638",
+      "chave": "credits__msdublocmandfoster",
+      "hash_es": "ae3ca12ea092ce73",
+      "texto_ptbr": "David Foster",
+      "lote": "516"
+    },
+    {
+      "id": "72bc",
+      "chave": "credits__msdubprojeng",
+      "hash_es": "25002fc745ff70e7",
+      "texto_ptbr": "Engenheiro de Projeto Internacional de Dublin",
+      "lote": "516"
+    },
+    {
+      "id": "5024",
+      "chave": "credits__msdubprojenglvero",
+      "hash_es": "a6dc5eaf923c1265",
+      "texto_ptbr": "Levente Verő",
+      "lote": "516"
+    },
+    {
+      "id": "3ded",
+      "chave": "credits__msexecman",
+      "hash_es": "3e82349d987880d0",
+      "texto_ptbr": "Diretoria Executiva",
+      "lote": "516"
+    },
+    {
+      "id": "f838",
+      "chave": "credits__msgameops",
+      "hash_es": "aa46c9af5d171333",
+      "texto_ptbr": "Operações de Jogos da MS",
+      "lote": "516"
+    },
+    {
+      "id": "8e14",
+      "chave": "credits__msgameopsgshay",
+      "hash_es": "162c41f6c60c018e",
+      "texto_ptbr": "Gregory Shay (Hewlett-Packard)",
+      "lote": "516"
+    },
+    {
+      "id": "b303",
+      "chave": "credits__msgameopsjhall",
+      "hash_es": "51e2a69480a97865",
+      "texto_ptbr": "Jeremy Hall",
+      "lote": "516"
+    },
+    {
+      "id": "e8e7",
+      "chave": "credits__msgameopsjreiner",
+      "hash_es": "7ef5dadb807943d4",
+      "texto_ptbr": "Jason Reiner",
+      "lote": "516"
+    },
+    {
+      "id": "40ab",
+      "chave": "credits__msgameopsjspiegelberg",
+      "hash_es": "344a227ebd222e1a",
+      "texto_ptbr": "Justin Spiegelberg (Hewlett-Packard)",
+      "lote": "516"
+    },
+    {
+      "id": "9466",
+      "chave": "credits__msgameopskadamson",
+      "hash_es": "1adf2afd14bd1fb4",
+      "texto_ptbr": "Ken Adamson",
+      "lote": "516"
+    },
+    {
+      "id": "dce5",
+      "chave": "credits__msgameopskemtman",
+      "hash_es": "c9e6e872a5d064c8",
+      "texto_ptbr": "Kyle Emtman",
+      "lote": "516"
+    },
+    {
+      "id": "ae92",
+      "chave": "credits__msgameopsmcohen",
+      "hash_es": "af4c1bf322598f65",
+      "texto_ptbr": "Michelle Cohen",
+      "lote": "516"
+    },
+    {
+      "id": "dd6c",
+      "chave": "credits__msgameopsnwalker",
+      "hash_es": "38c3fb5403504521",
+      "texto_ptbr": "Nairn Walker",
+      "lote": "516"
+    },
+    {
+      "id": "3f8c",
+      "chave": "credits__msgameopsrcornwall",
+      "hash_es": "ca966f6f9f29e6a1",
+      "texto_ptbr": "Robert Cornwall",
+      "lote": "516"
+    },
+    {
+      "id": "ebf7",
+      "chave": "credits__msgameopssthomas",
+      "hash_es": "b29d701b5636543d",
+      "texto_ptbr": "Scott Thomas",
+      "lote": "516"
+    },
+    {
+      "id": "eeeb",
+      "chave": "credits__msgameopstsiochi",
+      "hash_es": "2264149236fb0dee",
+      "texto_ptbr": "Tavi Siochi",
+      "lote": "516"
+    },
+    {
+      "id": "6a2d",
+      "chave": "credits__msgtodevadotson",
+      "hash_es": "67304fceef957daf",
+      "texto_ptbr": "Andy Dotson",
+      "lote": "516"
+    },
+    {
+      "id": "350a",
+      "chave": "credits__msgtodevdroche",
+      "hash_es": "30702f4828e0f175",
+      "texto_ptbr": "Dimitri Roche",
+      "lote": "516"
+    },
+    {
+      "id": "6ed6",
+      "chave": "credits__msgtodevjstabbert",
+      "hash_es": "b35681ad04dffdee",
+      "texto_ptbr": "James Stabbert",
+      "lote": "516"
+    },
+    {
+      "id": "0825",
+      "chave": "credits__msgtodevmgrodin",
+      "hash_es": "4429d95166108358",
+      "texto_ptbr": "Mike Grodin",
+      "lote": "516"
+    },
+    {
+      "id": "79e6",
+      "chave": "credits__msgtodevmvargas",
+      "hash_es": "e6bec8e4c73a56cd",
+      "texto_ptbr": "Mike Vargas",
+      "lote": "516"
+    },
+    {
+      "id": "c1e6",
+      "chave": "credits__msgtoeuropetest",
+      "hash_es": "49bc78870950a98d",
+      "texto_ptbr": "Testes da GTO Europa",
+      "lote": "516"
+    },
+    {
+      "id": "4cec",
+      "chave": "credits__msgtoshareddev",
+      "hash_es": "7481ec2a8bdbebdc",
+      "texto_ptbr": "Desenvolvimento Compartilhado GTO",
+      "lote": "516"
+    },
+    {
+      "id": "c557",
+      "chave": "credits__msinfantry",
+      "hash_es": "bdcc352bc7330fd1",
+      "texto_ptbr": "Líder de Testes da Infantaria do Banjo",
+      "lote": "516"
+    },
+    {
+      "id": "06ff",
+      "chave": "credits__msinfantrybharrison",
+      "hash_es": "8c94fd23de251835",
+      "texto_ptbr": "Ben Harrison (#)",
+      "lote": "516"
+    },
+    {
+      "id": "5e9b",
+      "chave": "credits__msinfantrybklocksiem",
+      "hash_es": "18604b4aba3f7180",
+      "texto_ptbr": "Bradley Klocksiem (#)",
+      "lote": "516"
+    },
+    {
+      "id": "1b47",
+      "chave": "credits__msinfantryblink",
+      "hash_es": "d7fbcb204820338d",
+      "texto_ptbr": "Bryan Link (#)",
+      "lote": "516"
+    },
+    {
+      "id": "56a7",
+      "chave": "credits__msinfantrybmeine",
+      "hash_es": "83306ff4ccc8b78e",
+      "texto_ptbr": "Brad Meine (*)",
+      "lote": "516"
+    },
+    {
+      "id": "4d7e",
+      "chave": "credits__msinfantrybsmith",
+      "hash_es": "354e2c2d672aca83",
+      "texto_ptbr": "Ben Smith (*)",
+      "lote": "516"
+    },
+    {
+      "id": "701a",
+      "chave": "credits__msinfantryccecil",
+      "hash_es": "3d371432419757c3",
+      "texto_ptbr": "Carolyn Cecil",
+      "lote": "516"
+    },
+    {
+      "id": "ad09",
+      "chave": "credits__msinfantrydbach",
+      "hash_es": "fb1b6368985c2767",
+      "texto_ptbr": "Daniel Bach (*)",
+      "lote": "516"
+    },
+    {
+      "id": "c37b",
+      "chave": "credits__msinfantrydshefveland",
+      "hash_es": "9a61ae50aa2ea723",
+      "texto_ptbr": "Derek Shefveland (#)",
+      "lote": "516"
+    },
+    {
+      "id": "fea4",
+      "chave": "credits__msinfantryebrown",
+      "hash_es": "b635311895cf18a7",
+      "texto_ptbr": "Eric Brown (#)",
+      "lote": "516"
+    },
+    {
+      "id": "14e3",
+      "chave": "credits__msinfantryedc",
+      "hash_es": "b86d72934961c21d",
+      "texto_ptbr": "(#) = Excell Data Corporation",
+      "lote": "516"
+    },
+    {
+      "id": "3963",
+      "chave": "credits__msinfantryehanke",
+      "hash_es": "db8f613593b5ab10",
+      "texto_ptbr": "Eric Hanke (#)",
+      "lote": "516"
+    },
+    {
+      "id": "20d3",
+      "chave": "credits__msinfantryjdonald",
+      "hash_es": "f2e099688aebce32",
+      "texto_ptbr": "Jason Donald (#)",
+      "lote": "516"
+    },
+    {
+      "id": "cba0",
+      "chave": "credits__msinfantryjheidner",
+      "hash_es": "05d228fb7b07852d",
+      "texto_ptbr": "Jesse Heidner (*)",
+      "lote": "516"
+    },
+    {
+      "id": "84d2",
+      "chave": "credits__msinfantryjice",
+      "hash_es": "b61cfdd4f0ebd7a8",
+      "texto_ptbr": "Justin Ice (*)",
+      "lote": "516"
+    },
+    {
+      "id": "cac2",
+      "chave": "credits__msinfantryjpalmer",
+      "hash_es": "c164682c0b5ed433",
+      "texto_ptbr": "Joshua Palmer (*)",
+      "lote": "516"
+    },
+    {
+      "id": "07aa",
+      "chave": "credits__msinfantryjshute",
+      "hash_es": "c63cde293ea938ec",
+      "texto_ptbr": "Joseph Shute (*)",
+      "lote": "516"
+    },
+    {
+      "id": "39da",
+      "chave": "credits__msinfantrymakins",
+      "hash_es": "e727157cd1037101",
+      "texto_ptbr": "Meghan Akins (#)",
+      "lote": "516"
+    },
+    {
+      "id": "dfe9",
+      "chave": "credits__msinfantryrcampbell",
+      "hash_es": "5433e129449bdf7d",
+      "texto_ptbr": "Robert Campbell (#)",
+      "lote": "516"
+    },
+    {
+      "id": "3d2c",
+      "chave": "credits__msinfantryrlutcavich",
+      "hash_es": "50a2fcb0e0ccecf9",
+      "texto_ptbr": "Randall Lutcavich (#)",
+      "lote": "516"
+    },
+    {
+      "id": "6054",
+      "chave": "credits__msinfantrysmock",
+      "hash_es": "b46ca23f871b5a5f",
+      "texto_ptbr": "Stephanie Mock (*)",
+      "lote": "516"
+    },
+    {
+      "id": "b4c5",
+      "chave": "credits__msinfantrytanderson",
+      "hash_es": "8ee9bcef8da86a28",
+      "texto_ptbr": "Tyler Anderson (#)",
+      "lote": "516"
+    },
+    {
+      "id": "ef5e",
+      "chave": "credits__msinfantryteam",
+      "hash_es": "a6d579e259fff462",
+      "texto_ptbr": "Equipe de Infantaria do Banjo",
+      "lote": "516"
+    },
+    {
+      "id": "341c",
+      "chave": "credits__msinfantryvolt",
+      "hash_es": "306eb7f26e3ad970",
+      "texto_ptbr": "(*) = Volt",
+      "lote": "516"
+    },
+    {
+      "id": "5dc6",
+      "chave": "credits__msleadproducer",
+      "hash_es": "03a0c5e60d0dff16",
+      "texto_ptbr": "Produtor Principal",
+      "lote": "516"
+    },
+    {
+      "id": "1125",
+      "chave": "credits__msmgsaudio",
+      "hash_es": "1593c4e27de47866",
+      "texto_ptbr": "Áudio da MGS",
+      "lote": "516"
+    },
+    {
+      "id": "b63b",
+      "chave": "credits__msmgsaudiogwhitmore",
+      "hash_es": "ab4ec5f5cd4f5eb0",
+      "texto_ptbr": "Guy Whitmore",
+      "lote": "516"
+    },
+    {
+      "id": "98e7",
+      "chave": "credits__msmgsaudiomyeend",
+      "hash_es": "eb0999cd0730fd50",
+      "texto_ptbr": "Mark Yeend",
+      "lote": "516"
+    },
+    {
+      "id": "6458",
+      "chave": "credits__msmgslegal",
+      "hash_es": "61480438300b1f23",
+      "texto_ptbr": "Jurídico e Geopolítico da MGS",
+      "lote": "516"
+    },
+    {
+      "id": "f631",
+      "chave": "credits__msmgslegalabruggeman",
+      "hash_es": "d95db61e5f41f377",
+      "texto_ptbr": "Alan Bruggeman",
+      "lote": "516"
+    },
+    {
+      "id": "b9c8",
+      "chave": "credits__msmgslegaldmcgowan",
+      "hash_es": "3c5df2781dac9c78",
+      "texto_ptbr": "Don McGowan",
+      "lote": "516"
+    },
+    {
+      "id": "05e7",
+      "chave": "credits__msmgsloclead",
+      "hash_es": "542d51c5cb86ee13",
+      "texto_ptbr": "Líder de Localização da MGS",
+      "lote": "516"
+    },
+    {
+      "id": "ef58",
+      "chave": "credits__msmgslocleadpchavez",
+      "hash_es": "619dac5b21a4ab0a",
+      "texto_ptbr": "Paul Chavez",
+      "lote": "516"
+    },
+    {
+      "id": "88f3",
+      "chave": "credits__msmgsuk",
+      "hash_es": "45f03378421ea427",
+      "texto_ptbr": "Microsoft Games Studios",
+      "lote": "516"
+    },
+    {
+      "id": "497f",
+      "chave": "credits__msmgsuserexp",
+      "hash_es": "f801a50db185934b",
+      "texto_ptbr": "Experiência do Usuário da MGS",
+      "lote": "516"
+    },
+    {
+      "id": "ec52",
+      "chave": "credits__msmgsuserexpbdemetrescu",
+      "hash_es": "ec59be4d6bddd903",
+      "texto_ptbr": "Beth Demetrescu",
+      "lote": "516"
+    },
+    {
+      "id": "da67",
+      "chave": "credits__msmgsuserexpgbaldwin",
+      "hash_es": "0ef8443e0cdb5e46",
+      "texto_ptbr": "Ginny Baldwin",
+      "lote": "516"
+    },
+    {
+      "id": "2f10",
+      "chave": "credits__msmgsusertesting",
+      "hash_es": "7969e1f71f39717d",
+      "texto_ptbr": "Testes de Usuário da MGS",
+      "lote": "516"
+    },
+    {
+      "id": "f67d",
+      "chave": "credits__msmgsusertestingjhagen",
+      "hash_es": "7080dc2abbcf16cd",
+      "texto_ptbr": "Jerome Hagen",
+      "lote": "516"
+    },
+    {
+      "id": "4020",
+      "chave": "credits__mspconnelly",
+      "hash_es": "919a61e72856eab8",
+      "texto_ptbr": "Peter Connelly",
+      "lote": "516"
+    },
+    {
+      "id": "ce50",
+      "chave": "credits__msproducer",
+      "hash_es": "98ee4021c6f1b0e4",
+      "texto_ptbr": "Produtor",
+      "lote": "516"
+    },
+    {
+      "id": "3f02",
+      "chave": "credits__msrcarpenter",
+      "hash_es": "3c870a11de71bdc1",
+      "texto_ptbr": "Roger Carpenter",
+      "lote": "516"
+    },
+    {
+      "id": "47eb",
+      "chave": "credits__msrelman",
+      "hash_es": "3db67e9c2e4e690b",
+      "texto_ptbr": "Gestão de Lançamentos da Xbox",
+      "lote": "516"
+    },
+    {
+      "id": "0791",
+      "chave": "credits__msrelmanksalcedo",
+      "hash_es": "16e48304d9436d7d",
+      "texto_ptbr": "Kevin Salcedo",
+      "lote": "516"
+    },
+    {
+      "id": "c703",
+      "chave": "credits__msrelmannstewart",
+      "hash_es": "3b9499eb977b41b6",
+      "texto_ptbr": "Nicole Stewart",
+      "lote": "516"
+    },
+    {
+      "id": "61f0",
+      "chave": "credits__mssloftis",
+      "hash_es": "69d22c752c47fa82",
+      "texto_ptbr": "Shannon Loftis",
+      "lote": "516"
+    },
+    {
+      "id": "7760",
+      "chave": "credits__mstarnold",
+      "hash_es": "f7bb9ac4dcabc4f2",
+      "texto_ptbr": "Tom Arnold",
+      "lote": "516"
+    },
+    {
+      "id": "e03f",
+      "chave": "credits__mstestcjames",
+      "hash_es": "ee3b4b3b0f94dd62",
+      "texto_ptbr": "Chris James",
+      "lote": "516"
+    },
+    {
+      "id": "7d4f",
+      "chave": "credits__mstestdjohnson",
+      "hash_es": "867a2df808f8109e",
+      "texto_ptbr": "Dave Johnson",
+      "lote": "516"
+    },
+    {
+      "id": "699e",
+      "chave": "credits__mstestdmantey",
+      "hash_es": "b96644c26f417884",
+      "texto_ptbr": "Derek Mantey",
+      "lote": "516"
+    },
+    {
+      "id": "c943",
+      "chave": "credits__mstestdouimet",
+      "hash_es": "518836e2ee150e04",
+      "texto_ptbr": "David Ouimet (*)",
+      "lote": "516"
+    },
+    {
+      "id": "5118",
+      "chave": "credits__mstestedc",
+      "hash_es": "b86d72934961c21d",
+      "texto_ptbr": "(#) = Excell Data Corporation",
+      "lote": "516"
+    },
+    {
+      "id": "5d7c",
+      "chave": "credits__mstesthchawda",
+      "hash_es": "0e1ca4a12b9566b4",
+      "texto_ptbr": "Hemanshu Chawda",
+      "lote": "516"
+    },
+    {
+      "id": "f9a8",
+      "chave": "credits__mstestjcolas",
+      "hash_es": "5fd4dec8eba739c8",
+      "texto_ptbr": "Josh Colas (*)",
+      "lote": "516"
+    },
+    {
+      "id": "5bb7",
+      "chave": "credits__mstestjdunavant",
+      "hash_es": "63148989f3cb4f0e",
+      "texto_ptbr": "Joe Dunavant",
+      "lote": "516"
+    },
+    {
+      "id": "285a",
+      "chave": "credits__mstestjlongworth",
+      "hash_es": "c2b9a74bb9662d5d",
+      "texto_ptbr": "Joe Longworth",
+      "lote": "516"
+    },
+    {
+      "id": "7748",
+      "chave": "credits__mstestjmulhausen",
+      "hash_es": "0d60c3cd9342167d",
+      "texto_ptbr": "John Mulhausen",
+      "lote": "516"
+    },
+    {
+      "id": "3f37",
+      "chave": "credits__mstestjrobey",
+      "hash_es": "08b64bed08270225",
+      "texto_ptbr": "Justin Robey",
+      "lote": "516"
+    },
+    {
+      "id": "a23e",
+      "chave": "credits__mstestkecjstrom",
+      "hash_es": "1a3b4ea540a3411f",
+      "texto_ptbr": "Leah Eckstrom (#)",
+      "lote": "516"
+    },
+    {
+      "id": "4f22",
+      "chave": "credits__mstestlead",
+      "hash_es": "b47a5807bfc2c255",
+      "texto_ptbr": "Líder de Testes do Banjo",
+      "lote": "516"
+    },
+    {
+      "id": "8b27",
+      "chave": "credits__mstestmanager",
+      "hash_es": "b51123c30c245360",
+      "texto_ptbr": "Gerente de Testes",
+      "lote": "516"
+    },
+    {
+      "id": "17b7",
+      "chave": "credits__mstestmbatten",
+      "hash_es": "626332d8a39ef5a1",
+      "texto_ptbr": "Melissa Brooks Batten",
+      "lote": "516"
+    },
+    {
+      "id": "b442",
+      "chave": "credits__mstestmshimabuku",
+      "hash_es": "ae3a3cc2ab85506a",
+      "texto_ptbr": "Matthew Shimabuku",
+      "lote": "516"
+    },
+    {
+      "id": "0197",
+      "chave": "credits__mstestmswogger",
+      "hash_es": "e48145ee3d2d0028",
+      "texto_ptbr": "Michael Swogger",
+      "lote": "516"
+    },
+    {
+      "id": "9e9a",
+      "chave": "credits__mstestrlamb",
+      "hash_es": "844957440c763600",
+      "texto_ptbr": "Rob Lamb",
+      "lote": "516"
+    },
+    {
+      "id": "b233",
+      "chave": "credits__mstestteam",
+      "hash_es": "621b7b545132e777",
+      "texto_ptbr": "Equipe de Testes do Banjo",
+      "lote": "516"
+    },
+    {
+      "id": "66f5",
+      "chave": "credits__mstestthanks",
+      "hash_es": "f13b97d778a06257",
+      "texto_ptbr": "A equipe de testes da MGS agradece a",
+      "lote": "516"
+    },
+    {
+      "id": "1e04",
+      "chave": "credits__mstestthanksblackops",
+      "hash_es": "7aa46c305ae54da1",
+      "texto_ptbr": "Equipe Black Ops",
+      "lote": "516"
+    },
+    {
+      "id": "5ed3",
+      "chave": "credits__mstestthankscalvalry",
+      "hash_es": "74b0b3ddd70f5977",
+      "texto_ptbr": "Equipes de Cavalaria",
+      "lote": "516"
+    },
+    {
+      "id": "5421",
+      "chave": "credits__mstestthanksdholmes",
+      "hash_es": "4f33f77ba230a9fa",
+      "texto_ptbr": "David Holmes",
+      "lote": "516"
+    },
+    {
+      "id": "457d",
+      "chave": "credits__mstestthanksgbjones",
+      "hash_es": "d58971306a02a936",
+      "texto_ptbr": "Greg B. Jones",
+      "lote": "516"
+    },
+    {
+      "id": "b1a1",
+      "chave": "credits__mstestthanksjrush",
+      "hash_es": "da2e2db46eb61947",
+      "texto_ptbr": "John Rush",
+      "lote": "516"
+    },
+    {
+      "id": "641f",
+      "chave": "credits__mstestthanksklobb",
+      "hash_es": "80ec44685e2877aa",
+      "texto_ptbr": "Ken Lobb",
+      "lote": "516"
+    },
+    {
+      "id": "eb61",
+      "chave": "credits__mstestthankskpalmer",
+      "hash_es": "da16cfb473850e0d",
+      "texto_ptbr": "Kelsey Palmer",
+      "lote": "516"
+    },
+    {
+      "id": "bc17",
+      "chave": "credits__mstestthankslabs",
+      "hash_es": "b5a8d4e091d6d37d",
+      "texto_ptbr": "Toda a Equipe dos Laboratórios Multijogador da MGS",
+      "lote": "516"
+    },
+    {
+      "id": "07ac",
+      "chave": "credits__mstestthanksrecon",
+      "hash_es": "a5aaa695fa12efe8",
+      "texto_ptbr": "Equipes Recon",
+      "lote": "516"
+    },
+    {
+      "id": "6e2b",
+      "chave": "credits__mstestthankstjduez",
+      "hash_es": "d833f3bcb3aff515",
+      "texto_ptbr": "TJ Duez",
+      "lote": "516"
+    },
+    {
+      "id": "055a",
+      "chave": "credits__mstestthankstramsey",
+      "hash_es": "e59e964aed0f1e67",
+      "texto_ptbr": "Terri Ramsey",
+      "lote": "516"
+    },
+    {
+      "id": "7e4c",
+      "chave": "credits__mstesttpijut",
+      "hash_es": "dc767838b9e608dd",
+      "texto_ptbr": "Travis Pijut (#)",
+      "lote": "516"
+    },
+    {
+      "id": "f6f1",
+      "chave": "credits__mstestvolt",
+      "hash_es": "306eb7f26e3ad970",
+      "texto_ptbr": "(*) = Volt",
+      "lote": "516"
+    },
+    {
+      "id": "aaea",
+      "chave": "credits__msweb",
+      "hash_es": "8f409cfafd2e33ec",
+      "texto_ptbr": "Travessuras do Site",
+      "lote": "516"
+    },
+    {
+      "id": "fbc5",
+      "chave": "credits__mswebcontent",
+      "hash_es": "1d741a657580c3d6",
+      "texto_ptbr": "Conteúdo Web",
+      "lote": "516"
+    },
+    {
+      "id": "d5ef",
+      "chave": "credits__mswebcontentkbell",
+      "hash_es": "277c501c79e47ffa",
+      "texto_ptbr": "Kelly Bell",
+      "lote": "516"
+    },
+    {
+      "id": "ab87",
+      "chave": "credits__mswebcontentskearney",
+      "hash_es": "ae30e568cf88c522",
+      "texto_ptbr": "Scott Kearney",
+      "lote": "516"
+    },
+    {
+      "id": "1824",
+      "chave": "credits__mswebdesign",
+      "hash_es": "2802fea31c676541",
+      "texto_ptbr": "Design Web",
+      "lote": "516"
+    },
+    {
+      "id": "f7f4",
+      "chave": "credits__mswebdesigndludwig",
+      "hash_es": "796b2bcc537dfb83",
+      "texto_ptbr": "Dana Ludwig",
+      "lote": "516"
+    },
+    {
+      "id": "b374",
+      "chave": "credits__mswebdesigndwynn",
+      "hash_es": "a48a6113b516135c",
+      "texto_ptbr": "Denise Wynn",
+      "lote": "516"
+    },
+    {
+      "id": "7e0c",
+      "chave": "credits__mswebdesigngbaldwin",
+      "hash_es": "0ef8443e0cdb5e46",
+      "texto_ptbr": "Ginny Baldwin",
+      "lote": "516"
+    },
+    {
+      "id": "94f9",
+      "chave": "credits__mswebdesignpamer",
+      "hash_es": "4fbc674fcdacea22",
+      "texto_ptbr": "Paul Amer",
+      "lote": "516"
+    },
+    {
+      "id": "7189",
+      "chave": "credits__mswebdev",
+      "hash_es": "a2a769ea9f6fd7e8",
+      "texto_ptbr": "Desenv. Web",
+      "lote": "516"
+    },
+    {
+      "id": "f72d",
+      "chave": "credits__mswebdevcbarney",
+      "hash_es": "96a40e0c16ea167b",
+      "texto_ptbr": "Chris Barney",
+      "lote": "516"
+    },
+    {
+      "id": "55f0",
+      "chave": "credits__mswebdevjolsan",
+      "hash_es": "4ec37add8bc4b85e",
+      "texto_ptbr": "Jason Olsan",
+      "lote": "516"
+    },
+    {
+      "id": "3a7a",
+      "chave": "credits__mswebdevjorourke",
+      "hash_es": "e3f9eadea53cfaba",
+      "texto_ptbr": "James O'Rourke",
+      "lote": "516"
+    },
+    {
+      "id": "a79a",
+      "chave": "credits__mswebsitemanager",
+      "hash_es": "3882198c24d0de5e",
+      "texto_ptbr": "Gerente do Site",
+      "lote": "516"
+    },
+    {
+      "id": "11fa",
+      "chave": "credits__mswebsitemanagersclark",
+      "hash_es": "19d6e7b12f918b44",
+      "texto_ptbr": "Susan Clark",
+      "lote": "516"
+    },
+    {
+      "id": "a903",
+      "chave": "credits__msxnalive",
+      "hash_es": "c75e802c8707ab10",
+      "texto_ptbr": "Servidor XNA LIVE",
+      "lote": "516"
+    },
+    {
+      "id": "8d8a",
+      "chave": "credits__msxnaliveagraff",
+      "hash_es": "76a2f00c908bf386",
+      "texto_ptbr": "Andrew Graff (NW Connection Services)",
+      "lote": "516"
+    },
+    {
+      "id": "fa63",
+      "chave": "credits__msxnalivebsteenbock",
+      "hash_es": "7190a33409ca7ab2",
+      "texto_ptbr": "Benjamin Steenbock",
+      "lote": "516"
+    },
+    {
+      "id": "b4f0",
+      "chave": "credits__msxnalivedberke",
+      "hash_es": "64fb7ebbab8d4527",
+      "texto_ptbr": "Daniel Berke",
+      "lote": "516"
+    },
+    {
+      "id": "cb56",
+      "chave": "credits__msxnalivedrector",
+      "hash_es": "9a87fc34d575e454",
+      "texto_ptbr": "Dustin Rector",
+      "lote": "516"
+    },
+    {
+      "id": "65a0",
+      "chave": "credits__msxnalivedtemplin",
+      "hash_es": "4c9dc504a02f5c8f",
+      "texto_ptbr": "Dave Templin",
+      "lote": "516"
+    },
+    {
+      "id": "eac6",
+      "chave": "credits__msxnalivehkobayashi",
+      "hash_es": "e8660b896951830e",
+      "texto_ptbr": "Hiroki Kobayashi",
+      "lote": "516"
+    },
+    {
+      "id": "2105",
+      "chave": "credits__msxnaliveiserna",
+      "hash_es": "00eb3e4f6150abe7",
+      "texto_ptbr": "Isaias Formacio-Serna",
+      "lote": "516"
+    },
+    {
+      "id": "8205",
+      "chave": "credits__msxnalivejwiljanen",
+      "hash_es": "18ffa9eaf5135f86",
+      "texto_ptbr": "Joel Wiljanen",
+      "lote": "516"
+    },
+    {
+      "id": "357b",
+      "chave": "credits__msxnalivemguerrero",
+      "hash_es": "b7707950f93450df",
+      "texto_ptbr": "Malia Guerrero",
+      "lote": "516"
+    },
+    {
+      "id": "8352",
+      "chave": "credits__msxnaliverarifianto",
+      "hash_es": "c00d51fd3b995e8f",
+      "texto_ptbr": "Raymond Arifianto",
+      "lote": "516"
+    },
+    {
+      "id": "40b8",
+      "chave": "credits__msxnaliversantossio",
+      "hash_es": "ae530496c6e9f438",
+      "texto_ptbr": "Randy Santossio",
+      "lote": "516"
+    },
+    {
+      "id": "a864",
+      "chave": "credits__msxnalivesdolan",
+      "hash_es": "b2e9fbb8fa59ca6f",
+      "texto_ptbr": "Steve Dolan",
+      "lote": "516"
+    },
+    {
+      "id": "69f2",
+      "chave": "credits__msxnalivesgrant",
+      "hash_es": "b0f58061961b28fe",
+      "texto_ptbr": "Scott Grant",
+      "lote": "516"
+    },
+    {
+      "id": "0573",
+      "chave": "credits__msxnalivesyong",
+      "hash_es": "780ac9335e6e666c",
+      "texto_ptbr": "Stephen Yong",
+      "lote": "516"
+    },
+    {
+      "id": "9d3c",
+      "chave": "credits__msxnalivethoward",
+      "hash_es": "018a4deb76adf952",
+      "texto_ptbr": "Ted Howard",
+      "lote": "516"
+    },
+    {
+      "id": "9136",
+      "chave": "credits__msxnalivewsheehan",
+      "hash_es": "60e1b42c61409183",
+      "texto_ptbr": "Will Sheehan",
+      "lote": "516"
+    },
+    {
+      "id": "2d77",
+      "chave": "credits__orchestra",
+      "hash_es": "0ba074d721ef3af1",
+      "texto_ptbr": "Batutas ao Vento e Trombetas Estridentes",
+      "lote": "516"
+    },
+    {
+      "id": "c86d",
+      "chave": "credits__orchestrajamesf",
+      "hash_es": "2ef0643f311b14e5",
+      "texto_ptbr": "James Fitzpatrick",
+      "lote": "516"
+    },
+    {
+      "id": "2e83",
+      "chave": "credits__orchestranicr",
+      "hash_es": "07721040ce4e1f9f",
+      "texto_ptbr": "Nic Raine",
+      "lote": "516"
+    },
+    {
+      "id": "d0fb",
+      "chave": "credits__orchestraprague",
+      "hash_es": "344a73a2b1da5167",
+      "texto_ptbr": "The City Of Prague Philharmonic Orchestra",
+      "lote": "516"
+    },
+    {
+      "id": "4faf",
+      "chave": "credits__pathengine",
+      "hash_es": "563115b7cc40a037",
+      "texto_ptbr": "Movimento dos agentes com tecnologia PathEngine™ - www.pathengine.com",
+      "lote": "516"
+    },
+    {
+      "id": "1f11",
+      "chave": "credits__pathenginetitle",
+      "hash_es": "79ff6d3c19cf1e42",
+      "texto_ptbr": "PathEngine™",
+      "lote": "516"
+    },
+    {
+      "id": "66c2",
+      "chave": "credits__rarebigwigs",
+      "hash_es": "3f8c17d194252767",
+      "texto_ptbr": "Habitantes da Torre de Marfim",
+      "lote": "516"
+    },
+    {
+      "id": "e07f",
+      "chave": "credits__rarebigwigskieranc",
+      "hash_es": "95c6f476ec9cea2a",
+      "texto_ptbr": "Kieran Connell",
+      "lote": "516"
+    },
+    {
+      "id": "ebc5",
+      "chave": "credits__rarebigwigsleem",
+      "hash_es": "4ec4b1b11b90fbe1",
+      "texto_ptbr": "Lee Musgrave",
+      "lote": "516"
+    },
+    {
+      "id": "ebcb",
+      "chave": "credits__rarebigwigslees",
+      "hash_es": "bcc76b5155ffce80",
+      "texto_ptbr": "Lee Schuneman",
+      "lote": "516"
+    },
+    {
+      "id": "82cf",
+      "chave": "credits__rarebigwigsmarkb",
+      "hash_es": "e3d8136a32ae4781",
+      "texto_ptbr": "Mark Betteridge",
+      "lote": "516"
+    },
+    {
+      "id": "e98e",
+      "chave": "credits__rarebigwigssimonf",
+      "hash_es": "b7bbaf4f536e2e64",
+      "texto_ptbr": "Simon Farmer",
+      "lote": "516"
+    },
+    {
+      "id": "4618",
+      "chave": "credits__rarefamily",
+      "hash_es": "2f88a4147e512577",
+      "texto_ptbr": "A Família Rare",
+      "lote": "516"
+    },
+    {
+      "id": "9ef6",
+      "chave": "credits__rarefamilyadamk",
+      "hash_es": "80eeb15d42d91b54",
+      "texto_ptbr": "Adam Kitching",
+      "lote": "516"
+    },
+    {
+      "id": "9efb",
+      "chave": "credits__rarefamilyadamp",
+      "hash_es": "962807d4a947a442",
+      "texto_ptbr": "Adam Park",
+      "lote": "516"
+    },
+    {
+      "id": "0228",
+      "chave": "credits__rarefamilyalant",
+      "hash_es": "b83ebcc89b2f4e7f",
+      "texto_ptbr": "Alan Tipper",
+      "lote": "516"
+    },
+    {
+      "id": "022b",
+      "chave": "credits__rarefamilyalanw",
+      "hash_es": "96d360bf2dd69ac4",
+      "texto_ptbr": "Alan Ward",
+      "lote": "516"
+    },
+    {
+      "id": "9d48",
+      "chave": "credits__rarefamilyamrits",
+      "hash_es": "ba54a101693f8ad3",
+      "texto_ptbr": "Amrit Singh",
+      "lote": "516"
+    },
+    {
+      "id": "c869",
+      "chave": "credits__rarefamilyandrewp",
+      "hash_es": "9adfbb9c5326a2a9",
+      "texto_ptbr": "Andrew Pollington",
+      "lote": "516"
+    },
+    {
+      "id": "290c",
+      "chave": "credits__rarefamilyandyh",
+      "hash_es": "34eb0364e1d2c206",
+      "texto_ptbr": "Andrew Hall",
+      "lote": "516"
+    },
+    {
+      "id": "ce61",
+      "chave": "credits__rarefamilyarturol",
+      "hash_es": "a1f4e337e0ae006f",
+      "texto_ptbr": "Arturo Lopez",
+      "lote": "516"
+    },
+    {
+      "id": "b9dc",
+      "chave": "credits__rarefamilyashh",
+      "hash_es": "2c137c129a44ceb0",
+      "texto_ptbr": "Ash Henstock",
+      "lote": "516"
+    },
+    {
+      "id": "d3af",
+      "chave": "credits__rarefamilybeardy",
+      "hash_es": "e7eddd378b7bf510",
+      "texto_ptbr": "Paul Mikell",
+      "lote": "516"
+    },
+    {
+      "id": "0b75",
+      "chave": "credits__rarefamilybenh",
+      "hash_es": "e2ed2fdee9a2e19f",
+      "texto_ptbr": "Ben Hymers",
+      "lote": "516"
+    },
+    {
+      "id": "a94f",
+      "chave": "credits__rarefamilybenjamins",
+      "hash_es": "53252633fb5efe1d",
+      "texto_ptbr": "Benjamin Swinton",
+      "lote": "516"
+    },
+    {
+      "id": "0b84",
+      "chave": "credits__rarefamilybenw",
+      "hash_es": "937fe271844b7739",
+      "texto_ptbr": "Ben Wilson",
+      "lote": "516"
+    },
+    {
+      "id": "fcc0",
+      "chave": "credits__rarefamilybjornm",
+      "hash_es": "79b84bff19adee81",
+      "texto_ptbr": "Bjorn Madsen",
+      "lote": "516"
+    },
+    {
+      "id": "34c3",
+      "chave": "credits__rarefamilybrentp",
+      "hash_es": "f2605d6d073db806",
+      "texto_ptbr": "Brent Poynton",
+      "lote": "516"
+    },
+    {
+      "id": "df74",
+      "chave": "credits__rarefamilycallcock",
+      "hash_es": "3538f9da310800f1",
+      "texto_ptbr": "Chris Allcock",
+      "lote": "516"
+    },
+    {
+      "id": "ff21",
+      "chave": "credits__rarefamilycaroles",
+      "hash_es": "e6cc32de16b33cf9",
+      "texto_ptbr": "Carole Stamper",
+      "lote": "516"
+    },
+    {
+      "id": "23c1",
+      "chave": "credits__rarefamilycharlesg",
+      "hash_es": "54b6280129c3b901",
+      "texto_ptbr": "Charles Goatley",
+      "lote": "516"
+    },
+    {
+      "id": "73e1",
+      "chave": "credits__rarefamilychrisp",
+      "hash_es": "697f1e3df3fd6377",
+      "texto_ptbr": "Chris Peil",
+      "lote": "516"
+    },
+    {
+      "id": "73e4",
+      "chave": "credits__rarefamilychriss",
+      "hash_es": "299d3929e8f94f8b",
+      "texto_ptbr": "Chris Sutherland",
+      "lote": "516"
+    },
+    {
+      "id": "ff1e",
+      "chave": "credits__rarefamilycorrinet",
+      "hash_es": "d8099148ccf554d4",
+      "texto_ptbr": "Corinne Tilley",
+      "lote": "516"
+    },
+    {
+      "id": "2c40",
+      "chave": "credits__rarefamilycphillips",
+      "hash_es": "ad158ccbf568a033",
+      "texto_ptbr": "Chris Phillips",
+      "lote": "516"
+    },
+    {
+      "id": "1a6b",
+      "chave": "credits__rarefamilycseavor",
+      "hash_es": "fed2aee297ae5efc",
+      "texto_ptbr": "Chris Seavor",
+      "lote": "516"
+    },
+    {
+      "id": "711b",
+      "chave": "credits__rarefamilydalem",
+      "hash_es": "1df482adf716f164",
+      "texto_ptbr": "Dale Murchie",
+      "lote": "516"
+    },
+    {
+      "id": "77fa",
+      "chave": "credits__rarefamilydamianoi",
+      "hash_es": "dd6021232c0122e9",
+      "texto_ptbr": "Damiano Iannetta",
+      "lote": "516"
+    },
+    {
+      "id": "132e",
+      "chave": "credits__rarefamilydanc",
+      "hash_es": "128ef258c495bab0",
+      "texto_ptbr": "Dan Carey",
+      "lote": "516"
+    },
+    {
+      "id": "9bab",
+      "chave": "credits__rarefamilydaves",
+      "hash_es": "d36f7b52e8cf6d42",
+      "texto_ptbr": "Dave Symmonds",
+      "lote": "516"
+    },
+    {
+      "id": "9baf",
+      "chave": "credits__rarefamilydavew",
+      "hash_es": "42268b17b09052b5",
+      "texto_ptbr": "David Wise",
+      "lote": "516"
+    },
+    {
+      "id": "2088",
+      "chave": "credits__rarefamilydavidh",
+      "hash_es": "df8699b280271ae4",
+      "texto_ptbr": "David Hill",
+      "lote": "516"
+    },
+    {
+      "id": "208d",
+      "chave": "credits__rarefamilydavidm",
+      "hash_es": "db877d8142cdb539",
+      "texto_ptbr": "David Meen",
+      "lote": "516"
+    },
+    {
+      "id": "2090",
+      "chave": "credits__rarefamilydavidp",
+      "hash_es": "6f390823d526c452",
+      "texto_ptbr": "David Parkinson",
+      "lote": "516"
+    },
+    {
+      "id": "2091",
+      "chave": "credits__rarefamilydavidq",
+      "hash_es": "a27774a1364ff6b5",
+      "texto_ptbr": "David Quinn",
+      "lote": "516"
+    },
+    {
+      "id": "2094",
+      "chave": "credits__rarefamilydavidt",
+      "hash_es": "ebb1dd47914ec5d6",
+      "texto_ptbr": "David Tipper",
+      "lote": "516"
+    },
+    {
+      "id": "a105",
+      "chave": "credits__rarefamilydawnc",
+      "hash_es": "f1494a104f124eaf",
+      "texto_ptbr": "Dawn Cole",
+      "lote": "516"
+    },
+    {
+      "id": "7503",
+      "chave": "credits__rarefamilydeans",
+      "hash_es": "f36358acc22d0a52",
+      "texto_ptbr": "Dean Smith",
+      "lote": "516"
+    },
+    {
+      "id": "7507",
+      "chave": "credits__rarefamilydeanw",
+      "hash_es": "43de61cd40b9d55a",
+      "texto_ptbr": "Dean Wilson",
+      "lote": "516"
+    },
+    {
+      "id": "4d2e",
+      "chave": "credits__rarefamilydenisewg",
+      "hash_es": "49f4718def79b67b",
+      "texto_ptbr": "Denise Wilson-Gleeson",
+      "lote": "516"
+    },
+    {
+      "id": "d449",
+      "chave": "credits__rarefamilydermotf",
+      "hash_es": "ab5de64d5b7f6496",
+      "texto_ptbr": "Dermot Fanning",
+      "lote": "516"
+    },
+    {
+      "id": "75fc",
+      "chave": "credits__rarefamilydianec",
+      "hash_es": "bfc7e9704850e6f9",
+      "texto_ptbr": "Diane Causon",
+      "lote": "516"
+    },
+    {
+      "id": "44ea",
+      "chave": "credits__rarefamilydougc",
+      "hash_es": "7e4faac0aa601d50",
+      "texto_ptbr": "Doug Crouch",
+      "lote": "516"
+    },
+    {
+      "id": "4433",
+      "chave": "credits__rarefamilyduncanb",
+      "hash_es": "ccf0be7ca71642d9",
+      "texto_ptbr": "Duncan Botwood",
+      "lote": "516"
+    },
+    {
+      "id": "b406",
+      "chave": "credits__rarefamilyeddies",
+      "hash_es": "b2e8ff86f578f088",
+      "texto_ptbr": "Eddie Sharam",
+      "lote": "516"
+    },
+    {
+      "id": "e86b",
+      "chave": "credits__rarefamilyeikeu",
+      "hash_es": "be160a11509dd254",
+      "texto_ptbr": "Eike Umlauf",
+      "lote": "516"
+    },
+    {
+      "id": "5528",
+      "chave": "credits__rarefamilyelaineb",
+      "hash_es": "d23079e947908a97",
+      "texto_ptbr": "Elaine Burgess",
+      "lote": "516"
+    },
+    {
+      "id": "2b49",
+      "chave": "credits__rarefamilyeoinf",
+      "hash_es": "90ae92aca78ca439",
+      "texto_ptbr": "Eoin O'Flynn",
+      "lote": "516"
+    },
+    {
+      "id": "a496",
+      "chave": "credits__rarefamilyfrankl",
+      "hash_es": "f4b87ef17cd0c498",
+      "texto_ptbr": "Frank Li",
+      "lote": "516"
+    },
+    {
+      "id": "cf1d",
+      "chave": "credits__rarefamilygandreas",
+      "hash_es": "a5268d8402d41072",
+      "texto_ptbr": "George Andreas",
+      "lote": "516"
+    },
+    {
+      "id": "98bf",
+      "chave": "credits__rarefamilygarethl",
+      "hash_es": "1d0ac4dba6c5c859",
+      "texto_ptbr": "Gareth Lough",
+      "lote": "516"
+    },
+    {
+      "id": "d6bd",
+      "chave": "credits__rarefamilygaryr",
+      "hash_es": "0f263b652fd294ab",
+      "texto_ptbr": "Gary Richards",
+      "lote": "516"
+    },
+    {
+      "id": "0ee0",
+      "chave": "credits__rarefamilyguys",
+      "hash_es": "461b0f09c5935717",
+      "texto_ptbr": "Guy Snowdon",
+      "lote": "516"
+    },
+    {
+      "id": "ba90",
+      "chave": "credits__rarefamilyharryr",
+      "hash_es": "ca800f12c715b0bd",
+      "texto_ptbr": "Harry Robinson",
+      "lote": "516"
+    },
+    {
+      "id": "d112",
+      "chave": "credits__rarefamilyianb",
+      "hash_es": "f322a83c57e9d120",
+      "texto_ptbr": "Ian Bolton",
+      "lote": "516"
+    },
+    {
+      "id": "2e0f",
+      "chave": "credits__rarefamilyjafars",
+      "hash_es": "4c961469795d5926",
+      "texto_ptbr": "Jafar Soltani Azad",
+      "lote": "516"
+    },
+    {
+      "id": "15da",
+      "chave": "credits__rarefamilyjamesr",
+      "hash_es": "b451b3ef34e05bcc",
+      "texto_ptbr": "James Rogers",
+      "lote": "516"
+    },
+    {
+      "id": "15dc",
+      "chave": "credits__rarefamilyjamest",
+      "hash_es": "6302d4cbbea9a456",
+      "texto_ptbr": "James Thomas",
+      "lote": "516"
+    },
+    {
+      "id": "5ee4",
+      "chave": "credits__rarefamilyjayh",
+      "hash_es": "8de658811975004d",
+      "texto_ptbr": "Jay Howse",
+      "lote": "516"
+    },
+    {
+      "id": "7f5a",
+      "chave": "credits__rarefamilyjimb",
+      "hash_es": "c40e1a2ce675fb1d",
+      "texto_ptbr": "Jim Ballard",
+      "lote": "516"
+    },
+    {
+      "id": "97de",
+      "chave": "credits__rarefamilyjoeh",
+      "hash_es": "7ac2022619dd3f6f",
+      "texto_ptbr": "Joe Humfrey",
+      "lote": "516"
+    },
+    {
+      "id": "a18b",
+      "chave": "credits__rarefamilyjohnd",
+      "hash_es": "61607d59316f5036",
+      "texto_ptbr": "John Doyle",
+      "lote": "516"
+    },
+    {
+      "id": "a19e",
+      "chave": "credits__rarefamilyjohnw",
+      "hash_es": "1f1ed9e0ae925ef1",
+      "texto_ptbr": "John Warlow",
+      "lote": "516"
+    },
+    {
+      "id": "82b8",
+      "chave": "credits__rarefamilyjulieg",
+      "hash_es": "25ed588fd9c9baa8",
+      "texto_ptbr": "Julie Gunn",
+      "lote": "516"
+    },
+    {
+      "id": "9fb8",
+      "chave": "credits__rarefamilyjustinc",
+      "hash_es": "9fa238e6b38ec5d9",
+      "texto_ptbr": "Justin Cook",
+      "lote": "516"
+    },
+    {
+      "id": "ad5f",
+      "chave": "credits__rarefamilykeithr",
+      "hash_es": "815f84ceee71d2ae",
+      "texto_ptbr": "Keith Rabbette",
+      "lote": "516"
+    },
+    {
+      "id": "c763",
+      "chave": "credits__rarefamilykostasv",
+      "hash_es": "3f66e1d96d1e9042",
+      "texto_ptbr": "Kostas Vlahavas",
+      "lote": "516"
+    },
+    {
+      "id": "6408",
+      "chave": "credits__rarefamilylynnej",
+      "hash_es": "c16bd18869c385e3",
+      "texto_ptbr": "Lynne Jackson",
+      "lote": "516"
+    },
+    {
+      "id": "2725",
+      "chave": "credits__rarefamilymaccy",
+      "hash_es": "f82186daec4b7d2f",
+      "texto_ptbr": "Paul Machacek",
+      "lote": "516"
+    },
+    {
+      "id": "ae0f",
+      "chave": "credits__rarefamilymargueriteb",
+      "hash_es": "263777ad7ac0d89b",
+      "texto_ptbr": "Marguerite Barrett",
+      "lote": "516"
+    },
+    {
+      "id": "2251",
+      "chave": "credits__rarefamilymarions",
+      "hash_es": "b500ba136017faa7",
+      "texto_ptbr": "Marion Storer",
+      "lote": "516"
+    },
+    {
+      "id": "67e5",
+      "chave": "credits__rarefamilymarkb",
+      "hash_es": "449c4f81d70385ac",
+      "texto_ptbr": "Mark Bryant",
+      "lote": "516"
+    },
+    {
+      "id": "67e8",
+      "chave": "credits__rarefamilymarke",
+      "hash_es": "d661543955994d06",
+      "texto_ptbr": "Mark Edmonds",
+      "lote": "516"
+    },
+    {
+      "id": "67ea",
+      "chave": "credits__rarefamilymarkg",
+      "hash_es": "07b7c297ddf586dd",
+      "texto_ptbr": "Mark Green",
+      "lote": "516"
+    },
+    {
+      "id": "7191",
+      "chave": "credits__rarefamilymattc",
+      "hash_es": "280f8d2bdf9dceeb",
+      "texto_ptbr": "Matthew Carter",
+      "lote": "516"
+    },
+    {
+      "id": "7199",
+      "chave": "credits__rarefamilymattk",
+      "hash_es": "0b9bdc272506c172",
+      "texto_ptbr": "Matthew Kemp",
+      "lote": "516"
+    },
+    {
+      "id": "7cfa",
+      "chave": "credits__rarefamilymgrover",
+      "hash_es": "0b11dadb9d067708",
+      "texto_ptbr": "Matt Grover",
+      "lote": "516"
+    },
+    {
+      "id": "186e",
+      "chave": "credits__rarefamilymhill",
+      "hash_es": "3636f8f9e0e4954f",
+      "texto_ptbr": "Matt Hill",
+      "lote": "516"
+    },
+    {
+      "id": "cb80",
+      "chave": "credits__rarefamilymichellee",
+      "hash_es": "e5db967bf70b03c3",
+      "texto_ptbr": "Michelle Everitt",
+      "lote": "516"
+    },
+    {
+      "id": "d377",
+      "chave": "credits__rarefamilymperry",
+      "hash_es": "72b4fb1429f53403",
+      "texto_ptbr": "Matt Perry",
+      "lote": "516"
+    },
+    {
+      "id": "6f6a",
+      "chave": "credits__rarefamilymstevenson",
+      "hash_es": "55ac42cd4d4c48a8",
+      "texto_ptbr": "Mark Stevenson",
+      "lote": "516"
+    },
+    {
+      "id": "c815",
+      "chave": "credits__rarefamilynathanc",
+      "hash_es": "c360f4f7355412c5",
+      "texto_ptbr": "Nathan Cockburn",
+      "lote": "516"
+    },
+    {
+      "id": "8bcd",
+      "chave": "credits__rarefamilyneilm",
+      "hash_es": "45c1e73f4fb938fb",
+      "texto_ptbr": "Neal Mitchell",
+      "lote": "516"
+    },
+    {
+      "id": "a39f",
+      "chave": "credits__rarefamilynickb",
+      "hash_es": "07cf752ddb45a928",
+      "texto_ptbr": "Nick Burton",
+      "lote": "516"
+    },
+    {
+      "id": "af9f",
+      "chave": "credits__rarefamilynicm",
+      "hash_es": "e5656706375985cb",
+      "texto_ptbr": "Nic Makin",
+      "lote": "516"
+    },
+    {
+      "id": "7050",
+      "chave": "credits__rarefamilynicolab",
+      "hash_es": "41f25cddea93b700",
+      "texto_ptbr": "Nicola Bhalerao",
+      "lote": "516"
+    },
+    {
+      "id": "dbc2",
+      "chave": "credits__rarefamilypdunne",
+      "hash_es": "b9c925c8ac0d9ca8",
+      "texto_ptbr": "Phil Dunne",
+      "lote": "516"
+    },
+    {
+      "id": "eaa9",
+      "chave": "credits__rarefamilypetec",
+      "hash_es": "50cc32c38338a363",
+      "texto_ptbr": "Pete Cox",
+      "lote": "516"
+    },
+    {
+      "id": "61e7",
+      "chave": "credits__rarefamilyphilb",
+      "hash_es": "386dd7932430771a",
+      "texto_ptbr": "Phil Baker",
+      "lote": "516"
+    },
+    {
+      "id": "61e8",
+      "chave": "credits__rarefamilyphilc",
+      "hash_es": "cdeb89efdba9f2f4",
+      "texto_ptbr": "Phil Cousins",
+      "lote": "516"
+    },
+    {
+      "id": "61f9",
+      "chave": "credits__rarefamilyphilt",
+      "hash_es": "bbcfbcac6d1177c0",
+      "texto_ptbr": "Phil Tossell",
+      "lote": "516"
+    },
+    {
+      "id": "ba1f",
+      "chave": "credits__rarefamilyrobinm",
+      "hash_es": "c3542ef2557bcd76",
+      "texto_ptbr": "Robin Moore",
+      "lote": "516"
+    },
+    {
+      "id": "fa92",
+      "chave": "credits__rarefamilyrobw",
+      "hash_es": "56bfc4699b9a1de2",
+      "texto_ptbr": "Rob Ware",
+      "lote": "516"
+    },
+    {
+      "id": "fabf",
+      "chave": "credits__rarefamilyrodb",
+      "hash_es": "e1e39157d06b9042",
+      "texto_ptbr": "Rod Boyd",
+      "lote": "516"
+    },
+    {
+      "id": "9501",
+      "chave": "credits__rarefamilyrossb",
+      "hash_es": "13c88fbbfca89069",
+      "texto_ptbr": "Ross Bullimore",
+      "lote": "516"
+    },
+    {
+      "id": "26b3",
+      "chave": "credits__rarefamilyryoa",
+      "hash_es": "4ba0743c0cebaa44",
+      "texto_ptbr": "Ryo Agarie",
+      "lote": "516"
+    },
+    {
+      "id": "159f",
+      "chave": "credits__rarefamilysallyb",
+      "hash_es": "905c54f767ff13b5",
+      "texto_ptbr": "Sally Betts",
+      "lote": "516"
+    },
+    {
+      "id": "5ea0",
+      "chave": "credits__rarefamilyscraddick",
+      "hash_es": "b455bd8f9fbc3480",
+      "texto_ptbr": "Simon Craddick",
+      "lote": "516"
+    },
+    {
+      "id": "ef79",
+      "chave": "credits__rarefamilysergeyr",
+      "hash_es": "71a4d391197733bb",
+      "texto_ptbr": "Sergey Rakhmanov",
+      "lote": "516"
+    },
+    {
+      "id": "fa0b",
+      "chave": "credits__rarefamilysharonh",
+      "hash_es": "6388ed6c0a06f054",
+      "texto_ptbr": "Sharon Holden",
+      "lote": "516"
+    },
+    {
+      "id": "f67f",
+      "chave": "credits__rarefamilyshorsburgh",
+      "hash_es": "06d1dec46833768c",
+      "texto_ptbr": "Steve Horsburgh",
+      "lote": "516"
+    },
+    {
+      "id": "9db3",
+      "chave": "credits__rarefamilysimonat",
+      "hash_es": "5760e1f09c833568",
+      "texto_ptbr": "Simona Tassinari",
+      "lote": "516"
+    },
+    {
+      "id": "7171",
+      "chave": "credits__rarefamilysimons",
+      "hash_es": "7225cdacbea5a84d",
+      "texto_ptbr": "Simon Scarle",
+      "lote": "516"
+    },
+    {
+      "id": "8a42",
+      "chave": "credits__rarefamilystephens",
+      "hash_es": "8ff3a93ffc76258c",
+      "texto_ptbr": "Stephen Stamper",
+      "lote": "516"
+    },
+    {
+      "id": "3881",
+      "chave": "credits__rarefamilysteveb",
+      "hash_es": "c94d856223b10ed6",
+      "texto_ptbr": "Steven Brand",
+      "lote": "516"
+    },
+    {
+      "id": "3887",
+      "chave": "credits__rarefamilysteveh",
+      "hash_es": "2a168c58bce48198",
+      "texto_ptbr": "Stephen Hall",
+      "lote": "516"
+    },
+    {
+      "id": "14b3",
+      "chave": "credits__rarefamilytomk",
+      "hash_es": "d6bdcc9dc1f44d7f",
+      "texto_ptbr": "Tom Kuhn",
+      "lote": "516"
+    },
+    {
+      "id": "611b",
+      "chave": "credits__rarefamilytrevora",
+      "hash_es": "914de0235cfb36b9",
+      "texto_ptbr": "Trevor Attwood",
+      "lote": "516"
+    },
+    {
+      "id": "a69f",
+      "chave": "credits__rarefamilywillo",
+      "hash_es": "68c26cb8257a207f",
+      "texto_ptbr": "Wil Overton",
+      "lote": "516"
+    },
+    {
+      "id": "4b47",
+      "chave": "credits__resources",
+      "hash_es": "94e2ed3e618f5ecc",
+      "texto_ptbr": "Conteúdo, Recursos e Serviços Adicionais",
+      "lote": "516"
+    },
+    {
+      "id": "06f6",
+      "chave": "credits__specialthanks",
+      "hash_es": "390758209273e2f9",
+      "texto_ptbr": "Um tapinha nas costas para",
+      "lote": "516"
+    },
+    {
+      "id": "f1d4",
+      "chave": "credits__specialthankscharlief",
+      "hash_es": "d39303df4831f7df",
+      "texto_ptbr": "Charlie Farmer",
+      "lote": "516"
+    },
+    {
+      "id": "6bda",
+      "chave": "credits__specialthankscorals",
+      "hash_es": "9863d815dc77a109",
+      "texto_ptbr": "Korrol Schuneman",
+      "lote": "516"
+    },
+    {
+      "id": "e621",
+      "chave": "credits__specialthanksedb",
+      "hash_es": "a3a263e925183d59",
+      "texto_ptbr": "Ed Bryan",
+      "lote": "516"
+    },
+    {
+      "id": "8528",
+      "chave": "credits__specialthanksjamesb",
+      "hash_es": "218a48f073df9915",
+      "texto_ptbr": "James Bakewell",
+      "lote": "516"
+    },
+    {
+      "id": "8532",
+      "chave": "credits__specialthanksjamesl",
+      "hash_es": "de41af00926eec9a",
+      "texto_ptbr": "James Lawrence",
+      "lote": "516"
+    },
+    {
+      "id": "cb3c",
+      "chave": "credits__specialthanksjoshr",
+      "hash_es": "e7fa2b19c2884dee",
+      "texto_ptbr": "Josh Read",
+      "lote": "516"
+    },
+    {
+      "id": "86dd",
+      "chave": "credits__specialthanksrareit",
+      "hash_es": "7ca9312cdfaa6de3",
+      "texto_ptbr": "Depto. de TI da Rare",
+      "lote": "516"
+    },
+    {
+      "id": "23cc",
+      "chave": "credits__specialthanksrikoa",
+      "hash_es": "110fb9f2965101d7",
+      "texto_ptbr": "Riko Agarie",
+      "lote": "516"
+    },
+    {
+      "id": "a230",
+      "chave": "credits__specialthankswillb",
+      "hash_es": "28951df16a1599c1",
+      "texto_ptbr": "William Bryan",
+      "lote": "516"
+    },
+    {
+      "id": "7a5a",
+      "chave": "credits__stg",
+      "hash_es": "211492b3614fb7b7",
+      "texto_ptbr": "Tecnologia Moderninha (Banjo)",
+      "lote": "516"
+    },
+    {
+      "id": "17dc",
+      "chave": "credits__stganthonya",
+      "hash_es": "7a749c620dafaa63",
+      "texto_ptbr": "Anthony Ambrus",
+      "lote": "516"
+    },
+    {
+      "id": "90bc",
+      "chave": "credits__stgbenm",
+      "hash_es": "e0ac0a970e2b6af9",
+      "texto_ptbr": "Ben Miller",
+      "lote": "516"
+    },
+    {
+      "id": "c8c3",
+      "chave": "credits__stghenryc",
+      "hash_es": "b381a62615a21ed8",
+      "texto_ptbr": "Henry Coupe",
+      "lote": "516"
+    },
+    {
+      "id": "04a2",
+      "chave": "credits__stgjimh",
+      "hash_es": "dc7f4c07a9efd569",
+      "texto_ptbr": "Jim Horth",
+      "lote": "516"
+    },
+    {
+      "id": "5aaf",
+      "chave": "credits__stgmichaelb",
+      "hash_es": "9c133038d5b22172",
+      "texto_ptbr": "Michael Boulton",
+      "lote": "516"
+    },
+    {
+      "id": "b965",
+      "chave": "credits__stgrichardn",
+      "hash_es": "4ae35ef5b053e4f6",
+      "texto_ptbr": "Richard Nguyen",
+      "lote": "516"
+    },
+    {
+      "id": "9727",
+      "chave": "credits__stgsebastians",
+      "hash_es": "fce367d4cb3fc16f",
+      "texto_ptbr": "Sebastian Sylvan",
+      "lote": "516"
+    },
+    {
+      "id": "c42b",
+      "chave": "credits__stgshawnp",
+      "hash_es": "65078765658b71f7",
+      "texto_ptbr": "Shawn Pile",
+      "lote": "516"
+    },
+    {
+      "id": "99f1",
+      "chave": "credits__stgtomg",
+      "hash_es": "af0f1a3dc90e71b1",
+      "texto_ptbr": "Tom Grove",
+      "lote": "516"
+    },
+    {
+      "id": "f793",
+      "chave": "credits__teamadamm",
+      "hash_es": "be28f47f3566a002",
+      "texto_ptbr": "Adam 'Wrench-It' Miller",
+      "lote": "516"
+    },
+    {
+      "id": "df7e",
+      "chave": "credits__teamaj",
+      "hash_es": "41cc709d00b7735e",
+      "texto_ptbr": "Andrew 'Jiggy Bank' James",
+      "lote": "516"
+    },
+    {
+      "id": "6d0a",
+      "chave": "credits__teamalexm",
+      "hash_es": "7214f5c9bf06c60d",
+      "texto_ptbr": "Alex 'Making Waves' Mourant",
+      "lote": "516"
+    },
+    {
+      "id": "81a1",
+      "chave": "credits__teamandyb",
+      "hash_es": "5f88a49ad851bf9b",
+      "texto_ptbr": "Andrew 'Bottles' Burt",
+      "lote": "516"
+    },
+    {
+      "id": "81a5",
+      "chave": "credits__teamandyf",
+      "hash_es": "8205c8e84468caaa",
+      "texto_ptbr": "Andrew 'Klungo' Fenwick",
+      "lote": "516"
+    },
+    {
+      "id": "81af",
+      "chave": "credits__teamandyp",
+      "hash_es": "11671dfcf242921f",
+      "texto_ptbr": "Andrew 'Replenisher' Patrick",
+      "lote": "516"
+    },
+    {
+      "id": "81b6",
+      "chave": "credits__teamandyw",
+      "hash_es": "75ca33ab927d1358",
+      "texto_ptbr": "Andy 'Spec-O-Spy' Wilson",
+      "lote": "516"
+    },
+    {
+      "id": "1867",
+      "chave": "credits__teamanthonys",
+      "hash_es": "cc3d4a768721f6d6",
+      "texto_ptbr": "Anthony 'Salty Hippo' Salway",
+      "lote": "516"
+    },
+    {
+      "id": "d0ba",
+      "chave": "credits__teamart",
+      "hash_es": "b2f4ce9c88bab13d",
+      "texto_ptbr": "Criação de Formas, Colorização e Rabiscos",
+      "lote": "516"
+    },
+    {
+      "id": "d0f4",
+      "chave": "credits__teambrendang",
+      "hash_es": "527575e45a3333cb",
+      "texto_ptbr": "Brendan 'Spring Break' Gunn",
+      "lote": "516"
+    },
+    {
+      "id": "6042",
+      "chave": "credits__teambryans",
+      "hash_es": "77620b8b37d1e73f",
+      "texto_ptbr": "Bryan 'Terrarium of Terror' Smyth",
+      "lote": "516"
+    },
+    {
+      "id": "3ec6",
+      "chave": "credits__teamcarlap",
+      "hash_es": "487dd48f4c3dab00",
+      "texto_ptbr": "Carla 'Coffitup' Prada",
+      "lote": "516"
+    },
+    {
+      "id": "dfe0",
+      "chave": "credits__teamchrist",
+      "hash_es": "afd4e4954a55064e",
+      "texto_ptbr": "Chris 'Tooty Fruity' Tilston",
+      "lote": "516"
+    },
+    {
+      "id": "dfe3",
+      "chave": "credits__teamchrisw",
+      "hash_es": "65db2df600ba22cd",
+      "texto_ptbr": "Chris 'Nutty Acres' Woods",
+      "lote": "516"
+    },
+    {
+      "id": "34d0",
+      "chave": "credits__teamdamians",
+      "hash_es": "52cce94632c1fca4",
+      "texto_ptbr": "Damian 'LOGBOX 720' Sparkes",
+      "lote": "516"
+    },
+    {
+      "id": "f434",
+      "chave": "credits__teamdavea",
+      "hash_es": "3ca9c14596b7d5d1",
+      "texto_ptbr": "David 'Big Al' Allmond",
+      "lote": "516"
+    },
+    {
+      "id": "f435",
+      "chave": "credits__teamdaveb",
+      "hash_es": "ec4d7bb6c476daeb",
+      "texto_ptbr": "Dave 'Spiral Mountain' Buttress",
+      "lote": "516"
+    },
+    {
+      "id": "f436",
+      "chave": "credits__teamdavec",
+      "hash_es": "2e0124811394cfc4",
+      "texto_ptbr": "David 'Collywobble' Clifford",
+      "lote": "516"
+    },
+    {
+      "id": "f43b",
+      "chave": "credits__teamdaveh",
+      "hash_es": "abe4733e056d295e",
+      "texto_ptbr": "Dave 'Daily L.O.G.' Herod",
+      "lote": "516"
+    },
+    {
+      "id": "f443",
+      "chave": "credits__teamdavep",
+      "hash_es": "9a07e04e002fa5de",
+      "texto_ptbr": "David 'Wrench Whirl' Pashute",
+      "lote": "516"
+    },
+    {
+      "id": "f445",
+      "chave": "credits__teamdaver",
+      "hash_es": "bf3b2e5731e31174",
+      "texto_ptbr": "Dave 'Banjoland' Rose",
+      "lote": "516"
+    },
+    {
+      "id": "f447",
+      "chave": "credits__teamdavet",
+      "hash_es": "3731e5e80c2e89fa",
+      "texto_ptbr": "Dave 'Trophy' Thomas",
+      "lote": "516"
+    },
+    {
+      "id": "b1c4",
+      "chave": "credits__teamdclynick",
+      "hash_es": "0b86e380e6e058b3",
+      "texto_ptbr": "Dave 'Ye Olde Empty Kettle' Clynick",
+      "lote": "516"
+    },
+    {
+      "id": "49cd",
+      "chave": "credits__teamdesign",
+      "hash_es": "5a4be9974397cc54",
+      "texto_ptbr": "Ideias Malucas e Colagem de Veículos",
+      "lote": "516"
+    },
+    {
+      "id": "9521",
+      "chave": "credits__teamelissam",
+      "hash_es": "566df83f1588dd71",
+      "texto_ptbr": "Elissa 'Merry Maggie' Miller",
+      "lote": "516"
+    },
+    {
+      "id": "2f5a",
+      "chave": "credits__teamgaryt",
+      "hash_es": "8ec1f49380364489",
+      "texto_ptbr": "Gary 'Tiptup' Talbot",
+      "lote": "516"
+    },
+    {
+      "id": "930f",
+      "chave": "credits__teamgavster",
+      "hash_es": "b47d567275bf0cb2",
+      "texto_ptbr": "Gavin 'Pikelet' Price",
+      "lote": "516"
+    },
+    {
+      "id": "3f97",
+      "chave": "credits__teamgilesp",
+      "hash_es": "2f7d3858eeafc858",
+      "texto_ptbr": "Gilesss Evansss-Pritchard",
+      "lote": "516"
+    },
+    {
+      "id": "962a",
+      "chave": "credits__teamgiorgiog",
+      "hash_es": "c3d075fa6271a351",
+      "texto_ptbr": "Giorgio 'Game Globe' Grecu",
+      "lote": "516"
+    },
+    {
+      "id": "3a5a",
+      "chave": "credits__teamgrantk",
+      "hash_es": "3a9e5a221e558ea7",
+      "texto_ptbr": "Grant 'Clanker' Kirkhope",
+      "lote": "516"
+    },
+    {
+      "id": "4c6c",
+      "chave": "credits__teamgreggm",
+      "hash_es": "5815c594c97ee869",
+      "texto_ptbr": "Gregg 'Grunty' Mayles",
+      "lote": "516"
+    },
+    {
+      "id": "0863",
+      "chave": "credits__teamheading",
+      "hash_es": "36b8e92b1a8d18eb",
+      "texto_ptbr": "Equipe de Desenvolvimento de Banjo-Kazooie: Nuts & Bolts",
+      "lote": "516"
+    },
+    {
+      "id": "81c4",
+      "chave": "credits__teamjamesa",
+      "hash_es": "7db369711741aca1",
+      "texto_ptbr": "James 'Parts Store' Ackroyd",
+      "lote": "516"
+    },
+    {
+      "id": "81c5",
+      "chave": "credits__teamjamesb",
+      "hash_es": "c37c1be71891ed00",
+      "texto_ptbr": "James 'Tick Tick Bang' Bird",
+      "lote": "516"
+    },
+    {
+      "id": "81d6",
+      "chave": "credits__teamjamess",
+      "hash_es": "8156b8a7e33da4d8",
+      "texto_ptbr": "James 'Save Our Statue' Stant (estagiário)",
+      "lote": "516"
+    },
+    {
+      "id": "9101",
+      "chave": "credits__teamjamieh",
+      "hash_es": "af7b051cc0fb57f4",
+      "texto_ptbr": "Jamie 'Jig-O-Vend' Hughes",
+      "lote": "516"
+    },
+    {
+      "id": "fa32",
+      "chave": "credits__teamjohnp",
+      "hash_es": "7cea4d2f062e6010",
+      "texto_ptbr": "John 'Boggy' Pegg",
+      "lote": "516"
+    },
+    {
+      "id": "27ca",
+      "chave": "credits__teamjosef",
+      "hash_es": "423e41bfca4e4309",
+      "texto_ptbr": "Jose 'Jiggosseum' Fernandez",
+      "lote": "516"
+    },
+    {
+      "id": "b74b",
+      "chave": "credits__teamleeb",
+      "hash_es": "c2fd269eb06fbc20",
+      "texto_ptbr": "Lee 'Jinjo Bingo' Burns",
+      "lote": "516"
+    },
+    {
+      "id": "0aa8",
+      "chave": "credits__teamleighl",
+      "hash_es": "2d9624ba4ddcba9c",
+      "texto_ptbr": "Leigh 'Spirit of Pants' Loveday",
+      "lote": "516"
+    },
+    {
+      "id": "8111",
+      "chave": "credits__teamlukem",
+      "hash_es": "7ac2e047b41332c0",
+      "texto_ptbr": "Luke 'Loco Coco' Munton",
+      "lote": "516"
+    },
+    {
+      "id": "c08a",
+      "chave": "credits__teammarkl",
+      "hash_es": "d5ee235135fc5355",
+      "texto_ptbr": "Mark 'Mumbo Bombo' Lucas",
+      "lote": "516"
+    },
+    {
+      "id": "fc4e",
+      "chave": "credits__teammartinp",
+      "hash_es": "c3aa8290b1c70480",
+      "texto_ptbr": "Martin 'Flower Power Shower' Penny",
+      "lote": "516"
+    },
+    {
+      "id": "fc53",
+      "chave": "credits__teammartinu",
+      "hash_es": "c9ee2ccf69a0cf23",
+      "texto_ptbr": "Martin 'Up to The Oche' Uhrin",
+      "lote": "516"
+    },
+    {
+      "id": "ca38",
+      "chave": "credits__teammatto",
+      "hash_es": "60c217d6a8a6b2bb",
+      "texto_ptbr": "Matt 'Mildred' Osbond",
+      "lote": "516"
+    },
+    {
+      "id": "ca3c",
+      "chave": "credits__teammatts",
+      "hash_es": "8211d8833858f282",
+      "texto_ptbr": "Matthew 'Suck-N-Blow' South",
+      "lote": "516"
+    },
+    {
+      "id": "ca40",
+      "chave": "credits__teammattw",
+      "hash_es": "bce9d4de8f60964e",
+      "texto_ptbr": "Matthew 'Test-O-Track' Wells",
+      "lote": "516"
+    },
+    {
+      "id": "050f",
+      "chave": "credits__teammikev",
+      "hash_es": "30c4b96f485901e6",
+      "texto_ptbr": "Mike 'Minjo' Vine",
+      "lote": "516"
+    },
+    {
+      "id": "bc14",
+      "chave": "credits__teammusic",
+      "hash_es": "75bc1d4d6c8d6ff6",
+      "texto_ptbr": "Batidas e Estrondos",
+      "lote": "516"
+    },
+    {
+      "id": "71af",
+      "chave": "credits__teamneillh",
+      "hash_es": "98aec0545b887290",
+      "texto_ptbr": "Neill 'Jolly Dodger' Harrison",
+      "lote": "516"
+    },
+    {
+      "id": "e46b",
+      "chave": "credits__teamneilp",
+      "hash_es": "f7d403eecc02a944",
+      "texto_ptbr": "Neil 'No Holds Beared' Pryce",
+      "lote": "516"
+    },
+    {
+      "id": "197d",
+      "chave": "credits__teamnikolays",
+      "hash_es": "4a3ac81acb4a0f7f",
+      "texto_ptbr": "Nikolay 'Smoke Sphere' Stefanov",
+      "lote": "516"
+    },
+    {
+      "id": "77ad",
+      "chave": "credits__teamnilless",
+      "hash_es": "85121092f7088c49",
+      "texto_ptbr": "Nilles 'Citrus Slick' Sonnemans",
+      "lote": "516"
+    },
+    {
+      "id": "16f2",
+      "chave": "credits__teampaulm",
+      "hash_es": "80044929756650b4",
+      "texto_ptbr": "Paul 'Floater' Mountain",
+      "lote": "516"
+    },
+    {
+      "id": "4344",
+      "chave": "credits__teampetec",
+      "hash_es": "b6cacb065dbeb952",
+      "texto_ptbr": "Peter 'Gruntbot' Campbell",
+      "lote": "516"
+    },
+    {
+      "id": "ba8a",
+      "chave": "credits__teamphilj",
+      "hash_es": "49fd13f2d9ab95b1",
+      "texto_ptbr": "Phillip 'Piddles' Jackson",
+      "lote": "516"
+    },
+    {
+      "id": "043a",
+      "chave": "credits__teamproduction",
+      "hash_es": "96e6d23a72512374",
+      "texto_ptbr": "Embaralhar Papéis, Agendar e Gritar",
+      "lote": "516"
+    },
+    {
+      "id": "b9d3",
+      "chave": "credits__teamrichardc",
+      "hash_es": "42f7f92f6063aaa9",
+      "texto_ptbr": "Richard 'Clockwork Kaz' Cousins",
+      "lote": "516"
+    },
+    {
+      "id": "6bd7",
+      "chave": "credits__teamrichiep",
+      "hash_es": "3df052a9fcbff8af",
+      "texto_ptbr": "Richie 'Mr. Patch' Prado",
+      "lote": "516"
+    },
+    {
+      "id": "5df0",
+      "chave": "credits__teamrichw",
+      "hash_es": "56253ec3dbff12b2",
+      "texto_ptbr": "Richard 'Jingaling' Watson",
+      "lote": "516"
+    },
+    {
+      "id": "260f",
+      "chave": "credits__teamrobinb",
+      "hash_es": "87c9be48cad9aa84",
+      "texto_ptbr": "Robin 'Weldar's Breath' Beanland",
+      "lote": "516"
+    },
+    {
+      "id": "2bc3",
+      "chave": "credits__teamrobm",
+      "hash_es": "54c3c22b72e6e410",
+      "texto_ptbr": "Rob 'Sticky Ball' Masella",
+      "lote": "516"
+    },
+    {
+      "id": "1c40",
+      "chave": "credits__teamryans",
+      "hash_es": "e4a04d4ac9d54f0f",
+      "texto_ptbr": "Ryan 'Roysten' Stevenson",
+      "lote": "516"
+    },
+    {
+      "id": "1b1d",
+      "chave": "credits__teamsav",
+      "hash_es": "e1bbcc6a23230757",
+      "texto_ptbr": "Salvatore 'Freezeezy' Fileccia",
+      "lote": "516"
+    },
+    {
+      "id": "9ffc",
+      "chave": "credits__teamscottsi",
+      "hash_es": "270e446b4feae530",
+      "texto_ptbr": "Scott 'Super Wheels' Sims",
+      "lote": "516"
+    },
+    {
+      "id": "ef08",
+      "chave": "credits__teamscript",
+      "hash_es": "37e754b51b3fdaeb",
+      "texto_ptbr": "Os Caras das Palavras",
+      "lote": "516"
+    },
+    {
+      "id": "3d1e",
+      "chave": "credits__teamseand",
+      "hash_es": "688173f2417fca3a",
+      "texto_ptbr": "Sean 'Dingpot' Dudley (Volt)",
+      "lote": "516"
+    },
+    {
+      "id": "49e4",
+      "chave": "credits__teamshaunr",
+      "hash_es": "0b4e8447323a52ec",
+      "texto_ptbr": "Shaun 'Robo-Fix' Read",
+      "lote": "516"
+    },
+    {
+      "id": "d8d1",
+      "chave": "credits__teamshelleyh",
+      "hash_es": "0ef02bd8c155f43d",
+      "texto_ptbr": "Shelley 'Humba' Hodgekins",
+      "lote": "516"
+    },
+    {
+      "id": "dd60",
+      "chave": "credits__teamsimong",
+      "hash_es": "b744599faf7e201c",
+      "texto_ptbr": "Simon 'Saucer of Peril' Gerges",
+      "lote": "516"
+    },
+    {
+      "id": "85d7",
+      "chave": "credits__teamsmalpass",
+      "hash_es": "408af422570c899f",
+      "texto_ptbr": "Steve 'Salty Joe' Malpass",
+      "lote": "516"
+    },
+    {
+      "id": "64fe",
+      "chave": "credits__teamsoftware",
+      "hash_es": "af69ef229dd930ae",
+      "texto_ptbr": "Digitando no Teclado e Fazendo Contas",
+      "lote": "516"
+    },
+    {
+      "id": "a47c",
+      "chave": "credits__teamsteveb",
+      "hash_es": "5d40014875f90f0d",
+      "texto_ptbr": "Steve 'Winkybunion' Burke",
+      "lote": "516"
+    },
+    {
+      "id": "a482",
+      "chave": "credits__teamsteveh",
+      "hash_es": "963384194a7e92c2",
+      "texto_ptbr": "Steven 'Showdown' Hurst",
+      "lote": "516"
+    },
+    {
+      "id": "a487",
+      "chave": "credits__teamstevem",
+      "hash_es": "967c05024798abca",
+      "texto_ptbr": "Steve 'Mr. Fit' Mayles",
+      "lote": "516"
+    },
+    {
+      "id": "a48a",
+      "chave": "credits__teamstevep",
+      "hash_es": "cc48067baec154ad",
+      "texto_ptbr": "Stephen 'Canned and Panned' Payne",
+      "lote": "516"
+    },
+    {
+      "id": "6091",
+      "chave": "credits__teamtesting",
+      "hash_es": "ae41bed19324c6aa",
+      "texto_ptbr": "Caça a Defeitos",
+      "lote": "516"
+    },
+    {
+      "id": "fac5",
+      "chave": "credits__teamthang",
+      "hash_es": "a656b7e573e3a7ed",
+      "texto_ptbr": "Thang 'Torpedile' Phung Dinh",
+      "lote": "516"
+    },
+    {
+      "id": "45e5",
+      "chave": "credits__teamtomb",
+      "hash_es": "5c9b2c74a58c821d",
+      "texto_ptbr": "Tom 'Rustbin' Berry",
+      "lote": "516"
+    },
+    {
+      "id": "9eaa",
+      "chave": "credits__teamvincent",
+      "hash_es": "52b2be3db78ea228",
+      "texto_ptbr": "Kuan Leong 'Mumbo's Motors' Low (Vincent)",
+      "lote": "516"
+    },
+    {
+      "id": "cefe",
+      "chave": "credits__testalexh",
+      "hash_es": "e5b6f5af4ac8f8a7",
+      "texto_ptbr": "Alex Hill",
+      "lote": "516"
+    },
+    {
+      "id": "c384",
+      "chave": "credits__testbenc",
+      "hash_es": "f924083c6b35ed24",
+      "texto_ptbr": "Ben Cotton",
+      "lote": "516"
+    },
+    {
+      "id": "181d",
+      "chave": "credits__testcarlosm",
+      "hash_es": "6f5a5101d3ffeb52",
+      "texto_ptbr": "Carlos Martinez-Thompson",
+      "lote": "516"
+    },
+    {
+      "id": "2206",
+      "chave": "credits__testcraigt",
+      "hash_es": "30a63be77750f3b6",
+      "texto_ptbr": "Craig Taylor",
+      "lote": "516"
+    },
+    {
+      "id": "223b",
+      "chave": "credits__testdanielb",
+      "hash_es": "18270824890a5ec5",
+      "texto_ptbr": "Daniel Botham",
+      "lote": "516"
+    },
+    {
+      "id": "5643",
+      "chave": "credits__testdavew",
+      "hash_es": "f1807eda4e0959cc",
+      "texto_ptbr": "David Wong",
+      "lote": "516"
+    },
+    {
+      "id": "2d96",
+      "chave": "credits__testdavidb",
+      "hash_es": "d622a4539b476f3a",
+      "texto_ptbr": "David Brown",
+      "lote": "516"
+    },
+    {
+      "id": "6f9b",
+      "chave": "credits__testedf",
+      "hash_es": "cc06bb427055a212",
+      "texto_ptbr": "Ed Field",
+      "lote": "516"
+    },
+    {
+      "id": "484a",
+      "chave": "credits__testgarethc",
+      "hash_es": "3472794a68cd8feb",
+      "texto_ptbr": "Gareth Casey",
+      "lote": "516"
+    },
+    {
+      "id": "5317",
+      "chave": "credits__testhuww",
+      "hash_es": "4f44a6e235240c78",
+      "texto_ptbr": "Huw Ward",
+      "lote": "516"
+    },
+    {
+      "id": "3215",
+      "chave": "credits__testjamiec",
+      "hash_es": "9a19e83334439964",
+      "texto_ptbr": "Jamie Cartwright",
+      "lote": "516"
+    },
+    {
+      "id": "4ffd",
+      "chave": "credits__testjoes",
+      "hash_es": "b9eaccca08d954cd",
+      "texto_ptbr": "Joe Smith",
+      "lote": "516"
+    },
+    {
+      "id": "eaa3",
+      "chave": "credits__testjonathand",
+      "hash_es": "6358fbbd26e744c9",
+      "texto_ptbr": "Jonathan Diamond",
+      "lote": "516"
+    },
+    {
+      "id": "3edd",
+      "chave": "credits__testjosephh",
+      "hash_es": "a6850f40510e1397",
+      "texto_ptbr": "Joseph Hill",
+      "lote": "516"
+    },
+    {
+      "id": "3ee5",
+      "chave": "credits__testjosephp",
+      "hash_es": "464f9c2225dded5b",
+      "texto_ptbr": "Joseph Prickett",
+      "lote": "516"
+    },
+    {
+      "id": "2c29",
+      "chave": "credits__testmattg",
+      "hash_es": "dd52a72848c58548",
+      "texto_ptbr": "Matthew Garthwaite",
+      "lote": "516"
+    },
+    {
+      "id": "2c32",
+      "chave": "credits__testmattp",
+      "hash_es": "e9b9ab652cee602d",
+      "texto_ptbr": "Matthew Pearson",
+      "lote": "516"
+    },
+    {
+      "id": "4146",
+      "chave": "credits__testpatrickl",
+      "hash_es": "9869690686d4f8f5",
+      "texto_ptbr": "Patrick Leach",
+      "lote": "516"
+    },
+    {
+      "id": "1c7c",
+      "chave": "credits__testphilc",
+      "hash_es": "5a161dc8acf6ad60",
+      "texto_ptbr": "Phil Costello",
+      "lote": "516"
+    },
+    {
+      "id": "7916",
+      "chave": "credits__testrare",
+      "hash_es": "addf7c165ce546be",
+      "texto_ptbr": "Caça a Defeitos (Rare)",
+      "lote": "516"
+    },
+    {
+      "id": "0534",
+      "chave": "credits__testrichardk",
+      "hash_es": "a2a02391c9ca67fb",
+      "texto_ptbr": "Richard Kadow",
+      "lote": "516"
+    },
+    {
+      "id": "0539",
+      "chave": "credits__testrichardp",
+      "hash_es": "093f4a0956ca6ec1",
+      "texto_ptbr": "Richard Pearce",
+      "lote": "516"
+    },
+    {
+      "id": "7e89",
+      "chave": "credits__testsimonw",
+      "hash_es": "1c598ba8ba857615",
+      "texto_ptbr": "Simon Wilkins",
+      "lote": "516"
+    },
+    {
+      "id": "459f",
+      "chave": "credits__teststevel",
+      "hash_es": "309ee197d7aeaecc",
+      "texto_ptbr": "Steve Lindsay-Neale",
+      "lote": "516"
+    },
+    {
+      "id": "e571",
+      "chave": "credits__testvolt",
+      "hash_es": "cf5ecd7471ee1015",
+      "texto_ptbr": "Caça a Defeitos (Volt)",
+      "lote": "516"
+    },
+    {
+      "id": "bc44",
+      "chave": "credits__tributeline1",
+      "hash_es": "3e3f6ce1adef08b9",
+      "texto_ptbr": "Em Memória de Amigos e Colegas Perdidos",
+      "lote": "516"
+    },
+    {
+      "id": "bc45",
+      "chave": "credits__tributeline2",
+      "hash_es": "626332d8a39ef5a1",
+      "texto_ptbr": "Melissa Brooks Batten",
+      "lote": "516"
+    },
+    {
+      "id": "bc46",
+      "chave": "credits__tributeline3",
+      "hash_es": "fd702f0682185905",
+      "texto_ptbr": "Lee Burns",
+      "lote": "516"
+    },
+    {
+      "id": "1a22",
+      "chave": "credits__voice",
+      "hash_es": "ea58fef598b9ae69",
+      "texto_ptbr": "Resmungos, Guinchados e Grunhidos Variados",
+      "lote": "516"
+    },
+    {
+      "id": "a76e",
+      "chave": "credits__voicechriss",
+      "hash_es": "299d3929e8f94f8b",
+      "texto_ptbr": "Chris Sutherland",
+      "lote": "516"
+    },
+    {
+      "id": "bf35",
+      "chave": "credits__voicecseavor",
+      "hash_es": "fed2aee297ae5efc",
+      "texto_ptbr": "Chris Seavor",
+      "lote": "516"
+    },
+    {
+      "id": "e8fd",
+      "chave": "credits__voiceduncanb",
+      "hash_es": "ccf0be7ca71642d9",
+      "texto_ptbr": "Duncan Botwood",
+      "lote": "516"
+    },
+    {
+      "id": "4e90",
+      "chave": "credits__voiceelissam",
+      "hash_es": "c8be24c4503f7ddb",
+      "texto_ptbr": "Elissa Miller",
+      "lote": "516"
+    },
+    {
+      "id": "6d26",
+      "chave": "credits__voicesmalpass",
+      "hash_es": "804c5348e8566f2b",
+      "texto_ptbr": "Steve Malpass",
+      "lote": "516"
+    },
+    {
+      "id": "6c0b",
+      "chave": "credits__voicesteveb",
+      "hash_es": "11ff07efdf441117",
+      "texto_ptbr": "Steve Burke",
+      "lote": "516"
+    },
+    {
+      "id": "7e17",
+      "chave": "dialog__aag",
+      "hash_es": "6a1370ba0b8bd9e8",
+      "texto_ptbr": "Olha, ainda mais artistas. Alguém de vocês pode me pintar de roxo? Vermelho é muito anos 1990.",
+      "lote": "516"
+    },
+    {
+      "id": "8055",
+      "chave": "dialog__art",
+      "hash_es": "0ad0bb4592ee9bb8",
+      "texto_ptbr": "Fazedores de Formas? Ah, esses devem ser os artistas. Eu queria mais penas, um bico mais fino e uma mochila mais moderninha no próximo jogo, por favor.",
+      "lote": "516"
+    },
+    {
+      "id": "9788",
+      "chave": "dialog__design",
+      "hash_es": "eb5f4d5997dd708e",
+      "texto_ptbr": "Agora são os designers. Esses tolos decidiram tirar meus movimentos incríveis e trocá-los por aqueles veículos estúpidos!",
+      "lote": "516"
+    },
+    {
+      "id": "90c5",
+      "chave": "dialog__end",
+      "hash_es": "ef50e9114a3e637f",
+      "texto_ptbr": "Squawk, acho que finalmente acabou! Parabéns por aguentar todos aqueles nomes chatos. Espero que tenham se divertido jogando... até daqui a 8 anos em Banjo-Kazooie: Spanners & Washers!",
+      "lote": "516"
+    },
+    {
+      "id": "084b",
+      "chave": "dialog__management",
+      "hash_es": "693662f1b1689860",
+      "texto_ptbr": "Todo mundo sabe que a gerência só entra nos créditos para evitar que alguém seja demitido.",
+      "lote": "516"
+    },
+    {
+      "id": "7cc3",
+      "chave": "dialog__mgsstart",
+      "hash_es": "b88a79d52e0d1d06",
+      "texto_ptbr": "Ah, parece que as coisas estão ficando um pouco sérias. Não vou dizer mais nada, senão a Microsoft pode se ofender e não nos deixar estrelar outro jogo...",
+      "lote": "516"
+    },
+    {
+      "id": "be6f",
+      "chave": "dialog__music",
+      "hash_es": "d0ff6e67f87ca056",
+      "texto_ptbr": "Eu nunca soube que algumas músicas remixadas e uns efeitos de derrapagem exigiam tanta gente de áudio.",
+      "lote": "516"
+    },
+    {
+      "id": "b775",
+      "chave": "dialog__production",
+      "hash_es": "ab905c8c305f16a3",
+      "texto_ptbr": "A equipe de agendamento fez um bom trabalho, já que este jogo não atrasou três anos.",
+      "lote": "516"
+    },
+    {
+      "id": "0d79",
+      "chave": "dialog__software",
+      "hash_es": "65d77ba083db8a68",
+      "texto_ptbr": "Por que os engenheiros de software aparecem primeiro? Aposto que devem ser maiores e mais durões que os artistas.",
+      "lote": "516"
+    },
+    {
+      "id": "3438",
+      "chave": "dialog__specialthanks",
+      "hash_es": "0fe849e1b028c182",
+      "texto_ptbr": "Ei, é o Jinjo Bryan! Ed trabalhava em Banjo, mas desertou para aqueles animais de papel bobos.",
+      "lote": "516"
+    },
+    {
+      "id": "79bc",
+      "chave": "dialog__start",
+      "hash_es": "8c79adac44e75aef",
+      "texto_ptbr": "Bem, Banjo, lá vamos nós com a habitual procissão interminável de créditos chatos. Espero que todos estejam sentados confortavelmente...",
+      "lote": "516"
+    },
+    {
+      "id": "cd1c",
+      "chave": "dialog__stg",
+      "hash_es": "e491364b5354bdfb",
+      "texto_ptbr": "Aposto que um desses caras da tecnologia é a cara daquele nerd do Bottles.",
+      "lote": "516"
+    },
+    {
+      "id": "65ac",
+      "chave": "dialog__testing",
+      "hash_es": "8c0893b1e34c8525",
+      "texto_ptbr": "Se alguma coisa não funcionar direito, a culpa é desse pessoal. Vou passar o telefone do Sr. Ward para vocês reclamarem direto.",
+      "lote": "516"
+    },
+    {
+      "id": "bfd3",
+      "chave": "dialog__text",
+      "hash_es": "9cab1c64a27d7abb",
+      "texto_ptbr": "Obrigada por me dar todas as melhores falas, Leigh.",
+      "lote": "516"
+    },
+    {
+      "id": "c73a",
+      "chave": "dialog__toomanypeople",
+      "hash_es": "448d2e9c3d07110f",
+      "texto_ptbr": "Uau, tem muita gente na Rare. Embora eu tenha ouvido que todo o verdadeiro talento saiu há anos.",
+      "lote": "516"
+    },
+    {
+      "id": "476c",
+      "chave": "dialog__voicetalent",
+      "hash_es": "8db8a1e288085438",
+      "texto_ptbr": "Dubladores? Acho difícil que um monte de resmungos estranhos conte como vozes.",
+      "lote": "516"
+    },
+    {
+      "id": "c89e",
+      "chave": "credits__aagabrown",
+      "hash_es": null,
+      "texto_ptbr": "Alex Brown (Estagiário)",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "3f2d",
+      "chave": "credits__aagneilp",
+      "hash_es": null,
+      "texto_ptbr": "Neil Pryce",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "4a56",
+      "chave": "credits__aagshorner",
+      "hash_es": null,
+      "texto_ptbr": "Sarah Horner (Estagiária)",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "578c",
+      "chave": "credits__aagstevep",
+      "hash_es": null,
+      "texto_ptbr": "Stephen Payne",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "65b1",
+      "chave": "credits__buildlabjohnw",
+      "hash_es": null,
+      "texto_ptbr": "John Warlow",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "fe0b",
+      "chave": "credits__compositingmonkey",
+      "hash_es": null,
+      "texto_ptbr": "Macaco de Composição",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "f2cb",
+      "chave": "credits__havokabowell",
+      "hash_es": null,
+      "texto_ptbr": "Andrew Bowell",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "5fd9",
+      "chave": "credits__havokjfuller",
+      "hash_es": null,
+      "texto_ptbr": "John Fuller",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "3967",
+      "chave": "credits__havokmomorain",
+      "hash_es": null,
+      "texto_ptbr": "Marc O'Morain",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "9a25",
+      "chave": "credits__havokrmullane",
+      "hash_es": null,
+      "texto_ptbr": "Rory Mullane",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "66ae",
+      "chave": "credits__havokthanks",
+      "hash_es": null,
+      "texto_ptbr": "Agradecimentos Especiais da Havok™",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "0008",
+      "chave": "credits__mgsthanksjveevaert",
+      "hash_es": null,
+      "texto_ptbr": "Jim Veevaert",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "33c9",
+      "chave": "credits__monkeymusgrave",
+      "hash_es": null,
+      "texto_ptbr": "Lee Musgrave",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "fe09",
+      "chave": "credits__mschinalocman",
+      "hash_es": null,
+      "texto_ptbr": "Gerente de Programa da China",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "20c9",
+      "chave": "credits__mschinalocmanrma",
+      "hash_es": null,
+      "texto_ptbr": "Rosa Ma",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "7e9c",
+      "chave": "credits__mschinaproman",
+      "hash_es": null,
+      "texto_ptbr": "Gerente de Programa de Localização da China",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "1a5b",
+      "chave": "credits__mschinapromanjli",
+      "hash_es": null,
+      "texto_ptbr": "Jiliang Li",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "1d2f",
+      "chave": "credits__mschinatest",
+      "hash_es": null,
+      "texto_ptbr": "Testes da China",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "1025",
+      "chave": "credits__mschinatestlead",
+      "hash_es": null,
+      "texto_ptbr": "Líder de Testes da China",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "6df6",
+      "chave": "credits__mschinatestleaddwang",
+      "hash_es": null,
+      "texto_ptbr": "Dean Wang",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "9206",
+      "chave": "credits__mschinatesttlin",
+      "hash_es": null,
+      "texto_ptbr": "Tao Lin",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "a8b2",
+      "chave": "credits__mschinatestxguan",
+      "hash_es": null,
+      "texto_ptbr": "Xingzhi Guan",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "8305",
+      "chave": "credits__msdubleadtestikwon",
+      "hash_es": null,
+      "texto_ptbr": "In Goo Kwon",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "1113",
+      "chave": "credits__msjapanconted",
+      "hash_es": null,
+      "texto_ptbr": "Editor de Conteúdo do Japão",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "bb3f",
+      "chave": "credits__msjapancontedtkometani",
+      "hash_es": null,
+      "texto_ptbr": "Tomoko Kometani",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "5850",
+      "chave": "credits__msjapanlocman",
+      "hash_es": null,
+      "texto_ptbr": "Gerente de Programa do Japão",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "51f1",
+      "chave": "credits__msjapanlocmantyamada",
+      "hash_es": null,
+      "texto_ptbr": "Tomoko Yamada",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "d632",
+      "chave": "credits__msjapansoft",
+      "hash_es": null,
+      "texto_ptbr": "Engenheiro de Software do Japão",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "92ce",
+      "chave": "credits__msjapansoftahoriuchi",
+      "hash_es": null,
+      "texto_ptbr": "Atsushi Horiuchi",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "39b6",
+      "chave": "credits__msjapantest",
+      "hash_es": null,
+      "texto_ptbr": "Testes do Japão",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "182c",
+      "chave": "credits__msjapantestlead",
+      "hash_es": null,
+      "texto_ptbr": "Líder de Testes do Japão",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "af74",
+      "chave": "credits__msjapantestleadfokabe",
+      "hash_es": null,
+      "texto_ptbr": "Fujiko Okabe",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "8bab",
+      "chave": "credits__msjapantestnshigemori",
+      "hash_es": null,
+      "texto_ptbr": "Naoki Shigemori",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "7a58",
+      "chave": "credits__msjapantestsshimano",
+      "hash_es": null,
+      "texto_ptbr": "Souichiro Shimano",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "7cc4",
+      "chave": "credits__msjapantesttnishimoto",
+      "hash_es": null,
+      "texto_ptbr": "Toshihiko Nishimoto",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "89f4",
+      "chave": "credits__mskorealeadtest",
+      "hash_es": null,
+      "texto_ptbr": "Líder de Testes da Coreia",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "1d18",
+      "chave": "credits__mskorealocman",
+      "hash_es": null,
+      "texto_ptbr": "Gerente de Programa da Coreia",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "de63",
+      "chave": "credits__mskorealocmanjkim",
+      "hash_es": null,
+      "texto_ptbr": "Jae Youn Kim",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "9dab",
+      "chave": "credits__mskoreaproman",
+      "hash_es": null,
+      "texto_ptbr": "Gerente de Programa de Localização da Coreia",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "5b69",
+      "chave": "credits__mskoreapromanhlee",
+      "hash_es": null,
+      "texto_ptbr": "Hae Jung Lee",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "2c7e",
+      "chave": "credits__mskoreatest",
+      "hash_es": null,
+      "texto_ptbr": "Testes da Coreia",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "f318",
+      "chave": "credits__mskortestjlee",
+      "hash_es": null,
+      "texto_ptbr": "Jun Hee Lee",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "dc33",
+      "chave": "credits__mstaiwangman",
+      "hash_es": null,
+      "texto_ptbr": "Gerente de Grupo de Taiwan",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "6347",
+      "chave": "credits__mstaiwangmanschang",
+      "hash_es": null,
+      "texto_ptbr": "Shu-Liang Balzac Chang",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "d28a",
+      "chave": "credits__mstaiwanlocman",
+      "hash_es": null,
+      "texto_ptbr": "Gerente de Programa de Taiwan",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "ef73",
+      "chave": "credits__mstaiwanlocmanslai",
+      "hash_es": null,
+      "texto_ptbr": "Sophia Lai",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "531d",
+      "chave": "credits__mstaiwanproman",
+      "hash_es": null,
+      "texto_ptbr": "Gerente de Projeto de Localização de Taiwan",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "0f2e",
+      "chave": "credits__mstaiwanpromancyu",
+      "hash_es": null,
+      "texto_ptbr": "Christina Yu",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "dd70",
+      "chave": "credits__mstaiwantest",
+      "hash_es": null,
+      "texto_ptbr": "Testes de Taiwan",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "1e3a",
+      "chave": "credits__mstaiwantestachiu",
+      "hash_es": null,
+      "texto_ptbr": "Aha Chiu",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "e03d",
+      "chave": "credits__mstaiwantestdtu",
+      "hash_es": null,
+      "texto_ptbr": "Derek Tu",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "08e6",
+      "chave": "credits__mstaiwantestlead",
+      "hash_es": null,
+      "texto_ptbr": "Líder de Testes de Taiwan ",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "7ebb",
+      "chave": "credits__mstaiwantestleadwdeng",
+      "hash_es": null,
+      "texto_ptbr": "Wen-Chin Deng",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "53c0",
+      "chave": "credits__orchestragwilliams",
+      "hash_es": null,
+      "texto_ptbr": "Gareth Williams",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "43e3",
+      "chave": "credits__orchestrajholzner",
+      "hash_es": null,
+      "texto_ptbr": "Jan Holzner",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "98d4",
+      "chave": "credits__rarefamilyaelsami",
+      "hash_es": null,
+      "texto_ptbr": "Ali Eslami",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "380f",
+      "chave": "credits__rarefamilyfbrann",
+      "hash_es": null,
+      "texto_ptbr": "Felix Brann",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "0cf4",
+      "chave": "credits__rarefamilyjliechty",
+      "hash_es": null,
+      "texto_ptbr": "Jacob Liechty",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "acb2",
+      "chave": "credits__rarefamilymkemp",
+      "hash_es": null,
+      "texto_ptbr": "Matt Kemp",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "c3d0",
+      "chave": "credits__specialthanksasingh",
+      "hash_es": null,
+      "texto_ptbr": "Amrit Singh",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "0e3e",
+      "chave": "credits__specialthanksdcrouch",
+      "hash_es": null,
+      "texto_ptbr": "Doug Crouch",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "4c1f",
+      "chave": "credits__specialthanksgwilliams",
+      "hash_es": null,
+      "texto_ptbr": "Gareth Williams",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "4e34",
+      "chave": "credits__specialthanksmgreen",
+      "hash_es": null,
+      "texto_ptbr": "Mark Green",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "b050",
+      "chave": "credits__specialthankspcox",
+      "hash_es": null,
+      "texto_ptbr": "Pete Cox",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "16e8",
+      "chave": "credits__teampaulc",
+      "hash_es": null,
+      "texto_ptbr": "Paul 'Canned and Panned' Cunningham",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "4098",
+      "chave": "credits__testccatton",
+      "hash_es": null,
+      "texto_ptbr": "Charlie Catton",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "f649",
+      "chave": "credits__testkmitchell",
+      "hash_es": null,
+      "texto_ptbr": "Kurt Mitchell",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "4e54",
+      "chave": "credits__testlperkins",
+      "hash_es": null,
+      "texto_ptbr": "Laurence Perkins",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "7fc3",
+      "chave": "credits__testpdudley",
+      "hash_es": null,
+      "texto_ptbr": "Paul Dudley",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "b660",
+      "chave": "credits__testphughes",
+      "hash_es": null,
+      "texto_ptbr": "Paul Hughes",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "e0e1",
+      "chave": "credits__testpsmith",
+      "hash_es": null,
+      "texto_ptbr": "Paul Smith",
+      "so_ingles": true,
+      "lote": "516"
+    },
+    {
+      "id": "61a2",
+      "chave": "credits__voicemharbour",
+      "hash_es": null,
+      "texto_ptbr": "Michael Harbour",
+      "so_ingles": true,
+      "lote": "516"
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "arquivo": "111fcbbb",
+  "asset": "aid_loctext_banjox_banjoland_infopoints",
+  "frases": [
+    {
+      "id": "81f9",
+      "chave": "infopoint__banjokazstatuedesc",
+      "hash_es": "d7da3dd3bee6141d",
+      "texto_ptbr": "Esta estátua é uma homenagem à melhor dupla de videogame de todos os tempos (em que um personagem mora na mochila do outro): Banjo, o Urso do Mel, e Kazooie, a Breegull.",
+      "lote": "604"
+    },
+    {
+      "id": "807c",
+      "chave": "infopoint__banjokazstatuetitle",
+      "hash_es": "271d65c4c19f2f07",
+      "texto_ptbr": "Estátua de Banjo-Kazooie",
+      "lote": "604"
+    },
+    {
+      "id": "f5e5",
+      "chave": "infopoint__boggyigloodesc",
+      "hash_es": "6bd3c751dbbec246",
+      "texto_ptbr": "Trazido dos Picos do Fogo e Gelo, perdeu um pouco da estabilidade e a TV foi roubada. Pawno, o dono da casa de penhores de Banjo-Tooie, vendeu um modelo parecido logo depois que Kazooie foi vista no bar do Jolly...",
+      "lote": "604"
+    },
+    {
+      "id": "71e8",
+      "chave": "infopoint__boggyiglootitle",
+      "hash_es": "7b13192a06d500b1",
+      "texto_ptbr": "Iglu do Boggy",
+      "lote": "604"
+    },
+    {
+      "id": "4834",
+      "chave": "infopoint__cactusostrengthdesc",
+      "hash_es": "924b8b2d1a3660fe",
+      "texto_ptbr": "O Cacto da Força era uma atração de Mundo das Bruxas em Banjo-Tooie que rendia Jiggies, reconstruída aqui pelo S.J. para desafiar os jogadores a tocar a campainha de novo. Que conquista seria...",
+      "lote": "604"
+    },
+    {
+      "id": "0e17",
+      "chave": "infopoint__cactusostrengthtitle",
+      "hash_es": "6e37612c1ee25eb5",
+      "texto_ptbr": "Cacto da Força",
+      "lote": "604"
+    },
+    {
+      "id": "2967",
+      "chave": "infopoint__cheatodesc",
+      "hash_es": "e2d4d27c001adee1",
+      "texto_ptbr": "Um livro de feitiços desastrado que vive perdendo páginas, subordinado maltratado da Grunty e veterano da série Banjo-Kazooie. Devolver as páginas do Cheato costumava render itens desbloqueáveis ou, surpreendentemente, códigos de trapaça.",
+      "lote": "604"
+    },
+    {
+      "id": "15aa",
+      "chave": "infopoint__cheatotitle",
+      "hash_es": "2768295dd72fdc7e",
+      "texto_ptbr": "Cheato",
+      "lote": "604"
+    },
+    {
+      "id": "7eb3",
+      "chave": "infopoint__clankerdesc",
+      "hash_es": "e7bf970de71b2c46",
+      "texto_ptbr": "Clanker era a estrela do seu próprio nível, a Caverna do Clanker em Banjo-Kazooie. Trazê-lo para cá inteiro foi difícil, mas os muitos usos da sua cabeça em forma de rampa compensaram tudo.",
+      "lote": "604"
+    },
+    {
+      "id": "1476",
+      "chave": "infopoint__clankertitle",
+      "hash_es": "ef2d50b60bd8d971",
+      "texto_ptbr": "Clanker",
+      "lote": "604"
+    },
+    {
+      "id": "e7ed",
+      "chave": "infopoint__cloudcuckoolanddesc",
+      "hash_es": "dbab227db1573e3f",
+      "texto_ptbr": "Nuvem Cucolândia foi o último mundo de desafio de Banjo-Tooie. O S.J. teve muito trabalho para fazê-lo funcionar direito por causa do seu tamanho e da sua abertura, e foi lá que Banjo e Kazooie conheceram o Sr. Em Forma.",
+      "lote": "604"
+    },
+    {
+      "id": "a4f0",
+      "chave": "infopoint__cloudcuckoolandtitle",
+      "hash_es": "7e6640660baad2e1",
+      "texto_ptbr": "Nuvem Cucolândia",
+      "lote": "604"
+    },
+    {
+      "id": "4b8a",
+      "chave": "infopoint__glittergulchminedesc",
+      "hash_es": "3afdc2f7d7bcc7d4",
+      "texto_ptbr": "O segundo mundo de Banjo-Tooie, originalmente planejado para o primeiro jogo. Lar de Canary Mary, cujos controles de corrida passaram a usar botões quando tanta rotação no analógico começou a escaldar as mãos.",
+      "lote": "608"
+    },
+    {
+      "id": "7c2d",
+      "chave": "infopoint__glittergulchminetitle",
+      "hash_es": "c4676a2d629a93d5",
+      "texto_ptbr": "Mina do Barranco Brilhante",
+      "lote": "604"
+    },
+    {
+      "id": "6261",
+      "chave": "infopoint__goldgoliathdesc",
+      "hash_es": "9bd81a801dfda1ad",
+      "texto_ptbr": "O Golias Dourado ganhou vida com um pouco de Magia do Mumbo no primeiro mundo de Banjo-Tooie, o Templo Mayahem. O Golias tinha um chute poderoso, ótimo para abrir áreas bloqueadas.",
+      "lote": "604"
+    },
+    {
+      "id": "6de4",
+      "chave": "infopoint__goldgoliathtitle",
+      "hash_es": "5384c9f989fc07e2",
+      "texto_ptbr": "Golias Dourado",
+      "lote": "604"
+    },
+    {
+      "id": "efa4",
+      "chave": "infopoint__locococodesc",
+      "hash_es": "ad3d5245a7323bcd",
+      "texto_ptbr": "Árvore do Coco Louco muito famosa. Ela fazer o maior, melhor e mais duro coco do mundo, mas só dar um por ano. Mumbo gostar da árvore mais que da esposa Humba.",
+      "lote": "604"
+    },
+    {
+      "id": "a387",
+      "chave": "infopoint__locococotitle",
+      "hash_es": "12337a34f6c38643",
+      "texto_ptbr": "Coco Louco",
+      "lote": "604"
+    },
+    {
+      "id": "d44b",
+      "chave": "infopoint__loggodesc",
+      "hash_es": "028ec68c65250ada",
+      "texto_ptbr": "Na Mansão dos Monstros Malucos, Banjo não conseguia entrar no Loggo até se transformar em abóbora. Nas Indústrias Grunty, Kazooie usou o bico para desentupi-lo. Agora os encantos do Loggo estão replicados aqui em tamanho real.",
+      "lote": "604"
+    },
+    {
+      "id": "1d0e",
+      "chave": "infopoint__loggotitle",
+      "hash_es": "f7a6a776cfc8f445",
+      "texto_ptbr": "Loggo",
+      "lote": "604"
+    },
+    {
+      "id": "0202",
+      "chave": "infopoint__madmonstermansiondesc",
+      "hash_es": "3bb473c3b85f881c",
+      "texto_ptbr": "Área arrepiante de Banjo-Kazooie onde nossos heróis conheceram Loggo, um fantasma sonolento chamado Napper e uma mão espectral tocadora de órgão chamada Motzand. Seria a casa de férias da Grunty? Quem sabe?",
+      "lote": "604"
+    },
+    {
+      "id": "01a5",
+      "chave": "infopoint__madmonstermansiontitle",
+      "hash_es": "2f4680bce221c96a",
+      "texto_ptbr": "Mansão dos Monstros Malucos",
+      "lote": "604"
+    },
+    {
+      "id": "8849",
+      "chave": "infopoint__pyramiddesc",
+      "hash_es": "ff62d1a0d0fe32d7",
+      "texto_ptbr": "Esta pirâmide foi arrancada do Vale do Gobi em Banjo-Kazooie, para desgosto do seu dono, o Rei Sandybutt. O S.J. decidiu trazer a peça para aproveitar suas laterais inclinadas e práticas.",
+      "lote": "604"
+    },
+    {
+      "id": "50cc",
+      "chave": "infopoint__pyramidtitle",
+      "hash_es": "247be5f4097c95d2",
+      "texto_ptbr": "Pirâmide",
+      "lote": "604"
+    },
+    {
+      "id": "2cdb",
+      "chave": "infopoint__rubbishbindesc",
+      "hash_es": "777b7e4ea3a62fcf",
+      "texto_ptbr": "Também conhecida como Lata de Lixo. Lar de uma lata de feijão descartada chamada Guffo em Banjo-Tooie, que precisava da ajuda de Kazooie para lidar com uma infestação de germes lamentável (mas nada surpreendente).",
+      "lote": "608"
+    },
+    {
+      "id": "879e",
+      "chave": "infopoint__rubbishbintitle",
+      "hash_es": "6134e13fc4f9d0c5",
+      "texto_ptbr": "Lata de Lixo",
+      "lote": "604"
+    },
+    {
+      "id": "0bd8",
+      "chave": "infopoint__rustybucketdesc",
+      "hash_es": "633aea27f3a7a79a",
+      "texto_ptbr": "Este navio serviu de base para um nível inteiro de Banjo-Kazooie, a Baía do Balde Enferrujado. O Jiggy nas suas entranhas era um dos mais difíceis do jogo. Desafio demais para os jogadores moles de hoje!",
+      "lote": "604"
+    },
+    {
+      "id": "463b",
+      "chave": "infopoint__rustybuckettitle",
+      "hash_es": "b76c4826dc2c6b63",
+      "texto_ptbr": "Balde Enferrujado",
+      "lote": "604"
+    },
+    {
+      "id": "a020",
+      "chave": "infopoint__saltyhippodesc",
+      "hash_es": "c316c0b5a97498a1",
+      "texto_ptbr": "O Hipopótamo Salgado, orgulho e alegria do Capitão Blubber, apareceu pela primeira vez na Enseada do Tesouro, em Banjo-Kazooie. Nunca foi visto em bom estado de funcionamento, possivelmente por causa do seu inútil capitão hipopótamo.",
+      "lote": "604"
+    },
+    {
+      "id": "6383",
+      "chave": "infopoint__saltyhippotitle",
+      "hash_es": "fe494e61fd7d55b8",
+      "texto_ptbr": "Hipopótamo Salgado",
+      "lote": "604"
+    },
+    {
+      "id": "13f6",
+      "chave": "infopoint__snowmandesc",
+      "hash_es": "995b0e09a4c77021",
+      "texto_ptbr": "Este gigante gelado vem do Pico Congelante, o mundo de gelo obrigatório de Banjo-Kazooie. Bombardear seus botões com o bico rendia ao jogador um Jiggy que ele estava escondendo, hã, em algum lugar do corpo.",
+      "lote": "604"
+    },
+    {
+      "id": "5219",
+      "chave": "infopoint__snowmantitle",
+      "hash_es": "3d123ac132ff20e4",
+      "texto_ptbr": "Boneco de Neve",
+      "lote": "604"
+    },
+    {
+      "id": "a703",
+      "chave": "infopoint__stonehengedesc",
+      "hash_es": "40c114904860c501",
+      "texto_ptbr": "Trazido da Montanha do Mumbo, o primeiro nível de desafio de Banjo-Kazooie. O S.J. precisou aumentá-lo um pouco e aplicar texturas novas para que parecesse um pouco menos 'penúltima geração'.",
+      "lote": "604"
+    },
+    {
+      "id": "46c6",
+      "chave": "infopoint__stonehengetitle",
+      "hash_es": "cf5fb38fbc7c30be",
+      "texto_ptbr": "Stonehenge",
+      "lote": "604"
+    },
+    {
+      "id": "05da",
+      "chave": "infopoint__tanktupdesc",
+      "hash_es": "fbb922902d6ff4b6",
+      "texto_ptbr": "Banjo e Kazooie podiam entrar no Tanquetup no Pântano das Bolhas depois de esquentar seus pés e fazê-lo vomitar um Jiggy. Isto é só um boneco de madeira, já que o paradeiro do Tanquetup é atualmente desconhecido.",
+      "lote": "604"
+    },
+    {
+      "id": "807d",
+      "chave": "infopoint__tanktuptitle",
+      "hash_es": "ab6a9a907ac474e1",
+      "texto_ptbr": "Tanquetup",
+      "lote": "604"
+    },
+    {
+      "id": "a123",
+      "chave": "infopoint__targetzandesc",
+      "hash_es": "4b1bd8199e50f6cf",
+      "texto_ptbr": "Este Deus Totem Déspota e Desorientado oferecia uma boa e velha ação de chefe, no melhor estilo jogo de tiro. Ele vivia na sua Câmara Realmente Sagrada no Templo Mayahem, um nível com muitos templos.",
+      "lote": "604"
+    },
+    {
+      "id": "84e6",
+      "chave": "infopoint__targetzantitle",
+      "hash_es": "9a6f7102262687ca",
+      "texto_ptbr": "Targitzan",
+      "lote": "604"
+    },
+    {
+      "id": "2116",
+      "chave": "infopoint__terrysnestdesc",
+      "hash_es": "7207181a070f972a",
+      "texto_ptbr": "Local de uma batalha de chefe em Terrydactilândia, mundo de Banjo-Tooie, contra um grande pterodáctilo chamado Terry que disparava meleca. Ele também fez Banjo e Kazooie chocarem seus filhotes. Só na imaginação do S.J....",
+      "lote": "604"
+    },
+    {
+      "id": "0339",
+      "chave": "infopoint__terrysnesttitle",
+      "hash_es": "f840e0255c2b2c88",
+      "texto_ptbr": "Ninho do Terry",
+      "lote": "604"
+    },
+    {
+      "id": "273d",
+      "chave": "infopoint__ufodesc",
+      "hash_es": "ea820ee6203f5ded",
+      "texto_ptbr": "O OVNI transportava uma família de alienígenas. Depois de cair na Laguna do Jolly Roger, ele reapareceu nos Picos do Fogo e Gelo, já que o S.J. reaproveitou toda a melhor arte para lançar Banjo-Tooie no prazo.",
+      "lote": "604"
+    },
+    {
+      "id": "ce40",
+      "chave": "infopoint__ufotitle",
+      "hash_es": "bdfdc4eb4165672a",
+      "texto_ptbr": "OVNI",
+      "lote": "604"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "arquivo": "118fe96d",
+  "asset": "aid_loctext_banjox_worldofsport_act1",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "360fc4545a30e004",
+      "texto_ptbr": "Tá, você me venceu. Eu agradeceria se não fosse contar pros rapazes da delegacia. Que tal uma revanche?",
+      "lote": "602"
+    },
+    {
+      "id": "b254",
+      "chave": "dialog__game1_fail",
+      "hash_es": "267ee5eac546df7b",
+      "texto_ptbr": "{MOODHAPPY}Ha! Patético. Meus peidos têm mais força que os seus socos!",
+      "lote": "602"
+    },
+    {
+      "id": "9744",
+      "chave": "dialog__game1_intro",
+      "hash_es": "54f2d58aa3a3eb27",
+      "texto_ptbr": "Não tenho tempo pra joguinhos de fresco. Aqui é força bruta, e nada mais. Pronto pra suar a camisa, moleque?",
+      "lote": "602"
+    },
+    {
+      "id": "8026",
+      "chave": "dialog__game1_introb",
+      "hash_es": "ba435b44e452e8b8",
+      "texto_ptbr": "Músculo? Tá escondido debaixo de todos esses quilos de banha, Pastel de Porco?",
+      "lote": "602"
+    },
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "777e0f02b39c807e",
+      "texto_ptbr": "Pode rir, passarinha. Ter ossos grandes quer dizer que eu posso arremessar esses caras como bolinhas de pingue-pongue. E você, hein? {PAGEBREAK}Tire eles do ringue num tempo que chegue perto de respeitável e você leva um Jiggy.",
+      "lote": "602"
+    },
+    {
+      "id": "1938",
+      "chave": "dialog__game1_objectivesrepeat1",
+      "hash_es": "29e310b922a5d06c",
+      "texto_ptbr": "O tempo tá passando, seus molengas! Empurrem com mais força!",
+      "lote": "602"
+    },
+    {
+      "id": "1939",
+      "chave": "dialog__game1_objectivesrepeat2",
+      "hash_es": "537cf8397f6e886d",
+      "texto_ptbr": "Se ficar de brincadeira, isso não é desafio nenhum!",
+      "lote": "602"
+    },
+    {
+      "id": "d532",
+      "chave": "dialog__game1_successa",
+      "hash_es": "f6bcd654a05d6a2f",
+      "texto_ptbr": "{MOODANGRY}O quê?! Foi o melhor que eu já vi alguém fazer! Talvez eu devesse ser um pouco mais gentil com vocês...",
+      "lote": "602"
+    },
+    {
+      "id": "d534",
+      "chave": "dialog__game1_successc",
+      "hash_es": "62c8f1e32c7f4c8e",
+      "texto_ptbr": "{MOODANGRY}Ei, como um moleque sarnento e ordinário como você conseguiu um tempo desses? Grr... Acho que você ganhou o seu Jiggy.",
+      "lote": "602"
+    },
+    {
+      "id": "d536",
+      "chave": "dialog__game1_successe",
+      "hash_es": "32fe50ce5d6a59b5",
+      "texto_ptbr": "Hunf. Melhor do que eu esperava, mas assim você não vai ganhar muitos Jiggies.",
+      "lote": "602"
+    },
+    {
+      "id": "f828",
+      "chave": "dialog__game2_beaten",
+      "hash_es": "e2d7ee0a9ae921f5",
+      "texto_ptbr": "Duvido que alguém supere o seu salto em distância tão cedo! A não ser que você queira tentar de novo?",
+      "lote": "602"
+    },
+    {
+      "id": "daf5",
+      "chave": "dialog__game2_fail",
+      "hash_es": "b54c0fd4dedf04a8",
+      "texto_ptbr": "{MOODSAD}Bom, foi um bom esforço... não, quem eu quero enganar? Um elefante pularia mais longe. Continue tentando, magrelo!",
+      "lote": "602"
+    },
+    {
+      "id": "d405",
+      "chave": "dialog__game2_intro",
+      "hash_es": "550fe7ca54c17cfb",
+      "texto_ptbr": "Você aguenta altura, Banjo? Você é aventureiro o suficiente pra encarar o desafio do salto em distância?",
+      "lote": "607"
+    },
+    {
+      "id": "9d67",
+      "chave": "dialog__game2_objectives",
+      "hash_es": "e5537856b15e5a1e",
+      "texto_ptbr": "Sua pontuação começa a subir assim que você sair da rampa. Quanto mais longe você for, maior a pontuação!",
+      "lote": "602"
+    },
+    {
+      "id": "6653",
+      "chave": "dialog__game2_successa",
+      "hash_es": "c702c65aa41ca709",
+      "texto_ptbr": "{MOODHAPPY}Minha nossa, que salto! Você tirou o Tomás Troféu do topo da classificação! Salve o novo General dos Saltos!",
+      "lote": "602"
+    },
+    {
+      "id": "6655",
+      "chave": "dialog__game2_successc",
+      "hash_es": "708324aff3a15926",
+      "texto_ptbr": "Sabia que você ia dar o seu melhor! Essa distância é respeitável, magrelo. Mas será que você consegue mirar ainda mais alto que o Jiggy?",
+      "lote": "602"
+    },
+    {
+      "id": "6657",
+      "chave": "dialog__game2_successe",
+      "hash_es": "c72f7e8410a1c167",
+      "texto_ptbr": "Por melhor que tenha sido, um pouco mais de distância faz toda a diferença se você quer um lugar no pódio!",
+      "lote": "602"
+    },
+    {
+      "id": "9fae",
+      "chave": "dialog__jinjopink_greeting",
+      "hash_es": "cf4b90972162871f",
+      "texto_ptbr": "{MOODSAD}A tocha do Jiggosseum! Meu associado ficou encantado com o significado cultural dela! Preciso que alguém me escolte até lá...",
+      "lote": "602"
+    },
+    {
+      "id": "0b6c",
+      "chave": "dialog__jinjopink_lose",
+      "hash_es": "cbbf36fad8dc11cd",
+      "texto_ptbr": "{MOODSAD}Aquela passarela maldita me separou do meu colega para sempre! Bom, talvez não para sempre. Imagino que vamos tentar de novo?",
+      "lote": "602"
+    },
+    {
+      "id": "cec7",
+      "chave": "dialog__jinjopink_objectives",
+      "hash_es": "95e31cae2a1ee0ea",
+      "texto_ptbr": "{MOODSAD}Não consigo chegar à tocha por causa da passarela no caminho. Atravessar aquilo sem ajuda? Não vou, é uma armadilha mortal!",
+      "lote": "602"
+    },
+    {
+      "id": "7427",
+      "chave": "dialog__jinjopink_win",
+      "hash_es": "3516c865da7c3c33",
+      "texto_ptbr": "{MOODHAPPY}A tocha... o fascínio histórico e educativo dela... é quase demais! Pegue esta Ficha e fuja antes que ela pegue você também!",
+      "lote": "602"
+    },
+    {
+      "id": "7f77",
+      "chave": "dialog__jinjored_greeting",
+      "hash_es": "d23b9d83060f0ed2",
+      "texto_ptbr": "{MOODHAPPY}Oi! Oi! Meus pés não param quietos! Aposto que você veio me desafiar numa corrida, não foi?",
+      "lote": "602"
+    },
+    {
+      "id": "6eb5",
+      "chave": "dialog__jinjored_lose",
+      "hash_es": "d122f18fd2b63077",
+      "texto_ptbr": "Ah, qual é, não fica triste! Eu sou muito rápido mesmo! E pode tentar de novo quando quiser!",
+      "lote": "602"
+    },
+    {
+      "id": "c4d0",
+      "chave": "dialog__jinjored_objectives",
+      "hash_es": "7247795f2a46d7ff",
+      "texto_ptbr": "{MOODHAPPY}Corra comigo nesta pista e não caia! Se você vencer, eu cuspo um prêmio... mas não literalmente, isso seria nojento.",
+      "lote": "602"
+    },
+    {
+      "id": "1250",
+      "chave": "dialog__jinjored_win",
+      "hash_es": "41ef7f9e4da077b3",
+      "texto_ptbr": "{MOODHAPPY}Vai, vai, corredor Banjo! É uma honra perder para um dínamo veloz como você!",
+      "lote": "602"
+    }
+  ]
+}

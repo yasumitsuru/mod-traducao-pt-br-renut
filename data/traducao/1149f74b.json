@@ -1,0 +1,230 @@
+{
+  "arquivo": "1149f74b",
+  "asset": "aid_loctext_banjox_cpu_act1",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "bf43827764bc7d30",
+      "texto_ptbr": "Conexão da internetinha toda boa, graçasss ao ursso. Klungo quebrar de novo para ursso tentar consertar mais rápidossso?",
+      "lote": "605"
+    },
+    {
+      "id": "b254",
+      "chave": "dialog__game1_fail",
+      "hash_es": "34be47823f8ed0da",
+      "texto_ptbr": "{MOODANGRY}Ursso não ajudar. Klungo ter que consertar do jeito antigão: bater na antena com martelo até alguma cosssa acontecer.",
+      "lote": "605"
+    },
+    {
+      "id": "7ff5",
+      "chave": "dialog__game1_intro1",
+      "hash_es": "b69888c55767598d",
+      "texto_ptbr": "{MOODSAD}Klungo quebrar conexão da internetinha! Antena frágil essstúpida. Agora Klungo ficar em soft-lock, sssem internetinha.",
+      "lote": "605"
+    },
+    {
+      "id": "7ff6",
+      "chave": "dialog__game1_intro2",
+      "hash_es": "532d72d0e86e99d5",
+      "texto_ptbr": "Outro acidente, Klungo? Imagino que você estava esperando o urso e o pássaro aparecerem para consertar tudo...",
+      "lote": "605"
+    },
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "9db47feabba751ab",
+      "texto_ptbr": "Obrigadossso pela oferta. Ver antena pesada? Ursso issar até um lugar bem alto. Por favor, Klungo pedir com jeitinho!",
+      "lote": "605"
+    },
+    {
+      "id": "4128",
+      "chave": "dialog__game1_objectivesb",
+      "hash_es": "4aecef4d892d8d15",
+      "texto_ptbr": "Sssinal passar e consssole conectar na internetinha de novo quando antena ficar alta o bastante. Fácil para ursso!",
+      "lote": "605"
+    },
+    {
+      "id": "1938",
+      "chave": "dialog__game1_objectivesrepeat1",
+      "hash_es": "10074440f8b7dd22",
+      "texto_ptbr": "Ainda sssem sssinal! Por que tão difícil trocar antena, ursso?",
+      "lote": "605"
+    },
+    {
+      "id": "1939",
+      "chave": "dialog__game1_objectivesrepeat2",
+      "hash_es": "b76d5a82ef77fbdc",
+      "texto_ptbr": "Ursso subir mais! Aqui não ter sssinal de internetinha!",
+      "lote": "605"
+    },
+    {
+      "id": "d532",
+      "chave": "dialog__game1_successa",
+      "hash_es": "efb8b1b3b01ea4c6",
+      "texto_ptbr": "{MOODHAPPY}Internetinha de volta em tempo sssuper-rápido! Ursso provavelmente bater recorde da informática. Ganhar montão de prêmiosss!",
+      "lote": "605"
+    },
+    {
+      "id": "d534",
+      "chave": "dialog__game1_successc",
+      "hash_es": "46700364060b4454",
+      "texto_ptbr": "Klungo voltar pra internetinha agora, fazer treinamento online pra não quebrar mais nada. Ursso ganhar recompensa Jiggy.",
+      "lote": "605"
+    },
+    {
+      "id": "d536",
+      "chave": "dialog__game1_successe",
+      "hash_es": "ab41d0ac9149a184",
+      "texto_ptbr": "Internetinha de volta enfim, mas Klungo sofrer com sssintomas de abssstinência. Sem Jiggy se ursso demorar uma eternidade!",
+      "lote": "605"
+    },
+    {
+      "id": "f828",
+      "chave": "dialog__game2_beaten",
+      "hash_es": "c95c93534253026c",
+      "texto_ptbr": "Vocês dois voltaram para outra aula intensiva de gestão executiva?",
+      "lote": "605"
+    },
+    {
+      "id": "daf5",
+      "chave": "dialog__game2_fail",
+      "hash_es": "f3c49aea25e9e611",
+      "texto_ptbr": "Vocês foram totalmente esmagados, seus noobs! Cadê meus caras? No além da informática, é onde estão!",
+      "lote": "605"
+    },
+    {
+      "id": "54d6",
+      "chave": "dialog__game2_intro1",
+      "hash_es": "52e9b012ee59ff3f",
+      "texto_ptbr": "Cadê minha equipe? Para sua informação, se não se apresentarem já, o firewall do console vai pegar eles!",
+      "lote": "605"
+    },
+    {
+      "id": "54d7",
+      "chave": "dialog__game2_intro2",
+      "hash_es": "e216437b685a32b9",
+      "texto_ptbr": "Você podia ter avisado eles, Cara de Porco. Você é um porco de verdade com seus técnicos!",
+      "lote": "605"
+    },
+    {
+      "id": "54d8",
+      "chave": "dialog__game2_intro3",
+      "hash_es": "5d3f2ce791c59bac",
+      "texto_ptbr": "Não perco meu tempo lidando com funcionários de baixo escalão. Todo mundo é substituível!",
+      "lote": "605"
+    },
+    {
+      "id": "9d67",
+      "chave": "dialog__game2_objectives",
+      "hash_es": "d835148b7335964b",
+      "texto_ptbr": "Meus técnicos vão precisar de resgate antes de serem fritados. Idiotas! O firewall vai torrar eles!",
+      "lote": "605"
+    },
+    {
+      "id": "4aa9",
+      "chave": "dialog__game2_objectivesb",
+      "hash_es": "c09de9922ccd8098",
+      "texto_ptbr": "Mas você vai precisar de um veículo com assentos de passageiro se quiser levar todo mundo até a escotilha de acesso...",
+      "lote": "605"
+    },
+    {
+      "id": "4aaa",
+      "chave": "dialog__game2_objectivesc",
+      "hash_es": "a49e1e34befe18c6",
+      "texto_ptbr": "Não se esforce, Gordão! A gente vai lá e junta eles.",
+      "lote": "605"
+    },
+    {
+      "id": "7f79",
+      "chave": "dialog__game2_objectivesrepeat1",
+      "hash_es": "970c0715efebf922",
+      "texto_ptbr": "Leve meus subordinados até aquela escotilha de acesso! Tempo é dinheiro!",
+      "lote": "605"
+    },
+    {
+      "id": "7f7a",
+      "chave": "dialog__game2_objectivesrepeat2",
+      "hash_es": "443eb39173340558",
+      "texto_ptbr": "Vamos! Não vou pagar indenização se alguém for fritado!",
+      "lote": "605"
+    },
+    {
+      "id": "6653",
+      "chave": "dialog__game2_successa",
+      "hash_es": "c7966205c368d4d6",
+      "texto_ptbr": "Viu, é assim que se faz. Eu dou a ordem, você obedece na hora! Você ganha a recompensa, e aqueles outros burros levam um mês de suspensão!",
+      "lote": "605"
+    },
+    {
+      "id": "6655",
+      "chave": "dialog__game2_successc",
+      "hash_es": "36832dfcc83f4ede",
+      "texto_ptbr": "Obrigado por me poupar o trabalho. Pode ficar com o Jiggy, mas vou descontar do salário daqueles caras!",
+      "lote": "605"
+    },
+    {
+      "id": "6657",
+      "chave": "dialog__game2_successe",
+      "hash_es": "bfc82b558be0045f",
+      "texto_ptbr": "Ei, você encontrou eles. Pena que eu desisti de você e contratei freelancers. Espero que não estivesse contando com recompensa!",
+      "lote": "605"
+    },
+    {
+      "id": "723b",
+      "chave": "dialog__jinjoblue_intro",
+      "hash_es": "022bcd6465a654a8",
+      "texto_ptbr": "{MOODSAD}Aaah! Volta! Ah, é você. Desculpa, estou lendo este livro muito assustador. Ou estava, até perder ele...",
+      "lote": "605"
+    },
+    {
+      "id": "1182",
+      "chave": "dialog__jinjoblue_lose",
+      "hash_es": "4f6c4eaca36366da",
+      "texto_ptbr": "{MOODSAD}Ah, tudo bem. Vou ter que voltar às historinhas de romance superficiais até ele aparecer...",
+      "lote": "605"
+    },
+    {
+      "id": "8d5d",
+      "chave": "dialog__jinjoblue_objectives",
+      "hash_es": "0c03ea3077b93077",
+      "texto_ptbr": "{MOODSAD}Eu estava sentado no Nível 4, perto daquela coisa com giz de cera grudado, quando cheguei numa parte aterrorizante do livro e me tremi tanto que ele voou da minha mão! Por favor, encontre ele!",
+      "lote": "605"
+    },
+    {
+      "id": "0f7d",
+      "chave": "dialog__jinjoblue_win",
+      "hash_es": "4cac80266bcabb3c",
+      "texto_ptbr": "{MOODHAPPY}Você encontrou! Vou só reler esta parte... aaah, volta! Tome esta ficha e me deixe em paz, seu monstro horrendo!",
+      "lote": "605"
+    },
+    {
+      "id": "c4cf",
+      "chave": "dialog__jinjoorange_intro",
+      "hash_es": "1df5e0a4440514f7",
+      "texto_ptbr": "{MOODHAPPY}Sinto muitíssimo, mas peguei um giz de cera grande e marquei esta área como minha. Vão ter que sair. Rapidinho agora!",
+      "lote": "605"
+    },
+    {
+      "id": "6196",
+      "chave": "dialog__jinjoorange_lose",
+      "hash_es": "2aa3cdcfaa6c827e",
+      "texto_ptbr": "{MOODSAD}Não, não foi rápido o bastante. Sabe o que vou fazer agora? Ficar emburrado.",
+      "lote": "605"
+    },
+    {
+      "id": "9c71",
+      "chave": "dialog__jinjoorange_objectives",
+      "hash_es": "e51ba9fa89b6b04a",
+      "texto_ptbr": "{MOODHAPPY}Vamos, cai fora! Estou tão ansioso para ver suas costas que tem até uma recompensa se você atingir certa velocidade na saída!",
+      "lote": "605"
+    },
+    {
+      "id": "ad11",
+      "chave": "dialog__jinjoorange_win",
+      "hash_es": "d00fcd674b0be447",
+      "texto_ptbr": "{MOODHAPPY}Se todo mundo por aqui fosse tão rápido em obedecer minhas regras aleatórias! Aqui, tome uma Ficha!",
+      "lote": "605"
+    }
+  ]
+}

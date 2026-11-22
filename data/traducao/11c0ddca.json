@@ -1,0 +1,195 @@
+{
+  "arquivo": "11c0ddca",
+  "asset": "aid_loctext_banjox_nuttyacres_act3",
+  "frases": [
+    {
+      "id": "3451",
+      "chave": "dialog__game1_gruntyemitdialog1",
+      "hash_es": "14529eeedc138a20",
+      "texto_ptbr": "Não consegue acompanhar, seu urso lerdo: a Grunty está chutando o seu traseiro gordo!",
+      "lote": "603"
+    },
+    {
+      "id": "3452",
+      "chave": "dialog__game1_gruntyemitdialog2",
+      "hash_es": "3010f35d44a29de4",
+      "texto_ptbr": "Brigamos desde os velhos tempos, e até hoje rimar é um dos meus talentos!",
+      "lote": "603"
+    },
+    {
+      "id": "3453",
+      "chave": "dialog__game1_gruntyemitdialog3",
+      "hash_es": "7af960d2de727bc3",
+      "texto_ptbr": "O urso e a ave são uns molengas! Demoram tanto que me dão câimbras nas pernas!",
+      "lote": "603"
+    },
+    {
+      "id": "3454",
+      "chave": "dialog__game1_gruntyemitdialog4",
+      "hash_es": "557247b137738940",
+      "texto_ptbr": "Ainda tentando arrancar o coco da minha carreta? Vocês acham mesmo que esta velha cai nessa treta?",
+      "lote": "603"
+    },
+    {
+      "id": "3455",
+      "chave": "dialog__game1_gruntyemitdialog5",
+      "hash_es": "26191b4977735e14",
+      "texto_ptbr": "Se ainda estiverem aqui na próxima volta, mando vocês para fora do mapa com uma trombada!",
+      "lote": "607"
+    },
+    {
+      "id": "3456",
+      "chave": "dialog__game1_gruntyemitdialog6",
+      "hash_es": "296021673ed1c3c9",
+      "texto_ptbr": "Bloqueiem meu caminho, tentem me desequilibrar, à vontade! Mas este desafio eu ganho, e não é por vaidade!",
+      "lote": "603"
+    },
+    {
+      "id": "3457",
+      "chave": "dialog__game1_gruntyemitdialog7",
+      "hash_es": "dfe6c8ee76c4e131",
+      "texto_ptbr": "Tentem me vencer, não sejam preguiçosos. Pelo menos me empurrem para a água, babosos!",
+      "lote": "603"
+    },
+    {
+      "id": "3458",
+      "chave": "dialog__game1_gruntyemitdialog8",
+      "hash_es": "e9e27b9822ab1f69",
+      "texto_ptbr": "O urso e a ave são uns tontos se me empurrarem para a lava, e a coisa fica brava!",
+      "lote": "607"
+    },
+    {
+      "id": "9744",
+      "chave": "dialog__game1_intro",
+      "hash_es": "814123dcc7e5f2c0",
+      "texto_ptbr": "{MOODHAPPY}Ora, o que é isso diante de mim? Um coco deste tamanho assim! {PAGEBREAK}Deve ser o Coco Loco, ao que parece. Logo será da Grunty, é esperar que amadurece!",
+      "lote": "603"
+    },
+    {
+      "id": "8026",
+      "chave": "dialog__game1_introb",
+      "hash_es": "00ccbf7c68b2c751",
+      "texto_ptbr": "Coco Loco? Alguma ideia do que o velho saco de verrugas está falando, Kazooie?",
+      "lote": "607"
+    },
+    {
+      "id": "8027",
+      "chave": "dialog__game1_introc",
+      "hash_es": "d35f72b9c9d5c428",
+      "texto_ptbr": "O Mumbo Dumbo não cala a boca sobre isso. Pelo visto, é um coco que cresce na ilha há mais de cem anos! {PAGEBREAK}Quando ele cair, dizem que vai ser o papai de todos os cocos...",
+      "lote": "603"
+    },
+    {
+      "id": "8028",
+      "chave": "dialog__game1_introd",
+      "hash_es": "0a29e93b24149522",
+      "texto_ptbr": "{MOODHAPPY}Com um coco tão grande e tão possante, esmagar a fazenda vai ser num instante! {PAGEBREAK}Coco Loco, logo você será meu. Vou dominar este lugar antes do sol raiar, e a Grunty vai reinar!",
+      "lote": "603"
+    },
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "e4f47ef743d63b31",
+      "texto_ptbr": "Kazooie! Se a Grunty puser as mãos naquele coco, ela vai ficar imbatível!",
+      "lote": "603"
+    },
+    {
+      "id": "4128",
+      "chave": "dialog__game1_objectivesb",
+      "hash_es": "bf60ddc6ac9d1259",
+      "texto_ptbr": "Bem... não vamos nos empolgar, é só um coco grande. {PAGEBREAK}Que tal derrubarmos ele da carreta dela antes que ela escape?",
+      "lote": "603"
+    },
+    {
+      "id": "1938",
+      "chave": "dialog__game1_objectivesrepeat1",
+      "hash_es": "851daf0b150af61f",
+      "texto_ptbr": "Qualé, deve ter algum jeito de derrubar esse coco monstruoso!",
+      "lote": "603"
+    },
+    {
+      "id": "1939",
+      "chave": "dialog__game1_objectivesrepeat2",
+      "hash_es": "3e3067065cbf9074",
+      "texto_ptbr": "Se é essa a ideia da Grunty de participar, eu preferia que ela não se metesse!",
+      "lote": "607"
+    },
+    {
+      "id": "d532",
+      "chave": "dialog__game1_successa",
+      "hash_es": "a44af889ceccddf1",
+      "texto_ptbr": "{MOODSAD}O Coco Loco se perdeu na eternidade; só me restaram as rimas e a vaidade!",
+      "lote": "603"
+    },
+    {
+      "id": "d534",
+      "chave": "dialog__game1_successc",
+      "hash_es": "b8b36407d2ae2161",
+      "texto_ptbr": "{MOODSAD}Você ganhou o Jiggy, seu urso irritante. Será que consegue um tempo ainda mais brilhante?",
+      "lote": "603"
+    },
+    {
+      "id": "d536",
+      "chave": "dialog__game1_successe",
+      "hash_es": "e05995ef1e058d54",
+      "texto_ptbr": "Você deu uma surra na Grunty, isso é fato, mas com um tempo desses não leva Jiggy, seu pateta!",
+      "lote": "603"
+    },
+    {
+      "id": "7f77",
+      "chave": "dialog__jinjored_greeting",
+      "hash_es": "0a6e1fd3aad9efc6",
+      "texto_ptbr": "{MOODHAPPY}Ei, Banjo. Eu estava numa sala de bate-papo de ursos e alguém disse que você é o urso mais forte e másculo da região. Era tudo perfeitamente inocente... vamos jogar Arremesso de Jinjo?",
+      "lote": "603"
+    },
+    {
+      "id": "6eb5",
+      "chave": "dialog__jinjored_lose",
+      "hash_es": "fd8f69cacc1b1c7f",
+      "texto_ptbr": "{MOODSAD}Que azar. Coloque um pouco desse famoso machismo de urso nisso e você vai se sair melhor na próxima!",
+      "lote": "603"
+    },
+    {
+      "id": "c4d0",
+      "chave": "dialog__jinjored_objectives",
+      "hash_es": "90d2a05666b94cc8",
+      "texto_ptbr": "{MOODHAPPY}Ótimo! Veja se consegue me arremessar mais longe que a distância indicada!",
+      "lote": "603"
+    },
+    {
+      "id": "1250",
+      "chave": "dialog__jinjored_win",
+      "hash_es": "ab493a3ac20e198e",
+      "texto_ptbr": "{MOODHAPPY}Uau, que arremesso magnífico de longa distância!",
+      "lote": "603"
+    },
+    {
+      "id": "e358",
+      "chave": "dialog__jinjoyellow_greeting",
+      "hash_es": "4b9753cbcbd73e03",
+      "texto_ptbr": "{MOODSAD}Perdi o querido Glowbo, que eu considero meu único amigo no mundo... ei, pare de rir e me ajude a procurar, quer?",
+      "lote": "603"
+    },
+    {
+      "id": "0a16",
+      "chave": "dialog__jinjoyellow_lose",
+      "hash_es": "fbaf9e9fde93bf54",
+      "texto_ptbr": "{MOODSAD}Não encontrou? Aposto que nem procurou, só ficou escondido ali na esquina um tempinho. Não desista, o Glowbo nem sabe nadar!",
+      "lote": "603"
+    },
+    {
+      "id": "a4f1",
+      "chave": "dialog__jinjoyellow_objectives",
+      "hash_es": "45788d902a1f45d1",
+      "texto_ptbr": "{MOODSAD}A gente estava fazendo trilha no vulcão, mas meu Glowbo não parava de reclamar do calor, até que eu chutei ele para a piscina, completamente sem querer... agora me sinto mal, você poderia ir resgatar ele?",
+      "lote": "603"
+    },
+    {
+      "id": "4591",
+      "chave": "dialog__jinjoyellow_win",
+      "hash_es": "02de484f3692acc1",
+      "texto_ptbr": "{MOODHAPPY}Glowbo, meu querido e mais esquisito amigo! Tente não ficar no caminho do meu pé da próxima vez. O quê? A culpa foi sua...",
+      "lote": "603"
+    }
+  ]
+}

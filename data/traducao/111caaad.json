@@ -1,0 +1,62 @@
+{
+  "arquivo": "111caaad",
+  "asset": "aid_loctext_banjox_showdowntown_policelaws",
+  "frases": [
+    {
+      "id": "2f7e",
+      "chave": "dialog__lawaiding",
+      "hash_es": "0f761e485599e1ab",
+      "texto_ptbr": "LEI VIOLADA! Ajudar um Criminoso!",
+      "lote": "505"
+    },
+    {
+      "id": "e0ef",
+      "chave": "dialog__lawassault",
+      "hash_es": "b6f90ac3e2ada63c",
+      "texto_ptbr": "LEI VIOLADA! Agredir um Policial!",
+      "lote": "505"
+    },
+    {
+      "id": "62b8",
+      "chave": "dialog__lawbullying",
+      "hash_es": "c0870ccf7543219b",
+      "texto_ptbr": "LEI VIOLADA! Intimidar Moradores!",
+      "lote": "505"
+    },
+    {
+      "id": "890c",
+      "chave": "dialog__lawdisturbingthepeace",
+      "hash_es": "cb64dc6bc7ab76a0",
+      "texto_ptbr": "LEI VIOLADA! Perturbar a Ordem!",
+      "lote": "505"
+    },
+    {
+      "id": "228b",
+      "chave": "dialog__lawfirearms",
+      "hash_es": "0b054de7032ee0f4",
+      "texto_ptbr": "LEI VIOLADA! Disparar uma Arma de Fogo!",
+      "lote": "505"
+    },
+    {
+      "id": "86e4",
+      "chave": "dialog__lawfraud",
+      "hash_es": "c8dcf60fec01ab37",
+      "texto_ptbr": "LEI VIOLADA! Fraude!",
+      "lote": "505"
+    },
+    {
+      "id": "c37f",
+      "chave": "dialog__lawsmuggling",
+      "hash_es": "9e3b1629628187d6",
+      "texto_ptbr": "LEI VIOLADA! Contrabando!",
+      "lote": "505"
+    },
+    {
+      "id": "0a01",
+      "chave": "dialog__lawspeeding",
+      "hash_es": "caa7b56dedeaae94",
+      "texto_ptbr": "LEI VIOLADA! Excesso de Velocidade!",
+      "lote": "505"
+    }
+  ]
+}

@@ -1,0 +1,1791 @@
+{
+  "arquivo": "1149a294",
+  "asset": "aid_loctext_banjox_ui_ingame_buttonmenu",
+  "frases": [
+    {
+      "id": "c9d0",
+      "chave": "buttonmenu__Autopilot",
+      "hash_es": "1dc3c995f3c2dada",
+      "texto_ptbr": "Piloto Automático",
+      "lote": "502"
+    },
+    {
+      "id": "14c4",
+      "chave": "buttonmenu__Bootinabox",
+      "hash_es": "95aa9ce31877ac13",
+      "texto_ptbr": "Bota na Caixa",
+      "lote": "502"
+    },
+    {
+      "id": "829b",
+      "chave": "buttonmenu__Chameleon",
+      "hash_es": "efb9dc1c7c3682ce",
+      "texto_ptbr": "Camaleão",
+      "lote": "502"
+    },
+    {
+      "id": "b955",
+      "chave": "buttonmenu__ChooseStorageDevice",
+      "hash_es": "c0c6861d6cc7c39a",
+      "texto_ptbr": "Escolher local para salvar",
+      "lote": "502"
+    },
+    {
+      "id": "b705",
+      "chave": "buttonmenu__ChooseStorageDeviceShort",
+      "hash_es": "dd9056d9fc400af5",
+      "texto_ptbr": "Local de salvamento",
+      "lote": "502"
+    },
+    {
+      "id": "341f",
+      "chave": "buttonmenu__CitrusSlick",
+      "hash_es": "77ef0b35b2c31870",
+      "texto_ptbr": "Mancha Cítrica",
+      "lote": "502"
+    },
+    {
+      "id": "c1f0",
+      "chave": "buttonmenu__ClockworkKazooie",
+      "hash_es": "38d650dd47129b38",
+      "texto_ptbr": "Kazooie de Corda",
+      "lote": "502"
+    },
+    {
+      "id": "434f",
+      "chave": "buttonmenu__Detacher",
+      "hash_es": "309e34cfd83588f2",
+      "texto_ptbr": "Separador",
+      "lote": "502"
+    },
+    {
+      "id": "1291",
+      "chave": "buttonmenu__EMP",
+      "hash_es": "deae9dbc99655a26",
+      "texto_ptbr": "P.E.M.",
+      "lote": "502"
+    },
+    {
+      "id": "ac4c",
+      "chave": "buttonmenu__EggGun",
+      "hash_es": "d49a47cc83677b5e",
+      "texto_ptbr": "Disparar ovo",
+      "lote": "502"
+    },
+    {
+      "id": "6928",
+      "chave": "buttonmenu__EjectorSeat",
+      "hash_es": "f40e451d1807fc79",
+      "texto_ptbr": "Assento Ejetor",
+      "lote": "502"
+    },
+    {
+      "id": "01c8",
+      "chave": "buttonmenu__Freezeezy",
+      "hash_es": "2e430495e50b830e",
+      "texto_ptbr": "Congelador",
+      "lote": "502"
+    },
+    {
+      "id": "2059",
+      "chave": "buttonmenu__Gun",
+      "hash_es": "30be37621a6cce93",
+      "texto_ptbr": "Lança-Granadas",
+      "lote": "502"
+    },
+    {
+      "id": "9f46",
+      "chave": "buttonmenu__Horn",
+      "hash_es": "810bf966f14a8275",
+      "texto_ptbr": "Buzina",
+      "lote": "502"
+    },
+    {
+      "id": "a30d",
+      "chave": "buttonmenu__JinjoBingo_droptoken",
+      "hash_es": "c81acae3f7146f48",
+      "texto_ptbr": "Devolver ficha",
+      "lote": "502"
+    },
+    {
+      "id": "4924",
+      "chave": "buttonmenu__JinjoBingo_pickuptoken",
+      "hash_es": "ff3ca27f7346f0fb",
+      "texto_ptbr": "Pegar",
+      "lote": "502"
+    },
+    {
+      "id": "d57d",
+      "chave": "buttonmenu__JinjoBingo_placetoken",
+      "hash_es": "ca2f73382e7e39cd",
+      "texto_ptbr": "Colocar",
+      "lote": "502"
+    },
+    {
+      "id": "4046",
+      "chave": "buttonmenu__Laser",
+      "hash_es": "2eee422546a2a73d",
+      "texto_ptbr": "Laser",
+      "lote": "502"
+    },
+    {
+      "id": "d156",
+      "chave": "buttonmenu__LiquidSquirter",
+      "hash_es": "3e200e5c561ce06e",
+      "texto_ptbr": "Borrifador de Líquido",
+      "lote": "513"
+    },
+    {
+      "id": "affe",
+      "chave": "buttonmenu__Mumbobombo",
+      "hash_es": "34357f31e39c1dbb",
+      "texto_ptbr": "Mumbo Bomba",
+      "lote": "502"
+    },
+    {
+      "id": "9b8a",
+      "chave": "buttonmenu__PhotoAlbum",
+      "hash_es": "ba37e5a44cf8481e",
+      "texto_ptbr": "Álbum de fotos",
+      "lote": "502"
+    },
+    {
+      "id": "18bc",
+      "chave": "buttonmenu__PhotoQuit",
+      "hash_es": "93fffbf7ce799f33",
+      "texto_ptbr": "Sair",
+      "lote": "502"
+    },
+    {
+      "id": "df95",
+      "chave": "buttonmenu__PhotoSearchEdit",
+      "hash_es": "4f22d5481eb4b1af",
+      "texto_ptbr": "Editar critérios de busca",
+      "lote": "502"
+    },
+    {
+      "id": "aca2",
+      "chave": "buttonmenu__PhotoSearchExecute",
+      "hash_es": "5f55edf900896012",
+      "texto_ptbr": "Buscar",
+      "lote": "502"
+    },
+    {
+      "id": "c632",
+      "chave": "buttonmenu__PhotoSearchReset",
+      "hash_es": "3e927fa966b62a13",
+      "texto_ptbr": "Restaurar padrões",
+      "lote": "502"
+    },
+    {
+      "id": "4f08",
+      "chave": "buttonmenu__PhotoTakePhoto",
+      "hash_es": "3a3ce14d17588fe8",
+      "texto_ptbr": "Tirar foto",
+      "lote": "502"
+    },
+    {
+      "id": "52dc",
+      "chave": "buttonmenu__Remotecontrol",
+      "hash_es": "908d8ecb77419f5d",
+      "texto_ptbr": "Controle Remoto",
+      "lote": "502"
+    },
+    {
+      "id": "0ca4",
+      "chave": "buttonmenu__ReplayEndBack",
+      "hash_es": "f9618693ab0e05f9",
+      "texto_ptbr": "Voltar",
+      "lote": "502"
+    },
+    {
+      "id": "9c36",
+      "chave": "buttonmenu__ReplayEndQuit",
+      "hash_es": "93fffbf7ce799f33",
+      "texto_ptbr": "Sair",
+      "lote": "502"
+    },
+    {
+      "id": "c614",
+      "chave": "buttonmenu__ReplayEndRepeat",
+      "hash_es": "91a7a94f214382ec",
+      "texto_ptbr": "Repetir",
+      "lote": "502"
+    },
+    {
+      "id": "7416",
+      "chave": "buttonmenu__ReplayLeaveReplay",
+      "hash_es": "93fffbf7ce799f33",
+      "texto_ptbr": "Sair",
+      "lote": "502"
+    },
+    {
+      "id": "6961",
+      "chave": "buttonmenu__ReplayPhotoHideShow",
+      "hash_es": "ce1957758d07f31f",
+      "texto_ptbr": "Ocultar/Mostrar",
+      "lote": "502"
+    },
+    {
+      "id": "942b",
+      "chave": "buttonmenu__ReplayPhotoMode",
+      "hash_es": "30235d39aa8800a7",
+      "texto_ptbr": "Modo foto",
+      "lote": "502"
+    },
+    {
+      "id": "7bb0",
+      "chave": "buttonmenu__ReplayPlayPause",
+      "hash_es": "8fdb06dd860531c6",
+      "texto_ptbr": "Reproduzir/Pausar",
+      "lote": "502"
+    },
+    {
+      "id": "91a0",
+      "chave": "buttonmenu__ReplaySaveBlueprint",
+      "hash_es": "11fb780c62558d22",
+      "texto_ptbr": "Salvar projeto",
+      "lote": "502"
+    },
+    {
+      "id": "0676",
+      "chave": "buttonmenu__Rustbin",
+      "hash_es": "61cf33bc428e2994",
+      "texto_ptbr": "Lixeira Enferrujada",
+      "lote": "502"
+    },
+    {
+      "id": "e5e7",
+      "chave": "buttonmenu__SelfDestruct",
+      "hash_es": "0fc6874f7516b56c",
+      "texto_ptbr": "Autodestruição",
+      "lote": "502"
+    },
+    {
+      "id": "7f75",
+      "chave": "buttonmenu__Smokesphere",
+      "hash_es": "f9e78137a60938ae",
+      "texto_ptbr": "Bola de Fumaça",
+      "lote": "502"
+    },
+    {
+      "id": "d8e5",
+      "chave": "buttonmenu__SpecOSpy",
+      "hash_es": "ab92a5e20e08a86f",
+      "texto_ptbr": "Óculos de Espião",
+      "lote": "502"
+    },
+    {
+      "id": "b6ad",
+      "chave": "buttonmenu__Spotlight",
+      "hash_es": "45003b765e544006",
+      "texto_ptbr": "Holofote",
+      "lote": "502"
+    },
+    {
+      "id": "5982",
+      "chave": "buttonmenu__Spring",
+      "hash_es": "b8e96bfa02d78dba",
+      "texto_ptbr": "Mola",
+      "lote": "502"
+    },
+    {
+      "id": "bfc1",
+      "chave": "buttonmenu__Stereo",
+      "hash_es": "b8f41fc22bc2f0f4",
+      "texto_ptbr": "Estéreo",
+      "lote": "502"
+    },
+    {
+      "id": "4141",
+      "chave": "buttonmenu__StickyBall",
+      "hash_es": "aaf1f2b94228b5a9",
+      "texto_ptbr": "Bola Pegajosa",
+      "lote": "502"
+    },
+    {
+      "id": "6ca7",
+      "chave": "buttonmenu__SuckNBlow",
+      "hash_es": "e32e17f5287391a0",
+      "texto_ptbr": "Suga e Sopra",
+      "lote": "502"
+    },
+    {
+      "id": "0617",
+      "chave": "buttonmenu__Torpedile",
+      "hash_es": "92f6dcdc8d00b082",
+      "texto_ptbr": "Torpedilo",
+      "lote": "502"
+    },
+    {
+      "id": "081e",
+      "chave": "buttonmenu__Towbar",
+      "hash_es": "f61620c192fc30ea",
+      "texto_ptbr": "Barra de Reboque",
+      "lote": "502"
+    },
+    {
+      "id": "5e9f",
+      "chave": "buttonmenu__WIP",
+      "hash_es": "e4c9f6b8c0b45e80",
+      "texto_ptbr": "Em desenvolvimento",
+      "lote": "502"
+    },
+    {
+      "id": "9997",
+      "chave": "buttonmenu__Weldarsbreath",
+      "hash_es": "8a0ecaded4132677",
+      "texto_ptbr": "Bafo do Weldar",
+      "lote": "502"
+    },
+    {
+      "id": "bee4",
+      "chave": "buttonmenu__Wing",
+      "hash_es": "88af56fd5b7fa14a",
+      "texto_ptbr": "Asa Variável",
+      "lote": "502"
+    },
+    {
+      "id": "bdf8",
+      "chave": "buttonmenu__accelerate",
+      "hash_es": "a88536f370073a7d",
+      "texto_ptbr": "Acelerar",
+      "lote": "502"
+    },
+    {
+      "id": "8cb8",
+      "chave": "buttonmenu__add",
+      "hash_es": "fd2559e32c55fc3c",
+      "texto_ptbr": "Adicionar bloco",
+      "lote": "502"
+    },
+    {
+      "id": "d08e",
+      "chave": "buttonmenu__applydecal",
+      "hash_es": "dd4bff717d4d000b",
+      "texto_ptbr": "Aplicar decalque",
+      "lote": "502"
+    },
+    {
+      "id": "911d",
+      "chave": "buttonmenu__ascend",
+      "hash_es": "c73a9b2fbc57e81b",
+      "texto_ptbr": "Subir",
+      "lote": "502"
+    },
+    {
+      "id": "3947",
+      "chave": "buttonmenu__assigncomponent",
+      "hash_es": "893e22c5e80d261d",
+      "texto_ptbr": "Atribuir peça",
+      "lote": "502"
+    },
+    {
+      "id": "e9a4",
+      "chave": "buttonmenu__attach",
+      "hash_es": "9536d53c4922de14",
+      "texto_ptbr": "Fixar",
+      "lote": "502"
+    },
+    {
+      "id": "e9a7",
+      "chave": "buttonmenu__attack",
+      "hash_es": "88bdb16bc2b409c9",
+      "texto_ptbr": "Atacar",
+      "lote": "502"
+    },
+    {
+      "id": "a3a0",
+      "chave": "buttonmenu__back",
+      "hash_es": "f9618693ab0e05f9",
+      "texto_ptbr": "Voltar",
+      "lote": "502"
+    },
+    {
+      "id": "9e1c",
+      "chave": "buttonmenu__backpaint",
+      "hash_es": "a2e3a4ca3d51f890",
+      "texto_ptbr": "Cores",
+      "lote": "502"
+    },
+    {
+      "id": "c5c0",
+      "chave": "buttonmenu__barrelroll",
+      "hash_es": "bb662b1a941dc4d8",
+      "texto_ptbr": "Giro em tonel",
+      "lote": "502"
+    },
+    {
+      "id": "774f",
+      "chave": "buttonmenu__bench",
+      "hash_es": "d81bd6b42c357ece",
+      "texto_ptbr": "Voltar às bancadas",
+      "lote": "502"
+    },
+    {
+      "id": "84d0",
+      "chave": "buttonmenu__bootplayer",
+      "hash_es": "ffb1a9c946e708e2",
+      "texto_ptbr": "Expulsar",
+      "lote": "502"
+    },
+    {
+      "id": "61f4",
+      "chave": "buttonmenu__brake",
+      "hash_es": "748d44bd768d9208",
+      "texto_ptbr": "Frear",
+      "lote": "502"
+    },
+    {
+      "id": "5b84",
+      "chave": "buttonmenu__buildmode",
+      "hash_es": "6033bf4bacc31740",
+      "texto_ptbr": "Loja de Peças",
+      "lote": "502"
+    },
+    {
+      "id": "933f",
+      "chave": "buttonmenu__buy",
+      "hash_es": "5192da8be5f4bc60",
+      "texto_ptbr": "Comprar",
+      "lote": "502"
+    },
+    {
+      "id": "27d5",
+      "chave": "buttonmenu__cancel",
+      "hash_es": "bb9dbb406dcbd524",
+      "texto_ptbr": "Cancelar",
+      "lote": "502"
+    },
+    {
+      "id": "4d44",
+      "chave": "buttonmenu__changedisplaybrightness",
+      "hash_es": "dd19119d4c0d6f94",
+      "texto_ptbr": "Alterar brilho",
+      "lote": "502"
+    },
+    {
+      "id": "fa79",
+      "chave": "buttonmenu__changedisplaycontrast",
+      "hash_es": "26037c757372fcdc",
+      "texto_ptbr": "Alterar contraste",
+      "lote": "502"
+    },
+    {
+      "id": "94ae",
+      "chave": "buttonmenu__changemusicvolume",
+      "hash_es": "656bc8622afdd291",
+      "texto_ptbr": "Volume da música",
+      "lote": "502"
+    },
+    {
+      "id": "f7de",
+      "chave": "buttonmenu__changesfxvolume",
+      "hash_es": "656bc8622afdd291",
+      "texto_ptbr": "Volume dos efeitos",
+      "lote": "502"
+    },
+    {
+      "id": "6405",
+      "chave": "buttonmenu__changespeechvolume",
+      "hash_es": "656bc8622afdd291",
+      "texto_ptbr": "Volume dos diálogos",
+      "lote": "502"
+    },
+    {
+      "id": "750a",
+      "chave": "buttonmenu__chooseleavepartyno",
+      "hash_es": "f0110a9cb79f128a",
+      "texto_ptbr": "Ficar",
+      "lote": "502"
+    },
+    {
+      "id": "443e",
+      "chave": "buttonmenu__chooseleavepartyyes",
+      "hash_es": "2a9baf5c3825064d",
+      "texto_ptbr": "Sair",
+      "lote": "502"
+    },
+    {
+      "id": "3ff6",
+      "chave": "buttonmenu__clear",
+      "hash_es": "d50a3d4468356132",
+      "texto_ptbr": "Limpar",
+      "lote": "502"
+    },
+    {
+      "id": "506f",
+      "chave": "buttonmenu__cleardecal",
+      "hash_es": "f382832be30e022e",
+      "texto_ptbr": "Limpar decalque",
+      "lote": "502"
+    },
+    {
+      "id": "6032",
+      "chave": "buttonmenu__clearpaint",
+      "hash_es": "2e768fbd8a616f8d",
+      "texto_ptbr": "Limpar pintura",
+      "lote": "502"
+    },
+    {
+      "id": "75eb",
+      "chave": "buttonmenu__clearpaintall",
+      "hash_es": "9dd1b873bf0ea345",
+      "texto_ptbr": "Limpar tudo",
+      "lote": "502"
+    },
+    {
+      "id": "a114",
+      "chave": "buttonmenu__clearpaintsingle",
+      "hash_es": "ac4e6f94c4d73f83",
+      "texto_ptbr": "Limpar individual",
+      "lote": "502"
+    },
+    {
+      "id": "b571",
+      "chave": "buttonmenu__cloakonoff",
+      "hash_es": "3ba643d13eb9c4c7",
+      "texto_ptbr": "Camuflagem",
+      "lote": "502"
+    },
+    {
+      "id": "bc91",
+      "chave": "buttonmenu__closeinfo",
+      "hash_es": "0b79237a9defbb0b",
+      "texto_ptbr": "Fechar informações",
+      "lote": "502"
+    },
+    {
+      "id": "129d",
+      "chave": "buttonmenu__confirm",
+      "hash_es": "717bedea36fcffd9",
+      "texto_ptbr": "Confirmar",
+      "lote": "502"
+    },
+    {
+      "id": "adb4",
+      "chave": "buttonmenu__continue",
+      "hash_es": "63e2bbaf1c924391",
+      "texto_ptbr": "Continuar",
+      "lote": "502"
+    },
+    {
+      "id": "6c57",
+      "chave": "buttonmenu__continuewithoutsave",
+      "hash_es": "07ddefeca630b65d",
+      "texto_ptbr": "Continuar sem salvar",
+      "lote": "502"
+    },
+    {
+      "id": "6d4a",
+      "chave": "buttonmenu__copy",
+      "hash_es": "39dcf1cbeb5adbd0",
+      "texto_ptbr": "Copiar",
+      "lote": "502"
+    },
+    {
+      "id": "46fa",
+      "chave": "buttonmenu__couldntcreatesessionok",
+      "hash_es": "640d6761c178f2ad",
+      "texto_ptbr": "OK",
+      "lote": "502"
+    },
+    {
+      "id": "4c58",
+      "chave": "buttonmenu__crane_release",
+      "hash_es": "fd58de6995f268e8",
+      "texto_ptbr": "Soltar",
+      "lote": "502"
+    },
+    {
+      "id": "977b",
+      "chave": "buttonmenu__cut",
+      "hash_es": "2f04fbd94be9442b",
+      "texto_ptbr": "Cortar",
+      "lote": "502"
+    },
+    {
+      "id": "59bf",
+      "chave": "buttonmenu__cycle",
+      "hash_es": "363ec0e1b50cd6aa",
+      "texto_ptbr": "Trocar filtro",
+      "lote": "502"
+    },
+    {
+      "id": "156a",
+      "chave": "buttonmenu__cycleleft",
+      "hash_es": "fb1adad4daa66860",
+      "texto_ptbr": "Trocar",
+      "lote": "502"
+    },
+    {
+      "id": "8a5d",
+      "chave": "buttonmenu__cycleright",
+      "hash_es": "fb1adad4daa66860",
+      "texto_ptbr": "Trocar",
+      "lote": "502"
+    },
+    {
+      "id": "a422",
+      "chave": "buttonmenu__delete",
+      "hash_es": "c9894cf002f90bd0",
+      "texto_ptbr": "Excluir",
+      "lote": "502"
+    },
+    {
+      "id": "090d",
+      "chave": "buttonmenu__deleteblock",
+      "hash_es": "c9894cf002f90bd0",
+      "texto_ptbr": "Excluir",
+      "lote": "502"
+    },
+    {
+      "id": "7ce5",
+      "chave": "buttonmenu__descend",
+      "hash_es": "9f8a8a8d9f400059",
+      "texto_ptbr": "Descer",
+      "lote": "502"
+    },
+    {
+      "id": "fb38",
+      "chave": "buttonmenu__deselect",
+      "hash_es": "6e004e0827c9be98",
+      "texto_ptbr": "Desmarcar",
+      "lote": "502"
+    },
+    {
+      "id": "f3f8",
+      "chave": "buttonmenu__detach",
+      "hash_es": "02046244a04f6654",
+      "texto_ptbr": "Separar",
+      "lote": "502"
+    },
+    {
+      "id": "7736",
+      "chave": "buttonmenu__detailedstatistics",
+      "hash_es": "d3c56d44d0348056",
+      "texto_ptbr": "Mais detalhes",
+      "lote": "502"
+    },
+    {
+      "id": "e315",
+      "chave": "buttonmenu__dialog_skip",
+      "hash_es": "33ff215867057dfb",
+      "texto_ptbr": "Pular fala",
+      "lote": "502"
+    },
+    {
+      "id": "c7af",
+      "chave": "buttonmenu__dialog_togglefastfwd",
+      "hash_es": "b7ee42b0a21a0f29",
+      "texto_ptbr": "Alternar avanço rápido",
+      "lote": "502"
+    },
+    {
+      "id": "e0d7",
+      "chave": "buttonmenu__dive",
+      "hash_es": "2a7f2f059ac9005c",
+      "texto_ptbr": "Mergulhar",
+      "lote": "502"
+    },
+    {
+      "id": "c745",
+      "chave": "buttonmenu__dontbootplayer",
+      "hash_es": "bb9dbb406dcbd524",
+      "texto_ptbr": "Cancelar",
+      "lote": "502"
+    },
+    {
+      "id": "f1ce",
+      "chave": "buttonmenu__dontjoingame",
+      "hash_es": "8e95bceb1994331d",
+      "texto_ptbr": "Não entrar",
+      "lote": "502"
+    },
+    {
+      "id": "a0a8",
+      "chave": "buttonmenu__dontleavempgame",
+      "hash_es": "bb9dbb406dcbd524",
+      "texto_ptbr": "Cancelar",
+      "lote": "502"
+    },
+    {
+      "id": "8449",
+      "chave": "buttonmenu__dontleavemultiplayer",
+      "hash_es": "f0110a9cb79f128a",
+      "texto_ptbr": "Ficar",
+      "lote": "502"
+    },
+    {
+      "id": "b01c",
+      "chave": "buttonmenu__dontleaveseries",
+      "hash_es": "bb9dbb406dcbd524",
+      "texto_ptbr": "Cancelar",
+      "lote": "502"
+    },
+    {
+      "id": "0407",
+      "chave": "buttonmenu__download",
+      "hash_es": "ed3d9c907370d711",
+      "texto_ptbr": "Baixar",
+      "lote": "502"
+    },
+    {
+      "id": "0644",
+      "chave": "buttonmenu__drop",
+      "hash_es": "115c1c9ae9a6ec0e",
+      "texto_ptbr": "Soltar",
+      "lote": "502"
+    },
+    {
+      "id": "88d5",
+      "chave": "buttonmenu__editvehicle",
+      "hash_es": "4d40203f4d03d2be",
+      "texto_ptbr": "Tunar",
+      "lote": "502"
+    },
+    {
+      "id": "ca14",
+      "chave": "buttonmenu__enter_blue",
+      "hash_es": "496f8537b4437c59",
+      "texto_ptbr": "Projetos",
+      "lote": "502"
+    },
+    {
+      "id": "6b7b",
+      "chave": "buttonmenu__enter_paints",
+      "hash_es": "c6b616cdd5b1e937",
+      "texto_ptbr": "Loja de Tintas",
+      "lote": "502"
+    },
+    {
+      "id": "5116",
+      "chave": "buttonmenu__enter_parts",
+      "hash_es": "6033bf4bacc31740",
+      "texto_ptbr": "Loja de Peças",
+      "lote": "502"
+    },
+    {
+      "id": "5359",
+      "chave": "buttonmenu__enterpickup",
+      "hash_es": "77a3f484cfcf3e9f",
+      "texto_ptbr": "Entrar na picape",
+      "lote": "502"
+    },
+    {
+      "id": "43bf",
+      "chave": "buttonmenu__enterportal",
+      "hash_es": "0b51f0767531b8ee",
+      "texto_ptbr": "Entrar no mundo",
+      "lote": "502"
+    },
+    {
+      "id": "e71f",
+      "chave": "buttonmenu__enterportalmumbo",
+      "hash_es": "22c44084f2f36ba1",
+      "texto_ptbr": "Ir aos Motores do Mumbo",
+      "lote": "502"
+    },
+    {
+      "id": "15ea",
+      "chave": "buttonmenu__enterportalsdt",
+      "hash_es": "ebfaf038d77ac683",
+      "texto_ptbr": "Showdown Town",
+      "lote": "518"
+    },
+    {
+      "id": "ab69",
+      "chave": "buttonmenu__exit",
+      "hash_es": "0d68593bc2152c0e",
+      "texto_ptbr": "Fim da edição",
+      "lote": "502"
+    },
+    {
+      "id": "f60f",
+      "chave": "buttonmenu__exit_garage",
+      "hash_es": "839a9ffec15722a2",
+      "texto_ptbr": "Sair da garagem",
+      "lote": "502"
+    },
+    {
+      "id": "0010",
+      "chave": "buttonmenu__exiteditor",
+      "hash_es": "93fffbf7ce799f33",
+      "texto_ptbr": "Sair",
+      "lote": "502"
+    },
+    {
+      "id": "f915",
+      "chave": "buttonmenu__fire",
+      "hash_es": "fd035357b83dd14f",
+      "texto_ptbr": "Disparar",
+      "lote": "502"
+    },
+    {
+      "id": "04ba",
+      "chave": "buttonmenu__flip",
+      "hash_es": "b9ee04f35dd9ced8",
+      "texto_ptbr": "Inverter",
+      "lote": "502"
+    },
+    {
+      "id": "5f9a",
+      "chave": "buttonmenu__freecamera",
+      "hash_es": "293c7fb2b179a540",
+      "texto_ptbr": "Câmera livre",
+      "lote": "502"
+    },
+    {
+      "id": "d173",
+      "chave": "buttonmenu__fromclipboard",
+      "hash_es": "2904b9b8b3844419",
+      "texto_ptbr": "Da área de transf.",
+      "lote": "502"
+    },
+    {
+      "id": "f396",
+      "chave": "buttonmenu__garage",
+      "hash_es": "bc1767d0530e2c4c",
+      "texto_ptbr": "Garagem",
+      "lote": "502"
+    },
+    {
+      "id": "502b",
+      "chave": "buttonmenu__garagemenu",
+      "hash_es": "dc52a394a7f92fc1",
+      "texto_ptbr": "Arcos da garagem",
+      "lote": "502"
+    },
+    {
+      "id": "0c26",
+      "chave": "buttonmenu__getin",
+      "hash_es": "4105811890aee724",
+      "texto_ptbr": "Entrar",
+      "lote": "502"
+    },
+    {
+      "id": "abc7",
+      "chave": "buttonmenu__getout",
+      "hash_es": "93fffbf7ce799f33",
+      "texto_ptbr": "Sair",
+      "lote": "502"
+    },
+    {
+      "id": "52a5",
+      "chave": "buttonmenu__go",
+      "hash_es": "850dd45373184c65",
+      "texto_ptbr": "Vai!",
+      "lote": "502"
+    },
+    {
+      "id": "7605",
+      "chave": "buttonmenu__gotest",
+      "hash_es": "d07475ee599f5a50",
+      "texto_ptbr": "Testar!",
+      "lote": "502"
+    },
+    {
+      "id": "9cef",
+      "chave": "buttonmenu__handbrake",
+      "hash_es": "8eb3d0800df098fe",
+      "texto_ptbr": "Freio de mão",
+      "lote": "502"
+    },
+    {
+      "id": "a873",
+      "chave": "buttonmenu__hover",
+      "hash_es": "460607ab1e1c430c",
+      "texto_ptbr": "Pairar",
+      "lote": "502"
+    },
+    {
+      "id": "b1fb",
+      "chave": "buttonmenu__info",
+      "hash_es": "7263ec8c2d08c2c0",
+      "texto_ptbr": "Informações",
+      "lote": "502"
+    },
+    {
+      "id": "d099",
+      "chave": "buttonmenu__joingame",
+      "hash_es": "3b4ec622d162c586",
+      "texto_ptbr": "Entrar",
+      "lote": "502"
+    },
+    {
+      "id": "5d0b",
+      "chave": "buttonmenu__jump",
+      "hash_es": "ecebe9dfe1aa99e5",
+      "texto_ptbr": "Pular",
+      "lote": "502"
+    },
+    {
+      "id": "3dc4",
+      "chave": "buttonmenu__layerdown",
+      "hash_es": "5ccb3781c6faa89f",
+      "texto_ptbr": "Descer camada",
+      "lote": "502"
+    },
+    {
+      "id": "a471",
+      "chave": "buttonmenu__layerup",
+      "hash_es": "b245da40236ddbfb",
+      "texto_ptbr": "Subir camada",
+      "lote": "502"
+    },
+    {
+      "id": "efdd",
+      "chave": "buttonmenu__leaderboard_attach_cancel",
+      "hash_es": "1ea442a134b2a184",
+      "texto_ptbr": "Não",
+      "lote": "502"
+    },
+    {
+      "id": "57b1",
+      "chave": "buttonmenu__leaderboard_attach_ok",
+      "hash_es": "739215889580345e",
+      "texto_ptbr": "Sim",
+      "lote": "502"
+    },
+    {
+      "id": "0f5a",
+      "chave": "buttonmenu__leaderboard_upload_completeok",
+      "hash_es": "640d6761c178f2ad",
+      "texto_ptbr": "OK",
+      "lote": "502"
+    },
+    {
+      "id": "59f4",
+      "chave": "buttonmenu__leaderboardfilter_friends",
+      "hash_es": "870608f492f04e34",
+      "texto_ptbr": "Placar de amigos",
+      "lote": "502"
+    },
+    {
+      "id": "a196",
+      "chave": "buttonmenu__leaderboardfilter_player",
+      "hash_es": "7ec646b6fe6c6959",
+      "texto_ptbr": "Sua posição",
+      "lote": "502"
+    },
+    {
+      "id": "ac9c",
+      "chave": "buttonmenu__leaderboardfilter_top",
+      "hash_es": "b0e71be0c09c2ab2",
+      "texto_ptbr": "Melhores jogadores",
+      "lote": "502"
+    },
+    {
+      "id": "0f93",
+      "chave": "buttonmenu__leavempgame",
+      "hash_es": "2a9baf5c3825064d",
+      "texto_ptbr": "Sair",
+      "lote": "502"
+    },
+    {
+      "id": "fe14",
+      "chave": "buttonmenu__leavemultiplayer",
+      "hash_es": "2a9baf5c3825064d",
+      "texto_ptbr": "Sair",
+      "lote": "502"
+    },
+    {
+      "id": "1f07",
+      "chave": "buttonmenu__leaveseries",
+      "hash_es": "9cb9cc7bfc267bfa",
+      "texto_ptbr": "Abandonar liga",
+      "lote": "502"
+    },
+    {
+      "id": "3c26",
+      "chave": "buttonmenu__loadobject",
+      "hash_es": "6da0762a59cb77e2",
+      "texto_ptbr": "Carregar objeto",
+      "lote": "502"
+    },
+    {
+      "id": "115c",
+      "chave": "buttonmenu__modifymode",
+      "hash_es": "c749b77ffdb13fe1",
+      "texto_ptbr": "Modificar veículo",
+      "lote": "502"
+    },
+    {
+      "id": "afd9",
+      "chave": "buttonmenu__movetoclipboard",
+      "hash_es": "e32a75cd8064e51b",
+      "texto_ptbr": "Mover p/ área de transf.",
+      "lote": "502"
+    },
+    {
+      "id": "13c2",
+      "chave": "buttonmenu__mpfrontend_SeriesSaveLoadNo",
+      "hash_es": "1ea442a134b2a184",
+      "texto_ptbr": "Não",
+      "lote": "502"
+    },
+    {
+      "id": "b9f6",
+      "chave": "buttonmenu__mpfrontend_SeriesSaveLoadYes",
+      "hash_es": "739215889580345e",
+      "texto_ptbr": "Sim",
+      "lote": "502"
+    },
+    {
+      "id": "7ebc",
+      "chave": "buttonmenu__mpfrontend_back",
+      "hash_es": "f9618693ab0e05f9",
+      "texto_ptbr": "Voltar",
+      "lote": "502"
+    },
+    {
+      "id": "bcf4",
+      "chave": "buttonmenu__mpfrontend_backout",
+      "hash_es": "f9618693ab0e05f9",
+      "texto_ptbr": "Voltar",
+      "lote": "502"
+    },
+    {
+      "id": "bbdf",
+      "chave": "buttonmenu__mpfrontend_boot",
+      "hash_es": "662c2b754f5de9a2",
+      "texto_ptbr": "Expulsar jogador",
+      "lote": "502"
+    },
+    {
+      "id": "aa98",
+      "chave": "buttonmenu__mpfrontend_changeteam",
+      "hash_es": "0cf8a85468a4fcf2",
+      "texto_ptbr": "Trocar equipe",
+      "lote": "502"
+    },
+    {
+      "id": "3171",
+      "chave": "buttonmenu__mpfrontend_edit",
+      "hash_es": "2eba946b2e1ee4b6",
+      "texto_ptbr": "Editar",
+      "lote": "502"
+    },
+    {
+      "id": "8685",
+      "chave": "buttonmenu__mpfrontend_exit",
+      "hash_es": "1e9c027c8f80a394",
+      "texto_ptbr": "Menu principal",
+      "lote": "502"
+    },
+    {
+      "id": "1db1",
+      "chave": "buttonmenu__mpfrontend_gameinfo",
+      "hash_es": "9469bd874d6279d9",
+      "texto_ptbr": "Ver informações do jogo",
+      "lote": "502"
+    },
+    {
+      "id": "93b1",
+      "chave": "buttonmenu__mpfrontend_gamercard",
+      "hash_es": "53b91c7aa9646127",
+      "texto_ptbr": "Mostrar gamercard",
+      "lote": "502"
+    },
+    {
+      "id": "9739",
+      "chave": "buttonmenu__mpfrontend_gototesttrack",
+      "hash_es": "e7f630f5c649fac4",
+      "texto_ptbr": "Test-O-Track",
+      "lote": "518"
+    },
+    {
+      "id": "eaba",
+      "chave": "buttonmenu__mpfrontend_invite",
+      "hash_es": "64bc143a91801882",
+      "texto_ptbr": "Enviar convite de jogo",
+      "lote": "502"
+    },
+    {
+      "id": "1e1b",
+      "chave": "buttonmenu__mpfrontend_join",
+      "hash_es": "cf6e7aba163accf2",
+      "texto_ptbr": "Unir-se ao amigo",
+      "lote": "502"
+    },
+    {
+      "id": "e2a8",
+      "chave": "buttonmenu__mpfrontend_leaveparty",
+      "hash_es": "4990b3bc9fdbd256",
+      "texto_ptbr": "Sair do grupo",
+      "lote": "502"
+    },
+    {
+      "id": "f6cf",
+      "chave": "buttonmenu__mpfrontend_loading_showgameinfo",
+      "hash_es": "e75f24b9884022f1",
+      "texto_ptbr": "Mostrar informações do jogo",
+      "lote": "502"
+    },
+    {
+      "id": "2c63",
+      "chave": "buttonmenu__mpfrontend_loading_showseriesscores",
+      "hash_es": "ec855373e7653861",
+      "texto_ptbr": "Mostrar pontuação da liga",
+      "lote": "502"
+    },
+    {
+      "id": "3289",
+      "chave": "buttonmenu__mpfrontend_lockblueprint",
+      "hash_es": "fc12f2154954dcb0",
+      "texto_ptbr": "Bloquear projeto",
+      "lote": "502"
+    },
+    {
+      "id": "0024",
+      "chave": "buttonmenu__mpfrontend_lockparty",
+      "hash_es": "952cb5f7dc7f8c30",
+      "texto_ptbr": "Bloquear grupo",
+      "lote": "502"
+    },
+    {
+      "id": "de26",
+      "chave": "buttonmenu__mpfrontend_mute",
+      "hash_es": "a19c990cc5fbb8e0",
+      "texto_ptbr": "Silenciar jogador",
+      "lote": "502"
+    },
+    {
+      "id": "b7a8",
+      "chave": "buttonmenu__mpfrontend_no",
+      "hash_es": "1ea442a134b2a184",
+      "texto_ptbr": "Não",
+      "lote": "502"
+    },
+    {
+      "id": "9900",
+      "chave": "buttonmenu__mpfrontend_partyup",
+      "hash_es": "e44e8945c32c4a2b",
+      "texto_ptbr": "Agrupar-se",
+      "lote": "502"
+    },
+    {
+      "id": "36fd",
+      "chave": "buttonmenu__mpfrontend_playerfeedback",
+      "hash_es": "7263ec8c2d08c2c0",
+      "texto_ptbr": "Feedback",
+      "lote": "502"
+    },
+    {
+      "id": "40d3",
+      "chave": "buttonmenu__mpfrontend_removegame",
+      "hash_es": "269f79ce7bda8945",
+      "texto_ptbr": "Remover partida",
+      "lote": "502"
+    },
+    {
+      "id": "538e",
+      "chave": "buttonmenu__mpfrontend_reset",
+      "hash_es": "3e927fa966b62a13",
+      "texto_ptbr": "Restaurar padrões",
+      "lote": "502"
+    },
+    {
+      "id": "a487",
+      "chave": "buttonmenu__mpfrontend_savereplay",
+      "hash_es": "6c87b1ba612fa99c",
+      "texto_ptbr": "Salvar repetição",
+      "lote": "502"
+    },
+    {
+      "id": "158b",
+      "chave": "buttonmenu__mpfrontend_select",
+      "hash_es": "4ecba858ccb80bc3",
+      "texto_ptbr": "Selecionar",
+      "lote": "502"
+    },
+    {
+      "id": "2d41",
+      "chave": "buttonmenu__mpfrontend_shortgamercard",
+      "hash_es": "53b91c7aa9646127",
+      "texto_ptbr": "Gamercard",
+      "lote": "502"
+    },
+    {
+      "id": "f817",
+      "chave": "buttonmenu__mpfrontend_showfriends",
+      "hash_es": "70d654f0172e352d",
+      "texto_ptbr": "Ver lista de amigos",
+      "lote": "502"
+    },
+    {
+      "id": "d821",
+      "chave": "buttonmenu__mpfrontend_showmenu",
+      "hash_es": "750fcfba357d2ff5",
+      "texto_ptbr": "Mostrar menu",
+      "lote": "502"
+    },
+    {
+      "id": "059c",
+      "chave": "buttonmenu__mpfrontend_showparty",
+      "hash_es": "f56b8daac58ef947",
+      "texto_ptbr": "Ver lista do grupo",
+      "lote": "502"
+    },
+    {
+      "id": "f4da",
+      "chave": "buttonmenu__mpfrontend_showraces",
+      "hash_es": "6829a3f757290d22",
+      "texto_ptbr": "Ver corridas",
+      "lote": "502"
+    },
+    {
+      "id": "f4b7",
+      "chave": "buttonmenu__mpfrontend_showsports",
+      "hash_es": "c3592cda8da9be2a",
+      "texto_ptbr": "Ver esportes",
+      "lote": "502"
+    },
+    {
+      "id": "5ad9",
+      "chave": "buttonmenu__mpfrontend_start",
+      "hash_es": "b39b9114ac90dce4",
+      "texto_ptbr": "Iniciar",
+      "lote": "502"
+    },
+    {
+      "id": "d5ac",
+      "chave": "buttonmenu__mpfrontend_unlockblueprint",
+      "hash_es": "74bfa026b1a714c9",
+      "texto_ptbr": "Desbloquear projeto",
+      "lote": "502"
+    },
+    {
+      "id": "89c7",
+      "chave": "buttonmenu__mpfrontend_unlockparty",
+      "hash_es": "7fee7a5d0af781c1",
+      "texto_ptbr": "Desbloquear grupo",
+      "lote": "502"
+    },
+    {
+      "id": "15e9",
+      "chave": "buttonmenu__mpfrontend_unmute",
+      "hash_es": "29cc60ab591f4054",
+      "texto_ptbr": "Ativar voz do jogador",
+      "lote": "502"
+    },
+    {
+      "id": "5512",
+      "chave": "buttonmenu__mpfrontend_viewoptions",
+      "hash_es": "45c155d89290cff0",
+      "texto_ptbr": "Ver opções do anfitrião",
+      "lote": "502"
+    },
+    {
+      "id": "da9c",
+      "chave": "buttonmenu__mpfrontend_yes",
+      "hash_es": "739215889580345e",
+      "texto_ptbr": "Sim",
+      "lote": "502"
+    },
+    {
+      "id": "c999",
+      "chave": "buttonmenu__mpresults_continuein",
+      "hash_es": "0bde3cb1af6d5c15",
+      "texto_ptbr": "Continuando em %d ...",
+      "lote": "502"
+    },
+    {
+      "id": "e99b",
+      "chave": "buttonmenu__networktype",
+      "hash_es": "f68e02e9fde065c8",
+      "texto_ptbr": "Alterar rede",
+      "lote": "502"
+    },
+    {
+      "id": "e801",
+      "chave": "buttonmenu__nodontcancelgame",
+      "hash_es": "1ea442a134b2a184",
+      "texto_ptbr": "Não",
+      "lote": "502"
+    },
+    {
+      "id": "6769",
+      "chave": "buttonmenu__nodontjoinfriend",
+      "hash_es": "1ea442a134b2a184",
+      "texto_ptbr": "Não",
+      "lote": "502"
+    },
+    {
+      "id": "53e4",
+      "chave": "buttonmenu__nodonttakepartywithme",
+      "hash_es": "1ea442a134b2a184",
+      "texto_ptbr": "Não",
+      "lote": "502"
+    },
+    {
+      "id": "53a9",
+      "chave": "buttonmenu__ok",
+      "hash_es": "640d6761c178f2ad",
+      "texto_ptbr": "OK",
+      "lote": "502"
+    },
+    {
+      "id": "657b",
+      "chave": "buttonmenu__options",
+      "hash_es": "81db3b5709d0ba95",
+      "texto_ptbr": "Opções",
+      "lote": "502"
+    },
+    {
+      "id": "890b",
+      "chave": "buttonmenu__paint",
+      "hash_es": "0e4f5ddd5cbf5feb",
+      "texto_ptbr": "Pintar",
+      "lote": "502"
+    },
+    {
+      "id": "9c24",
+      "chave": "buttonmenu__paintall",
+      "hash_es": "fbed1cff923a127c",
+      "texto_ptbr": "Pintar tudo",
+      "lote": "502"
+    },
+    {
+      "id": "48ad",
+      "chave": "buttonmenu__paintsingle",
+      "hash_es": "8512185214bc4a8d",
+      "texto_ptbr": "Pintar individual",
+      "lote": "502"
+    },
+    {
+      "id": "081d",
+      "chave": "buttonmenu__paybribe",
+      "hash_es": "19723702c778768e",
+      "texto_ptbr": "Subornar a polícia",
+      "lote": "502"
+    },
+    {
+      "id": "17fb",
+      "chave": "buttonmenu__pickup",
+      "hash_es": "ff3ca27f7346f0fb",
+      "texto_ptbr": "Pegar",
+      "lote": "502"
+    },
+    {
+      "id": "a08c",
+      "chave": "buttonmenu__profanelanguageconfirm",
+      "hash_es": "640d6761c178f2ad",
+      "texto_ptbr": "OK",
+      "lote": "502"
+    },
+    {
+      "id": "4813",
+      "chave": "buttonmenu__quickfix",
+      "hash_es": "d2a12f8a91d0bbff",
+      "texto_ptbr": "Conserto rápido",
+      "lote": "502"
+    },
+    {
+      "id": "6ca5",
+      "chave": "buttonmenu__quit_tutorial",
+      "hash_es": "39a8920865cfde6e",
+      "texto_ptbr": "Sair do tutorial",
+      "lote": "502"
+    },
+    {
+      "id": "dd95",
+      "chave": "buttonmenu__quitchallenge",
+      "hash_es": "2a9baf5c3825064d",
+      "texto_ptbr": "Amarelar",
+      "lote": "502"
+    },
+    {
+      "id": "0253",
+      "chave": "buttonmenu__racecamera",
+      "hash_es": "1953f5b68c043456",
+      "texto_ptbr": "Câmera de corrida",
+      "lote": "502"
+    },
+    {
+      "id": "6bdb",
+      "chave": "buttonmenu__rate",
+      "hash_es": "517c9b124548639b",
+      "texto_ptbr": "Avaliar",
+      "lote": "502"
+    },
+    {
+      "id": "941d",
+      "chave": "buttonmenu__remove",
+      "hash_es": "f039f4a8c9759318",
+      "texto_ptbr": "Remover",
+      "lote": "502"
+    },
+    {
+      "id": "cb56",
+      "chave": "buttonmenu__removeassignment",
+      "hash_es": "639ddb6feeadbb3d",
+      "texto_ptbr": "Remover atribuição",
+      "lote": "502"
+    },
+    {
+      "id": "e3c7",
+      "chave": "buttonmenu__rename",
+      "hash_es": "c89723ac88fde6bf",
+      "texto_ptbr": "Renomear",
+      "lote": "502"
+    },
+    {
+      "id": "29dc",
+      "chave": "buttonmenu__replay",
+      "hash_es": "f2c1b1b82ba0fa07",
+      "texto_ptbr": "Ver repetição",
+      "lote": "502"
+    },
+    {
+      "id": "dd07",
+      "chave": "buttonmenu__replay_overwrite_cancel",
+      "hash_es": "1ea442a134b2a184",
+      "texto_ptbr": "Não",
+      "lote": "502"
+    },
+    {
+      "id": "6e0f",
+      "chave": "buttonmenu__replay_overwrite_confirm",
+      "hash_es": "739215889580345e",
+      "texto_ptbr": "Sim",
+      "lote": "502"
+    },
+    {
+      "id": "1521",
+      "chave": "buttonmenu__replay_repeat_cancel",
+      "hash_es": "1ea442a134b2a184",
+      "texto_ptbr": "Não",
+      "lote": "502"
+    },
+    {
+      "id": "a969",
+      "chave": "buttonmenu__replay_repeat_confirm",
+      "hash_es": "739215889580345e",
+      "texto_ptbr": "Sim",
+      "lote": "502"
+    },
+    {
+      "id": "2ee3",
+      "chave": "buttonmenu__replay_saving_done_button",
+      "hash_es": "640d6761c178f2ad",
+      "texto_ptbr": "OK",
+      "lote": "502"
+    },
+    {
+      "id": "f050",
+      "chave": "buttonmenu__replay_saving_full_button",
+      "hash_es": "640d6761c178f2ad",
+      "texto_ptbr": "OK",
+      "lote": "502"
+    },
+    {
+      "id": "9624",
+      "chave": "buttonmenu__reportasoffensive",
+      "hash_es": "dff864353849aeb4",
+      "texto_ptbr": "Denunciar como ofensivo",
+      "lote": "502"
+    },
+    {
+      "id": "7cda",
+      "chave": "buttonmenu__resumegame",
+      "hash_es": "b55dfb88a4adacfa",
+      "texto_ptbr": "Voltar ao jogo",
+      "lote": "502"
+    },
+    {
+      "id": "83cf",
+      "chave": "buttonmenu__return",
+      "hash_es": "c2b8fa73ba68a7a9",
+      "texto_ptbr": "Voltar à edição",
+      "lote": "502"
+    },
+    {
+      "id": "8a97",
+      "chave": "buttonmenu__return_to_garage",
+      "hash_es": "9f8d17cddc2a52db",
+      "texto_ptbr": "Voltar à garagem",
+      "lote": "502"
+    },
+    {
+      "id": "1ab9",
+      "chave": "buttonmenu__returnparts",
+      "hash_es": "6c9beb79f6b997e4",
+      "texto_ptbr": "Devolver peça",
+      "lote": "502"
+    },
+    {
+      "id": "23fe",
+      "chave": "buttonmenu__rotate",
+      "hash_es": "5022fa4194128d87",
+      "texto_ptbr": "Girar",
+      "lote": "502"
+    },
+    {
+      "id": "f977",
+      "chave": "buttonmenu__rotatedecal",
+      "hash_es": "4f9a613c60a6ecfd",
+      "texto_ptbr": "Girar decalque",
+      "lote": "502"
+    },
+    {
+      "id": "f87e",
+      "chave": "buttonmenu__save",
+      "hash_es": "13e51a210f45ed1b",
+      "texto_ptbr": "Salvar",
+      "lote": "502"
+    },
+    {
+      "id": "7ccc",
+      "chave": "buttonmenu__saveinmyalbum",
+      "hash_es": "b4e3d7b8bc11ea62",
+      "texto_ptbr": "Salvar no meu álbum",
+      "lote": "502"
+    },
+    {
+      "id": "036f",
+      "chave": "buttonmenu__select",
+      "hash_es": "4ecba858ccb80bc3",
+      "texto_ptbr": "Selecionar",
+      "lote": "502"
+    },
+    {
+      "id": "d07e",
+      "chave": "buttonmenu__selectwarppad",
+      "hash_es": "4ecba858ccb80bc3",
+      "texto_ptbr": "Selecionar",
+      "lote": "502"
+    },
+    {
+      "id": "0879",
+      "chave": "buttonmenu__send",
+      "hash_es": "1d8c5d772ceed560",
+      "texto_ptbr": "Enviar a um amigo",
+      "lote": "502"
+    },
+    {
+      "id": "6625",
+      "chave": "buttonmenu__showclusters",
+      "hash_es": "df1fad43c4c5f637",
+      "texto_ptbr": "Ver grupos",
+      "lote": "502"
+    },
+    {
+      "id": "2166",
+      "chave": "buttonmenu__skip",
+      "hash_es": "ecebe9dfe1aa99e5",
+      "texto_ptbr": "Pular",
+      "lote": "502"
+    },
+    {
+      "id": "8a24",
+      "chave": "buttonmenu__skip_to_workshop",
+      "hash_es": "2818219d4db49f9f",
+      "texto_ptbr": "Oficina",
+      "lote": "502"
+    },
+    {
+      "id": "9f29",
+      "chave": "buttonmenu__smokeoff",
+      "hash_es": "59c35bb8a9d19519",
+      "texto_ptbr": "Fumaça desligada",
+      "lote": "502"
+    },
+    {
+      "id": "526b",
+      "chave": "buttonmenu__smokeon",
+      "hash_es": "f995edbc3a423cd5",
+      "texto_ptbr": "Fumaça ligada",
+      "lote": "502"
+    },
+    {
+      "id": "a446",
+      "chave": "buttonmenu__smokeonoff",
+      "hash_es": "14838397270f551b",
+      "texto_ptbr": "Rastro de fumaça",
+      "lote": "502"
+    },
+    {
+      "id": "2bd7",
+      "chave": "buttonmenu__squirt",
+      "hash_es": "885360c51b105da1",
+      "texto_ptbr": "Esguichar",
+      "lote": "502"
+    },
+    {
+      "id": "0395",
+      "chave": "buttonmenu__startchal",
+      "hash_es": "a6370ada401dc8ec",
+      "texto_ptbr": "Iniciar desafio",
+      "lote": "502"
+    },
+    {
+      "id": "9011",
+      "chave": "buttonmenu__stoppaint",
+      "hash_es": "ea94788ac3fa29c0",
+      "texto_ptbr": "Parar de pintar",
+      "lote": "502"
+    },
+    {
+      "id": "fd56",
+      "chave": "buttonmenu__swapwithclipboard",
+      "hash_es": "d31628e29b258868",
+      "texto_ptbr": "Trocar área de transf.",
+      "lote": "502"
+    },
+    {
+      "id": "546f",
+      "chave": "buttonmenu__swim",
+      "hash_es": "36a9f15b41a3504f",
+      "texto_ptbr": "Nadar",
+      "lote": "502"
+    },
+    {
+      "id": "839b",
+      "chave": "buttonmenu__talk",
+      "hash_es": "6b15fb83131d34b1",
+      "texto_ptbr": "Falar",
+      "lote": "502"
+    },
+    {
+      "id": "61e7",
+      "chave": "buttonmenu__toggledisplay",
+      "hash_es": "6388939b12c2487b",
+      "texto_ptbr": "Alternar visão",
+      "lote": "502"
+    },
+    {
+      "id": "c52a",
+      "chave": "buttonmenu__toggleoption",
+      "hash_es": "3f1f50d680eadb97",
+      "texto_ptbr": "Alternar opção",
+      "lote": "502"
+    },
+    {
+      "id": "4dc6",
+      "chave": "buttonmenu__togglepaintall",
+      "hash_es": "4ff402d768211082",
+      "texto_ptbr": "Tudo",
+      "lote": "502"
+    },
+    {
+      "id": "09b8",
+      "chave": "buttonmenu__togglepaintblock",
+      "hash_es": "010dd7b94f5f3d31",
+      "texto_ptbr": "Individual",
+      "lote": "502"
+    },
+    {
+      "id": "4645",
+      "chave": "buttonmenu__undo",
+      "hash_es": "29fa864fd744397e",
+      "texto_ptbr": "Desfazer",
+      "lote": "502"
+    },
+    {
+      "id": "6e82",
+      "chave": "buttonmenu__unhitch",
+      "hash_es": "27c347d801a31132",
+      "texto_ptbr": "Desengatar",
+      "lote": "502"
+    },
+    {
+      "id": "8c74",
+      "chave": "buttonmenu__upload",
+      "hash_es": "7214d0203007a500",
+      "texto_ptbr": "Enviar",
+      "lote": "502"
+    },
+    {
+      "id": "dd39",
+      "chave": "buttonmenu__uploadrating",
+      "hash_es": "a5bc2d68a5af8191",
+      "texto_ptbr": "Enviar avaliação",
+      "lote": "502"
+    },
+    {
+      "id": "b82b",
+      "chave": "buttonmenu__usewarppad",
+      "hash_es": "caf71c552e3c76d1",
+      "texto_ptbr": "Teletransportar",
+      "lote": "502"
+    },
+    {
+      "id": "bd8a",
+      "chave": "buttonmenu__view",
+      "hash_es": "20ab386d12d982bd",
+      "texto_ptbr": "Ver",
+      "lote": "502"
+    },
+    {
+      "id": "5e9d",
+      "chave": "buttonmenu__winchattach",
+      "hash_es": "9536d53c4922de14",
+      "texto_ptbr": "Prender",
+      "lote": "502"
+    },
+    {
+      "id": "68f1",
+      "chave": "buttonmenu__winchdetach",
+      "hash_es": "02046244a04f6654",
+      "texto_ptbr": "Soltar",
+      "lote": "502"
+    },
+    {
+      "id": "d8c6",
+      "chave": "buttonmenu__winchfireout",
+      "hash_es": "2c59e1d4be35365f",
+      "texto_ptbr": "Lançar guincho",
+      "lote": "502"
+    },
+    {
+      "id": "335f",
+      "chave": "buttonmenu__winchin",
+      "hash_es": "0fe28818d828d75d",
+      "texto_ptbr": "Recolher",
+      "lote": "502"
+    },
+    {
+      "id": "637d",
+      "chave": "buttonmenu__winchpullout",
+      "hash_es": "b33fb457425ab4b0",
+      "texto_ptbr": "Estender",
+      "lote": "502"
+    },
+    {
+      "id": "9f93",
+      "chave": "buttonmenu__wrenchit",
+      "hash_es": "cbbf1f069eb511e2",
+      "texto_ptbr": "Apertar!",
+      "lote": "502"
+    },
+    {
+      "id": "f280",
+      "chave": "buttonmenu__yaw",
+      "hash_es": "44b3f5569624ba66",
+      "texto_ptbr": "Virar",
+      "lote": "502"
+    },
+    {
+      "id": "1f80",
+      "chave": "buttonmenu__yescancelgame",
+      "hash_es": "739215889580345e",
+      "texto_ptbr": "Sim",
+      "lote": "502"
+    },
+    {
+      "id": "9ee8",
+      "chave": "buttonmenu__yesjoinfriend",
+      "hash_es": "739215889580345e",
+      "texto_ptbr": "Sim",
+      "lote": "502"
+    },
+    {
+      "id": "12c3",
+      "chave": "buttonmenu__yestakepartywithme",
+      "hash_es": "739215889580345e",
+      "texto_ptbr": "Sim",
+      "lote": "502"
+    }
+  ]
+}

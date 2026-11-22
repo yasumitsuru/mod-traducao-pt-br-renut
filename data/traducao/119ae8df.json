@@ -1,0 +1,398 @@
+{
+  "arquivo": "119ae8df",
+  "asset": "aid_loctext_banjox_terrorium_actww",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "6c130f500f682513",
+      "texto_ptbr": "{MOODHAPPY}Voltou para reacender a magia de detonar bandidos, marujo?",
+      "lote": "601"
+    },
+    {
+      "id": "9744",
+      "chave": "dialog__game1_intro",
+      "hash_es": "1f417f678e3b67d6",
+      "texto_ptbr": "{MOODSAD}Temos bandidos espaciais chegando, Banjo! O Capitão Flash McBlubber não tem tanta certeza de que gosta desse lado de ser um Herói Espacial de Elite...",
+      "lote": "601"
+    },
+    {
+      "id": "396b",
+      "chave": "dialog__game1_lose",
+      "hash_es": "f4d2da9c7faa4994",
+      "texto_ptbr": "{MOODSAD}Arrr! Não conseguimos detê-los... a equipe de pesquisa não vai gostar. É uma vergonha você ser um escudeiro tão lamentável!",
+      "lote": "601"
+    },
+    {
+      "id": "4127",
+      "chave": "dialog__game1_objectivesa",
+      "hash_es": "b3d5fbff728601de",
+      "texto_ptbr": "{MOODSAD}A Grunty está trazendo os Irmãos Bola, os bandidos mais cruéis de toda a terra dos videogames, para destruir o Terrarium!",
+      "lote": "601"
+    },
+    {
+      "id": "4128",
+      "chave": "dialog__game1_objectivesb",
+      "hash_es": "da066da861c9fa44",
+      "texto_ptbr": "Então por que você não vai cuidar deles, Capitão?",
+      "lote": "601"
+    },
+    {
+      "id": "4129",
+      "chave": "dialog__game1_objectivesc",
+      "hash_es": "4103e84b54cc6003",
+      "texto_ptbr": "Arrr, este é um trabalho para dois. Você pode ser meu heroico escudeiro! Se conseguir levá-los para perto da eclusa, eu os lanço no espaço!",
+      "lote": "601"
+    },
+    {
+      "id": "1938",
+      "chave": "dialog__game1_objectivesrepeat1",
+      "hash_es": "c3ae7a4d143850bd",
+      "texto_ptbr": "Atordoe, arraste, acue, faça o que funcionar, meu rapaz!",
+      "lote": "601"
+    },
+    {
+      "id": "1939",
+      "chave": "dialog__game1_objectivesrepeat2",
+      "hash_es": "38d9a344a8f83a48",
+      "texto_ptbr": "Não deixe esses patifes escaparem! A eclusa é nossa única chance!",
+      "lote": "601"
+    },
+    {
+      "id": "2767",
+      "chave": "dialog__game1_wina",
+      "hash_es": "1ad72f5cfaf73719",
+      "texto_ptbr": "{MOODHAPPY}Arrr! Não fiquem do lado errado da lei quando o Capitão Flash McBlubber e o Banjo estiverem por perto! Aproveite as recompensas, meu rapaz!",
+      "lote": "601"
+    },
+    {
+      "id": "2769",
+      "chave": "dialog__game1_winc",
+      "hash_es": "b30a203f67b1c20e",
+      "texto_ptbr": "Arrr, trabalho feito! Um belo trabalho em equipe, rapaz. Ainda dá para melhorar, mas acho que você merece esse Jiggy meu!",
+      "lote": "601"
+    },
+    {
+      "id": "276b",
+      "chave": "dialog__game1_wine",
+      "hash_es": "ea987222d4947e68",
+      "texto_ptbr": "Até que enfim pegamos eles, mas não foi exatamente uma parceria perfeita. Um pouco mais rápido da próxima vez, seu molenga!",
+      "lote": "601"
+    },
+    {
+      "id": "f828",
+      "chave": "dialog__game2_beaten",
+      "hash_es": "41136c0b24f0877e",
+      "texto_ptbr": "Não quero a sua pena, escória! Vamos começar essa corrida de novo!",
+      "lote": "601"
+    },
+    {
+      "id": "d405",
+      "chave": "dialog__game2_intro",
+      "hash_es": "945ddfc99ccfa968",
+      "texto_ptbr": "Aaah... ah, são vocês. Ei, talvez eu consiga... aaah... usar vocês, perdedores, desta vez...",
+      "lote": "601"
+    },
+    {
+      "id": "620c",
+      "chave": "dialog__game2_lose",
+      "hash_es": "a440ec2a9e3145cf",
+      "texto_ptbr": "{MOODHAPPY}Ha! O Empreendedor Milenar Libertador domina o cosmos!",
+      "lote": "601"
+    },
+    {
+      "id": "4aa8",
+      "chave": "dialog__game2_objectivesa",
+      "hash_es": "8541b94589d7d15a",
+      "texto_ptbr": "Estamos te impedindo de dormir, bafo de bacon?",
+      "lote": "601"
+    },
+    {
+      "id": "4aa9",
+      "chave": "dialog__game2_objectivesb",
+      "hash_es": "b41a445102d5d042",
+      "texto_ptbr": "Fiquei até tarde vendo reprises antigas de ficção científica. Não me canso! Velhote do Espaço, Os Onze de Flake, Batalha Imprática...",
+      "lote": "601"
+    },
+    {
+      "id": "4aaa",
+      "chave": "dialog__game2_objectivesc",
+      "hash_es": "1769b0b2db6c06c0",
+      "texto_ptbr": "Você é tão patético que sai da escala, torresmo!",
+      "lote": "601"
+    },
+    {
+      "id": "4aab",
+      "chave": "dialog__game2_objectivesd",
+      "hash_es": "bf084903405db02a",
+      "texto_ptbr": "É, Kazooie, o seu filme favorito não é &quot;Os Malvadinhos Fantasma&quot;?",
+      "lote": "601"
+    },
+    {
+      "id": "4aac",
+      "chave": "dialog__game2_objectivese",
+      "hash_es": "78465acf1500306c",
+      "texto_ptbr": "Cale a boca, Banjo! Esse não é nem metade tão vergonhoso quanto o seu. Quer que eu conte tudo?",
+      "lote": "601"
+    },
+    {
+      "id": "4aad",
+      "chave": "dialog__game2_objectivesf",
+      "hash_es": "863ad379809c8988",
+      "texto_ptbr": "Hã-hã! Então, é... Pikelet. O que você precisa de nós?",
+      "lote": "601"
+    },
+    {
+      "id": "4aae",
+      "chave": "dialog__game2_objectivesg",
+      "hash_es": "7a4a5693bb2be6de",
+      "texto_ptbr": "Preciso humilhar vocês numa corrida com minha nave-homenagem à ficção científica. Contemplem o Empreendedor Milenar Libertador!",
+      "lote": "601"
+    },
+    {
+      "id": "5008",
+      "chave": "dialog__game2_wina",
+      "hash_es": "020b45ef7cacaf6b",
+      "texto_ptbr": "{MOODSAD}Nããão! Minha obra-prima, totalmente superada! Suma com os prêmios, moleque, tenho que voltar à prancheta...",
+      "lote": "601"
+    },
+    {
+      "id": "500a",
+      "chave": "dialog__game2_winc",
+      "hash_es": "2a3e7734678d9b4e",
+      "texto_ptbr": "{MOODSAD}Eu sabia que devia ter usado o Asa-P Besouro-Trovão! Ah, cara. Você pegou o Jiggy, pega e vai embora...",
+      "lote": "601"
+    },
+    {
+      "id": "500c",
+      "chave": "dialog__game2_wine",
+      "hash_es": "aa50c22418ff4994",
+      "texto_ptbr": "Não ligo se você ganhou, foi perto o suficiente para eu me orgulhar do meu trabalho! Não tem prêmio grande numa corrida tão acirrada!",
+      "lote": "601"
+    },
+    {
+      "id": "cd09",
+      "chave": "dialog__game3_beaten",
+      "hash_es": "6d0ff663f88ca342",
+      "texto_ptbr": "Explodir bandidos espaciais nunca ser entediante. Banjo voltar para mais?",
+      "lote": "601"
+    },
+    {
+      "id": "10c6",
+      "chave": "dialog__game3_intro",
+      "hash_es": "b952fb2394ea98e7",
+      "texto_ptbr": "{MOODSAD}Grrr! Capitão McBlubber se superar desta vez. Terrarium inteiro em perigo... de novo. Humba fazer ele andar na prancha!",
+      "lote": "601"
+    },
+    {
+      "id": "8aad",
+      "chave": "dialog__game3_lose",
+      "hash_es": "50e12705b40f5e40",
+      "texto_ptbr": "{MOODSAD}Ah, não, bandidos ser demais para Banjo na segunda vez! Quem mais sobrar para salvar Terrarium?",
+      "lote": "601"
+    },
+    {
+      "id": "fac8",
+      "chave": "dialog__game3_objectives",
+      "hash_es": "00773b18f7e46ebd",
+      "texto_ptbr": "{MOODSAD}Humba voltar do curso de abraçar árvores em outro mundo e descobrir que Blubber não trancou as portas da eclusa. Bandidos espaciais voltar e fazer a maior bagunça! {PAGEBREAK}Banjo cuidar dos bandidos da última vez, achar que ele consegue de novo?",
+      "lote": "601"
+    },
+    {
+      "id": "e5ba",
+      "chave": "dialog__game3_objectivesrepeat1",
+      "hash_es": "750a31ed68dcc11e",
+      "texto_ptbr": "Bandidos querer pegar Banjo depois da última vez! Nada de se conter agora!",
+      "lote": "607"
+    },
+    {
+      "id": "e5bb",
+      "chave": "dialog__game3_objectivesrepeat2",
+      "hash_es": "d3dde5e96ecaa09e",
+      "texto_ptbr": "Chega de ursinho bonzinho, hora de detonar os bandidos de uma vez por todas!",
+      "lote": "601"
+    },
+    {
+      "id": "78a9",
+      "chave": "dialog__game3_wina",
+      "hash_es": "82a3b7217772ece9",
+      "texto_ptbr": "{MOODHAPPY}Bandidos levar mais do que orgulho ferido desta vez! Banjo dar uma lição neles e ganhar muitos prêmios por salvar o dia!",
+      "lote": "601"
+    },
+    {
+      "id": "78ab",
+      "chave": "dialog__game3_winc",
+      "hash_es": "2ed609578b19ecec",
+      "texto_ptbr": "{MOODHAPPY}Banjo se manter firme, vencer bandidos, defender Terrarium e ganhar o Jiggy da Humba. Dia de trabalho normal para urso charmoso!",
+      "lote": "601"
+    },
+    {
+      "id": "78ad",
+      "chave": "dialog__game3_wine",
+      "hash_es": "1a252a3422d9ff98",
+      "texto_ptbr": "Banjo terminar o trabalho bem a tempo. Salvar McBlubber da prancha depois de tudo, mas não esperar grande recompensa também.",
+      "lote": "601"
+    },
+    {
+      "id": "a1ea",
+      "chave": "dialog__game4_beaten",
+      "hash_es": "6a5bd56fdaad2093",
+      "texto_ptbr": "Urssso ajudar de novo os amigosss sonolentosss de Klungo a ficar sssalvos?",
+      "lote": "601"
+    },
+    {
+      "id": "4d87",
+      "chave": "dialog__game4_intro",
+      "hash_es": "da4c000bed81aa02",
+      "texto_ptbr": "{MOODSAD}Urssso, venha rápido! Klungo encontrar novosss amigosss, mas eles estar em grandes problemas e nem é culpa de Klungo!",
+      "lote": "601"
+    },
+    {
+      "id": "b34e",
+      "chave": "dialog__game4_lose",
+      "hash_es": "c4808c2a529fd7c3",
+      "texto_ptbr": "{MOODSAD}Amigosss de Klungo se disssolver e Urssso só olhar! Dar vontade de Klungo virar mau de novo!",
+      "lote": "601"
+    },
+    {
+      "id": "5daa",
+      "chave": "dialog__game4_objectivesa",
+      "hash_es": "a9615046ed752827",
+      "texto_ptbr": "{MOODSAD}Klungo encontrar raros Monstros de Lama de Urano, mas Klungo entender de alienígenasss, e Monstros de Lama não dever viver na água...",
+      "lote": "601"
+    },
+    {
+      "id": "5dab",
+      "chave": "dialog__game4_objectivesb",
+      "hash_es": "6c2c2d4f9d69558a",
+      "texto_ptbr": "Monstros de Lama de Urano? Sério? Bom, acho que já ouvimos coisas menos prováveis hoje. O que vai acontecer com eles, Klungo?",
+      "lote": "601"
+    },
+    {
+      "id": "5dac",
+      "chave": "dialog__game4_objectivesc",
+      "hash_es": "81e656f090fc8781",
+      "texto_ptbr": "{MOODSAD}Monstros de Lama virar gosma se ficar presos na água muito tempo! Klungo lento e desajeitado não conseguir resgatar todosss!",
+      "lote": "601"
+    },
+    {
+      "id": "4bfb",
+      "chave": "dialog__game4_objectivesrepeat1",
+      "hash_es": "90a22e41dda93fa6",
+      "texto_ptbr": "Urssso tentar sssalvar os Monstros de Lama da água perigosssa!",
+      "lote": "601"
+    },
+    {
+      "id": "4bfc",
+      "chave": "dialog__game4_objectivesrepeat2",
+      "hash_es": "b7da171eadc55698",
+      "texto_ptbr": "Garantir que eles não voltem para a água ou vão ser desresgatadosss!",
+      "lote": "601"
+    },
+    {
+      "id": "a14a",
+      "chave": "dialog__game4_wina",
+      "hash_es": "726a33bc49112c8c",
+      "texto_ptbr": "{MOODHAPPY}Obrigadoss, urssso! Muito rápido. Uma pilha de prêmiosss é pouco pela ssssegurança dos amigosss de Klungo!",
+      "lote": "607"
+    },
+    {
+      "id": "a14c",
+      "chave": "dialog__game4_winc",
+      "hash_es": "2e9118db8042bc3d",
+      "texto_ptbr": "{MOODHAPPY}Urssso ajudar os amigosss de Klungo! Esperar que Jiggy seja prêmio bom o bastante, Klungo não ter imaginação para pensar em recompensa original.",
+      "lote": "601"
+    },
+    {
+      "id": "a14e",
+      "chave": "dialog__game4_wine",
+      "hash_es": "cc93a55c297f84d9",
+      "texto_ptbr": "Os novosss amigosss de Klungo ser mais burros que Klungo, e não têm culpa. Urssso proteger melhor ou Klungo não dar melhores prêmiosss!",
+      "lote": "601"
+    },
+    {
+      "id": "9fae",
+      "chave": "dialog__jinjopink_greeting",
+      "hash_es": "03f66d1d7c9ba625",
+      "texto_ptbr": "{MOODSAD}O ar deste lugar é assustador. É todo... fresco e tal! Sou um Jinjo da cidade, tenho certas expectativas!",
+      "lote": "601"
+    },
+    {
+      "id": "0b6c",
+      "chave": "dialog__jinjopink_lose",
+      "hash_es": "d13e149f7b3ec06c",
+      "texto_ptbr": "{MOODSAD}Aaarg! Estou preso aqui, me asfixiando com a falta de poluição!",
+      "lote": "601"
+    },
+    {
+      "id": "cec7",
+      "chave": "dialog__jinjopink_objectives",
+      "hash_es": "24b9ccf78bfdbd6f",
+      "texto_ptbr": "{MOODSAD}Preciso chegar à zona da lagoa! Ouvi dizer que lá tem um suco ótimo para tirar o gosto deste ar assustadoramente limpo.",
+      "lote": "601"
+    },
+    {
+      "id": "7427",
+      "chave": "dialog__jinjopink_win",
+      "hash_es": "b3787db34860c7d0",
+      "texto_ptbr": "{MOODHAPPY}Você salvou minha vida, ou pelo menos meu sistema respiratório destruído! Pegue isto como gorjeta!",
+      "lote": "601"
+    },
+    {
+      "id": "7f77",
+      "chave": "dialog__jinjored_greeting",
+      "hash_es": "8f5d8bb9684afba5",
+      "texto_ptbr": "{MOODHAPPY}Eu amo flores, e você? Deveríamos homenagear a beleza delas usando-as imprudentemente como pista de corrida!",
+      "lote": "601"
+    },
+    {
+      "id": "6eb5",
+      "chave": "dialog__jinjored_lose",
+      "hash_es": "798667f39056077c",
+      "texto_ptbr": "{MOODHAPPY}Obrigado, Mãe Natureza, pelo dom da supremacia nas corridas!",
+      "lote": "601"
+    },
+    {
+      "id": "c4d0",
+      "chave": "dialog__jinjored_objectives",
+      "hash_es": "180808c071f08683",
+      "texto_ptbr": "{MOODHAPPY}Vamos dar umas voltas frenéticas enquanto admiramos a grandeza ao redor! Não se preocupe, flores desse tamanho são naturalmente resistentes... eu acho.",
+      "lote": "601"
+    },
+    {
+      "id": "1250",
+      "chave": "dialog__jinjored_win",
+      "hash_es": "eddf558deac1a1a6",
+      "texto_ptbr": "{MOODSAD}Bah! Você ganhou. Mudei de ideia sobre aqueles matinhos velhos.",
+      "lote": "601"
+    },
+    {
+      "id": "e358",
+      "chave": "dialog__jinjoyellow_greeting",
+      "hash_es": "479a5c6d6dd1e295",
+      "texto_ptbr": "{MOODSAD}Perdi minha chave! Agora o mistério interminável nunca será resolvido!",
+      "lote": "601"
+    },
+    {
+      "id": "0a16",
+      "chave": "dialog__jinjoyellow_lose",
+      "hash_es": "70671b1957ea9ab8",
+      "texto_ptbr": "{MOODSAD}Sumiu! Então é melhor eu parar de procurar e trocar a chave por outra coisa... onde foram parar aqueles ovos esquisitos?",
+      "lote": "601"
+    },
+    {
+      "id": "a4f1",
+      "chave": "dialog__jinjoyellow_objectives",
+      "hash_es": "82b9f6fb130293b4",
+      "texto_ptbr": "{MOODSAD}Se você parar o que está fazendo e encontrar minha Chave de Gelo, eu troco por uma Ficha Jinjo! Ela estava perto daqueles alienígenas esquisitos e dorminhocos...",
+      "lote": "601"
+    },
+    {
+      "id": "4591",
+      "chave": "dialog__jinjoyellow_win",
+      "hash_es": "82ca7b7ed2d37df5",
+      "texto_ptbr": "{MOODHAPPY}Ahá! Agora posso retomar minha obsessão com o mistério inútil e frustrante da chave!",
+      "lote": "601"
+    }
+  ]
+}

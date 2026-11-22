@@ -1,0 +1,188 @@
+{
+  "arquivo": "110b3a9d",
+  "asset": "aid_loctext_banjox_terrorium_act1",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "48062f05638eb498",
+      "texto_ptbr": "Banjo subir de novo? Não existir informação demais!",
+      "lote": "601"
+    },
+    {
+      "id": "9744",
+      "chave": "dialog__game1_intro",
+      "hash_es": "4d7aec2ae0abbbf7",
+      "texto_ptbr": "Banjo bem a tempo! Humba e equipe de conservação estar aqui para pesquisar área, mas ter que planejar rota para evitar desastre ecológico!",
+      "lote": "601"
+    },
+    {
+      "id": "396b",
+      "chave": "dialog__game1_lose",
+      "hash_es": "612df554fdc86cba",
+      "texto_ptbr": "{MOODSAD}Missão de reconhecimento sem tempo! Nenhuma rota planejada, exploradores correm e pisoteiam plantas preciosas. O que plantas fizeram de errado?",
+      "lote": "601"
+    },
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "faf2fca521f92d89",
+      "texto_ptbr": "Levar veículo personalizado e amigo das plantas até o mirante designado. Visão de cima ajudar Humba a planejar expedição.",
+      "lote": "601"
+    },
+    {
+      "id": "1938",
+      "chave": "dialog__game1_objectivesrepeat1",
+      "hash_es": "7e9ab450a4197de1",
+      "texto_ptbr": "Banjo continuar! Ainda não encontrar lugar certo!",
+      "lote": "601"
+    },
+    {
+      "id": "1939",
+      "chave": "dialog__game1_objectivesrepeat2",
+      "hash_es": "880a3697a5a94443",
+      "texto_ptbr": "Banjo não se preocupar, veículo ecológico muito resistente. Provavelmente...",
+      "lote": "601"
+    },
+    {
+      "id": "2767",
+      "chave": "dialog__game1_wina",
+      "hash_es": "d6fde841d83611fc",
+      "texto_ptbr": "{MOODHAPPY}Banjo nascer para explorador! Missão rápida e minuciosa, Humba oferecer grande recompensa!",
+      "lote": "601"
+    },
+    {
+      "id": "2769",
+      "chave": "dialog__game1_winc",
+      "hash_es": "e8d7e6fb388054d4",
+      "texto_ptbr": "{MOODHAPPY}Bom trabalho, Banjo. Muita informação para Humba planejar rota segura. Esperar que Banjo gostar do Jiggy biodegradável da Humba!",
+      "lote": "601"
+    },
+    {
+      "id": "276b",
+      "chave": "dialog__game1_wine",
+      "hash_es": "c56384c95bf89585",
+      "texto_ptbr": "Banjo conseguir informação, mas não deixar muito tempo para Humba planejar rota segura. Nem tempo de dar grande recompensa!",
+      "lote": "601"
+    },
+    {
+      "id": "f828",
+      "chave": "dialog__game2_beaten",
+      "hash_es": "28fc2ad7bd6386bf",
+      "texto_ptbr": "{MOODHAPPY}Sssemente de amora flutuante crescer bem agora... provavelmente. Difícil dizer quando crescer para baixo. Urssso fazer desssafio da sssemente de novo?",
+      "lote": "601"
+    },
+    {
+      "id": "d405",
+      "chave": "dialog__game2_intro",
+      "hash_es": "5bdc60617d144c72",
+      "texto_ptbr": "{MOODHAPPY}Klungo grande herói botânico, encontrar sssemente de amora flutuante! Todo mundo pensar que estar extinta! Ter que plantar sssemente antes que sssseque...",
+      "lote": "601"
+    },
+    {
+      "id": "620c",
+      "chave": "dialog__game2_lose",
+      "hash_es": "ae57b4df12556c7f",
+      "texto_ptbr": "{MOODSAD}Urssso incompetente! Amora flutuante extinta, Klungo nunca ser herói!",
+      "lote": "601"
+    },
+    {
+      "id": "9d67",
+      "chave": "dialog__game2_objectives",
+      "hash_es": "c7a69cfd87ced379",
+      "texto_ptbr": "Lugar perfeito para plantar sssemente na lagoa, mas Klungo não rápido! Banjo levar sssemente até buraco, não deixar secar!",
+      "lote": "601"
+    },
+    {
+      "id": "7f79",
+      "chave": "dialog__game2_objectivesrepeat1",
+      "hash_es": "365a06ba80fef0d1",
+      "texto_ptbr": "Urssso manter sssemente úmida! Usar assspergosss e lagoasss!",
+      "lote": "607"
+    },
+    {
+      "id": "7f7a",
+      "chave": "dialog__game2_objectivesrepeat2",
+      "hash_es": "1644b0af4c4b1e15",
+      "texto_ptbr": "Ter que levar sssemente ao lugar certo de plantar! Rápido, urssso!",
+      "lote": "601"
+    },
+    {
+      "id": "5008",
+      "chave": "dialog__game2_wina",
+      "hash_es": "3a2cac76681e0861",
+      "texto_ptbr": "{MOODHAPPY}Amora flutuante de volta da beira da extinção! Urssso ganhar grandes recompensasss pelo ssserviço de entrega de emergência!",
+      "lote": "607"
+    },
+    {
+      "id": "500a",
+      "chave": "dialog__game2_winc",
+      "hash_es": "bb9a771d80ec96b9",
+      "texto_ptbr": "Klungo deixar sssemente em boas mãosss, recompensar urssso com Jiggy! Pena que sssemente crescer embaixo da terra, agora Klungo nunca ver ela...",
+      "lote": "601"
+    },
+    {
+      "id": "500c",
+      "chave": "dialog__game2_wine",
+      "hash_es": "7f3081e768fc611b",
+      "texto_ptbr": "Urssso imprudente, sssemente quase morrer! Ficou perto demais do limite para ganhar grande recompensa!",
+      "lote": "601"
+    },
+    {
+      "id": "4336",
+      "chave": "dialog__jinjoblue2_greeting",
+      "hash_es": "8761e9dea93f1706",
+      "texto_ptbr": "{MOODHAPPY}Já ouvi histórias sobre você, urso! Histórias da sua fúria em combate! Enfrente agora seu oponente definitivo... não, não é o chefe final, sou eu!",
+      "lote": "601"
+    },
+    {
+      "id": "2af4",
+      "chave": "dialog__jinjoblue2_lose",
+      "hash_es": "a1a9e4560299889e",
+      "texto_ptbr": "{MOODHAPPY}Era tudo exagero? Este molenga é o Banjo da lenda?",
+      "lote": "601"
+    },
+    {
+      "id": "744f",
+      "chave": "dialog__jinjoblue2_objectives",
+      "hash_es": "1346a7f5119a5df4",
+      "texto_ptbr": "{MOODHAPPY}Regras clássicas do combate Jinjo. Empurre o inimigo para fora dos limites e vença!",
+      "lote": "601"
+    },
+    {
+      "id": "c2af",
+      "chave": "dialog__jinjoblue2_win",
+      "hash_es": "2beaaa5b251cd78b",
+      "texto_ptbr": "{MOODSAD}Eu me rendo, urso! As histórias eram verdade sobre sua fúria de berserker!",
+      "lote": "601"
+    },
+    {
+      "id": "c0c4",
+      "chave": "dialog__jinjoblue_greeting",
+      "hash_es": "21777476d5fd6b3c",
+      "texto_ptbr": "{MOODHAPPY}Sinto a necessidade, a necessidade de... o que era mesmo? Ganância? Mato?",
+      "lote": "601"
+    },
+    {
+      "id": "1182",
+      "chave": "dialog__jinjoblue_lose",
+      "hash_es": "3f59c7a2beb1819c",
+      "texto_ptbr": "{MOODSAD}Você não conseguiu! Então você ganha, é... um bolinho? Um passarinho?",
+      "lote": "601"
+    },
+    {
+      "id": "8d5d",
+      "chave": "dialog__jinjoblue_objectives",
+      "hash_es": "91fea6c56deda426",
+      "texto_ptbr": "{MOODHAPPY}Velocidade! Era isso. Veja se consegue alcançar minha meta de velocidade maluca!",
+      "lote": "601"
+    },
+    {
+      "id": "0f7d",
+      "chave": "dialog__jinjoblue_win",
+      "hash_es": "df9176542e3dde4f",
+      "texto_ptbr": "{MOODHAPPY}Você conseguiu! Isso significa que você ganha um... Totem Lingo? Janela Quebrada?",
+      "lote": "601"
+    }
+  ]
+}

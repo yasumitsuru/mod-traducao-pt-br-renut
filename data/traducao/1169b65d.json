@@ -1,0 +1,1700 @@
+{
+  "arquivo": "1169b65d",
+  "asset": "aid_loctext_banjox_blocks",
+  "frases": [
+    {
+      "id": "e477",
+      "chave": "block__aerial",
+      "hash_es": "4284b9445b0fd263",
+      "texto_ptbr": "Antena",
+      "lote": "510"
+    },
+    {
+      "id": "4c5e",
+      "chave": "block__aircushion",
+      "hash_es": "244d40ab7479f71d",
+      "texto_ptbr": "Almofada de Ar",
+      "lote": "510"
+    },
+    {
+      "id": "081e",
+      "chave": "block__ammolarge",
+      "hash_es": "e67b9de49392d534",
+      "texto_ptbr": "Munição Grande",
+      "lote": "510"
+    },
+    {
+      "id": "f434",
+      "chave": "block__ammomedium",
+      "hash_es": "66c714f7bad6b9b7",
+      "texto_ptbr": "Munição Média",
+      "lote": "510"
+    },
+    {
+      "id": "008c",
+      "chave": "block__ammosmall",
+      "hash_es": "5ab377ba345449e0",
+      "texto_ptbr": "Munição Pequena",
+      "lote": "510"
+    },
+    {
+      "id": "a282",
+      "chave": "block__ammosuper",
+      "hash_es": "673d7941617a639b",
+      "texto_ptbr": "Munição Superior",
+      "lote": "510"
+    },
+    {
+      "id": "813f",
+      "chave": "block__armour",
+      "hash_es": "0111ca45122362a8",
+      "texto_ptbr": "Blindagem",
+      "lote": "510"
+    },
+    {
+      "id": "050a",
+      "chave": "block__autopilot",
+      "hash_es": "1dc3c995f3c2dada",
+      "texto_ptbr": "Piloto Automático",
+      "lote": "513"
+    },
+    {
+      "id": "5c10",
+      "chave": "block__balloon",
+      "hash_es": "2b676f7a4ce6f373",
+      "texto_ptbr": "Balão",
+      "lote": "510"
+    },
+    {
+      "id": "a2f1",
+      "chave": "block__beacon",
+      "hash_es": "8700e5fcc78afc18",
+      "texto_ptbr": "Baliza",
+      "lote": "510"
+    },
+    {
+      "id": "4f94",
+      "chave": "block__blower",
+      "hash_es": "794c07e4370b2634",
+      "texto_ptbr": "Soprador",
+      "lote": "510"
+    },
+    {
+      "id": "239d",
+      "chave": "block__boot",
+      "hash_es": "95aa9ce31877ac13",
+      "texto_ptbr": "Bota na Caixa",
+      "lote": "513"
+    },
+    {
+      "id": "e212",
+      "chave": "block__box",
+      "hash_es": "2d5668b34a81c73f",
+      "texto_ptbr": "Caixa",
+      "lote": "510"
+    },
+    {
+      "id": "f463",
+      "chave": "block__buffer",
+      "hash_es": "a6ae2ee37a981a60",
+      "texto_ptbr": "Para-choque",
+      "lote": "510"
+    },
+    {
+      "id": "bdd5",
+      "chave": "block__chameleon",
+      "hash_es": "efb9dc1c7c3682ce",
+      "texto_ptbr": "Camaleão",
+      "lote": "510"
+    },
+    {
+      "id": "d963",
+      "chave": "block__citrus",
+      "hash_es": "77ef0b35b2c31870",
+      "texto_ptbr": "Mancha Cítrica",
+      "lote": "510"
+    },
+    {
+      "id": "93b8",
+      "chave": "block__clockwork",
+      "hash_es": "d1b3652a39cf55aa",
+      "texto_ptbr": "Kaz Mecânico",
+      "lote": "510"
+    },
+    {
+      "id": "9326",
+      "chave": "block__cruisin",
+      "hash_es": "6377af7f04109177",
+      "texto_ptbr": "Luz de Cruzeiro",
+      "lote": "510"
+    },
+    {
+      "id": "ff49",
+      "chave": "block__detacher",
+      "hash_es": "309e34cfd83588f2",
+      "texto_ptbr": "Separador",
+      "lote": "510"
+    },
+    {
+      "id": "8d3b",
+      "chave": "block__disco",
+      "hash_es": "7334bc57ddcb46d5",
+      "texto_ptbr": "Bola de Discoteca",
+      "lote": "510"
+    },
+    {
+      "id": "a9e6",
+      "chave": "block__egggun",
+      "hash_es": "ea132af09ec672ad",
+      "texto_ptbr": "Lança-Ovos",
+      "lote": "510"
+    },
+    {
+      "id": "5c42",
+      "chave": "block__eggturret",
+      "hash_es": "868d0c0c03f58fa5",
+      "texto_ptbr": "Torreta de Ovos",
+      "lote": "510"
+    },
+    {
+      "id": "e702",
+      "chave": "block__ejectorseat",
+      "hash_es": "f40e451d1807fc79",
+      "texto_ptbr": "Assento Ejetor",
+      "lote": "510"
+    },
+    {
+      "id": "ee8b",
+      "chave": "block__emp",
+      "hash_es": "deae9dbc99655a26",
+      "texto_ptbr": "P.E.M.",
+      "lote": "510"
+    },
+    {
+      "id": "286c",
+      "chave": "block__energyshield",
+      "hash_es": "ab45701162372d40",
+      "texto_ptbr": "Escudo de Energia",
+      "lote": "510"
+    },
+    {
+      "id": "ce2a",
+      "chave": "block__enginelarge",
+      "hash_es": "91d8d4b885d76954",
+      "texto_ptbr": "Motor Grande",
+      "lote": "510"
+    },
+    {
+      "id": "7bc0",
+      "chave": "block__enginemedium",
+      "hash_es": "916dab272c7430b1",
+      "texto_ptbr": "Motor Médio",
+      "lote": "510"
+    },
+    {
+      "id": "c698",
+      "chave": "block__enginesmall",
+      "hash_es": "015587555403d519",
+      "texto_ptbr": "Motor Pequeno",
+      "lote": "510"
+    },
+    {
+      "id": "688e",
+      "chave": "block__enginesuper",
+      "hash_es": "1f1df6cb42895bc1",
+      "texto_ptbr": "Motor Superior",
+      "lote": "510"
+    },
+    {
+      "id": "4683",
+      "chave": "block__flag",
+      "hash_es": "471fc5fd6b7ff211",
+      "texto_ptbr": "Bandeira",
+      "lote": "510"
+    },
+    {
+      "id": "8921",
+      "chave": "block__flightfoldwing",
+      "hash_es": "68e5eec05873578e",
+      "texto_ptbr": "Asa Dobrável",
+      "lote": "510"
+    },
+    {
+      "id": "2dfc",
+      "chave": "block__flightwing",
+      "hash_es": "ce053b5bd8e37cac",
+      "texto_ptbr": "Asa Padrão",
+      "lote": "510"
+    },
+    {
+      "id": "6356",
+      "chave": "block__floater",
+      "hash_es": "a32b388c9e5d1d4f",
+      "texto_ptbr": "Flutuador",
+      "lote": "510"
+    },
+    {
+      "id": "f435",
+      "chave": "block__fluffy",
+      "hash_es": "eaaaef83a7ad6298",
+      "texto_ptbr": "Dados de Pelúcia",
+      "lote": "513"
+    },
+    {
+      "id": "3d02",
+      "chave": "block__freezeezy",
+      "hash_es": "2e430495e50b830e",
+      "texto_ptbr": "Congelador",
+      "lote": "513"
+    },
+    {
+      "id": "8440",
+      "chave": "block__fuellarge",
+      "hash_es": "b1ae6ca5badf8bce",
+      "texto_ptbr": "Combustível Grande",
+      "lote": "510"
+    },
+    {
+      "id": "f496",
+      "chave": "block__fuelmedium",
+      "hash_es": "2e826a0cec7bbf3c",
+      "texto_ptbr": "Combustível Médio",
+      "lote": "510"
+    },
+    {
+      "id": "7cae",
+      "chave": "block__fuelsmall",
+      "hash_es": "9da1c80cc57f8432",
+      "texto_ptbr": "Combustível Pequeno",
+      "lote": "510"
+    },
+    {
+      "id": "1ea4",
+      "chave": "block__fuelsuper",
+      "hash_es": "8be7a564ae669705",
+      "texto_ptbr": "Combustível Superior",
+      "lote": "510"
+    },
+    {
+      "id": "8d19",
+      "chave": "block__goldfish",
+      "hash_es": "d8c1968a3d63aa55",
+      "texto_ptbr": "Peixinho Dourado",
+      "lote": "510"
+    },
+    {
+      "id": "211a",
+      "chave": "block__googly",
+      "hash_es": "faae0543d2e209d9",
+      "texto_ptbr": "Olhos Saltados",
+      "lote": "510"
+    },
+    {
+      "id": "661c",
+      "chave": "block__grenadeegggun",
+      "hash_es": "30be37621a6cce93",
+      "texto_ptbr": "Lança-Granadas",
+      "lote": "510"
+    },
+    {
+      "id": "34b8",
+      "chave": "block__grenadeeggturret",
+      "hash_es": "43d4a7779f5b781a",
+      "texto_ptbr": "Torreta de Granadas",
+      "lote": "513"
+    },
+    {
+      "id": "81a1",
+      "chave": "block__group_accessory",
+      "hash_es": "34208e2ed7104cd3",
+      "texto_ptbr": "Acessórios",
+      "lote": "510"
+    },
+    {
+      "id": "e103",
+      "chave": "block__group_aerial",
+      "hash_es": "4284b9445b0fd263",
+      "texto_ptbr": "Antena",
+      "lote": "510"
+    },
+    {
+      "id": "b004",
+      "chave": "block__group_aircush",
+      "hash_es": "244d40ab7479f71d",
+      "texto_ptbr": "Almofada de Ar",
+      "lote": "510"
+    },
+    {
+      "id": "f7ff",
+      "chave": "block__group_ammo",
+      "hash_es": "985ed35c3d67a377",
+      "texto_ptbr": "Munição",
+      "lote": "510"
+    },
+    {
+      "id": "c081",
+      "chave": "block__group_ammofree",
+      "hash_es": "4d4405ab34efe9a5",
+      "texto_ptbr": "Sem Munição",
+      "lote": "510"
+    },
+    {
+      "id": "7dcb",
+      "chave": "block__group_armour",
+      "hash_es": "0111ca45122362a8",
+      "texto_ptbr": "Blindagem",
+      "lote": "510"
+    },
+    {
+      "id": "ea1c",
+      "chave": "block__group_balloon",
+      "hash_es": "2b676f7a4ce6f373",
+      "texto_ptbr": "Balão",
+      "lote": "510"
+    },
+    {
+      "id": "9f7d",
+      "chave": "block__group_beacon",
+      "hash_es": "8700e5fcc78afc18",
+      "texto_ptbr": "Baliza",
+      "lote": "510"
+    },
+    {
+      "id": "8bc3",
+      "chave": "block__group_body",
+      "hash_es": "397abbda03404b50",
+      "texto_ptbr": "Corpo",
+      "lote": "510"
+    },
+    {
+      "id": "8d29",
+      "chave": "block__group_boot",
+      "hash_es": "95aa9ce31877ac13",
+      "texto_ptbr": "Bota na Caixa",
+      "lote": "513"
+    },
+    {
+      "id": "4a1e",
+      "chave": "block__group_box",
+      "hash_es": "2d5668b34a81c73f",
+      "texto_ptbr": "Caixa",
+      "lote": "510"
+    },
+    {
+      "id": "f0ef",
+      "chave": "block__group_buffer",
+      "hash_es": "a6ae2ee37a981a60",
+      "texto_ptbr": "Para-choque",
+      "lote": "510"
+    },
+    {
+      "id": "f9ee",
+      "chave": "block__group_cham",
+      "hash_es": "efb9dc1c7c3682ce",
+      "texto_ptbr": "Camaleão",
+      "lote": "510"
+    },
+    {
+      "id": "d5ef",
+      "chave": "block__group_citrus",
+      "hash_es": "77ef0b35b2c31870",
+      "texto_ptbr": "Mancha Cítrica",
+      "lote": "510"
+    },
+    {
+      "id": "a3e1",
+      "chave": "block__group_clock",
+      "hash_es": "d1b3652a39cf55aa",
+      "texto_ptbr": "Kaz Mecânico",
+      "lote": "510"
+    },
+    {
+      "id": "5fe0",
+      "chave": "block__group_connector",
+      "hash_es": "db5b0626bdd4e09b",
+      "texto_ptbr": "Conector",
+      "lote": "510"
+    },
+    {
+      "id": "3d1e",
+      "chave": "block__group_corner",
+      "hash_es": "4297c9e76b69af13",
+      "texto_ptbr": "Canto",
+      "lote": "510"
+    },
+    {
+      "id": "2132",
+      "chave": "block__group_cruisin",
+      "hash_es": "6377af7f04109177",
+      "texto_ptbr": "Luz de Cruzeiro",
+      "lote": "510"
+    },
+    {
+      "id": "3154",
+      "chave": "block__group_cube",
+      "hash_es": "b35b34371dcb7cea",
+      "texto_ptbr": "Cubo",
+      "lote": "510"
+    },
+    {
+      "id": "51de",
+      "chave": "block__group_detach",
+      "hash_es": "309e34cfd83588f2",
+      "texto_ptbr": "Separador",
+      "lote": "510"
+    },
+    {
+      "id": "2847",
+      "chave": "block__group_disco",
+      "hash_es": "7334bc57ddcb46d5",
+      "texto_ptbr": "Bola de Discoteca",
+      "lote": "510"
+    },
+    {
+      "id": "55c8",
+      "chave": "block__group_egg",
+      "hash_es": "ea132af09ec672ad",
+      "texto_ptbr": "Lança-Ovos",
+      "lote": "510"
+    },
+    {
+      "id": "9695",
+      "chave": "block__group_eggturr",
+      "hash_es": "868d0c0c03f58fa5",
+      "texto_ptbr": "Torreta de Ovos",
+      "lote": "510"
+    },
+    {
+      "id": "91a0",
+      "chave": "block__group_eject",
+      "hash_es": "f40e451d1807fc79",
+      "texto_ptbr": "Assento Ejetor",
+      "lote": "510"
+    },
+    {
+      "id": "5697",
+      "chave": "block__group_emp",
+      "hash_es": "deae9dbc99655a26",
+      "texto_ptbr": "P.E.M.",
+      "lote": "510"
+    },
+    {
+      "id": "663f",
+      "chave": "block__group_energy",
+      "hash_es": "ab45701162372d40",
+      "texto_ptbr": "Escudo de Energia",
+      "lote": "510"
+    },
+    {
+      "id": "598b",
+      "chave": "block__group_engine",
+      "hash_es": "b7973993b640b132",
+      "texto_ptbr": "Potência",
+      "lote": "510"
+    },
+    {
+      "id": "8b5e",
+      "chave": "block__group_engines",
+      "hash_es": "4fbefefa7a709a39",
+      "texto_ptbr": "Motores",
+      "lote": "510"
+    },
+    {
+      "id": "b00f",
+      "chave": "block__group_flag",
+      "hash_es": "471fc5fd6b7ff211",
+      "texto_ptbr": "Bandeira",
+      "lote": "510"
+    },
+    {
+      "id": "60b3",
+      "chave": "block__group_flight",
+      "hash_es": "8c4fc2b55314fbef",
+      "texto_ptbr": "Asas",
+      "lote": "510"
+    },
+    {
+      "id": "f162",
+      "chave": "block__group_floater",
+      "hash_es": "a32b388c9e5d1d4f",
+      "texto_ptbr": "Flutuador",
+      "lote": "510"
+    },
+    {
+      "id": "f0c1",
+      "chave": "block__group_fluffy",
+      "hash_es": "eaaaef83a7ad6298",
+      "texto_ptbr": "Dados de Pelúcia",
+      "lote": "513"
+    },
+    {
+      "id": "9f49",
+      "chave": "block__group_flyandfloat",
+      "hash_es": "a432d41abe4a3026",
+      "texto_ptbr": "Voar e Flutuar",
+      "lote": "510"
+    },
+    {
+      "id": "838d",
+      "chave": "block__group_foldingwing",
+      "hash_es": "92932806a5e47b78",
+      "texto_ptbr": "Dobrável",
+      "lote": "510"
+    },
+    {
+      "id": "0d71",
+      "chave": "block__group_freez",
+      "hash_es": "2e430495e50b830e",
+      "texto_ptbr": "Congelador",
+      "lote": "513"
+    },
+    {
+      "id": "d6e1",
+      "chave": "block__group_fuel",
+      "hash_es": "832880bbaaa43248",
+      "texto_ptbr": "Combustível",
+      "lote": "510"
+    },
+    {
+      "id": "4063",
+      "chave": "block__group_fuelfree",
+      "hash_es": "52b2216e39ea0308",
+      "texto_ptbr": "Sem Combustível",
+      "lote": "510"
+    },
+    {
+      "id": "bd81",
+      "chave": "block__group_gadget",
+      "hash_es": "083956c413c7dbd0",
+      "texto_ptbr": "Engenhocas",
+      "lote": "510"
+    },
+    {
+      "id": "dca5",
+      "chave": "block__group_goldfish",
+      "hash_es": "d8c1968a3d63aa55",
+      "texto_ptbr": "Peixinho Dourado",
+      "lote": "510"
+    },
+    {
+      "id": "1da6",
+      "chave": "block__group_googly",
+      "hash_es": "faae0543d2e209d9",
+      "texto_ptbr": "Olhos Saltados",
+      "lote": "510"
+    },
+    {
+      "id": "0e34",
+      "chave": "block__group_grenegg",
+      "hash_es": "30be37621a6cce93",
+      "texto_ptbr": "Lança-Granadas",
+      "lote": "510"
+    },
+    {
+      "id": "a501",
+      "chave": "block__group_greneggturr",
+      "hash_es": "43d4a7779f5b781a",
+      "texto_ptbr": "Torreta de Granadas",
+      "lote": "513"
+    },
+    {
+      "id": "75f6",
+      "chave": "block__group_gyro",
+      "hash_es": "76ad74dcd79f8922",
+      "texto_ptbr": "Giroscópio",
+      "lote": "510"
+    },
+    {
+      "id": "c614",
+      "chave": "block__group_heavymat",
+      "hash_es": "f8c78cf86fbff9cc",
+      "texto_ptbr": "Pesado",
+      "lote": "510"
+    },
+    {
+      "id": "d7cc",
+      "chave": "block__group_horn",
+      "hash_es": "810bf966f14a8275",
+      "texto_ptbr": "Buzina",
+      "lote": "510"
+    },
+    {
+      "id": "c64b",
+      "chave": "block__group_jets",
+      "hash_es": "f7ac04f6992c67ea",
+      "texto_ptbr": "Jatos",
+      "lote": "510"
+    },
+    {
+      "id": "8580",
+      "chave": "block__group_large",
+      "hash_es": "45fbe99b103ce035",
+      "texto_ptbr": "Grande",
+      "lote": "510"
+    },
+    {
+      "id": "4529",
+      "chave": "block__group_largebox",
+      "hash_es": "b9f34b2debdc5c28",
+      "texto_ptbr": "Caixa Grande",
+      "lote": "510"
+    },
+    {
+      "id": "16b2",
+      "chave": "block__group_largelowload",
+      "hash_es": "ffdc2a66104333ff",
+      "texto_ptbr": "Bandeja Grande",
+      "lote": "510"
+    },
+    {
+      "id": "898c",
+      "chave": "block__group_laser",
+      "hash_es": "2eee422546a2a73d",
+      "texto_ptbr": "Laser",
+      "lote": "510"
+    },
+    {
+      "id": "eb6f",
+      "chave": "block__group_lightmat",
+      "hash_es": "7f1289c15d7fe403",
+      "texto_ptbr": "Leve",
+      "lote": "510"
+    },
+    {
+      "id": "a99d",
+      "chave": "block__group_liquid",
+      "hash_es": "3e200e5c561ce06e",
+      "texto_ptbr": "Borrifador de Líquido",
+      "lote": "510"
+    },
+    {
+      "id": "8e27",
+      "chave": "block__group_lowload",
+      "hash_es": "7fc12c8a456c1b48",
+      "texto_ptbr": "Bandeja",
+      "lote": "510"
+    },
+    {
+      "id": "70d1",
+      "chave": "block__group_lpanel",
+      "hash_es": "3954636f23fb2aed",
+      "texto_ptbr": "Painel-L",
+      "lote": "510"
+    },
+    {
+      "id": "b311",
+      "chave": "block__group_lpole",
+      "hash_es": "9849312d0750e174",
+      "texto_ptbr": "Poste-L",
+      "lote": "510"
+    },
+    {
+      "id": "1dd6",
+      "chave": "block__group_medium",
+      "hash_es": "cd98149a405da5e5",
+      "texto_ptbr": "Médio",
+      "lote": "510"
+    },
+    {
+      "id": "52b0",
+      "chave": "block__group_mirror",
+      "hash_es": "bb384bee64d8bcd1",
+      "texto_ptbr": "Espelho",
+      "lote": "510"
+    },
+    {
+      "id": "7c41",
+      "chave": "block__group_misc",
+      "hash_es": "3b67630f936154dc",
+      "texto_ptbr": "Diversos",
+      "lote": "510"
+    },
+    {
+      "id": "94e2",
+      "chave": "block__group_mole",
+      "hash_es": "b62c24e4998a4c59",
+      "texto_ptbr": "Toupeira no Poste",
+      "lote": "510"
+    },
+    {
+      "id": "7fb5",
+      "chave": "block__group_mumbo",
+      "hash_es": "34357f31e39c1dbb",
+      "texto_ptbr": "Mumbo Bomba",
+      "lote": "513"
+    },
+    {
+      "id": "23df",
+      "chave": "block__group_nopower",
+      "hash_es": "d47f8f9dff3469a0",
+      "texto_ptbr": "Sem Potência",
+      "lote": "510"
+    },
+    {
+      "id": "d645",
+      "chave": "block__group_panel",
+      "hash_es": "d0d91173008b6f83",
+      "texto_ptbr": "Painel",
+      "lote": "510"
+    },
+    {
+      "id": "c083",
+      "chave": "block__group_paperypal",
+      "hash_es": "f8462806e3008943",
+      "texto_ptbr": "Boneco de Papel",
+      "lote": "510"
+    },
+    {
+      "id": "431d",
+      "chave": "block__group_passenger",
+      "hash_es": "d758ebdfb79cc928",
+      "texto_ptbr": "Passageiro",
+      "lote": "510"
+    },
+    {
+      "id": "a307",
+      "chave": "block__group_plantpot",
+      "hash_es": "13cab9f1d3b6b136",
+      "texto_ptbr": "Vaso",
+      "lote": "510"
+    },
+    {
+      "id": "3a05",
+      "chave": "block__group_pole",
+      "hash_es": "94effc0153ff5bf5",
+      "texto_ptbr": "Poste",
+      "lote": "510"
+    },
+    {
+      "id": "3533",
+      "chave": "block__group_propfoldout",
+      "hash_es": "0c26e2421ef81454",
+      "texto_ptbr": "Dobrável Grande",
+      "lote": "510"
+    },
+    {
+      "id": "2e69",
+      "chave": "block__group_props",
+      "hash_es": "c83f5ad65c0b9821",
+      "texto_ptbr": "Hélices",
+      "lote": "510"
+    },
+    {
+      "id": "357c",
+      "chave": "block__group_protection",
+      "hash_es": "a4410bb3098c485a",
+      "texto_ptbr": "Proteção",
+      "lote": "510"
+    },
+    {
+      "id": "8c55",
+      "chave": "block__group_ram",
+      "hash_es": "f34c9d5370269b1a",
+      "texto_ptbr": "Punho de Fulgore",
+      "lote": "510"
+    },
+    {
+      "id": "b03f",
+      "chave": "block__group_replenish",
+      "hash_es": "1e9ccdaa9daf0cab",
+      "texto_ptbr": "Reabastecedor",
+      "lote": "513"
+    },
+    {
+      "id": "5187",
+      "chave": "block__group_robo",
+      "hash_es": "1ecb642f06f6f60a",
+      "texto_ptbr": "Robo-Conserto",
+      "lote": "510"
+    },
+    {
+      "id": "6d43",
+      "chave": "block__group_rust",
+      "hash_es": "61cf33bc428e2994",
+      "texto_ptbr": "Lixeira Enferrujada",
+      "lote": "510"
+    },
+    {
+      "id": "a33e",
+      "chave": "block__group_sail",
+      "hash_es": "dac453b662000317",
+      "texto_ptbr": "Vela",
+      "lote": "510"
+    },
+    {
+      "id": "b342",
+      "chave": "block__group_seat",
+      "hash_es": "a84bceba4d696861",
+      "texto_ptbr": "Assentos",
+      "lote": "510"
+    },
+    {
+      "id": "ae9e",
+      "chave": "block__group_seatair",
+      "hash_es": "f3e320ae6110d9f2",
+      "texto_ptbr": "Mergulho",
+      "lote": "510"
+    },
+    {
+      "id": "559c",
+      "chave": "block__group_seatstand",
+      "hash_es": "a7248eeb45eb1ce2",
+      "texto_ptbr": "Padrão",
+      "lote": "510"
+    },
+    {
+      "id": "617f",
+      "chave": "block__group_seatstrong",
+      "hash_es": "c617f19e1a863c12",
+      "texto_ptbr": "Reforçado",
+      "lote": "510"
+    },
+    {
+      "id": "20b1",
+      "chave": "block__group_seatsuper",
+      "hash_es": "9e88817f791b050d",
+      "texto_ptbr": "Superior",
+      "lote": "510"
+    },
+    {
+      "id": "b49f",
+      "chave": "block__group_self",
+      "hash_es": "0fc6874f7516b56c",
+      "texto_ptbr": "Autodestruição",
+      "lote": "510"
+    },
+    {
+      "id": "c5ea",
+      "chave": "block__group_sink",
+      "hash_es": "592c561833b15345",
+      "texto_ptbr": "Lastro",
+      "lote": "510"
+    },
+    {
+      "id": "7dee",
+      "chave": "block__group_small",
+      "hash_es": "53a5305b621d5830",
+      "texto_ptbr": "Pequeno",
+      "lote": "510"
+    },
+    {
+      "id": "b954",
+      "chave": "block__group_smoke",
+      "hash_es": "f9e78137a60938ae",
+      "texto_ptbr": "Bola de Fumaça",
+      "lote": "510"
+    },
+    {
+      "id": "e280",
+      "chave": "block__group_spec",
+      "hash_es": "ab92a5e20e08a86f",
+      "texto_ptbr": "Óculos de Espião",
+      "lote": "510"
+    },
+    {
+      "id": "44f1",
+      "chave": "block__group_spike",
+      "hash_es": "a21c1da52c070f99",
+      "texto_ptbr": "Espinho",
+      "lote": "510"
+    },
+    {
+      "id": "01d0",
+      "chave": "block__group_spirit",
+      "hash_es": "c217ae2be4e3e06b",
+      "texto_ptbr": "Espírito da Calça",
+      "lote": "510"
+    },
+    {
+      "id": "eab3",
+      "chave": "block__group_spoiler",
+      "hash_es": "0975cc2b3f1d4566",
+      "texto_ptbr": "Spoiler",
+      "lote": "510"
+    },
+    {
+      "id": "3ac1",
+      "chave": "block__group_sponge",
+      "hash_es": "e8f0245d5813442c",
+      "texto_ptbr": "Esponja",
+      "lote": "510"
+    },
+    {
+      "id": "e3db",
+      "chave": "block__group_spot",
+      "hash_es": "45003b765e544006",
+      "texto_ptbr": "Holofote",
+      "lote": "510"
+    },
+    {
+      "id": "cb88",
+      "chave": "block__group_spring",
+      "hash_es": "b8e96bfa02d78dba",
+      "texto_ptbr": "Mola",
+      "lote": "510"
+    },
+    {
+      "id": "31c7",
+      "chave": "block__group_stereo",
+      "hash_es": "b8f41fc22bc2f0f4",
+      "texto_ptbr": "Estéreo",
+      "lote": "510"
+    },
+    {
+      "id": "244c",
+      "chave": "block__group_sticky",
+      "hash_es": "aaf1f2b94228b5a9",
+      "texto_ptbr": "Bola Pegajosa",
+      "lote": "510"
+    },
+    {
+      "id": "4e0a",
+      "chave": "block__group_storage",
+      "hash_es": "43e23bd36cc605b5",
+      "texto_ptbr": "Armazenamento",
+      "lote": "510"
+    },
+    {
+      "id": "852d",
+      "chave": "block__group_sucknblow",
+      "hash_es": "e32e17f5287391a0",
+      "texto_ptbr": "Suga e Sopra",
+      "lote": "513"
+    },
+    {
+      "id": "1fe4",
+      "chave": "block__group_super",
+      "hash_es": "9e88817f791b050d",
+      "texto_ptbr": "Superior",
+      "lote": "510"
+    },
+    {
+      "id": "a206",
+      "chave": "block__group_supermat",
+      "hash_es": "9e88817f791b050d",
+      "texto_ptbr": "Superior",
+      "lote": "510"
+    },
+    {
+      "id": "94d1",
+      "chave": "block__group_tag",
+      "hash_es": "ae197ddc6091697e",
+      "texto_ptbr": "Placa",
+      "lote": "510"
+    },
+    {
+      "id": "6c5a",
+      "chave": "block__group_torp",
+      "hash_es": "92f6dcdc8d00b082",
+      "texto_ptbr": "Torpedilo",
+      "lote": "513"
+    },
+    {
+      "id": "96af",
+      "chave": "block__group_tow",
+      "hash_es": "f61620c192fc30ea",
+      "texto_ptbr": "Barra de Reboque",
+      "lote": "510"
+    },
+    {
+      "id": "b5d9",
+      "chave": "block__group_tpanel",
+      "hash_es": "9fd07cc09a17315d",
+      "texto_ptbr": "Painel-T",
+      "lote": "510"
+    },
+    {
+      "id": "7719",
+      "chave": "block__group_tpole",
+      "hash_es": "522def3bb1410af3",
+      "texto_ptbr": "Poste-T",
+      "lote": "510"
+    },
+    {
+      "id": "8b4c",
+      "chave": "block__group_useammo",
+      "hash_es": "418b7c9e71c02f4d",
+      "texto_ptbr": "Usa Munição",
+      "lote": "510"
+    },
+    {
+      "id": "9d4f",
+      "chave": "block__group_vac",
+      "hash_es": "7eb254d03e4a37d9",
+      "texto_ptbr": "Aspirador",
+      "lote": "510"
+    },
+    {
+      "id": "2bff",
+      "chave": "block__group_weapon",
+      "hash_es": "af09dcb5b2994103",
+      "texto_ptbr": "Armas",
+      "lote": "510"
+    },
+    {
+      "id": "8901",
+      "chave": "block__group_wedge",
+      "hash_es": "514b1a57e99a99c9",
+      "texto_ptbr": "Cunha",
+      "lote": "510"
+    },
+    {
+      "id": "63f0",
+      "chave": "block__group_weights",
+      "hash_es": "08d3b3ad5e1ca26a",
+      "texto_ptbr": "Pesos",
+      "lote": "510"
+    },
+    {
+      "id": "ff54",
+      "chave": "block__group_weldar",
+      "hash_es": "8a0ecaded4132677",
+      "texto_ptbr": "Bafo do Weldar",
+      "lote": "513"
+    },
+    {
+      "id": "322a",
+      "chave": "block__group_wheel",
+      "hash_es": "c85b931ba0c00761",
+      "texto_ptbr": "Rodas",
+      "lote": "510"
+    },
+    {
+      "id": "ac02",
+      "chave": "block__group_wheelcat",
+      "hash_es": "350a7cba8db9bd02",
+      "texto_ptbr": "Esteira",
+      "lote": "510"
+    },
+    {
+      "id": "0aea",
+      "chave": "block__group_wheelhigh",
+      "hash_es": "c7503cea2089792e",
+      "texto_ptbr": "Alta Aderência",
+      "lote": "510"
+    },
+    {
+      "id": "ecd2",
+      "chave": "block__group_wheelmonster",
+      "hash_es": "3bf8e5071af34b1a",
+      "texto_ptbr": "Monstro",
+      "lote": "510"
+    },
+    {
+      "id": "6584",
+      "chave": "block__group_wheelstand",
+      "hash_es": "a7248eeb45eb1ce2",
+      "texto_ptbr": "Padrão",
+      "lote": "510"
+    },
+    {
+      "id": "3099",
+      "chave": "block__group_wheelsuper",
+      "hash_es": "9e88817f791b050d",
+      "texto_ptbr": "Superior",
+      "lote": "510"
+    },
+    {
+      "id": "a127",
+      "chave": "block__group_windscreen",
+      "hash_es": "56840a4812d78551",
+      "texto_ptbr": "Para-brisa",
+      "lote": "510"
+    },
+    {
+      "id": "f76a",
+      "chave": "block__group_wing",
+      "hash_es": "a7248eeb45eb1ce2",
+      "texto_ptbr": "Padrão",
+      "lote": "510"
+    },
+    {
+      "id": "0c6a",
+      "chave": "block__gyro",
+      "hash_es": "76ad74dcd79f8922",
+      "texto_ptbr": "Giroscópio",
+      "lote": "510"
+    },
+    {
+      "id": "d2ef",
+      "chave": "block__heavycorner",
+      "hash_es": "63ce86a7acf8812f",
+      "texto_ptbr": "Canto Pesado",
+      "lote": "510"
+    },
+    {
+      "id": "1ee5",
+      "chave": "block__heavycube",
+      "hash_es": "af8273cbdc8595b8",
+      "texto_ptbr": "Cubo Pesado",
+      "lote": "510"
+    },
+    {
+      "id": "06a2",
+      "chave": "block__heavylpanel",
+      "hash_es": "ad8b265a2727b9ac",
+      "texto_ptbr": "Painel-L Pesado",
+      "lote": "510"
+    },
+    {
+      "id": "52c2",
+      "chave": "block__heavylpole",
+      "hash_es": "f0a7b4c1fea50abe",
+      "texto_ptbr": "Poste-L Pesado",
+      "lote": "510"
+    },
+    {
+      "id": "0000",
+      "chave": "block__heavypanel",
+      "hash_es": "3697a0a4b1ce7e8b",
+      "texto_ptbr": "Painel Pesado",
+      "lote": "510"
+    },
+    {
+      "id": "2796",
+      "chave": "block__heavypole",
+      "hash_es": "46eba9e3e7557c1f",
+      "texto_ptbr": "Poste Pesado",
+      "lote": "510"
+    },
+    {
+      "id": "4baa",
+      "chave": "block__heavytpanel",
+      "hash_es": "c8eca2bdb1f0eab2",
+      "texto_ptbr": "Painel-T Pesado",
+      "lote": "510"
+    },
+    {
+      "id": "16ca",
+      "chave": "block__heavytpole",
+      "hash_es": "9d18dc15ce04e27e",
+      "texto_ptbr": "Poste-T Pesado",
+      "lote": "510"
+    },
+    {
+      "id": "28b2",
+      "chave": "block__heavywedge",
+      "hash_es": "09c37bc286e951e6",
+      "texto_ptbr": "Cunha Pesada",
+      "lote": "510"
+    },
+    {
+      "id": "6e40",
+      "chave": "block__horn",
+      "hash_es": "810bf966f14a8275",
+      "texto_ptbr": "Buzina",
+      "lote": "510"
+    },
+    {
+      "id": "1c17",
+      "chave": "block__jetlarge",
+      "hash_es": "d9571d34a91e1d40",
+      "texto_ptbr": "Jato Grande",
+      "lote": "510"
+    },
+    {
+      "id": "1485",
+      "chave": "block__jetsmall",
+      "hash_es": "028b51cabcb57f3e",
+      "texto_ptbr": "Jato Pequeno",
+      "lote": "510"
+    },
+    {
+      "id": "f59d",
+      "chave": "block__largebox",
+      "hash_es": "b9f34b2debdc5c28",
+      "texto_ptbr": "Caixa Grande",
+      "lote": "510"
+    },
+    {
+      "id": "9254",
+      "chave": "block__largetray",
+      "hash_es": "ffdc2a66104333ff",
+      "texto_ptbr": "Bandeja Grande",
+      "lote": "510"
+    },
+    {
+      "id": "ee80",
+      "chave": "block__laser",
+      "hash_es": "2eee422546a2a73d",
+      "texto_ptbr": "Laser",
+      "lote": "510"
+    },
+    {
+      "id": "be6a",
+      "chave": "block__lightcorner",
+      "hash_es": "42b71e700124527a",
+      "texto_ptbr": "Canto Leve",
+      "lote": "510"
+    },
+    {
+      "id": "efa0",
+      "chave": "block__lightcube",
+      "hash_es": "605be40edbfd97e7",
+      "texto_ptbr": "Cubo Leve",
+      "lote": "510"
+    },
+    {
+      "id": "f21d",
+      "chave": "block__lightlpanel",
+      "hash_es": "4d4369b5b4140d23",
+      "texto_ptbr": "Painel-L Leve",
+      "lote": "510"
+    },
+    {
+      "id": "3add",
+      "chave": "block__lightlpole",
+      "hash_es": "b1712160b200528b",
+      "texto_ptbr": "Poste-L Leve",
+      "lote": "510"
+    },
+    {
+      "id": "5e11",
+      "chave": "block__lightpanel",
+      "hash_es": "c98bab7865b843b6",
+      "texto_ptbr": "Painel Leve",
+      "lote": "510"
+    },
+    {
+      "id": "f851",
+      "chave": "block__lightpole",
+      "hash_es": "2145dd7f0c06da45",
+      "texto_ptbr": "Poste Leve",
+      "lote": "510"
+    },
+    {
+      "id": "3725",
+      "chave": "block__lighttpanel",
+      "hash_es": "c3c38b07253b294c",
+      "texto_ptbr": "Painel-T Leve",
+      "lote": "510"
+    },
+    {
+      "id": "fee5",
+      "chave": "block__lighttpole",
+      "hash_es": "00c224c17f6f91a7",
+      "texto_ptbr": "Poste-T Leve",
+      "lote": "510"
+    },
+    {
+      "id": "10cd",
+      "chave": "block__lightwedge",
+      "hash_es": "68cf8afcc6ea1dd4",
+      "texto_ptbr": "Cunha Leve",
+      "lote": "510"
+    },
+    {
+      "id": "bcf0",
+      "chave": "block__liquidsquirter",
+      "hash_es": "3e200e5c561ce06e",
+      "texto_ptbr": "Borrifador de Líquido",
+      "lote": "510"
+    },
+    {
+      "id": "5624",
+      "chave": "block__mirror",
+      "hash_es": "bb384bee64d8bcd1",
+      "texto_ptbr": "Espelho",
+      "lote": "510"
+    },
+    {
+      "id": "2b56",
+      "chave": "block__mole",
+      "hash_es": "b62c24e4998a4c59",
+      "texto_ptbr": "Toupeira no Poste",
+      "lote": "510"
+    },
+    {
+      "id": "5278",
+      "chave": "block__mumbobombo",
+      "hash_es": "34357f31e39c1dbb",
+      "texto_ptbr": "Mumbo Bomba",
+      "lote": "513"
+    },
+    {
+      "id": "7f77",
+      "chave": "block__paperypal",
+      "hash_es": "f8462806e3008943",
+      "texto_ptbr": "Boneco de Papel",
+      "lote": "510"
+    },
+    {
+      "id": "0294",
+      "chave": "block__piddlesturret",
+      "hash_es": "0cad7c3f1bf9fbef",
+      "texto_ptbr": "Torreta da Piddles",
+      "lote": "510"
+    },
+    {
+      "id": "537b",
+      "chave": "block__plantpot",
+      "hash_es": "13cab9f1d3b6b136",
+      "texto_ptbr": "Vaso de Planta",
+      "lote": "513"
+    },
+    {
+      "id": "71b5",
+      "chave": "block__proplarge",
+      "hash_es": "14af5413df586c46",
+      "texto_ptbr": "Hélice Grande",
+      "lote": "510"
+    },
+    {
+      "id": "5827",
+      "chave": "block__proplargeswitch",
+      "hash_es": "8a7bac98330713e4",
+      "texto_ptbr": "Hélice Dobrável",
+      "lote": "510"
+    },
+    {
+      "id": "f154",
+      "chave": "block__propnopower",
+      "hash_es": "cdcbd53a7cc090d4",
+      "texto_ptbr": "Hélice de Teste",
+      "lote": "510"
+    },
+    {
+      "id": "6a23",
+      "chave": "block__propsmall",
+      "hash_es": "259a0d64b4441725",
+      "texto_ptbr": "Hélice Pequena",
+      "lote": "510"
+    },
+    {
+      "id": "2449",
+      "chave": "block__ram",
+      "hash_es": "f34c9d5370269b1a",
+      "texto_ptbr": "Punho de Fulgore",
+      "lote": "510"
+    },
+    {
+      "id": "9b16",
+      "chave": "block__remotecontrol",
+      "hash_es": "908d8ecb77419f5d",
+      "texto_ptbr": "Controle Remoto",
+      "lote": "510"
+    },
+    {
+      "id": "156a",
+      "chave": "block__replenisher",
+      "hash_es": "1e9ccdaa9daf0cab",
+      "texto_ptbr": "Reabastecedor",
+      "lote": "513"
+    },
+    {
+      "id": "ea02",
+      "chave": "block__robofix",
+      "hash_es": "1ecb642f06f6f60a",
+      "texto_ptbr": "Robo-Conserto",
+      "lote": "510"
+    },
+    {
+      "id": "6f52",
+      "chave": "block__rustball",
+      "hash_es": "246571c16c71d0f5",
+      "texto_ptbr": "Bola Oxidada",
+      "lote": "510"
+    },
+    {
+      "id": "2b30",
+      "chave": "block__rustbin",
+      "hash_es": "61cf33bc428e2994",
+      "texto_ptbr": "Lixeira Enferrujada",
+      "lote": "510"
+    },
+    {
+      "id": "39b2",
+      "chave": "block__sail",
+      "hash_es": "dac453b662000317",
+      "texto_ptbr": "Vela",
+      "lote": "510"
+    },
+    {
+      "id": "be12",
+      "chave": "block__seatairtight",
+      "hash_es": "740802d3d49964bc",
+      "texto_ptbr": "Assento de Mergulho",
+      "lote": "513"
+    },
+    {
+      "id": "3fe9",
+      "chave": "block__seatpassengerlarge",
+      "hash_es": "0a24254008e1845a",
+      "texto_ptbr": "Assento Grande",
+      "lote": "510"
+    },
+    {
+      "id": "3857",
+      "chave": "block__seatpassengersmall",
+      "hash_es": "904ac7c92519eb0c",
+      "texto_ptbr": "Assento Pequeno",
+      "lote": "510"
+    },
+    {
+      "id": "3647",
+      "chave": "block__seatstandard",
+      "hash_es": "e8e19ff1c42f06f8",
+      "texto_ptbr": "Assento Padrão",
+      "lote": "510"
+    },
+    {
+      "id": "fef3",
+      "chave": "block__seatstrong",
+      "hash_es": "ae6a7a8a3fe1047d",
+      "texto_ptbr": "Assento Reforçado",
+      "lote": "510"
+    },
+    {
+      "id": "dfa5",
+      "chave": "block__seatsuper",
+      "hash_es": "a86e722f00caffe6",
+      "texto_ptbr": "Assento Superior",
+      "lote": "510"
+    },
+    {
+      "id": "ab01",
+      "chave": "block__selfdestruct",
+      "hash_es": "0fc6874f7516b56c",
+      "texto_ptbr": "Autodestruição",
+      "lote": "510"
+    },
+    {
+      "id": "f955",
+      "chave": "block__sinker",
+      "hash_es": "592c561833b15345",
+      "texto_ptbr": "Lastro",
+      "lote": "510"
+    },
+    {
+      "id": "712f",
+      "chave": "block__smokesphere",
+      "hash_es": "f9e78137a60938ae",
+      "texto_ptbr": "Bola de Fumaça",
+      "lote": "510"
+    },
+    {
+      "id": "a91f",
+      "chave": "block__specospy",
+      "hash_es": "ab92a5e20e08a86f",
+      "texto_ptbr": "Óculos de Espião",
+      "lote": "510"
+    },
+    {
+      "id": "a9e5",
+      "chave": "block__spike",
+      "hash_es": "a21c1da52c070f99",
+      "texto_ptbr": "Espinho",
+      "lote": "510"
+    },
+    {
+      "id": "0544",
+      "chave": "block__spirit",
+      "hash_es": "c217ae2be4e3e06b",
+      "texto_ptbr": "Espírito da Calça",
+      "lote": "510"
+    },
+    {
+      "id": "5ca7",
+      "chave": "block__spoiler",
+      "hash_es": "0975cc2b3f1d4566",
+      "texto_ptbr": "Spoiler",
+      "lote": "510"
+    },
+    {
+      "id": "f1e7",
+      "chave": "block__spotlight",
+      "hash_es": "45003b765e544006",
+      "texto_ptbr": "Holofote",
+      "lote": "510"
+    },
+    {
+      "id": "cefc",
+      "chave": "block__spring",
+      "hash_es": "b8e96bfa02d78dba",
+      "texto_ptbr": "Mola",
+      "lote": "510"
+    },
+    {
+      "id": "353b",
+      "chave": "block__stereo",
+      "hash_es": "b8f41fc22bc2f0f4",
+      "texto_ptbr": "Estéreo",
+      "lote": "510"
+    },
+    {
+      "id": "6fdb",
+      "chave": "block__stickyball",
+      "hash_es": "aaf1f2b94228b5a9",
+      "texto_ptbr": "Bola Pegajosa",
+      "lote": "510"
+    },
+    {
+      "id": "1736",
+      "chave": "block__sucker",
+      "hash_es": "b0ea8aaacc8a13cd",
+      "texto_ptbr": "Ventosa",
+      "lote": "510"
+    },
+    {
+      "id": "4421",
+      "chave": "block__sucknblow",
+      "hash_es": "e32e17f5287391a0",
+      "texto_ptbr": "Suga e Sopra",
+      "lote": "513"
+    },
+    {
+      "id": "0001",
+      "chave": "block__supercorner",
+      "hash_es": "b8c97c71efa4887f",
+      "texto_ptbr": "Canto Superior",
+      "lote": "510"
+    },
+    {
+      "id": "7917",
+      "chave": "block__supercube",
+      "hash_es": "6cbec7fcf252bbcf",
+      "texto_ptbr": "Cubo Superior",
+      "lote": "510"
+    },
+    {
+      "id": "b554",
+      "chave": "block__superlpanel",
+      "hash_es": "aec7d56fecb3fc06",
+      "texto_ptbr": "Painel-L Superior",
+      "lote": "510"
+    },
+    {
+      "id": "f334",
+      "chave": "block__superlpole",
+      "hash_es": "6d29368867e33f18",
+      "texto_ptbr": "Poste-L Superior",
+      "lote": "510"
+    },
+    {
+      "id": "1668",
+      "chave": "block__superpanel",
+      "hash_es": "39f75121ca2cccfb",
+      "texto_ptbr": "Painel Superior",
+      "lote": "510"
+    },
+    {
+      "id": "81c8",
+      "chave": "block__superpole",
+      "hash_es": "bc3d2ffc8ac75bd6",
+      "texto_ptbr": "Poste Superior",
+      "lote": "510"
+    },
+    {
+      "id": "fa5c",
+      "chave": "block__supertpanel",
+      "hash_es": "aa80eafd2c784c4b",
+      "texto_ptbr": "Painel-T Superior",
+      "lote": "510"
+    },
+    {
+      "id": "b73c",
+      "chave": "block__supertpole",
+      "hash_es": "503ac979d8be217b",
+      "texto_ptbr": "Poste-T Superior",
+      "lote": "510"
+    },
+    {
+      "id": "c924",
+      "chave": "block__superwedge",
+      "hash_es": "1b7a2cf1336762f0",
+      "texto_ptbr": "Cunha Superior",
+      "lote": "510"
+    },
+    {
+      "id": "2cc5",
+      "chave": "block__tag",
+      "hash_es": "ae197ddc6091697e",
+      "texto_ptbr": "Placa",
+      "lote": "510"
+    },
+    {
+      "id": "958a",
+      "chave": "block__thruster",
+      "hash_es": "2b6ce59621d6471f",
+      "texto_ptbr": "Propulsor",
+      "lote": "510"
+    },
+    {
+      "id": "4151",
+      "chave": "block__torpedile",
+      "hash_es": "92f6dcdc8d00b082",
+      "texto_ptbr": "Torpedilo",
+      "lote": "513"
+    },
+    {
+      "id": "7d98",
+      "chave": "block__towbar",
+      "hash_es": "f61620c192fc30ea",
+      "texto_ptbr": "Barra de Reboque",
+      "lote": "510"
+    },
+    {
+      "id": "0d69",
+      "chave": "block__tray",
+      "hash_es": "7fc12c8a456c1b48",
+      "texto_ptbr": "Bandeja",
+      "lote": "510"
+    },
+    {
+      "id": "d39a",
+      "chave": "block__vacuum",
+      "hash_es": "7eb254d03e4a37d9",
+      "texto_ptbr": "Aspirador",
+      "lote": "510"
+    },
+    {
+      "id": "02c8",
+      "chave": "block__weldar",
+      "hash_es": "8a0ecaded4132677",
+      "texto_ptbr": "Bafo do Weldar",
+      "lote": "513"
+    },
+    {
+      "id": "5c76",
+      "chave": "block__wheelcat",
+      "hash_es": "f6501e16b654ca02",
+      "texto_ptbr": "Esteira",
+      "lote": "510"
+    },
+    {
+      "id": "f6d0",
+      "chave": "block__wheelhighgrip",
+      "hash_es": "fb38a1f0f56510e6",
+      "texto_ptbr": "Roda de Alta Aderência",
+      "lote": "513"
+    },
+    {
+      "id": "b746",
+      "chave": "block__wheelmonster",
+      "hash_es": "21c19e2a632ddcd4",
+      "texto_ptbr": "Roda Monstro",
+      "lote": "513"
+    },
+    {
+      "id": "6baf",
+      "chave": "block__wheelstandard",
+      "hash_es": "cc19be0b37a6ba08",
+      "texto_ptbr": "Roda Padrão",
+      "lote": "510"
+    },
+    {
+      "id": "ce0d",
+      "chave": "block__wheelsuper",
+      "hash_es": "b8580dd87217be29",
+      "texto_ptbr": "Roda Superior",
+      "lote": "510"
+    },
+    {
+      "id": "3e9b",
+      "chave": "block__windscreen",
+      "hash_es": "56840a4812d78551",
+      "texto_ptbr": "Para-brisa",
+      "lote": "510"
+    }
+  ]
+}

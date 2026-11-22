@@ -1,0 +1,20 @@
+{
+  "arquivo": "11074036",
+  "asset": "aid_loctext_banjox_showdowntown_ghostcharacters",
+  "frases": [
+    {
+      "id": "1bbd",
+      "chave": "dialog__ghostdisappear1",
+      "hash_es": "c556a24ed56db402",
+      "texto_ptbr": "Enfim, as Sereias me chamam! Estou livre, finalmente... livre! Ainda bem, porque estou sentado nesta caixa há 40 anos e o meu traseiro está dormente.",
+      "lote": "505"
+    },
+    {
+      "id": "db50",
+      "chave": "dialog__ghosttalk1",
+      "hash_es": "a7b3421e53e203ef",
+      "texto_ptbr": "Ai de mim! Ai de mim! Estou condenado a ficar neste pico ventoso até ouvir o lendário canto das Sereias...",
+      "lote": "505"
+    }
+  ]
+}

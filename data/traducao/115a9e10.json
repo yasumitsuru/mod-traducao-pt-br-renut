@@ -1,0 +1,265 @@
+{
+  "arquivo": "115a9e10",
+  "asset": "aid_loctext_banjox_worldofsport_actww",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "ae32816567a8fbe4",
+      "texto_ptbr": "Ganhou essa rodada, urso asqueroso! Vamos de novo, se for corajoso!",
+      "lote": "602"
+    },
+    {
+      "id": "b254",
+      "chave": "dialog__game1_fail",
+      "hash_es": "4823b16f6021a5e9",
+      "texto_ptbr": "Perdeu a manha, tá gordo e lento: Grunty vence porque é um talento!",
+      "lote": "602"
+    },
+    {
+      "id": "3451",
+      "chave": "dialog__game1_gruntyemitdialog1",
+      "hash_es": "e23ad58a349fec43",
+      "texto_ptbr": "Mexe essa carcaça, o tempo tá voando! Bata o relógio ou vai levando!",
+      "lote": "602"
+    },
+    {
+      "id": "3452",
+      "chave": "dialog__game1_gruntyemitdialog2",
+      "hash_es": "2775b32d0adc1ead",
+      "texto_ptbr": "Não defende essas bolas a vida inteira: esse taco laser é uma brincadeira!",
+      "lote": "602"
+    },
+    {
+      "id": "3453",
+      "chave": "dialog__game1_gruntyemitdialog3",
+      "hash_es": "60235fd92d19b104",
+      "texto_ptbr": "Laser Grunty avançando, segura essa bola sem piscar: minha mira é de chorar!",
+      "lote": "602"
+    },
+    {
+      "id": "3454",
+      "chave": "dialog__game1_gruntyemitdialog4",
+      "hash_es": "db912c80e85eb6ba",
+      "texto_ptbr": "Só me tira do compasso se pegar as bolas e acelerar o passo!",
+      "lote": "602"
+    },
+    {
+      "id": "3455",
+      "chave": "dialog__game1_gruntyemitdialog5",
+      "hash_es": "ff7f877aaf8a10b5",
+      "texto_ptbr": "Quanto mais forte o veículo que me encarar, menor a chance de um futuro cor-de-rosa eu alcançar!",
+      "lote": "607"
+    },
+    {
+      "id": "3456",
+      "chave": "dialog__game1_gruntyemitdialog6",
+      "hash_es": "ef52f942a5bc3ca0",
+      "texto_ptbr": "Nada de levar a bola onde eu não chego: seria um golpe baixo, e eu não nego!",
+      "lote": "602"
+    },
+    {
+      "id": "3457",
+      "chave": "dialog__game1_gruntyemitdialog7",
+      "hash_es": "8e77b6eafc1d7846",
+      "texto_ptbr": "Armada até os dentes, mas ruim na defesa: se tivesse cérebro, me derrubava sem surpresa!",
+      "lote": "602"
+    },
+    {
+      "id": "3458",
+      "chave": "dialog__game1_gruntyemitdialog8",
+      "hash_es": "6dbbc44e0054fa38",
+      "texto_ptbr": "Aqui é tudo velocidade e precisão: preciso de 5 bolas pra sair dessa confusão!",
+      "lote": "602"
+    },
+    {
+      "id": "8085",
+      "chave": "dialog__game1_gruntylose1",
+      "hash_es": "c716551978e49a2e",
+      "texto_ptbr": "Não estraga a diversão, seu palhaço peludo! Você arma as bolas, eu derrubo tudo!",
+      "lote": "602"
+    },
+    {
+      "id": "8086",
+      "chave": "dialog__game1_gruntylose2",
+      "hash_es": "3fe6b0d342d98e5a",
+      "texto_ptbr": "Isso não vale, é injusto demais! Você vai pagar caro, seu urso suado e voraz!",
+      "lote": "602"
+    },
+    {
+      "id": "8087",
+      "chave": "dialog__game1_gruntylose3",
+      "hash_es": "178981231e66b6a9",
+      "texto_ptbr": "Tá trapaceando, confessa de vez! Não mexe na minha máquina outra vez!",
+      "lote": "602"
+    },
+    {
+      "id": "8088",
+      "chave": "dialog__game1_gruntylose4",
+      "hash_es": "ce0088321a293cd5",
+      "texto_ptbr": "Esses lasers eram pra te destruir, mas tá tudo errado... e eu te odeio, vou repetir!",
+      "lote": "602"
+    },
+    {
+      "id": "8089",
+      "chave": "dialog__game1_gruntylose5",
+      "hash_es": "4311616eedcd0944",
+      "texto_ptbr": "Obrigada por nada, seu teimoso sem noção! Está sabotando a minha invenção!",
+      "lote": "602"
+    },
+    {
+      "id": "b3a0",
+      "chave": "dialog__game1_gruntywin1",
+      "hash_es": "55b7aef27495922d",
+      "texto_ptbr": "Esse laser me faz quase imbatível. Curve-se e beije meus pés verruguentos, urso horrível!",
+      "lote": "602"
+    },
+    {
+      "id": "b3a1",
+      "chave": "dialog__game1_gruntywin2",
+      "hash_es": "f7e1f89e49f2a828",
+      "texto_ptbr": "Grunty avança feito foguete e o urso marrom vai pra caçapa, seu pateta!",
+      "lote": "607"
+    },
+    {
+      "id": "b3a2",
+      "chave": "dialog__game1_gruntywin3",
+      "hash_es": "9223b9336c96edee",
+      "texto_ptbr": "Serei campeã, isso é evidente: desista, seu peludo, e não seja insolente!",
+      "lote": "607"
+    },
+    {
+      "id": "b3a3",
+      "chave": "dialog__game1_gruntywin4",
+      "hash_es": "c552ac6d355119bd",
+      "texto_ptbr": "Desista agora, com toda a decência: perdemos menos tempo e eu faço minha reverência!",
+      "lote": "607"
+    },
+    {
+      "id": "b3a4",
+      "chave": "dialog__game1_gruntywin5",
+      "hash_es": "624eb8b82fa577a7",
+      "texto_ptbr": "Outra bola idiota estraçalhada: espero que te deixe com a cara amarrada!",
+      "lote": "602"
+    },
+    {
+      "id": "9744",
+      "chave": "dialog__game1_intro",
+      "hash_es": "3a66c1bbb0ae0780",
+      "texto_ptbr": "Bola 9 é o meu jogo, minha criação: Grunty, a trapaceira, é a minha designação!",
+      "lote": "607"
+    },
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "1650b06ce6f15e98",
+      "texto_ptbr": "Minha arma nova é gloriosa: vou estraçalhar suas bolas e sair vitoriosa!",
+      "lote": "602"
+    },
+    {
+      "id": "d532",
+      "chave": "dialog__game1_successa",
+      "hash_es": "51c8a22ae111c8fe",
+      "texto_ptbr": "Me derrotou sem errar uma tacada, seu urso farrapento: você me deixa enjoada!",
+      "lote": "607"
+    },
+    {
+      "id": "d534",
+      "chave": "dialog__game1_successc",
+      "hash_es": "f2e6efeb7f488e08",
+      "texto_ptbr": "O quê? Grunty manda, isso é fato comprovado: você só venceu porque trapaceou, seu safado!",
+      "lote": "607"
+    },
+    {
+      "id": "d536",
+      "chave": "dialog__game1_successe",
+      "hash_es": "d893a2627ede2b2a",
+      "texto_ptbr": "Foi por pouco, você passou raspando! Quer prêmio grande? Vai ficando esperando!",
+      "lote": "602"
+    },
+    {
+      "id": "c0c4",
+      "chave": "dialog__jinjoblue_greeting",
+      "hash_es": "238cb4b3eb510e7a",
+      "texto_ptbr": "{MOODHAPPY}Eu já estava achando que o pessoal me evitava! Talvez todos temam a porradaria Jinjo... e você, bola de pelos?",
+      "lote": "602"
+    },
+    {
+      "id": "1182",
+      "chave": "dialog__jinjoblue_lose",
+      "hash_es": "994597026392990c",
+      "texto_ptbr": "{MOODHAPPY}Eba! O maior vencedor do mundo triunfa sobre o maior perdedor do mundo! Porradaria Jinjo, choque e pavor!",
+      "lote": "602"
+    },
+    {
+      "id": "8d5d",
+      "chave": "dialog__jinjoblue_objectives",
+      "hash_es": "e819c3aedfe08fa2",
+      "texto_ptbr": "{MOODHAPPY}O primeiro a cair pela borda é o maior perdedor do mundo!",
+      "lote": "602"
+    },
+    {
+      "id": "0f7d",
+      "chave": "dialog__jinjoblue_win",
+      "hash_es": "04d7bbb31de05fa4",
+      "texto_ptbr": "{MOODSAD}O quê? Eu sou o maior perdedor do mundo? Isso é meio ruim. Toma, bola de pelos, pegue o seu prêmio!",
+      "lote": "602"
+    },
+    {
+      "id": "ca0d",
+      "chave": "dialog__jinjogreen_greeting",
+      "hash_es": "f08842ec4f6e89b4",
+      "texto_ptbr": "{MOODHAPPY}Eu já ia pra casa, cansei de ser espectador de esporte. Mas agora você chegou! Que tal um jogo de velocidade?",
+      "lote": "602"
+    },
+    {
+      "id": "de4b",
+      "chave": "dialog__jinjogreen_lose",
+      "hash_es": "ae3d95b485ffb4d5",
+      "texto_ptbr": "{MOODSAD}Que decepção! Talvez eu devesse esperar por alguém um pouco mais dinâmico que um urso lento...",
+      "lote": "602"
+    },
+    {
+      "id": "0ce6",
+      "chave": "dialog__jinjogreen_objectives",
+      "hash_es": "30b2d16fcc2905e0",
+      "texto_ptbr": "{MOODHAPPY}Acelere até a velocidade indicada e você vence! Pronto? Acelera!",
+      "lote": "602"
+    },
+    {
+      "id": "e726",
+      "chave": "dialog__jinjogreen_win",
+      "hash_es": "afd178bd4c5787cc",
+      "texto_ptbr": "{MOODHAPPY}Mais rápido que uma bala peluda com mochila! Aqui está uma Ficha Jinjo pra você, raio veloz!",
+      "lote": "602"
+    },
+    {
+      "id": "9fae",
+      "chave": "dialog__jinjopink_greeting",
+      "hash_es": "e96ee8220d35f70d",
+      "texto_ptbr": "{MOODHAPPY}Já tentei o dia todo, e é impossível me arremessar a uma distância razoável sem ajuda. Foi por isso que você veio?",
+      "lote": "602"
+    },
+    {
+      "id": "0b6c",
+      "chave": "dialog__jinjopink_lose",
+      "hash_es": "57693d2eae043e40",
+      "texto_ptbr": "{MOODSAD}Não deu! De volta às tentativas solo, eu acho. Obrigado assim mesmo...",
+      "lote": "602"
+    },
+    {
+      "id": "cec7",
+      "chave": "dialog__jinjopink_objectives",
+      "hash_es": "fbc6eceb91929a8e",
+      "texto_ptbr": "{MOODHAPPY}Certo, defini uma distância-alvo, e bem ambiciosa por sinal. Você consegue me arremessar até lá?",
+      "lote": "602"
+    },
+    {
+      "id": "7427",
+      "chave": "dialog__jinjopink_win",
+      "hash_es": "ffd28b1733ab13ca",
+      "texto_ptbr": "{MOODHAPPY}Oba! Claramente essa não é a primeira vez que você arremessa um Jinjo!",
+      "lote": "602"
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "arquivo": "11a4db3b",
+  "asset": "aid_loctext_banjox_garagetutorial_default",
+  "frases": [
+    {
+      "id": "54c8",
+      "chave": "dialog__advancedsettings_vid1",
+      "hash_es": "c43e2656e918b72a",
+      "texto_ptbr": "Quando urso colocar rodas, Mumbo decidir como rodas funcionar para ter melhor desempenho. Jogador avançado poder apertar [RS] botão superior direito para mudar ajustes de Mumbo e fazer veículos especializados.",
+      "lote": "504"
+    },
+    {
+      "id": "54c9",
+      "chave": "dialog__advancedsettings_vid2",
+      "hash_es": "6df47c06861e95f2",
+      "texto_ptbr": "Xamã esperto também garantir que hélices funcionar bem quando urso colocar, mas jogador avançado poder apertar [RS] botão superior direito para mudar ajustes de Mumbo e fazer veículos especializados.",
+      "lote": "504"
+    },
+    {
+      "id": "8ed9",
+      "chave": "dialog__buildpart1_vid1",
+      "hash_es": "cbc9f3fe184a0354",
+      "texto_ptbr": "Muito fácil juntar peças. Contorno verde significar que peça poder ser colocada. Contorno vermelho significar que peça não poder ser colocada porque outra peça já estar ali. Mover peça até vermelho ficar verde.",
+      "lote": "504"
+    },
+    {
+      "id": "8eda",
+      "chave": "dialog__buildpart1_vid2",
+      "hash_es": "c7d4ec21ba09c20f",
+      "texto_ptbr": "Contorno laranja aparecer se peça não estar conectada a outra peça. Urso consertar isso fácil. Aproximar peças ou preencher espaço com outras peças. ",
+      "lote": "504"
+    },
+    {
+      "id": "8edb",
+      "chave": "dialog__buildpart1_vid3",
+      "hash_es": "fc0e12865810153e",
+      "texto_ptbr": "Puxar [LT] gatilho esquerdo ou [RT] gatilho direito para colocar peças em camadas diferentes. Isso permitir urso fazer veículo grande e alto com muitas camadas.",
+      "lote": "504"
+    },
+    {
+      "id": "8edc",
+      "chave": "dialog__buildpart1_vid4",
+      "hash_es": "21ea271c4a8ecc61",
+      "texto_ptbr": "Girar peças ser fácil, só apertar esquerda, direita, cima ou baixo no [DPAD] direcional. Segurar [DPAD] direcional para peça voltar à direção original se urso ficar todo confuso.",
+      "lote": "504"
+    },
+    {
+      "id": "8edd",
+      "chave": "dialog__buildpart1_vid5",
+      "hash_es": "be9799698afa9a28",
+      "texto_ptbr": "Urso poder mover [RSTICK] analógico direito para cima, baixo, esquerda ou direita e ver veículo de todos os lados. Também poder ver de distâncias diferentes clicando [RSTICK] analógico direito.",
+      "lote": "504"
+    },
+    {
+      "id": "b77a",
+      "chave": "dialog__buildpart2_vid1",
+      "hash_es": "f653d194dec63358",
+      "texto_ptbr": "Quando urso apertar Botão [X] para modificar veículo, apertar Botão [Y] se precisar remover peças e voltar à Loja de Peças. Também poder segurar Botão [Y] para remover todas as peças.",
+      "lote": "504"
+    },
+    {
+      "id": "b77b",
+      "chave": "dialog__buildpart2_vid2",
+      "hash_es": "dd807368eb316574",
+      "texto_ptbr": "Urso querer mover peças que já estar no veículo? Eekumbokum. Apertar Botão [A] para selecionar, depois apertar Botão [A] de novo para separar. Urso poder mover peças separadas para lugar novo e apertar Botão [A] para encaixar de novo.",
+      "lote": "504"
+    },
+    {
+      "id": "b77c",
+      "chave": "dialog__buildpart2_vid3",
+      "hash_es": "9f5f22a121acd92e",
+      "texto_ptbr": "Peças poder ser largadas no chão apertando [LS] botão superior esquerdo. Útil se urso querer pôr peças em lugar fora do caminho. Apertar [LS] botão superior esquerdo de novo para pegar peças largadas.",
+      "lote": "504"
+    },
+    {
+      "id": "93fc",
+      "chave": "dialog__buildshoppingtrolley_intro",
+      "hash_es": "02a2c03eec9ed21f",
+      "texto_ptbr": "Senhor dos Jogos dizer que urso precisar reconstruir veículo destruído. Mestre Mecânico Mumbo explicar como.",
+      "lote": "504"
+    },
+    {
+      "id": "f2ad",
+      "chave": "dialog__buildshoppingtrolley_step01",
+      "hash_es": "3121db309edced4e",
+      "texto_ptbr": "Primeiro urso escolher arco Oficina para entrar na Loja de Peças. Começo fácil, com certeza até urso conseguir apertar Botão [A] para selecionar.",
+      "lote": "504"
+    },
+    {
+      "id": "f2ae",
+      "chave": "dialog__buildshoppingtrolley_step02",
+      "hash_es": "865005ddae64acd4",
+      "texto_ptbr": "Hmmm. Mumbo lembrar que veículo do S.J. parecer carrinho de compras, então urso precisar de bandeja para começar. Bandeja carregar coisas bem. Urso escolher bandeja na categoria Armazenamento agora.",
+      "lote": "504"
+    },
+    {
+      "id": "f2af",
+      "chave": "dialog__buildshoppingtrolley_step03",
+      "hash_es": "d4bcca5db717c89a",
+      "texto_ptbr": "Mumbo aprovar. Agora urso pôr bandeja onde Mumbo mostrar. Usar [LSTICK] analógico esquerdo para mover bandeja.",
+      "lote": "504"
+    },
+    {
+      "id": "48f1",
+      "chave": "dialog__buildshoppingtrolley_step03b",
+      "hash_es": "a306908656eee88d",
+      "texto_ptbr": "Eekumbokum! Bandeja no lugar certo, urso ver contorno ficar verde. Apertar Botão [A] para colocar bandeja.",
+      "lote": "504"
+    },
+    {
+      "id": "f2b0",
+      "chave": "dialog__buildshoppingtrolley_step04",
+      "hash_es": "a25fd008b511d1a9",
+      "texto_ptbr": "Urso ouvir bem e bandeja já colocada. Carrinho precisar de rodas em seguida. Apertar Botão [B] para voltar à Loja de Peças e escolher rodas.",
+      "lote": "504"
+    },
+    {
+      "id": "f2b1",
+      "chave": "dialog__buildshoppingtrolley_step05",
+      "hash_es": "b99e37d8df7e9634",
+      "texto_ptbr": "Rodas fazer veículos andar e carrinho precisar de quatro. Urso colocar rodas onde Mumbo mostrar. Cada vez que peça colocada, Mumbo dar outra até acabar.",
+      "lote": "504"
+    },
+    {
+      "id": "4933",
+      "chave": "dialog__buildshoppingtrolley_step05b",
+      "hash_es": "8569d2dd44e6f6c2",
+      "texto_ptbr": "Ver como rodas ficar nos cantos do carrinho? Isso fazer veículo dirigir melhor. Se rodas muito perto, veículo não dirigir tão bem.",
+      "lote": "504"
+    },
+    {
+      "id": "f2b2",
+      "chave": "dialog__buildshoppingtrolley_step06",
+      "hash_es": "c5c0482dd188053a",
+      "texto_ptbr": "Mumbo impressionado, não achar que urso burro chegar tão longe. Veículo agora precisar de assento se urso realmente querer dirigir. Apertar Botão [B] para voltar à Loja de Peças e selecionar assento.",
+      "lote": "504"
+    },
+    {
+      "id": "f2b3",
+      "chave": "dialog__buildshoppingtrolley_step07",
+      "hash_es": "ce8f2b635db3dd67",
+      "texto_ptbr": "Veículos ter só um assento de motorista, sempre virado para onde veículo andar. Mumbo mostrar a urso onde colocar assento.",
+      "lote": "504"
+    },
+    {
+      "id": "f2b4",
+      "chave": "dialog__buildshoppingtrolley_step08",
+      "hash_es": "e43bbad5cd2af34c",
+      "texto_ptbr": "Bom. Urso quase terminar, faltar só duas peças. Carrinho precisar de potência para andar. Apertar Botão [B] para voltar à Loja de Peças e selecionar motor da categoria Potência.",
+      "lote": "504"
+    },
+    {
+      "id": "f2b5",
+      "chave": "dialog__buildshoppingtrolley_step09",
+      "hash_es": "1ef8d283698b9a52",
+      "texto_ptbr": "Motores dar potência às rodas para elas girar rápido. Pôr motor em qualquer lugar do veículo e ainda funcionar, Mumbo garantir. Carrinho ter motor embaixo, então pôr lá agora.",
+      "lote": "504"
+    },
+    {
+      "id": "f2cd",
+      "chave": "dialog__buildshoppingtrolley_step10",
+      "hash_es": "a61c15c94bf14b8a",
+      "texto_ptbr": "Motor precisar de combustível ou não funcionar. Apertar Botão [B] para voltar à Loja de Peças e selecionar combustível. Esta ser última peça do carrinho.",
+      "lote": "504"
+    },
+    {
+      "id": "f2ce",
+      "chave": "dialog__buildshoppingtrolley_step11",
+      "hash_es": "db2e0c218c00f446",
+      "texto_ptbr": "Urso só precisar pôr combustível onde Mumbo mostrar e carrinho estar pronto. Oomenacka!",
+      "lote": "504"
+    },
+    {
+      "id": "f2cf",
+      "chave": "dialog__buildshoppingtrolley_step12",
+      "hash_es": "309967505f379e18",
+      "texto_ptbr": "Urso fazer ótimo trabalho, veículo completo e Mumbo surpreso. Carrinho agora ser salvo no banco de dados de veículos para urso poder usar quando precisar.",
+      "lote": "504"
+    },
+    {
+      "id": "f2d0",
+      "chave": "dialog__buildshoppingtrolley_step13",
+      "hash_es": "656cb83cc41fa4f9",
+      "texto_ptbr": "Urso poder construir veículos na garagem quando quiser, mas agora ser hora de começar a jogar com lindo carrinho consertado. Escolher arco Sair da garagem para sair dos Motores do Mumbo.",
+      "lote": "504"
+    },
+    {
+      "id": "ee51",
+      "chave": "dialog__buildtips_vid1",
+      "hash_es": "793b6d476a775c18",
+      "texto_ptbr": "Dica 1. Veículos provavelmente tombar se muito altos e rodas juntas. Veículos não tombar se menos altos e rodas afastadas.",
+      "lote": "504"
+    },
+    {
+      "id": "ee52",
+      "chave": "dialog__buildtips_vid2",
+      "hash_es": "ee2f02b197c22814",
+      "texto_ptbr": "Dica 2. Se peças não bem distribuídas, veículo provavelmente inclinar e tombar. Veículos com peças bem distribuídas dirigir muito melhor.",
+      "lote": "504"
+    },
+    {
+      "id": "ee53",
+      "chave": "dialog__buildtips_vid3",
+      "hash_es": "10f3e6b13dbb661a",
+      "texto_ptbr": "Dica 3. Veículos pequenos e leves mais ágeis e precisar de menos potência, mas fracos como Kazooie. Veículos grandes e pesados menos ágeis e precisar de mais potência, mas fortes como poderoso xamã.",
+      "lote": "504"
+    },
+    {
+      "id": "ee54",
+      "chave": "dialog__buildtips_vid4",
+      "hash_es": "4cef076e19aa8d16",
+      "texto_ptbr": "Dica 4. Acrescentar motores, combustível e munição extras para melhorar desempenho dos veículos de urso.",
+      "lote": "504"
+    },
+    {
+      "id": "ee55",
+      "chave": "dialog__buildtips_vid5",
+      "hash_es": "0b45082948bef323",
+      "texto_ptbr": "Dica 5. Para construir aviões, acrescentar asas, hélice e motor. Duas asas bom, mas urso poder tentar mais ou menos, e provavelmente vai tentar. Se avião pesado como Grunty, precisar de mais potência para levantar voo.",
+      "lote": "504"
+    },
+    {
+      "id": "ee56",
+      "chave": "dialog__buildtips_vid6",
+      "hash_es": "467bcbbeb8a1c17a",
+      "texto_ptbr": "Dica 6. Para construir helicópteros, urso precisar virar hélice para cima e acrescentar motor. Se helicóptero pesado e não decolar, acrescentar mais potência até virar lobo em vez de gatinho.",
+      "lote": "504"
+    },
+    {
+      "id": "ee57",
+      "chave": "dialog__buildtips_vid7",
+      "hash_es": "9ea43bdf6da713a8",
+      "texto_ptbr": "Dica 7. Fácil fazer barco, acrescentar flutuadores e hélices. Veículos mais pesados precisar de mais flutuadores, ou barco afundar como este jogo nas lojas.",
+      "lote": "504"
+    },
+    {
+      "id": "708d",
+      "chave": "dialog__vehicleinfo_vid1",
+      "hash_es": "2012b87b6b132383",
+      "texto_ptbr": "Medidor de potência mostrar quão rápido veículo poder ir. Acrescentar mais peças de potência para veículo ficar mais rápido, mas urso provavelmente precisar de muito combustível ou parar depois de viagem curta.",
+      "lote": "504"
+    },
+    {
+      "id": "708e",
+      "chave": "dialog__vehicleinfo_vid2",
+      "hash_es": "22f8c59ef3a54c00",
+      "texto_ptbr": "Medidor de combustível mostrar quão longe veículo poder ir. Peças de potência diferentes gastar combustível em ritmos diferentes, então se veículo ter muita potência, urso precisar de muito combustível.",
+      "lote": "504"
+    },
+    {
+      "id": "708f",
+      "chave": "dialog__vehicleinfo_vid3",
+      "hash_es": "e243e754c5a05676",
+      "texto_ptbr": "Medidor de munição mostrar quanto urso poder atirar. Armas que precisar de munição gastar em ritmos diferentes, então se urso querer atirar muito com arma grande, ele precisar de muita munição.",
+      "lote": "504"
+    },
+    {
+      "id": "7090",
+      "chave": "dialog__vehicleinfo_vid4",
+      "hash_es": "f5bc3bb197a80f73",
+      "texto_ptbr": "Medidor de peso mostrar quão pesado veículo ser. Quanto mais pesado veículo ficar, aceleração ficar mais lenta e veículo não virar tão bem. Acrescentar mais potência ou reduzir peso para veículo ficar melhor.",
+      "lote": "504"
+    },
+    {
+      "id": "7091",
+      "chave": "dialog__vehicleinfo_vid5",
+      "hash_es": "ac9c6bcef9dbeb1e",
+      "texto_ptbr": "Medidor de peças mostrar quantas peças formar veículo. Normas de saúde e segurança do S.J. não permitir veículos com mais de 250 peças, mas Mumbo achar que desenvolvedores só ser preguiçosos.",
+      "lote": "504"
+    },
+    {
+      "id": "7092",
+      "chave": "dialog__vehicleinfo_vid6",
+      "hash_es": "2815e5a4094176d5",
+      "texto_ptbr": "Medidor de força mostrar quão forte veículo ser. Até urso entender este! Veículo poder ficar mais forte se peças estar conectadas ao maior número possível de outras peças.",
+      "lote": "504"
+    },
+    {
+      "id": "5264",
+      "chave": "dialog__vehiclemaintenance_vid1",
+      "hash_es": "d734fe906139af4f",
+      "texto_ptbr": "Peças velhas que se soltar do veículo de urso poder ser recolocadas rápido no lugar original quando a pé, pegando e apertando Botão [X].",
+      "lote": "504"
+    },
+    {
+      "id": "5265",
+      "chave": "dialog__vehiclemaintenance_vid2",
+      "hash_es": "8ea1a9b00f70ff19",
+      "texto_ptbr": "Urso poder escolher onde encaixar peças velhas ou novas quando a pé, pegando e apertando Botão [B]. Igualzinho a construir veículos nos Motores do Mumbo! Bom, quase.",
+      "lote": "504"
+    },
+    {
+      "id": "5266",
+      "chave": "dialog__vehiclemaintenance_vid3",
+      "hash_es": "6d4a479ea585317d",
+      "texto_ptbr": "Se urso sentado em veículo, todas as peças soltas poder ser recolocadas apertando [RS] botão superior direito. Mumbo achar este método muito legal.",
+      "lote": "504"
+    }
+  ]
+}

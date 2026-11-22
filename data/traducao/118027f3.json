@@ -1,0 +1,20 @@
+{
+  "arquivo": "118027f3",
+  "asset": "aid_loctext_banjox_showdowntown_jigovend",
+  "frases": [
+    {
+      "id": "9ede",
+      "chave": "dialog__jigovend_firsttimeinrange",
+      "hash_es": "aa451c350aba09d2",
+      "texto_ptbr": "Quando estiver ao alcance da Máquina de Jiggies, aperte o Botão [X] para fixar a mira no Parafuso de Apertar.",
+      "lote": "505"
+    },
+    {
+      "id": "cf29",
+      "chave": "dialog__jigovend_firsttimelockedon",
+      "hash_es": "e5824bcf0c2256a5",
+      "texto_ptbr": "Gire o [LSTICK] analógico esquerdo para girar o Parafuso e liberar os Jiggies guardados dentro; depois leve-os ao Banco de Jiggies.",
+      "lote": "505"
+    }
+  ]
+}

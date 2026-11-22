@@ -1,0 +1,607 @@
+{
+  "arquivo": "112a5409",
+  "asset": "aid_loctext_banjox_ui_ingame_garage",
+  "frases": [
+    {
+      "id": "5729",
+      "chave": "garage__blueprintsdisplay_advancedsettings",
+      "hash_es": "3eae655b7a417781",
+      "texto_ptbr": "Ajustes das peças",
+      "lote": "504"
+    },
+    {
+      "id": "fd3f",
+      "chave": "garage__blueprintsdisplay_awardconfirm",
+      "hash_es": "e3b0c44298fc1c14",
+      "texto_ptbr": ""
+    },
+    {
+      "id": "a5b3",
+      "chave": "garage__blueprintsdisplay_blueprintlist",
+      "hash_es": "9c0dd519fecba44c",
+      "texto_ptbr": "Projetos de veículos",
+      "lote": "504"
+    },
+    {
+      "id": "5367",
+      "chave": "garage__blueprintsdisplay_bpdelete",
+      "hash_es": "a914a37eb68eefb3",
+      "texto_ptbr": "Excluir veículo",
+      "lote": "504"
+    },
+    {
+      "id": "74b4",
+      "chave": "garage__blueprintsdisplay_bpload",
+      "hash_es": "ef09f55306a2271f",
+      "texto_ptbr": "Carregar veículo",
+      "lote": "504"
+    },
+    {
+      "id": "319e",
+      "chave": "garage__blueprintsdisplay_bpnew",
+      "hash_es": "f86ee15fd67d3e6d",
+      "texto_ptbr": "Novo veículo",
+      "lote": "504"
+    },
+    {
+      "id": "1283",
+      "chave": "garage__blueprintsdisplay_bpsave",
+      "hash_es": "f6fe70150bb43859",
+      "texto_ptbr": "Salvar veículo",
+      "lote": "504"
+    },
+    {
+      "id": "e8b0",
+      "chave": "garage__blueprintsdisplay_bptemplate",
+      "hash_es": "de155fd2c6fd2149",
+      "texto_ptbr": "Chassi",
+      "lote": "504"
+    },
+    {
+      "id": "739a",
+      "chave": "garage__blueprintsdisplay_buildpart1",
+      "hash_es": "fe660c45229c6134",
+      "texto_ptbr": "Como construir: parte 1",
+      "lote": "504"
+    },
+    {
+      "id": "739b",
+      "chave": "garage__blueprintsdisplay_buildpart2",
+      "hash_es": "01a29c4a120ee8c6",
+      "texto_ptbr": "Como construir: parte 2",
+      "lote": "504"
+    },
+    {
+      "id": "7d92",
+      "chave": "garage__blueprintsdisplay_buildtips",
+      "hash_es": "69cb5b44752cd95a",
+      "texto_ptbr": "Dicas de construção",
+      "lote": "504"
+    },
+    {
+      "id": "c460",
+      "chave": "garage__blueprintsdisplay_buyconfirm",
+      "hash_es": "0a477e50014674d5",
+      "texto_ptbr": "Aviso: tem certeza de que quer fazer esta compra?",
+      "lote": "504"
+    },
+    {
+      "id": "9f03",
+      "chave": "garage__blueprintsdisplay_deleteconfirm",
+      "hash_es": "13b5996142d2453e",
+      "texto_ptbr": "Aviso: excluir vai remover este projeto do banco de dados para sempre. Tem certeza de que quer continuar?",
+      "lote": "504"
+    },
+    {
+      "id": "44bd",
+      "chave": "garage__blueprintsdisplay_guestdelete",
+      "hash_es": "3ba10ba524d6430e",
+      "texto_ptbr": "%s: seu convidado está tentando excluir um projeto salvo. Quer permitir que continue?",
+      "lote": "504"
+    },
+    {
+      "id": "b659",
+      "chave": "garage__blueprintsdisplay_guestsave",
+      "hash_es": "0dfabf188f368f4b",
+      "texto_ptbr": "%s: seu convidado está tentando sobrescrever um projeto salvo. Quer permitir que continue?",
+      "lote": "504"
+    },
+    {
+      "id": "e703",
+      "chave": "garage__blueprintsdisplay_guides",
+      "hash_es": "946050a65c628b60",
+      "texto_ptbr": "Guias em vídeo",
+      "lote": "504"
+    },
+    {
+      "id": "92a2",
+      "chave": "garage__blueprintsdisplay_inbox",
+      "hash_es": "79d033c807babe43",
+      "texto_ptbr": "Projetos recebidos",
+      "lote": "504"
+    },
+    {
+      "id": "8430",
+      "chave": "garage__blueprintsdisplay_loadconfirm",
+      "hash_es": "98ef4ad55cf86672",
+      "texto_ptbr": "Aviso: carregar vai substituir o veículo atual da garagem. Tem certeza de que quer continuar?",
+      "lote": "504"
+    },
+    {
+      "id": "d81a",
+      "chave": "garage__blueprintsdisplay_newconfirm",
+      "hash_es": "1ed199ab11033f29",
+      "texto_ptbr": "Aviso: isto vai apagar da garagem o veículo atual. Tem certeza de que quer continuar?",
+      "lote": "504"
+    },
+    {
+      "id": "35ea",
+      "chave": "garage__blueprintsdisplay_optionslist",
+      "hash_es": "f1ec8d89ec6a56dd",
+      "texto_ptbr": "Opções de projetos",
+      "lote": "504"
+    },
+    {
+      "id": "2d03",
+      "chave": "garage__blueprintsdisplay_outbox",
+      "hash_es": "1afa884a6e6ad677",
+      "texto_ptbr": "Enviar projetos",
+      "lote": "504"
+    },
+    {
+      "id": "9573",
+      "chave": "garage__blueprintsdisplay_receiveconfirm",
+      "hash_es": "2658c07354c070d5",
+      "texto_ptbr": "Aviso: baixar vai substituir o veículo atual da garagem. Tem certeza de que quer continuar?",
+      "lote": "504"
+    },
+    {
+      "id": "a31f",
+      "chave": "garage__blueprintsdisplay_saveconfirm",
+      "hash_es": "2560199b6e3b486d",
+      "texto_ptbr": "Aviso: salvar vai sobrescrever o projeto. Tem certeza de que quer continuar?",
+      "lote": "504"
+    },
+    {
+      "id": "c932",
+      "chave": "garage__blueprintsdisplay_savename",
+      "hash_es": "4cb3acab41d8497a",
+      "texto_ptbr": "Escolha um nome para o seu veículo",
+      "lote": "504"
+    },
+    {
+      "id": "0493",
+      "chave": "garage__blueprintsdisplay_savetitle",
+      "hash_es": "f6fe70150bb43859",
+      "texto_ptbr": "Salvar veículo",
+      "lote": "504"
+    },
+    {
+      "id": "8a4e",
+      "chave": "garage__blueprintsdisplay_sharing",
+      "hash_es": "bdb203eca8935f0f",
+      "texto_ptbr": "Compartilhar projetos",
+      "lote": "504"
+    },
+    {
+      "id": "8f4e",
+      "chave": "garage__blueprintsdisplay_vehicleinfo",
+      "hash_es": "d8a60667315e6904",
+      "texto_ptbr": "Informações do veículo",
+      "lote": "504"
+    },
+    {
+      "id": "a845",
+      "chave": "garage__blueprintsdisplay_vehiclemaintenance",
+      "hash_es": "c368b5567925dd98",
+      "texto_ptbr": "Manutenção do veículo",
+      "lote": "504"
+    },
+    {
+      "id": "279a",
+      "chave": "garage__blueprintsdisplay_videoguides",
+      "hash_es": "946050a65c628b60",
+      "texto_ptbr": "Guias em vídeo",
+      "lote": "504"
+    },
+    {
+      "id": "3880",
+      "chave": "garage__colour_aqua",
+      "hash_es": "b86ac1730441aa85",
+      "texto_ptbr": "Água",
+      "lote": "504"
+    },
+    {
+      "id": "4eb5",
+      "chave": "garage__colour_black",
+      "hash_es": "6723390ac7c7cfce",
+      "texto_ptbr": "Preto",
+      "lote": "504"
+    },
+    {
+      "id": "afa0",
+      "chave": "garage__colour_blue",
+      "hash_es": "b0bf526b23af1961",
+      "texto_ptbr": "Azul",
+      "lote": "504"
+    },
+    {
+      "id": "d720",
+      "chave": "garage__colour_brown",
+      "hash_es": "46d5664fccba625c",
+      "texto_ptbr": "Marrom",
+      "lote": "504"
+    },
+    {
+      "id": "f951",
+      "chave": "garage__colour_greenblue",
+      "hash_es": "ec49ce58de86e43e",
+      "texto_ptbr": "Verde-azulado",
+      "lote": "504"
+    },
+    {
+      "id": "6750",
+      "chave": "garage__colour_greenlime",
+      "hash_es": "40598e1cb1d239fd",
+      "texto_ptbr": "Verde",
+      "lote": "504"
+    },
+    {
+      "id": "7535",
+      "chave": "garage__colour_magenta",
+      "hash_es": "f1fb9bb4e3b1af00",
+      "texto_ptbr": "Pêssego",
+      "lote": "504"
+    },
+    {
+      "id": "f734",
+      "chave": "garage__colour_orange",
+      "hash_es": "15263c30b9565395",
+      "texto_ptbr": "Laranja",
+      "lote": "504"
+    },
+    {
+      "id": "4f4a",
+      "chave": "garage__colour_pink",
+      "hash_es": "75f9577a1637cf7a",
+      "texto_ptbr": "Rosa",
+      "lote": "504"
+    },
+    {
+      "id": "c4f0",
+      "chave": "garage__colour_purple",
+      "hash_es": "b2a78cb479c54123",
+      "texto_ptbr": "Roxo",
+      "lote": "504"
+    },
+    {
+      "id": "76f3",
+      "chave": "garage__colour_red",
+      "hash_es": "7069e90c206b0e2d",
+      "texto_ptbr": "Vermelho",
+      "lote": "504"
+    },
+    {
+      "id": "e72d",
+      "chave": "garage__colour_silver",
+      "hash_es": "5e513da713663800",
+      "texto_ptbr": "Prateado",
+      "lote": "504"
+    },
+    {
+      "id": "4fb4",
+      "chave": "garage__colour_yellow",
+      "hash_es": "8a7ae3ac199faeda",
+      "texto_ptbr": "Amarelo",
+      "lote": "504"
+    },
+    {
+      "id": "3e1b",
+      "chave": "garage__grouping_accessory",
+      "hash_es": "34208e2ed7104cd3",
+      "texto_ptbr": "Acessórios",
+      "lote": "504"
+    },
+    {
+      "id": "8039",
+      "chave": "garage__grouping_ammo",
+      "hash_es": "fc61f6a280235543",
+      "texto_ptbr": "Blocos de munição",
+      "lote": "504"
+    },
+    {
+      "id": "d5bb",
+      "chave": "garage__grouping_ammofree",
+      "hash_es": "4d4405ab34efe9a5",
+      "texto_ptbr": "Sem munição",
+      "lote": "504"
+    },
+    {
+      "id": "7a47",
+      "chave": "garage__grouping_chassisparts",
+      "hash_es": "9d0c60fb5c04e2b8",
+      "texto_ptbr": "Peças do chassi",
+      "lote": "504"
+    },
+    {
+      "id": "e158",
+      "chave": "garage__grouping_engines",
+      "hash_es": "4fbefefa7a709a39",
+      "texto_ptbr": "Motores",
+      "lote": "504"
+    },
+    {
+      "id": "df6d",
+      "chave": "garage__grouping_flight",
+      "hash_es": "ae5858cf326a715d",
+      "texto_ptbr": "Voo",
+      "lote": "504"
+    },
+    {
+      "id": "6243",
+      "chave": "garage__grouping_flyandfloat",
+      "hash_es": "a432d41abe4a3026",
+      "texto_ptbr": "Voar e flutuar",
+      "lote": "504"
+    },
+    {
+      "id": "5f1b",
+      "chave": "garage__grouping_fuel",
+      "hash_es": "1445b35b7279b244",
+      "texto_ptbr": "Tanques de combustível",
+      "lote": "504"
+    },
+    {
+      "id": "559d",
+      "chave": "garage__grouping_fuelfree",
+      "hash_es": "52b2216e39ea0308",
+      "texto_ptbr": "Sem combustível",
+      "lote": "504"
+    },
+    {
+      "id": "c40e",
+      "chave": "garage__grouping_gadgets",
+      "hash_es": "083956c413c7dbd0",
+      "texto_ptbr": "Engenhocas",
+      "lote": "504"
+    },
+    {
+      "id": "4e85",
+      "chave": "garage__grouping_jets",
+      "hash_es": "3403494cc4d5bac0",
+      "texto_ptbr": "Motores a jato",
+      "lote": "504"
+    },
+    {
+      "id": "1891",
+      "chave": "garage__grouping_materials",
+      "hash_es": "216b343fb653e57b",
+      "texto_ptbr": "Materiais",
+      "lote": "504"
+    },
+    {
+      "id": "047b",
+      "chave": "garage__grouping_misc",
+      "hash_es": "3b67630f936154dc",
+      "texto_ptbr": "Diversos",
+      "lote": "504"
+    },
+    {
+      "id": "bde3",
+      "chave": "garage__grouping_props",
+      "hash_es": "c83f5ad65c0b9821",
+      "texto_ptbr": "Hélices",
+      "lote": "504"
+    },
+    {
+      "id": "686a",
+      "chave": "garage__grouping_propulsion",
+      "hash_es": "b7973993b640b132",
+      "texto_ptbr": "Potência",
+      "lote": "504"
+    },
+    {
+      "id": "8136",
+      "chave": "garage__grouping_protection",
+      "hash_es": "a4410bb3098c485a",
+      "texto_ptbr": "Proteção",
+      "lote": "504"
+    },
+    {
+      "id": "ab6f",
+      "chave": "garage__grouping_seats",
+      "hash_es": "a84bceba4d696861",
+      "texto_ptbr": "Assentos",
+      "lote": "504"
+    },
+    {
+      "id": "a404",
+      "chave": "garage__grouping_storage",
+      "hash_es": "43e23bd36cc605b5",
+      "texto_ptbr": "Armazenamento",
+      "lote": "504"
+    },
+    {
+      "id": "e146",
+      "chave": "garage__grouping_useammo",
+      "hash_es": "1a28b4653c3b4f56",
+      "texto_ptbr": "Usa munição",
+      "lote": "504"
+    },
+    {
+      "id": "024c",
+      "chave": "garage__grouping_weapons",
+      "hash_es": "af09dcb5b2994103",
+      "texto_ptbr": "Armas",
+      "lote": "504"
+    },
+    {
+      "id": "b9ea",
+      "chave": "garage__grouping_weights",
+      "hash_es": "08d3b3ad5e1ca26a",
+      "texto_ptbr": "Pesos",
+      "lote": "504"
+    },
+    {
+      "id": "f697",
+      "chave": "garage__grouping_wheels",
+      "hash_es": "c85b931ba0c00761",
+      "texto_ptbr": "Rodas",
+      "lote": "504"
+    },
+    {
+      "id": "4fe9",
+      "chave": "garage__guidesdisplay_building",
+      "hash_es": "83ffbfa96efd0ace",
+      "texto_ptbr": "Construção",
+      "lote": "504"
+    },
+    {
+      "id": "631f",
+      "chave": "garage__guidesdisplay_furtherediting",
+      "hash_es": "2eba946b2e1ee4b6",
+      "texto_ptbr": "Edição",
+      "lote": "504"
+    },
+    {
+      "id": "8510",
+      "chave": "garage__guidesdisplay_gameworlds",
+      "hash_es": "8548607eee0174d5",
+      "texto_ptbr": "Manutenção",
+      "lote": "504"
+    },
+    {
+      "id": "2c35",
+      "chave": "garage__guidesdisplay_painting",
+      "hash_es": "0e4f5ddd5cbf5feb",
+      "texto_ptbr": "Pintura",
+      "lote": "504"
+    },
+    {
+      "id": "fc0c",
+      "chave": "garage__guidesdisplay_settings",
+      "hash_es": "bb507137e3631379",
+      "texto_ptbr": "Ajustes",
+      "lote": "504"
+    },
+    {
+      "id": "dddd",
+      "chave": "garage__guidesdisplay_title",
+      "hash_es": "681b1642c3ece03b",
+      "texto_ptbr": "Guias",
+      "lote": "504"
+    },
+    {
+      "id": "ab0b",
+      "chave": "garage__leave_discardvehicle_noseat_multiplayer",
+      "hash_es": "3727e21ef8450498",
+      "texto_ptbr": "Aviso: no multijogador não dá para usar veículos sem assento. Tem certeza de que quer sair sem assento?",
+      "lote": "504"
+    },
+    {
+      "id": "0efc",
+      "chave": "garage__leavediscomultiplayer",
+      "hash_es": "dbc938fd51e001e2",
+      "texto_ptbr": "Aviso: seu veículo tem peças desconectadas que serão perdidas se você sair. Tem certeza de que quer sair?",
+      "lote": "504"
+    },
+    {
+      "id": "97fe",
+      "chave": "garage__leavenosave",
+      "hash_es": "88382c6bfa187e1a",
+      "texto_ptbr": "Aviso: seu veículo não foi salvo. Tem certeza de que quer sair sem salvar o veículo?",
+      "lote": "504"
+    },
+    {
+      "id": "65ef",
+      "chave": "garage__leavenovehicle",
+      "hash_es": "7eca56eaacbaa94e",
+      "texto_ptbr": "Aviso: você está sem veículo. Tem certeza de que quer sair a pé?",
+      "lote": "504"
+    },
+    {
+      "id": "1d65",
+      "chave": "garage__mode_bandg",
+      "hash_es": "fdc75ec69fd0e56b",
+      "texto_ptbr": "Banco de dados de veículos",
+      "lote": "504"
+    },
+    {
+      "id": "7ba3",
+      "chave": "garage__mode_exit",
+      "hash_es": "839a9ffec15722a2",
+      "texto_ptbr": "Sair da garagem",
+      "lote": "504"
+    },
+    {
+      "id": "7198",
+      "chave": "garage__mode_paints",
+      "hash_es": "c6b616cdd5b1e937",
+      "texto_ptbr": "Loja de Tintas",
+      "lote": "504"
+    },
+    {
+      "id": "b2de",
+      "chave": "garage__mode_testtrack",
+      "hash_es": "e7f630f5c649fac4",
+      "texto_ptbr": "Test-O-Track",
+      "lote": "518"
+    },
+    {
+      "id": "d406",
+      "chave": "garage__mode_workshop",
+      "hash_es": "2818219d4db49f9f",
+      "texto_ptbr": "Oficina",
+      "lote": "504"
+    },
+    {
+      "id": "898c",
+      "chave": "garage__paintsdisplay_colourslist",
+      "hash_es": "a2e3a4ca3d51f890",
+      "texto_ptbr": "Cores",
+      "lote": "504"
+    },
+    {
+      "id": "073e",
+      "chave": "garage__paintsdisplay_optionlist",
+      "hash_es": "81db3b5709d0ba95",
+      "texto_ptbr": "Opções",
+      "lote": "504"
+    },
+    {
+      "id": "e0c5",
+      "chave": "garage__partsdisplay_blockclass",
+      "hash_es": "6033bf4bacc31740",
+      "texto_ptbr": "Loja de Peças",
+      "lote": "504"
+    },
+    {
+      "id": "873e",
+      "chave": "garage__partsdisplay_blockmaterial",
+      "hash_es": "9dfdc52d9b688ac3",
+      "texto_ptbr": "Material do bloco",
+      "lote": "504"
+    },
+    {
+      "id": "a9b1",
+      "chave": "garage__partsdisplay_blocktype",
+      "hash_es": "d3dc06660c03fd33",
+      "texto_ptbr": "Tipo de bloco",
+      "lote": "504"
+    },
+    {
+      "id": "b65b",
+      "chave": "garage__tutorial_quit",
+      "hash_es": "a4da62ef9fa33be3",
+      "texto_ptbr": "Tem certeza de que quer sair do tutorial?",
+      "lote": "504"
+    },
+    {
+      "id": "4267",
+      "chave": "garage__tutorial_quitintro",
+      "hash_es": "6634c68217f96848",
+      "texto_ptbr": "Tem certeza de que quer sair do tutorial e voltar a Showdown Town?",
+      "lote": "518"
+    }
+  ]
+}

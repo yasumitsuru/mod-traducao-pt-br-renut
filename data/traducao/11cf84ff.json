@@ -1,0 +1,279 @@
+{
+  "arquivo": "11cf84ff",
+  "asset": "aid_loctext_banjox_showdowntown_townsfolk",
+  "frases": [
+    {
+      "id": "d053",
+      "chave": "dialog__docks1",
+      "hash_es": "d90fa4444ccfcb10",
+      "texto_ptbr": "Ô, você não tem cara de estivador safado! Some daqui!",
+      "lote": "505"
+    },
+    {
+      "id": "d054",
+      "chave": "dialog__docks2",
+      "hash_es": "6a428dfaaeba6606",
+      "texto_ptbr": "Olha as costas, brutamontes passando! Anda, dá licença!",
+      "lote": "505"
+    },
+    {
+      "id": "d055",
+      "chave": "dialog__docks3",
+      "hash_es": "e6461049a81872b9",
+      "texto_ptbr": "Ninguém sabe por que aquele guindaste gigante está ali. Nenhum de nós consegue alcançá-lo, então a gente fica zanzando por aí sem fazer muita coisa.",
+      "lote": "505"
+    },
+    {
+      "id": "d056",
+      "chave": "dialog__docks4",
+      "hash_es": "ea1674cb9ba7352d",
+      "texto_ptbr": "Dizem que o portão do outro lado do porto leva ao mundo exterior. Nunca vi aberto, então não acredito.",
+      "lote": "505"
+    },
+    {
+      "id": "d057",
+      "chave": "dialog__docks5",
+      "hash_es": "066a245dd91e93c1",
+      "texto_ptbr": "Ô, viu aquele sapo faceiro por aí? É, o de cartola. Não é o tipo de cara que devia ficar rondando pelas Docas, né? Tente a Orla...",
+      "lote": "505"
+    },
+    {
+      "id": "d058",
+      "chave": "dialog__docks6",
+      "hash_es": "bd9c475687e1879a",
+      "texto_ptbr": "Ô! Já comprou bolo naquela confeitaria da praça? Custou o salário de uma semana e estava seco feito serragem. Que golpe! Aposto que era de pacote.",
+      "lote": "505"
+    },
+    {
+      "id": "8b9c",
+      "chave": "dialog__lake1",
+      "hash_es": "9a5f2659d4215e2c",
+      "texto_ptbr": "Não é lindo por aqui? Eu adoro. Acho que vou passear de barco. Sim, que ideia esplêndida!",
+      "lote": "505"
+    },
+    {
+      "id": "8b9d",
+      "chave": "dialog__lake2",
+      "hash_es": "1fc4c12e13bb82c6",
+      "texto_ptbr": "Ouvi dizer que o Portão da Cidade ia abrir hoje. Será por quê...",
+      "lote": "505"
+    },
+    {
+      "id": "8b9e",
+      "chave": "dialog__lake3",
+      "hash_es": "d266a2b628df7121",
+      "texto_ptbr": "Eu adoraria ter um apartamento no Bairro Alto, com uma vista deslumbrante do Lago. Mas estou sem um tostão! Ai, ai...",
+      "lote": "505"
+    },
+    {
+      "id": "8b9f",
+      "chave": "dialog__lake4",
+      "hash_es": "977e20547e46ca17",
+      "texto_ptbr": "Sabe onde posso alugar uma vara de pescar? Tenho certeza de que vi um carrinho de compras no Lago agora há pouco...",
+      "lote": "505"
+    },
+    {
+      "id": "8ba0",
+      "chave": "dialog__lake5",
+      "hash_es": "7f1ec247ba3b93e1",
+      "texto_ptbr": "Não sei por que se deram ao trabalho de construir aquele galpão de barcos no Lago. Nunca vi nenhum barco lá dentro!",
+      "lote": "505"
+    },
+    {
+      "id": "8ba1",
+      "chave": "dialog__lake6",
+      "hash_es": "c5db2e43bcabcbe8",
+      "texto_ptbr": "Que dia lindo para um piquenique à beira do Lago. Mas não vou levar nenhum bolo da confeitaria da praça. A relação entre prazer e peso é totalmente desequilibrada!",
+      "lote": "505"
+    },
+    {
+      "id": "551e",
+      "chave": "dialog__resort1",
+      "hash_es": "0657894789ee8038",
+      "texto_ptbr": "Ei, pare de ficar encarando o meu corpo esbelto de sílfide neste trajinho minúsculo!",
+      "lote": "505"
+    },
+    {
+      "id": "551f",
+      "chave": "dialog__resort2",
+      "hash_es": "23e4cd83b7201eb9",
+      "texto_ptbr": "Ouvi dizer que o píer era duas vezes mais comprido, mas acabou o dinheiro e encurtaram de novo. Qual é a lógica disso?",
+      "lote": "505"
+    },
+    {
+      "id": "5520",
+      "chave": "dialog__resort3",
+      "hash_es": "7b2636df18c9aa99",
+      "texto_ptbr": "Aquele farol é uma porcaria. Não tem luz nenhuma, e nem mesmo serve de casa. Estou horrorizado!",
+      "lote": "505"
+    },
+    {
+      "id": "5521",
+      "chave": "dialog__resort4",
+      "hash_es": "92b8cb5da57715e8",
+      "texto_ptbr": "Tem uns tipos esquisitos por aqui. Deixa pra lá, viva e deixe viver, né? Cadê o carrinho de sorvete?",
+      "lote": "505"
+    },
+    {
+      "id": "5522",
+      "chave": "dialog__resort5",
+      "hash_es": "c932596a7a7871f6",
+      "texto_ptbr": "Um dos pinguins do Centro acha que tem algo interessante na caverna embaixo do farol. Se eu tivesse um barco, iria conferir... talvez.",
+      "lote": "505"
+    },
+    {
+      "id": "5523",
+      "chave": "dialog__resort6",
+      "hash_es": "a1cbf746e71f61a8",
+      "texto_ptbr": "Já jogou o Klungo's Arcade? Nossa, deve ser o pior jogo do &quot;mudno&quot;.",
+      "lote": "518"
+    },
+    {
+      "id": "5524",
+      "chave": "dialog__resort7",
+      "hash_es": "01b8d848f74bdef8",
+      "texto_ptbr": "Está vendo todos estes prédios fechados com tábuas? Eles tinham portas que levavam ao Mundo de Jogo do Oeste Estranho. A lenda diz que era um lugar maravilhoso, mas, ai de nós, não existe mais.",
+      "lote": "505"
+    },
+    {
+      "id": "5525",
+      "chave": "dialog__resort8",
+      "hash_es": "eb4ff55268d1a56c",
+      "texto_ptbr": "Tinha alguém em apuros na água, então joguei um bolo da confeitaria da praça. Aquilo afundou mais rápido que uma pedra!",
+      "lote": "505"
+    },
+    {
+      "id": "04d2",
+      "chave": "dialog__theatredistrict1",
+      "hash_es": "913313f14b7660e6",
+      "texto_ptbr": "Olá, queridinho! Sabe a que horas começa a peça?",
+      "lote": "505"
+    },
+    {
+      "id": "04d3",
+      "chave": "dialog__theatredistrict2",
+      "hash_es": "6aa46349ac21353a",
+      "texto_ptbr": "Sabia que o Distrito dos Teatros é a parte mais baixa da cidade? Mais baixa até que o nível do mar. Sou uma fonte de conhecimento local!",
+      "lote": "505"
+    },
+    {
+      "id": "04d4",
+      "chave": "dialog__theatredistrict3",
+      "hash_es": "5a5e2656fea11a1d",
+      "texto_ptbr": "Eu amo o teatro! As luzes, os aplausos, a maquiagem, os figurinos ousados. Fico tonto só de pensar!",
+      "lote": "505"
+    },
+    {
+      "id": "04d5",
+      "chave": "dialog__theatredistrict4",
+      "hash_es": "ffc367ab1f07451c",
+      "texto_ptbr": "Está vendo o viaduto lá em cima? Pois não é um viaduto, entende? É um aqueduto! Isso mesmo, ele carrega o canal. Que cidade maluca!",
+      "lote": "505"
+    },
+    {
+      "id": "04d6",
+      "chave": "dialog__theatredistrict5",
+      "hash_es": "820614a8464f7c6f",
+      "texto_ptbr": "Eles nos olham de cima lá do Bairro Alto e zombam do nosso distrito apertadinho, mas somos artesãos, artistas, boêmios... e eles, o que são? Um bando de grã-finos ignorantes!",
+      "lote": "505"
+    },
+    {
+      "id": "04d7",
+      "chave": "dialog__theatredistrict6",
+      "hash_es": "e03299d77e40bacd",
+      "texto_ptbr": "Comi um bolo da confeitaria da praça. Agora estou tão letárgico e inchado que não vou estar em forma para o espetáculo desta noite. E nem caibo no figurino!",
+      "lote": "505"
+    },
+    {
+      "id": "2d28",
+      "chave": "dialog__towncentre1",
+      "hash_es": "77630119c5135746",
+      "texto_ptbr": "Não acredito que deixaram o Mumbo construir a loja dele ali. Adoraria encontrar o urbanista e deixar a orelha dele em forma de couve-flor!",
+      "lote": "505"
+    },
+    {
+      "id": "2d29",
+      "chave": "dialog__towncentre2",
+      "hash_es": "e6bf45de9d34d2fd",
+      "texto_ptbr": "O que foi? Tenho coisas a fazer, gente para ver, etc. Vá incomodar aquela toupeira de gosto duvidoso para roupas se quiser informação!",
+      "lote": "505"
+    },
+    {
+      "id": "2d2a",
+      "chave": "dialog__towncentre3",
+      "hash_es": "6080b7883c2b222c",
+      "texto_ptbr": "O-o quê? Eu não fiz nada. Não fui eu. Já estava assim quando eu cheguei! Socorro! Estou sendo oprimido!",
+      "lote": "505"
+    },
+    {
+      "id": "2d2b",
+      "chave": "dialog__towncentre4",
+      "hash_es": "604e64820fdaf762",
+      "texto_ptbr": "Shhh! O S.J. está ouvindo... e observando... sempre observando... Falei demais!",
+      "lote": "505"
+    },
+    {
+      "id": "2d2c",
+      "chave": "dialog__towncentre5",
+      "hash_es": "2da6e2212d9a4c05",
+      "texto_ptbr": "Eu adoraria ir nadar lá na Orla, mas não consigo passar por aquelas encostas escorregadias totalmente impraticáveis!",
+      "lote": "505"
+    },
+    {
+      "id": "2d2d",
+      "chave": "dialog__towncentre6",
+      "hash_es": "fa566ccc82d996ae",
+      "texto_ptbr": "Tem quem diga que há fantasmas aqui em Showdown Town. Fantasmas! Daqui a pouco vão dizer que a polícia é um pouquinho corrupta!",
+      "lote": "518"
+    },
+    {
+      "id": "2d2e",
+      "chave": "dialog__towncentre7",
+      "hash_es": "62c120cd5295fcb0",
+      "texto_ptbr": "Já encomendou algo daquela confeitaria da praça? Tenho minhas suspeitas de que usam misturas baratas de pacote!",
+      "lote": "505"
+    },
+    {
+      "id": "f74c",
+      "chave": "dialog__uptown1",
+      "hash_es": "8105cc40c11ac1c7",
+      "texto_ptbr": "Digo eu, poderia alguém revelar a atual condição do seu cronógrafo?",
+      "lote": "505"
+    },
+    {
+      "id": "f74d",
+      "chave": "dialog__uptown2",
+      "hash_es": "9ed78d057fb5d7de",
+      "texto_ptbr": "Você aí! Suponho que não poderia nos livrar daquele sujeito pirata perto da ponte? Ele cheira mal e atrai moscas. Não gostamos muito do tipo dele!",
+      "lote": "505"
+    },
+    {
+      "id": "f74e",
+      "chave": "dialog__uptown3",
+      "hash_es": "50c529d59378b020",
+      "texto_ptbr": "Com licença, você é importante o bastante para estar aqui em cima? Parece que devia estar lá embaixo, no meio da plebe, com o resto da ralé!",
+      "lote": "505"
+    },
+    {
+      "id": "f74f",
+      "chave": "dialog__uptown4",
+      "hash_es": "6349e3ac8ea45df4",
+      "texto_ptbr": "Digo eu, caro urso, não gostaria de se juntar a nós para o chá da tarde e uns petiscos, hein, hein? Não se preocupe, aqui em cima comemos bolos de verdade, não aquela porcaria da loja da praça.",
+      "lote": "505"
+    },
+    {
+      "id": "f750",
+      "chave": "dialog__uptown5",
+      "hash_es": "02dd6782bbdee7e1",
+      "texto_ptbr": "Graças ao S.J. os plebeus lá de baixo não conseguem subir até aqui. Eles derrubariam o preço dos imóveis!",
+      "lote": "505"
+    },
+    {
+      "id": "f751",
+      "chave": "dialog__uptown6",
+      "hash_es": "5d8ddfb78b219952",
+      "texto_ptbr": "Você deveria estar aqui? Nós, do Bairro Alto, gostamos das coisas de um certo jeito e não apreciamos &quot;personagens&quot; tentando dar &quot;atmosfera,&quot; entendeu?",
+      "lote": "505"
+    }
+  ]
+}

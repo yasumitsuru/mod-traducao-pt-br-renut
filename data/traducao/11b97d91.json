@@ -1,0 +1,559 @@
+{
+  "arquivo": "11b97d91",
+  "asset": "aid_loctext_banjox_banjoland_act5",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "944c9293b5c228d6",
+      "texto_ptbr": "Klungo já admitir derrota desssa vez. Urssso estar perdendo o juízo, ou querer correr de novo?",
+      "lote": "604"
+    },
+    {
+      "id": "b254",
+      "chave": "dialog__game1_fail",
+      "hash_es": "79e968c7474d78ee",
+      "texto_ptbr": "{MOODHAPPY}Doce aroma de favo de mel da vitória! O carro sssupersssônico do Klungo não ter igual!",
+      "lote": "604"
+    },
+    {
+      "id": "9744",
+      "chave": "dialog__game1_intro",
+      "hash_es": "75e9edf762ede9f3",
+      "texto_ptbr": "{MOODHAPPY}Klungo preparar nova corrida com toque pegajoso. Urssso achar que pode ganhar esssta vez?",
+      "lote": "604"
+    },
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "35406e028077ee5f",
+      "texto_ptbr": "Um toque pegajoso, é? Nos ilumine, bochechas de sapo.",
+      "lote": "604"
+    },
+    {
+      "id": "4128",
+      "chave": "dialog__game1_objectivesb",
+      "hash_es": "b4869ecef20d6c02",
+      "texto_ptbr": "Klungo construir carro especial: o Carro Favo de Mel de Banjoland. Rápido nas retasss, e o sabor também é bom. Klungo organizar corrida e enfrentar todos os desafiantesss!",
+      "lote": "604"
+    },
+    {
+      "id": "4129",
+      "chave": "dialog__game1_objectivesc",
+      "hash_es": "c8234c2cb653b507",
+      "texto_ptbr": "Tudo bem. Tem mais alguma coisa que precisamos saber sobre o percurso, Klungo?",
+      "lote": "604"
+    },
+    {
+      "id": "412a",
+      "chave": "dialog__game1_objectivesd",
+      "hash_es": "8081013ea0cea2da",
+      "texto_ptbr": "É... não. Nada maisss com que se preocupar. Definitivamente não se preocupar em danificar os Ovosss Missteriosssosss.",
+      "lote": "604"
+    },
+    {
+      "id": "d532",
+      "chave": "dialog__game1_successa",
+      "hash_es": "d9a28cabb0f4a5de",
+      "texto_ptbr": "{MOODSAD}Carro novo dirigir como Hipopótamo Sssalgado com roda quebrada! Urssso ganhar o prêmio máximo, Klungo voltar para a prancheta. Onde estar giz de cera roxo?",
+      "lote": "604"
+    },
+    {
+      "id": "d534",
+      "chave": "dialog__game1_successc",
+      "hash_es": "e7fd5746ecdd2f23",
+      "texto_ptbr": "Talvez Carro Favo de Mel não ser tão esperto afinal. Urssso ficar com Jiggy, mas pelo menosss Klungo não ser totalmente destruído.",
+      "lote": "604"
+    },
+    {
+      "id": "d536",
+      "chave": "dialog__game1_successe",
+      "hash_es": "1dba4308e7bfc41b",
+      "texto_ptbr": "Klungo tão perto! Urssso não ganhar por margem grande o bastante para prêmios grandes. Regrasss são regrasss!",
+      "lote": "604"
+    },
+    {
+      "id": "f828",
+      "chave": "dialog__game2_beaten",
+      "hash_es": "57620d65eae73715",
+      "texto_ptbr": "Valeu de novo, Banjo. Aposto que a Sra. Boggy já se cansou do iglu novo, se você quiser detoná-lo outra vez...",
+      "lote": "604"
+    },
+    {
+      "id": "daf5",
+      "chave": "dialog__game2_fail",
+      "hash_es": "8c12cdd22516dde3",
+      "texto_ptbr": "{MOODSAD}Até meu 'faça você mesmo' é melhor que isso! Ah, cara... Melhor eu ir começar a tirar as marcas de derrapagem do Loggo.",
+      "lote": "604"
+    },
+    {
+      "id": "d405",
+      "chave": "dialog__game2_intro",
+      "hash_es": "540db91dc74d9004",
+      "texto_ptbr": "Olha só o Boggy, o faxineiro trabalhador! Qual é o problema, a Sra. Boggy está te atormentando de novo?",
+      "lote": "604"
+    },
+    {
+      "id": "5507",
+      "chave": "dialog__game2_introb",
+      "hash_es": "69098f53faf858e4",
+      "texto_ptbr": "{MOODSAD}Ai... parece que nosso iglu está fora de moda e é vergonhoso. Ela quer que eu derrube tudo e comece de novo!",
+      "lote": "604"
+    },
+    {
+      "id": "9d67",
+      "chave": "dialog__game2_objectives",
+      "hash_es": "714c13820e5108ca",
+      "texto_ptbr": "Acho que você vai precisar de uma ajuda nessa demolição. Derrubar a sua casa até que parece divertido...",
+      "lote": "604"
+    },
+    {
+      "id": "4aa9",
+      "chave": "dialog__game2_objectivesb",
+      "hash_es": "18f62d18928e4538",
+      "texto_ptbr": "Derrube o iglu velho o mais rápido que puder e empurre todos os blocos para fora da área marcada. Se o Bottles jogar a culpa em mim, ele me escala para o serviço do Loggo na certa!",
+      "lote": "604"
+    },
+    {
+      "id": "7f79",
+      "chave": "dialog__game2_objectivesrepeat1",
+      "hash_es": "8519ac6f10e604e0",
+      "texto_ptbr": "Não esqueça de empurrar todos os escombros para fora da área marcada!",
+      "lote": "604"
+    },
+    {
+      "id": "7f7a",
+      "chave": "dialog__game2_objectivesrepeat2",
+      "hash_es": "981b7a74214f7983",
+      "texto_ptbr": "Que construção sólida, este iglu. Vai ter que bater com força!",
+      "lote": "604"
+    },
+    {
+      "id": "6653",
+      "chave": "dialog__game2_successa",
+      "hash_es": "a7c18df1370a1036",
+      "texto_ptbr": "{MOODHAPPY}Opa, um verdadeiro especialista em demolição! Dá para ver que tipo de veículo você anda construindo. Nota dez!",
+      "lote": "604"
+    },
+    {
+      "id": "6655",
+      "chave": "dialog__game2_successc",
+      "hash_es": "f0f251de0457231d",
+      "texto_ptbr": "Fico triste de ver o velho iglu ir embora, mas pelo menos você o mandou com estilo. Não gaste esse Jiggy todo de uma vez!",
+      "lote": "604"
+    },
+    {
+      "id": "6657",
+      "chave": "dialog__game2_successe",
+      "hash_es": "3d8c52e9a6d2a8c7",
+      "texto_ptbr": "Ah, finalmente terminou? Quase peguei no sono. Você não vai ganhar grandes recompensas se demorar tanto para fazer qualquer coisa!",
+      "lote": "604"
+    },
+    {
+      "id": "cd09",
+      "chave": "dialog__game3_beaten",
+      "hash_es": "ea34ce2a1ff56151",
+      "texto_ptbr": "Voltou para outra rodada? Sem problema, eu sempre tenho uma ovelha sobrando à mão. Para treinar, você entende.",
+      "lote": "604"
+    },
+    {
+      "id": "0396",
+      "chave": "dialog__game3_fail",
+      "hash_es": "af1b6ece73756b56",
+      "texto_ptbr": "Isso foi um desastre, você precisa de um piloto melhor. Ha ha, pegou? 'Piloto'... e você 'pilota' veículos? Não sou só 'em forma', também sou engraçado!",
+      "lote": "604"
+    },
+    {
+      "id": "10c6",
+      "chave": "dialog__game3_intro",
+      "hash_es": "e2621f7b525cba6c",
+      "texto_ptbr": "Podemos perguntar o que te deixou tão animado, Sr. Em Forma?",
+      "lote": "604"
+    },
+    {
+      "id": "29e8",
+      "chave": "dialog__game3_introb",
+      "hash_es": "3852509bfea42791",
+      "texto_ptbr": "{MOODHAPPY}Outra ovelha aleatória entrou em Banjoland, o que significa que é hora de uma rodada de Golfe com Ovelha! Quer jogar comigo?",
+      "lote": "604"
+    },
+    {
+      "id": "fac8",
+      "chave": "dialog__game3_objectives",
+      "hash_es": "7e13b64a851ee5b7",
+      "texto_ptbr": "Golfe com Ovelha? Quer dizer bater numa ovelha indefesa com um instrumento pesado e contundente até ela cair num buraco escuro?",
+      "lote": "604"
+    },
+    {
+      "id": "542a",
+      "chave": "dialog__game3_objectivesb",
+      "hash_es": "46d6e56fbafdafd6",
+      "texto_ptbr": "Parece muito divertido, me passa um taco!",
+      "lote": "604"
+    },
+    {
+      "id": "542b",
+      "chave": "dialog__game3_objectivesc",
+      "hash_es": "261dd8db1fe6cdbb",
+      "texto_ptbr": "O cano de esgoto do Loggo é o jeito mais rápido de tirar a ovelha do recinto. O objetivo é enfiar a ovelha no vaso com o menor número de tacadas possível.",
+      "lote": "604"
+    },
+    {
+      "id": "542c",
+      "chave": "dialog__game3_objectivesd",
+      "hash_es": "d352a5cd47ce9451",
+      "texto_ptbr": "Legal... então o que conta como uma tacada, Sr. Em Forma?",
+      "lote": "604"
+    },
+    {
+      "id": "542d",
+      "chave": "dialog__game3_objectivese",
+      "hash_es": "2395c5188d49ba6f",
+      "texto_ptbr": "Cada vez que você acertar a ovelha, aumenta o seu total. Até o toque mais leve. Então tome cuidado e tente ficar abaixo do par!",
+      "lote": "604"
+    },
+    {
+      "id": "f774",
+      "chave": "dialog__game3_successa",
+      "hash_es": "0470674758f383ae",
+      "texto_ptbr": "Uau. Você já deve ter jogado isso antes... só não sei onde. O que posso dizer? Fui superado!",
+      "lote": "604"
+    },
+    {
+      "id": "f776",
+      "chave": "dialog__game3_successc",
+      "hash_es": "9ed91c6b74db0fe8",
+      "texto_ptbr": "Nada mal para um novato! A ovelha está de volta ao seu lugar, e o Jiggy do Golfe com Ovelha já está na sua coleção!",
+      "lote": "604"
+    },
+    {
+      "id": "f778",
+      "chave": "dialog__game3_successe",
+      "hash_es": "e46d76d2b202c48d",
+      "texto_ptbr": "Bom, você conseguiu no final, embora não tenha sido exatamente uma tentativa de nível mundial digna de um Jiggy...",
+      "lote": "604"
+    },
+    {
+      "id": "a1ea",
+      "chave": "dialog__game4_beaten",
+      "hash_es": "90db82449a38f140",
+      "texto_ptbr": "Urso querer exibir habilidades de novo? Mumbo feliz em atender.",
+      "lote": "604"
+    },
+    {
+      "id": "2c37",
+      "chave": "dialog__game4_fail",
+      "hash_es": "203dcc61abc8dd2f",
+      "texto_ptbr": "{MOODSAD}Urso chamar isso de entretenimento? Klungo comendo é mais engraçado de ver. Oomenacka!",
+      "lote": "604"
+    },
+    {
+      "id": "a4e1",
+      "chave": "dialog__game4_instructions1",
+      "hash_es": "91b63b03b458aa4c",
+      "texto_ptbr": "Urso ir até o campo de futebol. Deixar marcas pretas grandes por todo o gramado novo do Sr. Em Forma!",
+      "lote": "604"
+    },
+    {
+      "id": "a4e2",
+      "chave": "dialog__game4_instructions2",
+      "hash_es": "47cd25e5347a8358",
+      "texto_ptbr": "Hehe... urso arar o campo muito bem. Agora tentar acrobacias! No ar, empurre [LSTICK] Analógico esquerdo para frente ou para trás e segure o Botão [X] para dar uma cambalhota completa.",
+      "lote": "604"
+    },
+    {
+      "id": "a4e3",
+      "chave": "dialog__game4_instructions3",
+      "hash_es": "f16e5a16bae5dfd6",
+      "texto_ptbr": "Urso girar bem! Agora pular pelos aros para Mumbo. Quanto mais tempo urso segurar o Botão [A], mais alto ele pular.",
+      "lote": "604"
+    },
+    {
+      "id": "a4e4",
+      "chave": "dialog__game4_instructions4",
+      "hash_es": "2f0baba8095559c0",
+      "texto_ptbr": "Urso pular bem, como salmão peludo! Agora fazer giro lateral completo. No ar, empurre [LSTICK] Analógico esquerdo para a esquerda ou para a direita e segure o Botão [X].",
+      "lote": "604"
+    },
+    {
+      "id": "a4e5",
+      "chave": "dialog__game4_instructions5",
+      "hash_es": "4bcc3f53c04e5735",
+      "texto_ptbr": "Urso pegar o jeito da rotina de acrobacias... devagar. Público adorar aros, fazer mais aros. Mais perto do chão desta vez!",
+      "lote": "604"
+    },
+    {
+      "id": "a4e6",
+      "chave": "dialog__game4_instructions6",
+      "hash_es": "84157e8963fcb35e",
+      "texto_ptbr": "Hora do grande final! Urso saltar e impressionar o público com quanto tempo ficar no ar antes de aterrissar. Show terminar quando Mumbo decidir que salto bom o bastante. Oomenacka!",
+      "lote": "604"
+    },
+    {
+      "id": "4d87",
+      "chave": "dialog__game4_intro",
+      "hash_es": "eeb01037599f97d1",
+      "texto_ptbr": "Eekumbokum. Mumbo ter ideia para atrair multidões. Espetáculo de Acrobacias que Desafiam a Morte com os maiores pilotos acrobáticos do mundo!",
+      "lote": "604"
+    },
+    {
+      "id": "fec9",
+      "chave": "dialog__game4_introb",
+      "hash_es": "d28129a76663035a",
+      "texto_ptbr": "Morte? Acrobacias? Que idiotas você enganou para entrar nesse plano? Por que ele está olhando para a gente, Banjo?",
+      "lote": "604"
+    },
+    {
+      "id": "5829",
+      "chave": "dialog__game4_objectives",
+      "hash_es": "21a63e2b74a41e8c",
+      "texto_ptbr": "Urso seguir instruções, garantir que público estar bem entretido. Oomenacka!",
+      "lote": "604"
+    },
+    {
+      "id": "8895",
+      "chave": "dialog__game4_successa",
+      "hash_es": "4d570044f1281af3",
+      "texto_ptbr": "{MOODHAPPY}Eekumbokum! Urso e pássaro mostrar habilidade e coragem incríveis. Clientes voltar com certeza, Mumbo ser promovido!",
+      "lote": "604"
+    },
+    {
+      "id": "8897",
+      "chave": "dialog__game4_successc",
+      "hash_es": "3d7c81cfe1683012",
+      "texto_ptbr": "Eekumbokum! Urso e pássaro ou muito corajosos ou muito burros. Público entretido de qualquer jeito, por isso Mumbo recompensar com Jiggy.",
+      "lote": "604"
+    },
+    {
+      "id": "8899",
+      "chave": "dialog__game4_successe",
+      "hash_es": "399dbb9c8c91c307",
+      "texto_ptbr": "Eekumbokum! Público gostar do show, mas Mumbo quase dormir. Talvez segunda apresentação ser melhor!",
+      "lote": "604"
+    },
+    {
+      "id": "76cb",
+      "chave": "dialog__game5_beaten",
+      "hash_es": "3018777013332ed7",
+      "texto_ptbr": "Talvez essa história de corrida aérea atraia mais visitantes para a exposição da Mansão dos Monstros Malucos! Quer voar de novo?",
+      "lote": "604"
+    },
+    {
+      "id": "508d",
+      "chave": "dialog__game5_beatenb",
+      "hash_es": "00cac1eac7c06175",
+      "texto_ptbr": "Cai na real, bafo de inseto: esses &quot;visitantes&quot; só existem na sua cabeça!",
+      "lote": "604"
+    },
+    {
+      "id": "54d8",
+      "chave": "dialog__game5_fail",
+      "hash_es": "30c9566b631f96d6",
+      "texto_ptbr": "Como você conseguiu perder? Acho que é isso o que acontece quando se pede a um urso para fazer o trabalho de uma toupeira...",
+      "lote": "604"
+    },
+    {
+      "id": "8a48",
+      "chave": "dialog__game5_intro",
+      "hash_es": "342b20057dd578c4",
+      "texto_ptbr": "Então vamos lá, Bottles, que aventuras malucas nos esperam na Mansão dos Monstros Malucos desta vez?",
+      "lote": "604"
+    },
+    {
+      "id": "d3aa",
+      "chave": "dialog__game5_introb",
+      "hash_es": "6cfb88d104f5d9a6",
+      "texto_ptbr": "{MOODANGRY}A transportadora Larga e Vaza devia ter descarregado os componentes grandes da Mansão para você montar! Mas eram pesados demais para carregar, então foram para a sala 'Cortado por Prazo'.",
+      "lote": "604"
+    },
+    {
+      "id": "d3ab",
+      "chave": "dialog__game5_introc",
+      "hash_es": "fa798f3e0ffab69c",
+      "texto_ptbr": "Em vez disso, eu devia te desafiar para essa corrida aérea sem sentido. Mas tenho certeza de que ela viola umas boas dúzias de regras do parque!",
+      "lote": "604"
+    },
+    {
+      "id": "b58a",
+      "chave": "dialog__game5_objectives",
+      "hash_es": "6d642e9dfbe801c8",
+      "texto_ptbr": "Solte o cabelo de uma vez, Quatro-Olhos! Este pode ser o último jogo em que você aparece!",
+      "lote": "604"
+    },
+    {
+      "id": "672c",
+      "chave": "dialog__game5_objectivesb",
+      "hash_es": "9952678fa5d551f3",
+      "texto_ptbr": "Hmpf. Bem, em frente e para cima. A corrida começa logo, então nos vemos no topo da colina perto do Targitzan para a decolagem.",
+      "lote": "604"
+    },
+    {
+      "id": "19b6",
+      "chave": "dialog__game5_successa",
+      "hash_es": "c35c97f947cce1c9",
+      "texto_ptbr": "{MOODHAPPY}Primeiro lugar! Aposto que você acelerou demais e voou baixo demais, mas foi um voo tão sensacional que vou deixar passar!",
+      "lote": "604"
+    },
+    {
+      "id": "19b8",
+      "chave": "dialog__game5_successc",
+      "hash_es": "175416fa02e2b775",
+      "texto_ptbr": "Belo voo! Eu ia usar o Jiggy para pagar os entregadores, mas pode ficar com ele!",
+      "lote": "604"
+    },
+    {
+      "id": "19ba",
+      "chave": "dialog__game5_successe",
+      "hash_es": "57d0df49a09eba6f",
+      "texto_ptbr": "Então você conseguiu... fiquei preocupado por um instante, achei que ia ser um desastre aéreo de verdade!",
+      "lote": "604"
+    },
+    {
+      "id": "4bac",
+      "chave": "dialog__game6_beaten",
+      "hash_es": "624c4653d91cfe02",
+      "texto_ptbr": "O Mr. Patch já era, mas você pode reviver a batalha quando quiser! Me avise se precisar de uma canção de marinheiro inspiradora!",
+      "lote": "608"
+    },
+    {
+      "id": "7d79",
+      "chave": "dialog__game6_fail",
+      "hash_es": "cb74cd075d5b132f",
+      "texto_ptbr": "{MOODSAD}Estamos perdidos! Banjo, você é tão útil quanto um leme quebrado!",
+      "lote": "604"
+    },
+    {
+      "id": "c709",
+      "chave": "dialog__game6_intro",
+      "hash_es": "1e17a6609861804e",
+      "texto_ptbr": "{MOODSAD}Estão sentindo esse cheiro, meus camaradas? É o cheiro do pavor inflável do Mr. Patch no horizonte!",
+      "lote": "608"
+    },
+    {
+      "id": "a88b",
+      "chave": "dialog__game6_introb",
+      "hash_es": "21104bb84283c128",
+      "texto_ptbr": "Certeza de que não são suas axilas? Elas parecem meio pegajosas.",
+      "lote": "604"
+    },
+    {
+      "id": "a88c",
+      "chave": "dialog__game6_introc",
+      "hash_es": "050292f1828de0cd",
+      "texto_ptbr": "{MOODSAD}Não, parece que a Lenda da Besta Marinha Inflável(TM) é verdadeira, afinal. Quem diria?",
+      "lote": "604"
+    },
+    {
+      "id": "a88d",
+      "chave": "dialog__game6_introd",
+      "hash_es": "9d6a294a56f6f0b6",
+      "texto_ptbr": "Nós, para começar. Já o vimos antes, e também numa aventura anterior. Ele não é tão assustador.",
+      "lote": "604"
+    },
+    {
+      "id": "a88e",
+      "chave": "dialog__game6_introe",
+      "hash_es": "e2e28081141e9ee8",
+      "texto_ptbr": "Se é assim, vão para a batalha. Nos deem orgulho, seus molengas!",
+      "lote": "604"
+    },
+    {
+      "id": "12eb",
+      "chave": "dialog__game6_objectives",
+      "hash_es": "113772ec32cc2a93",
+      "texto_ptbr": "Vamos, Banjo, nos livrar do Mr. Patch... de novo. Ei, ele parece ter menos remendos que o normal? Vamos garantir que ele seja empurrado contra algo bem afiado!",
+      "lote": "608"
+    },
+    {
+      "id": "187d",
+      "chave": "dialog__game6_objectivesrepeat1",
+      "hash_es": "f162556752aee1fe",
+      "texto_ptbr": "Com remendos ou sem remendos, esse safado ainda está maduro para estourar!",
+      "lote": "604"
+    },
+    {
+      "id": "187e",
+      "chave": "dialog__game6_objectivesrepeat2",
+      "hash_es": "8444896e82b7e1b2",
+      "texto_ptbr": "Ache algo bom e afiado para espetar ele, rapaz!",
+      "lote": "604"
+    },
+    {
+      "id": "aad7",
+      "chave": "dialog__game6_successa",
+      "hash_es": "fc5da9fcb3022f1a",
+      "texto_ptbr": "{MOODHAPPY}Você não podia ter feito melhor! Ohhh, o Mr. Patch não deu conta do urso e do pássaro, ele é tão útil quanto um fumegante...",
+      "lote": "608"
+    },
+    {
+      "id": "aad9",
+      "chave": "dialog__game6_successc",
+      "hash_es": "45f746a7cd12280c",
+      "texto_ptbr": "Isso vai ensinar uma lição a ele! Ohhh, o Mr. Patch era péssimo e Banjo deu conta, chefes infláveis todos cheiram a...",
+      "lote": "608"
+    },
+    {
+      "id": "aadb",
+      "chave": "dialog__game6_successe",
+      "hash_es": "a78b61e4a384fae3",
+      "texto_ptbr": "Você o derrotou! No final. Ohhh, o Mr. Patch nem se deu ao trabalho de lutar, mas a atuação do Banjo foi igualmente...",
+      "lote": "608"
+    },
+    {
+      "id": "9fae",
+      "chave": "dialog__jinjopink_greeting",
+      "hash_es": "abcc5ae1d333ac6a",
+      "texto_ptbr": "{MOODSAD}Sr. Costelas... Sr. Costelas! Ah, olá. Você viu o Sr. Costelas?",
+      "lote": "604"
+    },
+    {
+      "id": "0b6c",
+      "chave": "dialog__jinjopink_lose",
+      "hash_es": "f7f26ab3cbc41f6e",
+      "texto_ptbr": "{MOODSAD}Nada? Você poderia procurar mais uma vez? Diddly dee!",
+      "lote": "604"
+    },
+    {
+      "id": "cec7",
+      "chave": "dialog__jinjopink_objectives",
+      "hash_es": "489078abfe958a5e",
+      "texto_ptbr": "{MOODSAD}Ele estava comigo antes, quando fui ao banheiro... talvez por isso ele fugiu, não estava nada agradável lá dentro. Você pode encontrá-lo?",
+      "lote": "604"
+    },
+    {
+      "id": "7427",
+      "chave": "dialog__jinjopink_win",
+      "hash_es": "7ca63e64561787ac",
+      "texto_ptbr": "{MOODHAPPY}Sr. Costelas! Eu queria que você não saísse por aí sem NENHUM CORPO para cuidar de você! Ele adora meu senso de humor, sabia?",
+      "lote": "604"
+    },
+    {
+      "id": "e358",
+      "chave": "dialog__jinjoyellow_greeting",
+      "hash_es": "460b4903815ae78e",
+      "texto_ptbr": "{MOODSAD}Olá. Como é? Você veio jogar? Ah, não aquela coisa ridícula de arremessar...",
+      "lote": "604"
+    },
+    {
+      "id": "0a16",
+      "chave": "dialog__jinjoyellow_lose",
+      "hash_es": "3b3d811dedfed2a3",
+      "texto_ptbr": "{MOODSAD}Mais sorte na próxima. Mal posso esperar para você me arremessar pelos ares de novo, gritando de medo pela minha vida...",
+      "lote": "604"
+    },
+    {
+      "id": "a4f1",
+      "chave": "dialog__jinjoyellow_objectives",
+      "hash_es": "eed47a14b50b7763",
+      "texto_ptbr": "{MOODSAD}Arremesso de Jinjo, veja só. Tá bom, tá bom... me arremesse pelo menos a distância indicada para ganhar um prêmio. Vá em frente, se precisar!",
+      "lote": "604"
+    },
+    {
+      "id": "4591",
+      "chave": "dialog__jinjoyellow_win",
+      "hash_es": "6b62adc6db27949b",
+      "texto_ptbr": "{MOODHAPPY}Bem, devo admitir a contragosto que foi um arremesso de Jinjo bem executado. Quase consigo ver a graça...",
+      "lote": "604"
+    }
+  ]
+}

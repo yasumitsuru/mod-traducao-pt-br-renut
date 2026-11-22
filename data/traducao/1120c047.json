@@ -1,0 +1,48 @@
+{
+  "arquivo": "1120c047",
+  "asset": "aid_loctext_banjox_showdowntown_gameglobes",
+  "frases": [
+    {
+      "id": "8139",
+      "chave": "dialog__gameglobe_banjoland",
+      "hash_es": "40cf16d1707199d6",
+      "texto_ptbr": "Pronto para visitar outro mundo? As muitas atrações duvidosas de Banjoland esperam por você. Suba até a minha fábrica, pegue o Globo de Jogo recém-liberado e leve-o até o pedestal!",
+      "lote": "518"
+    },
+    {
+      "id": "a3f8",
+      "chave": "dialog__gameglobe_cpu",
+      "hash_es": "73eaae7c91490384",
+      "texto_ptbr": "Quer encarar o seu próximo Mundo de Jogo? O Globo de Jogo que dá acesso ao ambiente de alta tecnologia de LOGBOX 720 foi liberado na minha fábrica. Pegue o Globo e encontre o pedestal!",
+      "lote": "518"
+    },
+    {
+      "id": "59e2",
+      "chave": "dialog__gameglobe_nuttyacres",
+      "hash_es": "f2c9e832728ddffc",
+      "texto_ptbr": "Acho que está na hora de soltar você num Mundo de Jogo em escala real. O Globo de Jogo de Nutty Acres foi liberado. Venha buscá-lo na minha fábrica e depois leve-o ao pedestal!",
+      "lote": "518"
+    },
+    {
+      "id": "0020",
+      "chave": "dialog__gameglobe_replacement",
+      "hash_es": "714d6ce9d059aa43",
+      "texto_ptbr": "É preciso um nível impressionante de descuido para perder um Globo de Jogo. Pois bem, vou liberar outro... Imagino que você não pretenda fazer disso um hábito, certo?",
+      "lote": "505"
+    },
+    {
+      "id": "6c19",
+      "chave": "dialog__gameglobe_terrorium",
+      "hash_es": "2626c4923aa6d455",
+      "texto_ptbr": "O Terrarium of Terror... parece sinistro? Receio que seja para lá que você vai agora. O Globo de Jogo foi liberado na minha fábrica, então busque-o logo e leve-o ao pedestal!",
+      "lote": "518"
+    },
+    {
+      "id": "2dc5",
+      "chave": "dialog__gameglobe_worldofsport",
+      "hash_es": "14e183e848b3ac4f",
+      "texto_ptbr": "Se você está com espírito esportivo, talvez goste de se aventurar num mundo que chamo de Jiggosseum. Como agora você já alcança o pedestal que abre o caminho, liberei o Globo de Jogo dele para retirada!",
+      "lote": "518"
+    }
+  ]
+}

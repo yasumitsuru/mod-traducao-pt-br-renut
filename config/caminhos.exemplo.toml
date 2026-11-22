@@ -1,0 +1,8 @@
+# Modelo de configuração. Copie para config/caminhos.toml (fora do git) e ajuste.
+# Todas as pastas abaixo são SOMENTE LEITURA para as ferramentas do projeto.
+
+[jogo]
+# Pasta "extraido" usada pelo reNut (contém loctext\, Debug\, xuifontcachefont\ ...)
+extraido = 'C:\jogos\BanjoKazooieNutsAndBolts-reNut\game\extraido'
+# Instalação do reNut (opcional; usada só para consulta)
+renut = 'C:\jogos\BanjoKazooieNutsAndBolts-reNut'

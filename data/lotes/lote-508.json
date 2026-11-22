@@ -1,0 +1,11 @@
+{
+  "lote": "508",
+  "descricao": "ajustes da F7: tela de título em caixa alta (o jogo não converte acentos para maiúscula, então o texto já vai em maiúsculas)",
+  "traducoes": {
+    "114483e7": {
+      "8c66": "© E (P) 2008 MICROSOFT CORPORATION. TODOS OS DIREITOS RESERVADOS.",
+      "5188": "DESENVOLVIDO PELA RARE.",
+      "e6a5": "INTERAÇÕES ON-LINE NÃO CLASSIFICADAS PELA ESRB."
+    }
+  }
+}

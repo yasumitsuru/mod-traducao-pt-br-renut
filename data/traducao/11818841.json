@@ -1,0 +1,293 @@
+{
+  "arquivo": "11818841",
+  "asset": "aid_loctext_banjox_worldofsport_act3",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "f76456fd74a7a787",
+      "texto_ptbr": "Tem um monte de provas diferentes pra tentar, velho amigo, mas quem é o Blubber pra ficar no seu caminho se você quer encarar esta de novo?",
+      "lote": "602"
+    },
+    {
+      "id": "b254",
+      "chave": "dialog__game1_fail",
+      "hash_es": "dec6615d37b53b79",
+      "texto_ptbr": "{MOODSAD}Arrr. Já vimos apresentações melhores do Boggy e de um Jinjo fantasiado de urso. Não era isso que eu esperava, Banjo!",
+      "lote": "602"
+    },
+    {
+      "id": "9744",
+      "chave": "dialog__game1_intro",
+      "hash_es": "be428b918a301cd3",
+      "texto_ptbr": "Levanta âncora! Chegou a hora da competição anual do Urso Mais Forte do Mundo. Certamente você quer participar, Banjo?",
+      "lote": "602"
+    },
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "b8cf6b3f83214adb",
+      "texto_ptbr": "Hora de mostrar um pouco dessa famosa força bruta! {PAGEBREAK}O mais rápido que puder, mova as bolas de cima das colunas para este pódio dos vencedores! Vamos lá!",
+      "lote": "602"
+    },
+    {
+      "id": "1938",
+      "chave": "dialog__game1_objectivesrepeat1",
+      "hash_es": "468c0e0d378aa3e4",
+      "texto_ptbr": "Elas precisam ir pro pódio, rapaz. Mostra esses músculos!",
+      "lote": "602"
+    },
+    {
+      "id": "1939",
+      "chave": "dialog__game1_objectivesrepeat2",
+      "hash_es": "25c4f26bfb03cb8a",
+      "texto_ptbr": "É impossível você falhar, os outros ursos não são adversários à altura!",
+      "lote": "607"
+    },
+    {
+      "id": "d532",
+      "chave": "dialog__game1_successa",
+      "hash_es": "20542b2a253a58fb",
+      "texto_ptbr": "{MOODHAPPY}Nunca vi isso ser feito tão rápido! Você é tão poderoso quanto o próprio Netuno, e ganhou os melhores prêmios por nos dar esse show!",
+      "lote": "602"
+    },
+    {
+      "id": "d534",
+      "chave": "dialog__game1_successc",
+      "hash_es": "e357cfd1ac183b21",
+      "texto_ptbr": "Você não nos decepcionou, marujo! Que força na levantada! Sem dúvida ganhou sua medalha de ouro, em forma de Jiggy, é claro...",
+      "lote": "602"
+    },
+    {
+      "id": "d536",
+      "chave": "dialog__game1_successe",
+      "hash_es": "ea73be1a7ad57614",
+      "texto_ptbr": "Bom, você nem passou vergonha, mas cadê aquele famoso espírito do Banjo? Mostre que ainda tem, e vai levar prêmio grande!",
+      "lote": "602"
+    },
+    {
+      "id": "f828",
+      "chave": "dialog__game2_beaten",
+      "hash_es": "824a83c744e87a7b",
+      "texto_ptbr": "O Sr. Em Forma e o T.T. estão treinando pesado. Acha que consegue marcar um recorde de arremesso de peso que eles nunca vão superar?",
+      "lote": "602"
+    },
+    {
+      "id": "daf5",
+      "chave": "dialog__game2_fail",
+      "hash_es": "f91a4e4fe77e7ad0",
+      "texto_ptbr": "{MOODSAD}Só isso? Você devia ser pior que eu nas aulas de educação física! Se alguém precisar de mim, vou tomar um banho mais cedo...",
+      "lote": "602"
+    },
+    {
+      "id": "d405",
+      "chave": "dialog__game2_intro",
+      "hash_es": "141869245c7239fe",
+      "texto_ptbr": "E aí, Bottles? Não tá se divertindo com todos esses jogos?",
+      "lote": "602"
+    },
+    {
+      "id": "5507",
+      "chave": "dialog__game2_introb",
+      "hash_es": "4ec888a34501e219",
+      "texto_ptbr": "{MOODSAD}Ninguém nunca me escolhe pro time, e é por isso! O Pikelet me inscreveu no arremesso de peso, mas eu não consigo nem levantar a bola. Ei, que tal... você ocupar o meu lugar?",
+      "lote": "602"
+    },
+    {
+      "id": "9d67",
+      "chave": "dialog__game2_objectives",
+      "hash_es": "379552babcb221bf",
+      "texto_ptbr": "Só arremesse a bola o mais longe que puder. Assim que ela sair da plataforma, a distância começa a contar. Dê o seu melhor ou eu vou virar motivo de piada! De novo...",
+      "lote": "602"
+    },
+    {
+      "id": "6653",
+      "chave": "dialog__game2_successa",
+      "hash_es": "98a3394c0f7d37f9",
+      "texto_ptbr": "{MOODHAPPY}Uau... isso pode muito bem ser um novo recorde. Imagine: Bottles, recordista mundial! Valeu, Banjo, espero que goste dos prêmios!",
+      "lote": "602"
+    },
+    {
+      "id": "6655",
+      "chave": "dialog__game2_successc",
+      "hash_es": "161e18d0e825fc73",
+      "texto_ptbr": "Belo arremesso, espero que ninguém me peça pra repetir quando você não estiver por perto! Se eu tivesse mais de um Jiggy, eu te daria todos...",
+      "lote": "602"
+    },
+    {
+      "id": "6657",
+      "chave": "dialog__game2_successe",
+      "hash_es": "da8a567171076e05",
+      "texto_ptbr": "Valeu, Banjo, você salvou a minha pele. Mas nenhuma medalha pra nenhum de nós desta vez!",
+      "lote": "602"
+    },
+    {
+      "id": "cd09",
+      "chave": "dialog__game3_beaten",
+      "hash_es": "c3ec5cf761077b47",
+      "texto_ptbr": "Não vou aceitar a derrota tão fácil! Vamos fazer isso de novo!",
+      "lote": "602"
+    },
+    {
+      "id": "0396",
+      "chave": "dialog__game3_fail",
+      "hash_es": "bb2a65c87ff7a543",
+      "texto_ptbr": "{MOODHAPPY}Chama isso de salto com barreiras? Isso é mais um despencar... despencar sem controle rumo ao fracasso. T.T. ainda manda na pista!",
+      "lote": "602"
+    },
+    {
+      "id": "10c6",
+      "chave": "dialog__game3_intro",
+      "hash_es": "f16df7e0a28b63da",
+      "texto_ptbr": "Bem-vindo de volta ao meu mundo, urso... o mundo dos esportes! Suas habilidades no salto com barreiras estão à altura das minhas? Não parece!",
+      "lote": "602"
+    },
+    {
+      "id": "fac8",
+      "chave": "dialog__game3_objectives",
+      "hash_es": "7a3889ef5f0483af",
+      "texto_ptbr": "Pule todas as barreiras, cruze a linha de chegada primeiro e a vitória é sua... nos seus sonhos mais malucos.",
+      "lote": "602"
+    },
+    {
+      "id": "f774",
+      "chave": "dialog__game3_successa",
+      "hash_es": "3af7a5e7c43bc051",
+      "texto_ptbr": "{MOODSAD}Ugh. Devo ter acumulado um karma muito ruim pra perder desse jeito. Vai, pega os prêmios, tira eles de mim...",
+      "lote": "602"
+    },
+    {
+      "id": "f776",
+      "chave": "dialog__game3_successc",
+      "hash_es": "f887fad5070559f6",
+      "texto_ptbr": "O quê? Minhas barreiras deviam ser maiores que as suas. É a única explicação pra esse resultado chocante!",
+      "lote": "602"
+    },
+    {
+      "id": "f778",
+      "chave": "dialog__game3_successe",
+      "hash_es": "5b91f57c954b8233",
+      "texto_ptbr": "Eu gostaria de dizer que foi rápido, mas foi principalmente sorte. Nenhum prêmio que valha a pena desta vez, e da próxima você vai comer poeira!",
+      "lote": "602"
+    },
+    {
+      "id": "a1ea",
+      "chave": "dialog__game4_beaten",
+      "hash_es": "deed34f6c834396e",
+      "texto_ptbr": "Voltou pra mais uma sessão de bola na cesta? Pode ir em frente, eu preciso treinar meus lances livres!",
+      "lote": "602"
+    },
+    {
+      "id": "2c37",
+      "chave": "dialog__game4_fail",
+      "hash_es": "b49588fc279a2360",
+      "texto_ptbr": "{MOODHAPPY}Viu, não me chamam de Sr. Em Forma à toa. Nesta ocasião, você também pode me chamar de Duque do Aro!",
+      "lote": "602"
+    },
+    {
+      "id": "4d87",
+      "chave": "dialog__game4_intro",
+      "hash_es": "65ba03319c30b090",
+      "texto_ptbr": "Basquete, magrelo! Enterrar a bola! É disso que este tamanduá entende. Acha que consegue bater meu recorde de enterradas?",
+      "lote": "602"
+    },
+    {
+      "id": "5829",
+      "chave": "dialog__game4_objectives",
+      "hash_es": "2e666a3669e9dcef",
+      "texto_ptbr": "Marque o máximo de cestas possível antes do tempo acabar. Tem até prêmios em jogo! Ah, devo mencionar que o aro sobe de fininho toda vez que você acerta...",
+      "lote": "602"
+    },
+    {
+      "id": "4bfb",
+      "chave": "dialog__game4_objectivesrepeat1",
+      "hash_es": "e4cd22811bf67dd2",
+      "texto_ptbr": "Não reclama! Os melhores desafios ficam mais difíceis conforme avançam!",
+      "lote": "602"
+    },
+    {
+      "id": "4bfc",
+      "chave": "dialog__game4_objectivesrepeat2",
+      "hash_es": "f7013e53e95094de",
+      "texto_ptbr": "Regras? Que nada! Só faça a bola passar pelo aro de qualquer jeito!",
+      "lote": "602"
+    },
+    {
+      "id": "8895",
+      "chave": "dialog__game4_successa",
+      "hash_es": "e37283c01df29b97",
+      "texto_ptbr": "{MOODSAD}Como você consegue fazer isso sempre? Vou ficar sem nenhum recorde de pé! Aproveite os prêmios, pelo menos eu não sou mau perdedor...",
+      "lote": "602"
+    },
+    {
+      "id": "8897",
+      "chave": "dialog__game4_successc",
+      "hash_es": "8221c883919b2c3d",
+      "texto_ptbr": "Ah. Você me venceu. Bom, de qualquer jeito eu provavelmente sou baixinho demais pra jogar nos Foguetes de Spiral Mountain. Belos arremessos!",
+      "lote": "602"
+    },
+    {
+      "id": "8899",
+      "chave": "dialog__game4_successe",
+      "hash_es": "2d33015554b92c63",
+      "texto_ptbr": "Você mandou bem por aí, mas ainda não está pronto pra ser atleta de capa de revista. Continue treinando pra alcançar o nível de medalha!",
+      "lote": "602"
+    },
+    {
+      "id": "ca0d",
+      "chave": "dialog__jinjogreen_greeting",
+      "hash_es": "54c0127bb16fc110",
+      "texto_ptbr": "{MOODHAPPY}Este é o melhor lugar da casa! Que lugar melhor pra travar um combate Jinjo dramático? Levanta os punhos!",
+      "lote": "602"
+    },
+    {
+      "id": "de4b",
+      "chave": "dialog__jinjogreen_lose",
+      "hash_es": "db8ecb02f3662656",
+      "texto_ptbr": "{MOODHAPPY}Eu venci! Gostaria de agradecer à academia, à minha mãe, a todos os meus fãs...",
+      "lote": "602"
+    },
+    {
+      "id": "0ce6",
+      "chave": "dialog__jinjogreen_objectives",
+      "hash_es": "c1d01dd32e55eaef",
+      "texto_ptbr": "{MOODHAPPY}Você tenta me empurrar pra fora da área de combate, e eu faço o mesmo! Quer dizer, tento empurrar você, não a mim mesmo. Boa sorte!",
+      "lote": "602"
+    },
+    {
+      "id": "e726",
+      "chave": "dialog__jinjogreen_win",
+      "hash_es": "d2472c899f5442bc",
+      "texto_ptbr": "{MOODSAD}Ai! Sei quando perdi. E no meu próprio jogo, ainda por cima...",
+      "lote": "602"
+    },
+    {
+      "id": "e358",
+      "chave": "dialog__jinjoyellow_greeting",
+      "hash_es": "9593b886d34c5f20",
+      "texto_ptbr": "{MOODSAD}Minha ida às compras deu errado! Eu estava indo pro mercado, mas me distraí com todos os jogos acontecendo! Pode me ajudar a chegar lá antes de fechar?",
+      "lote": "602"
+    },
+    {
+      "id": "0a16",
+      "chave": "dialog__jinjoyellow_lose",
+      "hash_es": "0f0f0d1cbd82ac76",
+      "texto_ptbr": "{MOODSAD}Não! Maldito horário comercial restritivo! Podemos tentar de novo?",
+      "lote": "602"
+    },
+    {
+      "id": "a4f1",
+      "chave": "dialog__jinjoyellow_objectives",
+      "hash_es": "753968a631fbde34",
+      "texto_ptbr": "{MOODSAD}Depressa, depressa! O mercado vai fechar enquanto a gente fala, e eu preciso comprar alguma coisa... qualquer coisa!",
+      "lote": "602"
+    },
+    {
+      "id": "4591",
+      "chave": "dialog__jinjoyellow_win",
+      "hash_es": "b7dc841924a3a093",
+      "texto_ptbr": "{MOODHAPPY}Sim! Achei que não ia conseguir! Peguem meu dinheiro, donos de barraca, é todo de vocês! Ah, e obrigado, Banjo.",
+      "lote": "602"
+    }
+  ]
+}

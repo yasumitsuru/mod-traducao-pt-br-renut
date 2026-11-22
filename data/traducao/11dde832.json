@@ -1,0 +1,237 @@
+{
+  "arquivo": "11dde832",
+  "asset": "aid_loctext_banjox_banjoland_act2",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "0e3ec533f9e9e330",
+      "texto_ptbr": "Você bateu meu recorde da última vez, mas nós dois sabemos que foi sorte. A menos que você ache que consegue um resultado ainda melhor agora?",
+      "lote": "604"
+    },
+    {
+      "id": "b254",
+      "chave": "dialog__game1_fail",
+      "hash_es": "1acd4b3266eaed5e",
+      "texto_ptbr": "Melhor não abandonar seu emprego, magrelo. Esse tipo de atuação só pode levar ao rebaixamento...",
+      "lote": "604"
+    },
+    {
+      "id": "9744",
+      "chave": "dialog__game1_intro",
+      "hash_es": "1d1ba156b67c1a22",
+      "texto_ptbr": "Cheguem, cheguem! Quem quer encarar o Desafio de Futebol de Pedra? Ei, magrelo, quer chutar uma bola por aí?",
+      "lote": "604"
+    },
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "e718537f1cb48a69",
+      "texto_ptbr": "Isso mal é um desafio, bafo de formiga. Aqueles caras nem têm pés para chutar!",
+      "lote": "604"
+    },
+    {
+      "id": "4128",
+      "chave": "dialog__game1_objectivesb",
+      "hash_es": "a3bd0c5945e04e5a",
+      "texto_ptbr": "As regras são simples o bastante até para o pássaro entender. Veja quantos gols eu marquei dentro do tempo limite graças às minhas habilidades futebolísticas brilhantes, e veja se consegue fazer melhor!",
+      "lote": "604"
+    },
+    {
+      "id": "4129",
+      "chave": "dialog__game1_objectivesc",
+      "hash_es": "d57703755b51a6e2",
+      "texto_ptbr": "Parece bem simples... então onde estão as bolas?",
+      "lote": "604"
+    },
+    {
+      "id": "412a",
+      "chave": "dialog__game1_objectivesd",
+      "hash_es": "de923822900d5eb1",
+      "texto_ptbr": "Pare em cima do interruptor vermelho para liberar as bolas. Faça valer: acerte-as na velha rede ali.",
+      "lote": "604"
+    },
+    {
+      "id": "d532",
+      "chave": "dialog__game1_successa",
+      "hash_es": "b3efe95a160cc6cf",
+      "texto_ptbr": "{MOODHAPPY}No fundo da rede! Um resultado desses merece uma chuteira de ouro... que eu não tenho, então leve um monte de outras coisas no lugar!",
+      "lote": "604"
+    },
+    {
+      "id": "d534",
+      "chave": "dialog__game1_successc",
+      "hash_es": "95b32a4e958e85a6",
+      "texto_ptbr": "Bem impressionante! Uma classificação alta na liga de Futebol rende um Jiggy. Tem mais truques na manga?",
+      "lote": "604"
+    },
+    {
+      "id": "d536",
+      "chave": "dialog__game1_successe",
+      "hash_es": "2741a5d52ad71a8c",
+      "texto_ptbr": "Melhor que um Pedrusco, mas isso não quer dizer muita coisa... vamos ver habilidade de verdade para provar que você merece o Jiggy!",
+      "lote": "604"
+    },
+    {
+      "id": "f828",
+      "chave": "dialog__game2_beaten",
+      "hash_es": "c713f47b78f27b61",
+      "texto_ptbr": "Ótimo trabalho de limpeza, Banjo. Se quiser melhorar seu melhor tempo, tenho certeza de que... alguém... poderia fazer outra bagunça.",
+      "lote": "604"
+    },
+    {
+      "id": "daf5",
+      "chave": "dialog__game2_fail",
+      "hash_es": "3e96f8ddb83b59ec",
+      "texto_ptbr": "{MOODSAD}Ah, ótimo. Bottles ficou uma fera e descontou uma semana inteira do meu salário! Valeu por nada, Banjo!",
+      "lote": "604"
+    },
+    {
+      "id": "d405",
+      "chave": "dialog__game2_intro",
+      "hash_es": "b039bc05013ad530",
+      "texto_ptbr": "Este lugar é uma bagunça! Achei que você fosse o faxineiro contratado daqui, Boggy?",
+      "lote": "604"
+    },
+    {
+      "id": "5507",
+      "chave": "dialog__game2_introb",
+      "hash_es": "bf128186954db10b",
+      "texto_ptbr": "Bem, eu pensei em fazer... mas só de pensar já fiquei cansado. Você poderia assumir? Tem um Jiggy nisso para você.",
+      "lote": "604"
+    },
+    {
+      "id": "9d67",
+      "chave": "dialog__game2_objectives",
+      "hash_es": "456026b0a9c5f82c",
+      "texto_ptbr": "Se este lugar nunca teve visitantes, de onde vem todo esse lixo?",
+      "lote": "604"
+    },
+    {
+      "id": "4aa9",
+      "chave": "dialog__game2_objectivesb",
+      "hash_es": "611c4ceb8760ac2d",
+      "texto_ptbr": "Burp! Hã, não faço ideia. Você precisa colocar parte desse lixo na lixeira grande antes que o Bottles veja. Como fazer isso é com você!",
+      "lote": "604"
+    },
+    {
+      "id": "7f79",
+      "chave": "dialog__game2_objectivesrepeat1",
+      "hash_es": "ca26a5b6a27b4929",
+      "texto_ptbr": "Não temos o dia todo, Banjo. Não me faça fazer esforço!",
+      "lote": "604"
+    },
+    {
+      "id": "7f7a",
+      "chave": "dialog__game2_objectivesrepeat2",
+      "hash_es": "4c74132751f1cf0b",
+      "texto_ptbr": "A lixeira é tão grande que você talvez precise jogar as coisas de cima...",
+      "lote": "604"
+    },
+    {
+      "id": "6653",
+      "chave": "dialog__game2_successa",
+      "hash_es": "81fc7c73dde83028",
+      "texto_ptbr": "{MOODHAPPY}Uau! Este lugar não ficava tão limpo desde... bom, nunca ficou tão limpo. Nota dez, Banjo!",
+      "lote": "604"
+    },
+    {
+      "id": "6655",
+      "chave": "dialog__game2_successc",
+      "hash_es": "316a3dfc792fda06",
+      "texto_ptbr": "Ei, dá para comer o jantar direto deste chão... mmm, jantar. Bom trabalho, Banjo. Você com certeza mereceu seu Jiggy aqui!",
+      "lote": "604"
+    },
+    {
+      "id": "6657",
+      "chave": "dialog__game2_successe",
+      "hash_es": "1d78ff218ca716fe",
+      "texto_ptbr": "Acho que já serve. Mas você não se apressou muito. Cadê a dedicação que justifica um Jiggy?",
+      "lote": "604"
+    },
+    {
+      "id": "fad8",
+      "chave": "dialog__jinjoorange_greeting",
+      "hash_es": "508d542d82fadec2",
+      "texto_ptbr": "{MOODHAPPY}Andei lendo as velhas histórias sobre o destemido Jinjonator! Vamos jogar um jogo para eu também poder ser um Jinjo destemido!",
+      "lote": "604"
+    },
+    {
+      "id": "6196",
+      "chave": "dialog__jinjoorange_lose",
+      "hash_es": "6fbffae0ac39d282",
+      "texto_ptbr": "{MOODSAD}Esse arremesso fraco quase me fez chorar! E lá se vai o sujeito durão da casa! Preciso de um minuto...",
+      "lote": "604"
+    },
+    {
+      "id": "9c71",
+      "chave": "dialog__jinjoorange_objectives",
+      "hash_es": "45eaf028a83cfcf7",
+      "texto_ptbr": "{MOODHAPPY}Só um Jinjo muito corajoso pediria para ser arremessado a essa distância. Dê o seu melhor! Minha coragem é inabalável!",
+      "lote": "604"
+    },
+    {
+      "id": "ad11",
+      "chave": "dialog__jinjoorange_win",
+      "hash_es": "5ec2a9fd044cc68e",
+      "texto_ptbr": "{MOODHAPPY}Você conseguiu! Aqui, pegue isto. Já não preciso disso, não preciso de tanta frescura para provar minha valentia!",
+      "lote": "608"
+    },
+    {
+      "id": "9fae",
+      "chave": "dialog__jinjopink_greeting",
+      "hash_es": "da33eb1ecd83209b",
+      "texto_ptbr": "{MOODSAD}Graças a Deus, alguém são, finalmente! Eu pareço uma peça de exposição para você? Me tire daqui!",
+      "lote": "604"
+    },
+    {
+      "id": "0b6c",
+      "chave": "dialog__jinjopink_lose",
+      "hash_es": "4331a42b74b02284",
+      "texto_ptbr": "{MOODSAD}Bah, não conseguimos... tentem de novo, dupla excêntrica de animais! Vou perder o que resta da minha sanidade se ficar aqui mais tempo!",
+      "lote": "604"
+    },
+    {
+      "id": "cec7",
+      "chave": "dialog__jinjopink_objectives",
+      "hash_es": "420a63cbfde90a13",
+      "texto_ptbr": "{MOODSAD}Eu só vim dar uma olhada, e aquela toupeira meio cega me pegou e me colocou em exposição! Rápido, me leve até os portões antes que me confundam com um souvenir de novo!",
+      "lote": "608"
+    },
+    {
+      "id": "7427",
+      "chave": "dialog__jinjopink_win",
+      "hash_es": "b855c954a468715a",
+      "texto_ptbr": "{MOODHAPPY}Obrigado, obrigado, obrigado! Da próxima vez vou a um lugar mais seguro, tipo uma convenção de lançadores de faca amadores...",
+      "lote": "604"
+    },
+    {
+      "id": "7f77",
+      "chave": "dialog__jinjored_greeting",
+      "hash_es": "6312b988daa751f5",
+      "texto_ptbr": "{MOODHAPPY}Ora, ora, meu caro! Sua aparição repentina me deixou sem saber o que dizer. Você gostaria de participar de algum desafio caprichoso?",
+      "lote": "604"
+    },
+    {
+      "id": "6eb5",
+      "chave": "dialog__jinjored_lose",
+      "hash_es": "773cc4f6459d7a2f",
+      "texto_ptbr": "{MOODSAD}Você deu o seu melhor, meu caro. Talvez mais um tempinho na oficina para deixá-lo em condições de rodar, hmm?",
+      "lote": "604"
+    },
+    {
+      "id": "c4d0",
+      "chave": "dialog__jinjored_objectives",
+      "hash_es": "c7724c4ad6774be8",
+      "texto_ptbr": "{MOODHAPPY}Muito bem, então! Poderia, eu me pergunto, construir algo notável o bastante para alcançar a velocidade indicada pelo velocímetro?",
+      "lote": "604"
+    },
+    {
+      "id": "1250",
+      "chave": "dialog__jinjored_win",
+      "hash_es": "139f7eb6a445d02c",
+      "texto_ptbr": "{MOODHAPPY}Uma atuação primorosa! Lamento dizer que só tenho esta ficha bem comum para oferecer como recompensa...",
+      "lote": "604"
+    }
+  ]
+}

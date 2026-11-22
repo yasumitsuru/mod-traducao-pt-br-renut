@@ -1,0 +1,174 @@
+{
+  "arquivo": "11e51de2",
+  "asset": "aid_loctext_banjox_worldofsport_act4",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "bbc3357bd72ad60b",
+      "texto_ptbr": "Eu sabia que você voltaria pra outro teste. Vou virar o jogo e provar que sou a melhor!",
+      "lote": "602"
+    },
+    {
+      "id": "b254",
+      "chave": "dialog__game1_fail",
+      "hash_es": "24dc3952a4401ea5",
+      "texto_ptbr": "Agora ficou de mau humor, sua lesma inútil? Perdedor rancoroso sempre fica emburrado!",
+      "lote": "602"
+    },
+    {
+      "id": "3451",
+      "chave": "dialog__game1_gruntyemitdialog1",
+      "hash_es": "5f6de243ab7ccf68",
+      "texto_ptbr": "Tenta marcar um gol hoje, se for capaz: eu te derrubo e te deixo encharcado, rapaz!",
+      "lote": "607"
+    },
+    {
+      "id": "3452",
+      "chave": "dialog__game1_gruntyemitdialog2",
+      "hash_es": "f298e47f5ba54ef6",
+      "texto_ptbr": "Bolas pegajosas me deixam toda arrepiada; muitas delas e eu estou encrencada!",
+      "lote": "602"
+    },
+    {
+      "id": "3453",
+      "chave": "dialog__game1_gruntyemitdialog3",
+      "hash_es": "e319dd046f65febf",
+      "texto_ptbr": "Não paro por nada, é o meu lema... a não ser que me congelem no gelo, que dilema!",
+      "lote": "607"
+    },
+    {
+      "id": "3454",
+      "chave": "dialog__game1_gruntyemitdialog4",
+      "hash_es": "dc2cf05994f3c0f1",
+      "texto_ptbr": "Afunde ou nade, a vitória é minha, e nada neste mundo salva a sua pelezinha!",
+      "lote": "602"
+    },
+    {
+      "id": "3455",
+      "chave": "dialog__game1_gruntyemitdialog5",
+      "hash_es": "d12ffe515c361554",
+      "texto_ptbr": "Eu bloqueio, abalroo, bombardeio e atropelo: a Grunty competitiva é um verdadeiro pesadelo!",
+      "lote": "602"
+    },
+    {
+      "id": "3456",
+      "chave": "dialog__game1_gruntyemitdialog6",
+      "hash_es": "2364fd8c9d1d9aa3",
+      "texto_ptbr": "Eu rondo as ondas como um tubarão mortal: vou arrancar sua perna pra deixar meu sinal!",
+      "lote": "602"
+    },
+    {
+      "id": "3457",
+      "chave": "dialog__game1_gruntyemitdialog7",
+      "hash_es": "0dd1dd8a618967c1",
+      "texto_ptbr": "Admira o navio, fui eu que construí! Sua pilha de ferro-velho devia ficar bem longe daqui!",
+      "lote": "607"
+    },
+    {
+      "id": "3458",
+      "chave": "dialog__game1_gruntyemitdialog8",
+      "hash_es": "62b056f8ba0ec849",
+      "texto_ptbr": "Dificuldade pra chegar ao gol? Essa geringonça anda a carvão? Aí não dá, não!",
+      "lote": "607"
+    },
+    {
+      "id": "9744",
+      "chave": "dialog__game1_intro",
+      "hash_es": "67ccf44f9ffda524",
+      "texto_ptbr": "Polo Aquático, o esporte mais fino: nunca perco pra um urso de shortinho!",
+      "lote": "602"
+    },
+    {
+      "id": "4127",
+      "chave": "dialog__game1_objectivesa",
+      "hash_es": "da010a7486767668",
+      "texto_ptbr": "Marquei todos esses gols na primeira tentativa. Supera isso? Não consegue! E não vem chorar!",
+      "lote": "602"
+    },
+    {
+      "id": "4128",
+      "chave": "dialog__game1_objectivesb",
+      "hash_es": "f68149c947fade89",
+      "texto_ptbr": "Todas essas bolas, e você não chega nem perto. Tenta aí e vai acabar torrado, é certo!",
+      "lote": "602"
+    },
+    {
+      "id": "d532",
+      "chave": "dialog__game1_successa",
+      "hash_es": "0228e84aaeca7153",
+      "texto_ptbr": "Para com essa cara de superior, seu urso sem miolo! Me esmagou, e daí? Eu nem ligo!",
+      "lote": "602"
+    },
+    {
+      "id": "d534",
+      "chave": "dialog__game1_successc",
+      "hash_es": "85b2b3ebf6c136be",
+      "texto_ptbr": "Me venceu de novo, isso não muda nada. Perder um Jiggy é só uma picada!",
+      "lote": "602"
+    },
+    {
+      "id": "d536",
+      "chave": "dialog__game1_successe",
+      "hash_es": "6bb885b079d1227b",
+      "texto_ptbr": "Você ganhou o jogo, está molhado e eu estou mais. Mas nada de prêmio suculento até você jogar melhor!",
+      "lote": "609"
+    },
+    {
+      "id": "fad8",
+      "chave": "dialog__jinjoorange_greeting",
+      "hash_es": "38f246eb352fd536",
+      "texto_ptbr": "{MOODSAD}Cenoura! Eu tinha uma cenoura. Eu derrubei. Sumiu. Não fica aí parado, você sabe o que fazer. Ache a minha cenoura! Você adora isso!",
+      "lote": "602"
+    },
+    {
+      "id": "6196",
+      "chave": "dialog__jinjoorange_lose",
+      "hash_es": "46b829ec8d488c29",
+      "texto_ptbr": "{MOODSAD}Volta sem a cenoura? Nem um cheirinho? Então vou ficar aqui até você ou alguém mais competente recuperar a minha cenoura.",
+      "lote": "602"
+    },
+    {
+      "id": "9c71",
+      "chave": "dialog__jinjoorange_objectives",
+      "hash_es": "a569d79dde1a5fc0",
+      "texto_ptbr": "{MOODSAD}Então, eu derrubei a cenoura. Já mencionei isso? Na água, perto do meio. Desejo boa caçada, intrépido detetive de cenouras.",
+      "lote": "602"
+    },
+    {
+      "id": "ad11",
+      "chave": "dialog__jinjoorange_win",
+      "hash_es": "95bd23a76cd643f2",
+      "texto_ptbr": "{MOODHAPPY}O retorno da cenoura! Realmente nada está além dos seus poderes incríveis! Pegue isto, comandante das cenouras!",
+      "lote": "602"
+    },
+    {
+      "id": "9fae",
+      "chave": "dialog__jinjopink_greeting",
+      "hash_es": "109c921e1d5a0a82",
+      "texto_ptbr": "{MOODHAPPY}Eu sou o Jinjo Esportista! Não sou Baby, Scary nem Posh, e com certeza não sou Ginger. Vamos fazer uma corrida aérea?",
+      "lote": "602"
+    },
+    {
+      "id": "0b6c",
+      "chave": "dialog__jinjopink_lose",
+      "hash_es": "bdf5674edb76faa3",
+      "texto_ptbr": "{MOODHAPPY}Eu te avisei, eu sou esportista! Pouca gente consegue me deixar pra trás, Jinjo, urso ou o que for! Tente de novo, eu vou estar aqui!",
+      "lote": "602"
+    },
+    {
+      "id": "cec7",
+      "chave": "dialog__jinjopink_objectives",
+      "hash_es": "66e9bd08902e388e",
+      "texto_ptbr": "{MOODHAPPY}Siga o percurso até a chegada! Tente chegar primeiro! É, isso com certeza conta como uma corrida!",
+      "lote": "602"
+    },
+    {
+      "id": "7427",
+      "chave": "dialog__jinjopink_win",
+      "hash_es": "5379f28315070a21",
+      "texto_ptbr": "{MOODHAPPY}Acho que você também é bem esportista, hein? Você venceu essa!",
+      "lote": "602"
+    }
+  ]
+}

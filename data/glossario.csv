@@ -1,0 +1,109 @@
+termo_en,termo_es,termo_ptbr,tipo,exigir,decisao,nota
+Banjo,Banjo,Banjo,personagem,sim,manter,nome próprio
+Kazooie,Kazooie,Kazooie,personagem,sim,manter,nome próprio
+Banjo-Kazooie,Banjo-Kazooie,Banjo-Kazooie,titulo,sim,manter,título da série
+Mumbo,Mumbo,Mumbo,personagem,sim,manter,nome próprio
+Humba,Humba,Humba,personagem,sim,manter,Humba Wumba
+Klungo,Klungo,Klungo,personagem,sim,manter,fala sibilando: Bear -> Ossso (es) -> Ursso (pt)
+Grunty,Grunty,Grunty,personagem,sim,manter,apelido de Gruntilda
+Gruntilda,Gruntilda,Gruntilda,personagem,sim,manter,nome próprio
+Bottles,Bottles,Bottles,personagem,sim,manter,nome próprio (o espanhol também manteve)
+Boggy,Boggy,Boggy,personagem,sim,manter,nome próprio
+Loggo,Loggo,Loggo,personagem,sim,manter,nome próprio
+Pikelet,Pikelet,Pikelet,personagem,sim,manter,nome próprio
+Piddles,Piddles,Piddles,personagem,não,manter,gato da Grunty
+Gobi,Gobi,Gobi,personagem,não,manter,nome próprio
+Jolly Dodger,Jolly Dodger,Jolly Dodger,personagem,não,manter,nome próprio
+Clanker,Clanker,Clanker,personagem,não,manter,nome próprio
+Jamjars,Mermelado,Jamjars,personagem,não,manter,espanhol traduziu (DJ Mermelado); mantemos o nome original
+Captain Blubber,Capitán Blubber,Capitão Blubber,personagem,sim,traduzir,só o título
+Trophy Thomas,Tomás Trofeo,Tomás Troféu,personagem,sim,traduzir,trocadilho; segue o espanhol
+Mr. Fit,Sr. Enforma,Sr. Em Forma,personagem,sim,traduzir,trocadilho com estar em forma
+Master Banjo,Maestro Banjo,Mestre Banjo,tratamento,sim,traduzir,
+Bear,Oso,Urso,tratamento,não,traduzir,como vocativo; Klungo diz Ursso
+L.O.G.,S.J.,S.J.,personagem,sim,traduzir,Senhor dos Jogos; sigla igual à do espanhol (sem nome oficial em PT-BR)
+Lord of Games,Señor de los Juegos,Senhor dos Jogos,personagem,sim,traduzir,
+LOGBOX 720,SJBOX 720,LOGBOX 720,lugar,sim,manter,nome oficial preservado (regra 2026-11-21)
+Showdown Town,Ciudad Duelo,Showdown Town,lugar,sim,manter,nome oficial preservado (regra 2026-11-21)
+Spiral Mountain,Montaña Espiral,Spiral Mountain,lugar,sim,manter,nome oficial preservado (regra 2026-11-21)
+Nutty Acres,Bosques Locos,Nutty Acres,lugar,sim,manter,nome oficial preservado (regra 2026-11-21)
+Banjoland,Banjolandia,Banjoland,lugar,sim,manter,nome oficial preservado (regra 2026-11-21)
+Jiggosseum,Jiggomuseo,Jiggosseum,lugar,sim,manter,nome oficial com dois S; preservado (regra 2026-11-21)
+Terrarium of Terror,Terrario del terror,Terrarium of Terror,lugar,sim,manter,nome oficial preservado (regra 2026-11-21)
+Mumbo's Motors,Mumbo Motor,Motores do Mumbo,lugar,sim,traduzir,oficina de veículos
+Boggy's Gym,Gimnasio de Boggy,Academia do Boggy,lugar,sim,traduzir,
+Mad Monster Mansion,La Mansión de los Monstruos Locos,Mansão dos Monstros Malucos,lugar,não,traduzir,referência ao jogo anterior
+Clanker's Cavern,La Caverna de Clanker,Caverna do Clanker,lugar,não,traduzir,referência ao jogo anterior
+Jiggy,Jiggy,Jiggy,item,sim,manter,
+Jiggies,Jiggys,Jiggies,item,sim,manter,plural em inglês (uso comum entre fãs no Brasil)
+Notes,Notas,Notas,item,sim,traduzir,
+Jiggy Bank,Banco de Jiggys,Banco de Jiggies,lugar,sim,traduzir,
+Jig-O-Vend,Máquina de Jiggys,Máquina de Jiggies,objeto,não,traduzir,
+T.T. Trophy,Trofeo T.T.,Troféu T.T.,item,sim,traduzir,
+Jinjo,Jinjo,Jinjo,personagem,sim,manter,plural Jinjos
+Jinjo Taxi,Jinjo Taxi,Táxi Jinjo,objeto,não,traduzir,
+Jinjo Bingo,Bingo jinjo,Bingo Jinjo,objeto,não,traduzir,
+Gruntbots,gruntbots,Gruntbots,inimigo,não,manter,
+Stop 'n' Swop,Parar y Cambiar,Stop 'n' Swop,termo,não,manter,nome conhecido pelos fãs; o espanhol traduziu
+Floatberry,Mora flotante,Amora Flutuante,item,não,traduzir,
+Trolley,Carrito,Carrinho,veiculo,não,traduzir,Trolley Mk. 1 -> Carrinho Mk. 1
+Challenge,Desafío,Desafio,interface,não,traduzir,
+Vehicle,Vehículo,Veículo,interface,não,traduzir,
+Blueprints,Planos,Projetos,interface,não,traduzir,projetos de veículos salvos
+Parts Store,Piezas,Loja de Peças,interface,não,traduzir,
+Fuel,Combustible,Combustível,interface,não,traduzir,
+Ammo,Munición,Munição,interface,não,traduzir,
+Game World,Mundo de juego,Mundo de Jogo,interface,não,traduzir,
+Game Globe,Mundo de juegos,Globo de Jogo,interface,não,traduzir,
+Game Style,Tipo de juego,Tipo de Jogo,interface,não,traduzir,
+Wrench It,Apretar,Apertar,interface,não,traduzir,ação da chave inglesa
+Button,Botón,Botão,interface,não,traduzir,
+Left Stick,stick izquierdo,Analógico esquerdo,interface,não,traduzir,
+Left Trigger,gatillo izquierdo,Gatilho esquerdo,interface,não,traduzir,
+Xbox LIVE,Xbox LIVE,Xbox LIVE,marca,sim,manter,
+Right Stick,,Analógico direito,interface,não,traduzir,par do Analógico esquerdo (lote 504)
+D-Pad,,Direcional,interface,não,traduzir,lote 504
+Right Bumper,,Botão superior direito,interface,não,traduzir,[RS]; lote 504
+Left Bumper,,Botão superior esquerdo,interface,não,traduzir,[LS]; lote 504
+Session,,Partida,interface,não,traduzir,multijogador; lote 504
+Lobby,,Sala de espera,interface,não,traduzir,lote 504
+Workshop,,Oficina,lugar,não,traduzir,lotes 502 e 504
+Paint Shop,,Loja de Tintas,lugar,não,traduzir,lotes 502 e 504
+Test-O-Track,,Test-O-Track,lugar,sim,manter,área jogável do multijogador; preservada (regra 2026-11-21)
+Chassis,,Chassi,interface,não,traduzir,lote 504
+Gadgets,,Engenhocas,interface,não,traduzir,lote 504
+Replay,,Repetição,interface,não,traduzir,lotes 402 e 502
+League,,Liga,interface,não,traduzir,lote 502
+Wimp Out,,Amarelar,interface,não,traduzir,desistir do desafio; lote 502
+Clipboard,,Área de transf.,interface,não,traduzir,abreviado por espaço; lote 502
+Decal,,Decalque,interface,não,traduzir,lote 502
+Dial,,Medidor,interface,não,traduzir,medidores da garagem; lote 504
+Limited Choice,,Escolha Limitada,interface,não,traduzir,tipo de jogo; lote 501
+L.O.G.'s Choice,,Escolha do S.J.,interface,não,traduzir,tipo de jogo; lote 501
+Player's Choice,,Escolha do Jogador,interface,não,traduzir,tipo de jogo; lote 501
+Best Ever,,Recorde,interface,não,traduzir,lote 501
+Start Game,,Iniciar jogo,interface,não,traduzir,lotes 501 e 503
+Jiggy Tamper Switch,,Interruptor de Adulteração de Jiggies,objeto,não,traduzir,lote 503 (Jiggies adulterados no lote 401)
+Mumbo Box,,Caixa do Mumbo,objeto,não,traduzir,lote 503
+Warp Pad,,Plataforma de Teleporte,objeto,não,traduzir,lotes 301 e 505
+Wrench-It Bolt,,Parafuso de Apertar,objeto,não,traduzir,lotes 301 e 505
+Safe House,,Esconderijo,lugar,não,traduzir,lote 505
+Lakeshore,,Beira do Lago,lugar,não,traduzir,bairro da Cidade do Duelo; lote 505
+Seaside,,Orla,lugar,não,traduzir,bairro da Cidade do Duelo; lote 505
+Tooty,,Tooty,personagem,não,manter,irmã do Banjo; Tooty Land = Terra da Tooty (lote 505)
+Freewheel,Punto muerto,Roda Livre,interface,não,traduzir,evento de rolamento sem potência; lotes 501/511/512
+Freewheeling,Punto muerto,Roda Livre,interface,não,traduzir,forma do evento; lotes 501/512
+Water Polo,Waterpolo,Polo Aquático,interface,não,traduzir,nome do esporte; lotes 511/512
+Banjo-Brawl,Lucha Banjo,Luta Banjo,interface,não,traduzir,jogo de combate; lotes 511/512
+Torpedile,Lanzatorpedos,Torpedilo,veiculo,não,traduzir,trocadilho torpedo + réptil; lotes 502/507/510
+Mumbo Bombo,Mumbo Bombo,Mumbo Bomba,veiculo,não,traduzir,peça explosiva; lotes 502/510
+Weldar's Breath,Aliento de Weldar,Bafo do Weldar,veiculo,não,traduzir,peça de fogo; lotes 502/510
+Boot-In-A-Box,Botas en caja,Bota na Caixa,veiculo,não,traduzir,peça de salto; lotes 502/510
+Freezeezy,Congeladora,Congelador,veiculo,não,traduzir,peça de gelo; lotes 502/510
+Suck-N-Blow,Sopla y absorbe,Suga e Sopra,veiculo,não,traduzir,peça de sucção; lotes 502/510
+Scuba Seat,Asiento de neopreno,Assento de Mergulho,veiculo,não,traduzir,peça subaquática; lotes 505/510
+Replenisher,Reponedor,Reabastecedor,veiculo,não,traduzir,peça de reabastecimento; lote 510
+High Grip Wheel,Rueda adherente,Roda de Alta Aderência,veiculo,não,traduzir,peça de aderência; lote 510
+Tag Plate,Matrícula,Placa,veiculo,não,traduzir,rótulo curto; lote 510
+Panel,Chapa,Painel,veiculo,não,traduzir,peça estrutural; o tutorial usa Painel (lote 513)
+Klungo's Arcade,,Klungo's Arcade,lugar,sim,manter,minijogo do Klungo; preservado (regra 2026-11-21)

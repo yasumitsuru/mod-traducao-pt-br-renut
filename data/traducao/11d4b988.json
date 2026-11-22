@@ -1,0 +1,363 @@
+{
+  "arquivo": "11d4b988",
+  "asset": "aid_loctext_banjox_banjoland_act1",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "e44c67ce818068b5",
+      "texto_ptbr": "Clanker não corre mais perigo por enquanto, mas você sempre pode reviver seu momento de glória...",
+      "lote": "604"
+    },
+    {
+      "id": "afc1",
+      "chave": "dialog__game1_clankerbotdestroyed1",
+      "hash_es": "4c19f00fe0fa57e7",
+      "texto_ptbr": "{MOODHAPPY}Continue assim, rapaz! Não se preocupe, você não vai machucar o Clanker!",
+      "lote": "604"
+    },
+    {
+      "id": "afc2",
+      "chave": "dialog__game1_clankerbotdestroyed2",
+      "hash_es": "65f7f9d8a8358e25",
+      "texto_ptbr": "{MOODHAPPY}Banjo ajudando o Clanker... como nos velhos tempos, hein?",
+      "lote": "604"
+    },
+    {
+      "id": "afc3",
+      "chave": "dialog__game1_clankerbotdestroyed3",
+      "hash_es": "1fa24713a74d9e21",
+      "texto_ptbr": "{MOODHAPPY}Arrr! Não passam de valentões de metal. Ensine uma lição a eles!",
+      "lote": "604"
+    },
+    {
+      "id": "331d",
+      "chave": "dialog__game1_clankerbotonhead1",
+      "hash_es": "9e6509f5ff88038a",
+      "texto_ptbr": "{MOODSAD}Esses Gruntbots estão chegando perto demais...",
+      "lote": "604"
+    },
+    {
+      "id": "331e",
+      "chave": "dialog__game1_clankerbotonhead2",
+      "hash_es": "daff077e1cbc9847",
+      "texto_ptbr": "{MOODSAD}Este lugar não é tão feio assim a ponto de o Clanker precisar perder os olhos!",
+      "lote": "604"
+    },
+    {
+      "id": "331f",
+      "chave": "dialog__game1_clankerbotonhead3",
+      "hash_es": "65d97e5a54f6a3bd",
+      "texto_ptbr": "{MOODSAD}Afaste os Gruntbots do velho Clanker enquanto ainda pode!",
+      "lote": "604"
+    },
+    {
+      "id": "6c71",
+      "chave": "dialog__game1_clankereyebot1",
+      "hash_es": "53aab8bc96ac7819",
+      "texto_ptbr": "{MOODSAD}Maldição! O velho lobo-do-mar enferrujado perdeu um olho!",
+      "lote": "604"
+    },
+    {
+      "id": "6c72",
+      "chave": "dialog__game1_clankereyebot2",
+      "hash_es": "8de8ace135a487e5",
+      "texto_ptbr": "{MOODSAD}Lá se vai um olho... e você achava que a Caverna do Clanker era perigosa!",
+      "lote": "604"
+    },
+    {
+      "id": "6c73",
+      "chave": "dialog__game1_clankereyebot3",
+      "hash_es": "926e995b99e27e3f",
+      "texto_ptbr": "{MOODSAD}Artesãos amadores! Os olhos do Clanker nem estão parafusados direito!",
+      "lote": "604"
+    },
+    {
+      "id": "21b9",
+      "chave": "dialog__game1_clankereyeplayer1",
+      "hash_es": "664e1465c516cb50",
+      "texto_ptbr": "{MOODANGRY}Cracas, rapaz! Por que você faria uma coisa dessas com o pobre Clanker?",
+      "lote": "604"
+    },
+    {
+      "id": "21ba",
+      "chave": "dialog__game1_clankereyeplayer2",
+      "hash_es": "61efeb92fb5d97fc",
+      "texto_ptbr": "{MOODANGRY}O quê? Você ainda guarda rancor do Clanker por ele ter servido à Grunty?",
+      "lote": "604"
+    },
+    {
+      "id": "21bb",
+      "chave": "dialog__game1_clankereyeplayer3",
+      "hash_es": "702b17b05f9ea0c8",
+      "texto_ptbr": "{MOODANGRY}Cuidado aí, rapaz! Você não está ajudando muito!",
+      "lote": "604"
+    },
+    {
+      "id": "b254",
+      "chave": "dialog__game1_fail",
+      "hash_es": "2e25819dbd3dd9c7",
+      "texto_ptbr": "{MOODSAD}Agora veja o estado desta pobre velha baleia... peixe... coisa. Como você pôde deixar a Grunty se sair com essa?",
+      "lote": "604"
+    },
+    {
+      "id": "9744",
+      "chave": "dialog__game1_intro",
+      "hash_es": "377fbc97d21f710a",
+      "texto_ptbr": "Ahoy, Banjo! O Clanker se meteu em águas profundas. Acha que poderia ajudar um hipopótamo salgado a defender seu velho e grisalho amigo?",
+      "lote": "604"
+    },
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "4163a9686b06b43a",
+      "texto_ptbr": "Não parece que o Clanker esteja em posição de se defender sozinho...",
+      "lote": "604"
+    },
+    {
+      "id": "4128",
+      "chave": "dialog__game1_objectivesb",
+      "hash_es": "042a45b8ef93b8e3",
+      "texto_ptbr": "Não, e aqueles Gruntbots ladrões estão atrás dos olhos dele! Não vão desistir até que um bom número deles seja reduzido a pedacinhos!",
+      "lote": "604"
+    },
+    {
+      "id": "1938",
+      "chave": "dialog__game1_objectivesrepeat1",
+      "hash_es": "6751026ff746031e",
+      "texto_ptbr": "Derrube alguns desses cães sarnentos e o resto deve fugir!",
+      "lote": "604"
+    },
+    {
+      "id": "1939",
+      "chave": "dialog__game1_objectivesrepeat2",
+      "hash_es": "5a50d4b3b28931bd",
+      "texto_ptbr": "Arrr, não deixe esses vira-latas escaparem com os olhos do velho Clanker!",
+      "lote": "604"
+    },
+    {
+      "id": "d532",
+      "chave": "dialog__game1_successa",
+      "hash_es": "2795bf3f5062ead4",
+      "texto_ptbr": "{MOODHAPPY}Olhos no prêmio como sempre, Banjo, meu rapaz! Que show. Você merece toda a recompensa que eu puder juntar!",
+      "lote": "604"
+    },
+    {
+      "id": "d534",
+      "chave": "dialog__game1_successc",
+      "hash_es": "359d0821804f2507",
+      "texto_ptbr": "Clanker está são e salvo graças a você. Pode levar meu Jiggy, mas se concentre mais e poderá fazer ainda melhor!",
+      "lote": "604"
+    },
+    {
+      "id": "d536",
+      "chave": "dialog__game1_successe",
+      "hash_es": "b1b9181f2b830fb8",
+      "texto_ptbr": "{MOODSAD}Bem, você conseguiu, mas por um tempo foi por um triz. Precisa se esforçar mais para ganhar um Jiggy, rapaz!",
+      "lote": "604"
+    },
+    {
+      "id": "f828",
+      "chave": "dialog__game2_beaten",
+      "hash_es": "507b369ecfbd80ed",
+      "texto_ptbr": "O George não dá nenhum escorregão dormindo há um tempo, mas podemos recriar o cenário para fins de treinamento...",
+      "lote": "604"
+    },
+    {
+      "id": "daf5",
+      "chave": "dialog__game2_fail",
+      "hash_es": "7b30591332df577d",
+      "texto_ptbr": "{MOODSAD}Argh! Isso sempre acontece quando contrato alguém de fora! Pobre George, ele parece aos pedaços.",
+      "lote": "604"
+    },
+    {
+      "id": "d405",
+      "chave": "dialog__game2_intro",
+      "hash_es": "ef5253cee92ab3f8",
+      "texto_ptbr": "{MOODSAD}Banjo, é uma catástrofe de saúde e segurança! O George andou escorregando dormindo de novo, e foi parar na área do deserto! {PAGEBREAK}Precisamos montar uma operação de resgate, já! Não consigo nem contar quantas diretrizes da exposição estão sendo violadas...",
+      "lote": "604"
+    },
+    {
+      "id": "9d67",
+      "chave": "dialog__game2_objectives",
+      "hash_es": "e2506f83e081503d",
+      "texto_ptbr": "O George não pode passar suas últimas horas na solidão! Se não se reunir com a Mildred logo, ele vai definhar até virar só vapor e areia molhada...",
+      "lote": "604"
+    },
+    {
+      "id": "4aa9",
+      "chave": "dialog__game2_objectivesb",
+      "hash_es": "6688c2f5adad9070",
+      "texto_ptbr": "Parece que ele engordou um pouco. Como você sugere que a gente o arraste de volta, bafo de besouro?",
+      "lote": "604"
+    },
+    {
+      "id": "4aaa",
+      "chave": "dialog__game2_objectivesc",
+      "hash_es": "436ef33954919730",
+      "texto_ptbr": "Construímos um Veículo Especial de Realocação de Cubos de Gelo da última vez que isso aconteceu. Alguns bons empurrões vão colocar o George de volta no lugar dele!",
+      "lote": "604"
+    },
+    {
+      "id": "7f79",
+      "chave": "dialog__game2_objectivesrepeat1",
+      "hash_es": "573264121bcf53a6",
+      "texto_ptbr": "Olha, regra S4-D: exposições casadas devem ficar lado a lado o tempo todo!",
+      "lote": "604"
+    },
+    {
+      "id": "7f7a",
+      "chave": "dialog__game2_objectivesrepeat2",
+      "hash_es": "b1d2e9517924c1d8",
+      "texto_ptbr": "O tempo é crucial, Banjo. O George não vai durar muito!",
+      "lote": "604"
+    },
+    {
+      "id": "6653",
+      "chave": "dialog__game2_successa",
+      "hash_es": "86d9ab43f17ed30f",
+      "texto_ptbr": "{MOODHAPPY}Perfeito, Banjo! Vou garantir que você seja bem recompensado por reunir George e Mildred. Ah, o amor jovem...",
+      "lote": "604"
+    },
+    {
+      "id": "6655",
+      "chave": "dialog__game2_successc",
+      "hash_es": "c1d343115e168103",
+      "texto_ptbr": "Bom trabalho, Banjo! George e Mildred estão felizes de novo... dá até vontade de chorar. O Jiggy é seu!",
+      "lote": "604"
+    },
+    {
+      "id": "6657",
+      "chave": "dialog__game2_successe",
+      "hash_es": "744e2165aa1d54c3",
+      "texto_ptbr": "{MOODSAD}Acho que você está perdendo o jeito, Banjo! Você fez o serviço, mas não com rapidez nem eficiência suficientes para ganhar um Jiggy...",
+      "lote": "604"
+    },
+    {
+      "id": "cd09",
+      "chave": "dialog__game3_beaten",
+      "hash_es": "a00d48dde0ab7ebd",
+      "texto_ptbr": "Urssso gordo e pássaro mal-educado já provar que venceram o lento e velho Klungo. Tentar tempo ainda mais rápido?",
+      "lote": "604"
+    },
+    {
+      "id": "0396",
+      "chave": "dialog__game3_fail",
+      "hash_es": "1390eb1a3ad0b99e",
+      "texto_ptbr": "{MOODHAPPY}Urssso mais lento que turno da noite de 12 horas. Recorde do Klungo invicto!",
+      "lote": "604"
+    },
+    {
+      "id": "10c6",
+      "chave": "dialog__game3_intro",
+      "hash_es": "3a1906197230968b",
+      "texto_ptbr": "Psssst! Aqui. Urssso querer entrar no clube sssecreto de corrida do Klungo? Primeiro ter que bater o melhor tempo do Klungo. Querer tentar?",
+      "lote": "604"
+    },
+    {
+      "id": "fac8",
+      "chave": "dialog__game3_objectives",
+      "hash_es": "ac3f27f14ce5dd23",
+      "texto_ptbr": "Estamos sempre prontos para um desafio. Mas qual é o grande segredo, afinal?",
+      "lote": "604"
+    },
+    {
+      "id": "542a",
+      "chave": "dialog__game3_objectivesb",
+      "hash_es": "08fc44b713050b3c",
+      "texto_ptbr": "Chefe Bottlesss não deixar a equipe correr pelo Museu. Coisas v.a.l.i.o.s.a.s. demais para quebrar.",
+      "lote": "604"
+    },
+    {
+      "id": "542b",
+      "chave": "dialog__game3_objectivesc",
+      "hash_es": "8f559fe9f4dffaa3",
+      "texto_ptbr": "É, este lugar está transbordando de artefatos inestimáveis. Tá bom, tá bom. O que a gente faz?",
+      "lote": "604"
+    },
+    {
+      "id": "542c",
+      "chave": "dialog__game3_objectivesd",
+      "hash_es": "a20bb6f14c6f9562",
+      "texto_ptbr": "Klungo ter tempo recorde no percurso. Se urssso fizer melhor, Klungo entregar Jiggy brilhante.",
+      "lote": "604"
+    },
+    {
+      "id": "f774",
+      "chave": "dialog__game3_successa",
+      "hash_es": "c14f49b5bf9c35fa",
+      "texto_ptbr": "{MOODANGRY}Urssso destruir recorde do Klungo! Deve ter pego atalho. Grrr... Klungo não quer Jiggy estúpido e essas coisas mesmo.",
+      "lote": "604"
+    },
+    {
+      "id": "f776",
+      "chave": "dialog__game3_successc",
+      "hash_es": "003db774a3f892d8",
+      "texto_ptbr": "Urssso terminar em bom tempo. Bom o bastante para prêmio Jiggy. Mas não a melhor pilotagem que Klungo já viu...",
+      "lote": "604"
+    },
+    {
+      "id": "f778",
+      "chave": "dialog__game3_successe",
+      "hash_es": "1ab7e9f47895fba2",
+      "texto_ptbr": "Urssso terminar a corrida, mas atuação não ser ótima. Precisar fazer melhor mesmo. Klungo gostar de incentivar autoconsssuperação.",
+      "lote": "604"
+    },
+    {
+      "id": "c0c4",
+      "chave": "dialog__jinjoblue_greeting",
+      "hash_es": "563597840bb6cec6",
+      "texto_ptbr": "{MOODHAPPY}Vim aqui para anunciar meu desafio de combate Jinjo por toda a terra! Todos que se aproximarem de mim devem ficar e lutar! Se não se importarem.",
+      "lote": "604"
+    },
+    {
+      "id": "1182",
+      "chave": "dialog__jinjoblue_lose",
+      "hash_es": "0e075f7cd5b33cac",
+      "texto_ptbr": "{MOODHAPPY}Sou um colosso do combate, ouça meu rugido! Um esforço animado, novato!",
+      "lote": "604"
+    },
+    {
+      "id": "8d5d",
+      "chave": "dialog__jinjoblue_objectives",
+      "hash_es": "aadc1ffbcd5cb69c",
+      "texto_ptbr": "{MOODHAPPY}Você, meu arqui-inimigo! Tente me empurrar para fora da área! Eu vou empurrar de volta, então se prepare!",
+      "lote": "604"
+    },
+    {
+      "id": "0f7d",
+      "chave": "dialog__jinjoblue_win",
+      "hash_es": "34606e620b1d66dc",
+      "texto_ptbr": "{MOODSAD}Derrubado da glória! Isso é duro. Mas um campeão é um campeão...",
+      "lote": "604"
+    },
+    {
+      "id": "fad8",
+      "chave": "dialog__jinjoorange_greeting",
+      "hash_es": "f231a0e12d62c78b",
+      "texto_ptbr": "{MOODHAPPY}Ei, ei! Você parece rápido. Não sei por quê, só parece. Isso importa? Vamos jogar! Você não precisa de motivo para isso!",
+      "lote": "604"
+    },
+    {
+      "id": "6196",
+      "chave": "dialog__jinjoorange_lose",
+      "hash_es": "e79ff2eb94c7366d",
+      "texto_ptbr": "{MOODSAD}Não acredito! Quão lento foi isso? E lá se foi minha habilidade impecável de julgar caráter!",
+      "lote": "604"
+    },
+    {
+      "id": "9c71",
+      "chave": "dialog__jinjoorange_objectives",
+      "hash_es": "159492220a908422",
+      "texto_ptbr": "{MOODHAPPY}Vamos, mostre que consegue superar a velocidade marcada no velocímetro e eu te dou um prêmio! Ah, sim!",
+      "lote": "604"
+    },
+    {
+      "id": "ad11",
+      "chave": "dialog__jinjoorange_win",
+      "hash_es": "60c4c00e28c6dc3c",
+      "texto_ptbr": "{MOODHAPPY}Eu sabia que você era rápido! Consigo sentir potencial de corrida a um quilômetro de distância! Sou tipo um paranormal da velocidade! É... aqui está seu prêmio.",
+      "lote": "604"
+    }
+  ]
+}

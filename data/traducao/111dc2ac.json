@@ -1,0 +1,202 @@
+{
+  "arquivo": "111dc2ac",
+  "asset": "aid_loctext_banjox_showdowntown_log",
+  "frases": [
+    {
+      "id": "0a25",
+      "chave": "dialog__kazooie_timedgatelocked",
+      "hash_es": "df9e8f2ca5ce95dd",
+      "texto_ptbr": "Isso parece uma desculpa esfarrapada para nos barrar, Cabeça de Monitor.",
+      "lote": "505"
+    },
+    {
+      "id": "d1aa",
+      "chave": "dialog__log_alljiggies",
+      "hash_es": "f3f3cd85803754a9",
+      "texto_ptbr": "Acredito que você agora ganhou e depositou todos os Jiggies do jogo! Em retrospecto, talvez eu devesse ter escolhido um número redondo. {PAGEBREAK}O seu nome entra no meu registro de completistas obsessivos, ao lado dos que conseguiram todas as platinas de Blast Corps e xingaram até o fim do Desafio 21 em Grabbed by the Ghoulies. Parabéns!",
+      "lote": "505"
+    },
+    {
+      "id": "ea95",
+      "chave": "dialog__log_alljinjos",
+      "hash_es": "b63eef30939e5789",
+      "texto_ptbr": "Então você libertou todos os Jinjos? E se alguns deles fossem criminosos de verdade? Brincadeira. Trabalho astuto, urso.",
+      "lote": "505"
+    },
+    {
+      "id": "6478",
+      "chave": "dialog__log_allminjos",
+      "hash_es": "e37b3112d27ec6b4",
+      "texto_ptbr": "Uma possível injustiça foi resolvida, agora que todos os Jinjos libertados foram substituídos por Minjos. Um bom trabalho, muito bem feito.",
+      "lote": "505"
+    },
+    {
+      "id": "3380",
+      "chave": "dialog__log_chat1",
+      "hash_es": "3a957e9fc6e1900a",
+      "texto_ptbr": "Seria uma pena deixar a Gruntilda vencer e transformar a sua terra natal num subúrbio sórdido e feio. Mas preciso permanecer imparcial...",
+      "lote": "505"
+    },
+    {
+      "id": "a3b0",
+      "chave": "dialog__log_chat10",
+      "hash_es": "aac09293ece4f8e4",
+      "texto_ptbr": "Seja qual for o resultado deste conflito, será que você poderia considerar ficar sem uma nêmesis por um tempo? As suas brigas me dão uma enxaqueca séria, aqui atrás da minha tela.",
+      "lote": "505"
+    },
+    {
+      "id": "3381",
+      "chave": "dialog__log_chat2",
+      "hash_es": "3908b2f95268c9e0",
+      "texto_ptbr": "Descartei muitos Mundos de Jogo desta aventura. Os Esgotos da Severidade, o Vulcão do Vômito, a Terra da Tooty... nenhum passou no corte, por algum motivo.",
+      "lote": "505"
+    },
+    {
+      "id": "3382",
+      "chave": "dialog__log_chat3",
+      "hash_es": "891fd01fbcc3e194",
+      "texto_ptbr": "Eu inventei o jogo de tiro em primeira pessoa, sabia? Agora queria não ter me dado ao trabalho. Viu quantos existem? Aposto que até neste jogo tem um fuzileiro espacial em algum canto.",
+      "lote": "505"
+    },
+    {
+      "id": "3383",
+      "chave": "dialog__log_chat4",
+      "hash_es": "7a4088317eb837fb",
+      "texto_ptbr": "Lembra da Canary Mary? Se divertiu correndo contra ela? Como eu ri montando aquelas fases. Ainda estou rindo!",
+      "lote": "505"
+    },
+    {
+      "id": "3384",
+      "chave": "dialog__log_chat5",
+      "hash_es": "e3d2ddf0b0a0ec0d",
+      "texto_ptbr": "No meu próximo truque, talvez leve aquela franquia das piñatas pelo caminho do survival horror. O que acha? Elas ficam do mal, prendem você numa cabana e você tem que se defender com um cabo de pá.",
+      "lote": "505"
+    },
+    {
+      "id": "3385",
+      "chave": "dialog__log_chat6",
+      "hash_es": "e28e61fb82daa98a",
+      "texto_ptbr": "Estão todos a caminho, sabe. Novos jogos de Killer Instinct, Battletoads e Jet Force Gemini. Até Ghoulies 2! Ah, você nunca vai acreditar nisso. Estraguei a minha própria piada.",
+      "lote": "505"
+    },
+    {
+      "id": "3386",
+      "chave": "dialog__log_chat7",
+      "hash_es": "92ff0e8821acdf2a",
+      "texto_ptbr": "Como é? Quer saber por que nunca me conheceu nem ouviu falar de mim? Bem, sou muito bom em me disfarçar. Acaricie o meu porquinho!",
+      "lote": "505"
+    },
+    {
+      "id": "3387",
+      "chave": "dialog__log_chat8",
+      "hash_es": "d47d184d9f9bdad8",
+      "texto_ptbr": "Seja grato por eu ter trazido você a Showdown Town e não à Cidade Country. Lá é bem menos agradável. A música! As danças coreografadas!",
+      "lote": "518"
+    },
+    {
+      "id": "3388",
+      "chave": "dialog__log_chat9",
+      "hash_es": "9927e55fbdc2ea11",
+      "texto_ptbr": "Sim, existe uma Senhora dos Jogos, embora isso não seja da sua conta. Ela inventou os primeiros jogos com cavalinhos para montar, gatinhos fofos e ninjas explodidos por lança-foguetes.",
+      "lote": "505"
+    },
+    {
+      "id": "3b80",
+      "chave": "dialog__log_spiraldooropen",
+      "hash_es": "7f3dc81478273e03",
+      "texto_ptbr": "Você alcançou um marco importante! Há Jiggies suficientes depositados para reabrir a passagem para Spiral Mountain, onde o seu desafio final aguarda. {PAGEBREAK}Você pode ir agora mesmo forçar a Gruntilda a um confronto ou ficar por aqui para completar os Atos restantes dos Mundos de Jogo... a escolha é sua.",
+      "lote": "518"
+    },
+    {
+      "id": "9bea",
+      "chave": "dialog__log_tamperedjiggytooearly",
+      "hash_es": "e23bbe8240d14fa5",
+      "texto_ptbr": "O que é isto? Procurando um jeito de quebrar o jogo pelas minhas costas? Vá fazer o que deve fazer e talvez eu deixe você tentar isso mais tarde. Esses personagens de terceira linha, eu me desespero...",
+      "lote": "505"
+    },
+    {
+      "id": "b1f5",
+      "chave": "dialog__log_timedgatelocked",
+      "hash_es": "abf3b823564544c6",
+      "texto_ptbr": "Espere! Os meus sensores indicam que o seu veículo está mal equipado para passar por este túnel com segurança...",
+      "lote": "505"
+    },
+    {
+      "id": "f0c7",
+      "chave": "dialog__log_timedgatelocked2",
+      "hash_es": "c42827b469ebe7e8",
+      "texto_ptbr": "Não se atreva a questionar os meus motivos, Breegull. Os meus caminhos são misteriosos!",
+      "lote": "505"
+    },
+    {
+      "id": "ddcd",
+      "chave": "dialog__log_tip1",
+      "hash_es": "836369618c9f7cdb",
+      "texto_ptbr": "Já conheceu o Pikelet, o Chefe de Polícia? Ele é, bem, um gosto adquirido. Mas tem certa influência sobre esta cidade, então convém você conhecer o papel dele aqui.",
+      "lote": "505"
+    },
+    {
+      "id": "979d",
+      "chave": "dialog__log_tip10",
+      "hash_es": "29e2ce0db8a3e602",
+      "texto_ptbr": "A maioria dos pedestais de Globos de Jogo fica em áreas exclusivas da cidade por um motivo. Não quero ver você fazendo malabarismo com jogos de cinco mundos diferentes desde o início! Concentre-se e conquiste o seu progresso!",
+      "lote": "505"
+    },
+    {
+      "id": "ddce",
+      "chave": "dialog__log_tip2",
+      "hash_es": "9b0e2016151ed148",
+      "texto_ptbr": "Grandes áreas da cidade ficarão indisponíveis para você no início. Pareceu apropriado que batalhas marcantes contra a sua nêmesis Gruntilda concedam os elementos necessários para progredir.",
+      "lote": "505"
+    },
+    {
+      "id": "ddcf",
+      "chave": "dialog__log_tip3",
+      "hash_es": "6e520533f6baad31",
+      "texto_ptbr": "Você pode estar limitado a um único veículo em Showdown Town, mas não deixe isso impedir que experimente as melhores peças novas para criar máquinas poderosas para usar nos Mundos de Jogo!",
+      "lote": "518"
+    },
+    {
+      "id": "ddd0",
+      "chave": "dialog__log_tip4",
+      "hash_es": "212d855e48d5cdbf",
+      "texto_ptbr": "Aquele tal de Tomás Troféu parece achar que os seus talentos se igualam aos meus, mas, na hora de maximizar a sua contagem de Jiggies rejogando jogos, ele tem a sua utilidade.",
+      "lote": "505"
+    },
+    {
+      "id": "ddd1",
+      "chave": "dialog__log_tip5",
+      "hash_es": "9bec198a17194b8c",
+      "texto_ptbr": "Então você encontrou os seus velhos conhecidos pela cidade? Achei que seria divertido se eles também fizessem papéis coadjuvantes nos Mundos de Jogo. Falta de pessoal? Por que você pensaria isso?",
+      "lote": "505"
+    },
+    {
+      "id": "ddd2",
+      "chave": "dialog__log_tip6",
+      "hash_es": "d4b44508519024cc",
+      "texto_ptbr": "Já descobriu alguma das Torres do Alçapão? Não dá para entrar sem uma combinação, e guardei esse conhecimento para um pequeno punhado de indivíduos...",
+      "lote": "505"
+    },
+    {
+      "id": "ddd3",
+      "chave": "dialog__log_tip7",
+      "hash_es": "2cf3bf2474b9fdfa",
+      "texto_ptbr": "Ela é curiosa, a sua arqui-inimiga, parada por aí se recusando a participar. Não caia na tentação de imitá-la! Concluir desafios é vital para o seu sucesso, tanto aqui quanto em casa!",
+      "lote": "505"
+    },
+    {
+      "id": "ddd4",
+      "chave": "dialog__log_tip8",
+      "hash_es": "4eb1e42fd102b5f3",
+      "texto_ptbr": "Como vai com a chave inglesa? Achando novos usos para ela? Aqueles Parafusos pela cidade não são puramente decorativos, sabe...",
+      "lote": "505"
+    },
+    {
+      "id": "ddd5",
+      "chave": "dialog__log_tip9",
+      "hash_es": "37dcdad04a0a6659",
+      "texto_ptbr": "Os Jinjos dos Mundos de Jogo são bem mais independentes que os poucos que restam em Showdown Town, que talvez precisem de ajuda para escapar da situação atual.",
+      "lote": "518"
+    }
+  ]
+}

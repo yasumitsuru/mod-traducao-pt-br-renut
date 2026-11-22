@@ -1,0 +1,3205 @@
+{
+  "arquivo": "114483e7",
+  "asset": "aid_loctext_banjox_ui_frontend",
+  "frases": [
+    {
+      "id": "73c2",
+      "chave": "frontend__challengeselect_title",
+      "hash_es": "2d7f4a7b36953521",
+      "texto_ptbr": "Seleção de desafio",
+      "lote": "001"
+    },
+    {
+      "id": "354a",
+      "chave": "frontend__componentselection_noassignableblocks",
+      "hash_es": "f9517e994004e14e",
+      "texto_ptbr": "Nenhuma peça atribuível neste veículo.",
+      "lote": "401"
+    },
+    {
+      "id": "1958",
+      "chave": "frontend__componentselection_title",
+      "hash_es": "3087e3a84e44583e",
+      "texto_ptbr": "Seleção de peças do veículo",
+      "lote": "001"
+    },
+    {
+      "id": "79fe",
+      "chave": "frontend__duringchallenge_buttoncomponentselection",
+      "hash_es": "3087e3a84e44583e",
+      "texto_ptbr": "Seleção de peças do veículo",
+      "lote": "401"
+    },
+    {
+      "id": "b53f",
+      "chave": "frontend__duringchallenge_buttonendchallenge",
+      "hash_es": "5e58a90e947dd71e",
+      "texto_ptbr": "Sair do desafio",
+      "lote": "401"
+    },
+    {
+      "id": "6654",
+      "chave": "frontend__duringchallenge_buttonphotomode",
+      "hash_es": "30235d39aa8800a7",
+      "texto_ptbr": "Modo foto",
+      "lote": "401"
+    },
+    {
+      "id": "b1ea",
+      "chave": "frontend__duringchallenge_buttonquittohub",
+      "hash_es": "8e656f48efb86f3a",
+      "texto_ptbr": "Ir a Showdown Town",
+      "lote": "518"
+    },
+    {
+      "id": "7e6d",
+      "chave": "frontend__duringchallenge_buttonrestartchallenge",
+      "hash_es": "fb054262f1f9cc7f",
+      "texto_ptbr": "Reiniciar desafio",
+      "lote": "401"
+    },
+    {
+      "id": "b3ce",
+      "chave": "frontend__duringchallenge_challengetitle",
+      "hash_es": "226ce938b394ca23",
+      "texto_ptbr": "Desafio atual",
+      "lote": "001"
+    },
+    {
+      "id": "c5ab",
+      "chave": "frontend__duringchallenge_title",
+      "hash_es": "0814e1cd4c7c4e11",
+      "texto_ptbr": "Desafio pausado",
+      "lote": "001"
+    },
+    {
+      "id": "0000",
+      "chave": "frontend__duringchallenge_vehicletitle",
+      "hash_es": "60532b3aa3949ac4",
+      "texto_ptbr": "Veículo atual",
+      "lote": "001"
+    },
+    {
+      "id": "568b",
+      "chave": "frontend__finishedchallenge_buttoncontinue",
+      "hash_es": "63e2bbaf1c924391",
+      "texto_ptbr": "Continuar",
+      "lote": "001"
+    },
+    {
+      "id": "b7b3",
+      "chave": "frontend__finishedchallenge_buttonleave",
+      "hash_es": "6cccafdcbe06bde8",
+      "texto_ptbr": "Abandonar desafio",
+      "lote": "401"
+    },
+    {
+      "id": "cd4e",
+      "chave": "frontend__finishedchallenge_chalrestitle",
+      "hash_es": "a68434d24a988ff3",
+      "texto_ptbr": "Resultado do desafio",
+      "lote": "001"
+    },
+    {
+      "id": "1d7b",
+      "chave": "frontend__finishedchallenge_fifth",
+      "hash_es": "ef2d127de37b942b",
+      "texto_ptbr": "5º",
+      "lote": "401"
+    },
+    {
+      "id": "5072",
+      "chave": "frontend__finishedchallenge_first",
+      "hash_es": "6b86b273ff34fce1",
+      "texto_ptbr": "1º",
+      "lote": "401"
+    },
+    {
+      "id": "9302",
+      "chave": "frontend__finishedchallenge_fourth",
+      "hash_es": "4b227777d4dd1fc6",
+      "texto_ptbr": "4º",
+      "lote": "401"
+    },
+    {
+      "id": "8f5b",
+      "chave": "frontend__finishedchallenge_highscorestitle",
+      "hash_es": "41314a4dc2acff1b",
+      "texto_ptbr": "Recordes",
+      "lote": "001"
+    },
+    {
+      "id": "416d",
+      "chave": "frontend__finishedchallenge_nametitle",
+      "hash_es": "562bb15757a8b593",
+      "texto_ptbr": "Nome",
+      "lote": "001"
+    },
+    {
+      "id": "d479",
+      "chave": "frontend__finishedchallenge_playertitle",
+      "hash_es": "e47ce2a916e0ca71",
+      "texto_ptbr": "Jogador",
+      "lote": "001"
+    },
+    {
+      "id": "02e1",
+      "chave": "frontend__finishedchallenge_positiontitle",
+      "hash_es": "f00d56c231666490",
+      "texto_ptbr": "Posição",
+      "lote": "001"
+    },
+    {
+      "id": "e02b",
+      "chave": "frontend__finishedchallenge_resulttitle",
+      "hash_es": "a71bc39fe3f33e42",
+      "texto_ptbr": "Resultado",
+      "lote": "001"
+    },
+    {
+      "id": "ad88",
+      "chave": "frontend__finishedchallenge_scoretitle",
+      "hash_es": "f5f03ac15d19e8c0",
+      "texto_ptbr": "Pontuação",
+      "lote": "001"
+    },
+    {
+      "id": "c1c6",
+      "chave": "frontend__finishedchallenge_second",
+      "hash_es": "d4735e3a265e16ee",
+      "texto_ptbr": "2º",
+      "lote": "401"
+    },
+    {
+      "id": "f4a5",
+      "chave": "frontend__finishedchallenge_third",
+      "hash_es": "4e07408562bedb8b",
+      "texto_ptbr": "3º",
+      "lote": "401"
+    },
+    {
+      "id": "af0c",
+      "chave": "frontend__finishedchallenge_title",
+      "hash_es": "a0666bdc8a1cdf35",
+      "texto_ptbr": "Desafio concluído",
+      "lote": "001"
+    },
+    {
+      "id": "37ec",
+      "chave": "frontend__finishedchallenge_vehicletitle",
+      "hash_es": "e4579a8b1ea49f6e",
+      "texto_ptbr": "Veículo",
+      "lote": "001"
+    },
+    {
+      "id": "5dca",
+      "chave": "frontend__finishedchallenge_yourscorestitle",
+      "hash_es": "1e3a715a08b5f8a6",
+      "texto_ptbr": "Suas pontuações",
+      "lote": "001"
+    },
+    {
+      "id": "9b6e",
+      "chave": "frontend__leaderboards_banjoland",
+      "hash_es": "d917f487ab08a197",
+      "texto_ptbr": "Placares de Banjoland",
+      "lote": "518"
+    },
+    {
+      "id": "7a6d",
+      "chave": "frontend__leaderboards_cpu",
+      "hash_es": "6d2ea1020fb8b07f",
+      "texto_ptbr": "Placares de LOGBOX 720",
+      "lote": "518"
+    },
+    {
+      "id": "17d6",
+      "chave": "frontend__leaderboards_filterfriends",
+      "hash_es": "870608f492f04e34",
+      "texto_ptbr": "Placar de amigos",
+      "lote": "401"
+    },
+    {
+      "id": "2b38",
+      "chave": "frontend__leaderboards_filterplayer",
+      "hash_es": "7ec646b6fe6c6959",
+      "texto_ptbr": "Sua posição",
+      "lote": "401"
+    },
+    {
+      "id": "c97e",
+      "chave": "frontend__leaderboards_filtertop",
+      "hash_es": "b0e71be0c09c2ab2",
+      "texto_ptbr": "Melhores jogadores",
+      "lote": "401"
+    },
+    {
+      "id": "9c23",
+      "chave": "frontend__leaderboards_loading",
+      "hash_es": "78164e6c88f6cf6b",
+      "texto_ptbr": "Carregando...",
+      "lote": "401"
+    },
+    {
+      "id": "f13c",
+      "chave": "frontend__leaderboards_noentries",
+      "hash_es": "40c86dbfadc478a9",
+      "texto_ptbr": "Nenhum registro encontrado no placar.",
+      "lote": "401"
+    },
+    {
+      "id": "c229",
+      "chave": "frontend__leaderboards_notconnected",
+      "hash_es": "b159ab117439774b",
+      "texto_ptbr": "Você não pode ver os placares sem estar conectado ao Xbox LIVE. Antes de tentar acessá-los, verifique se está usando um perfil de jogador com Xbox LIVE e se entrou no Xbox LIVE.",
+      "lote": "401"
+    },
+    {
+      "id": "bab7",
+      "chave": "frontend__leaderboards_nuttyacres",
+      "hash_es": "997e7924d3671cb8",
+      "texto_ptbr": "Placares de Nutty Acres",
+      "lote": "518"
+    },
+    {
+      "id": "f1bb",
+      "chave": "frontend__leaderboards_spiralmountain",
+      "hash_es": "93129daa50908767",
+      "texto_ptbr": "Placares de Spiral Mountain",
+      "lote": "518"
+    },
+    {
+      "id": "864e",
+      "chave": "frontend__leaderboards_terrorium",
+      "hash_es": "294ee2aaceee5c34",
+      "texto_ptbr": "Placares do Terrarium of Terror",
+      "lote": "518"
+    },
+    {
+      "id": "17da",
+      "chave": "frontend__leaderboards_worldofsport",
+      "hash_es": "64b82b52c49f57d6",
+      "texto_ptbr": "Placares do Jiggosseum",
+      "lote": "518"
+    },
+    {
+      "id": "fc4a",
+      "chave": "frontend__loading_corrupt",
+      "hash_es": "5817cd27960014fb",
+      "texto_ptbr": "O conteúdo parece estar corrompido. Não foi possível carregar.",
+      "lote": "401"
+    },
+    {
+      "id": "824d",
+      "chave": "frontend__loadingtips1",
+      "hash_es": "118e96bfe29db80d",
+      "texto_ptbr": "Se um desafio não estiver indo bem, você pode recomeçar pressionando o botão [START] START e selecionando Reiniciar desafio.",
+      "lote": "401"
+    },
+    {
+      "id": "cc1d",
+      "chave": "frontend__loadingtips10",
+      "hash_es": "092daa0be7490dd0",
+      "texto_ptbr": "A maioria das peças de veículo da categoria Arma também precisa de munição para funcionar. Um detalhe simples, mas crucial.",
+      "lote": "401"
+    },
+    {
+      "id": "cc1e",
+      "chave": "frontend__loadingtips11",
+      "hash_es": "9b335bb582eb9541",
+      "texto_ptbr": "Visite a Loja da Humba na praça principal de Showdown Town para comprar projetos e peças de veículo adicionais.",
+      "lote": "518"
+    },
+    {
+      "id": "cc1f",
+      "chave": "frontend__loadingtips12",
+      "hash_es": "9786a23ad55ac098",
+      "texto_ptbr": "Procure o Bottles em Showdown Town se precisar de informações sobre coisas que você viu, esqueceu ou simplesmente não faz ideia do que sejam.",
+      "lote": "518"
+    },
+    {
+      "id": "cc20",
+      "chave": "frontend__loadingtips13",
+      "hash_es": "327c4b2a4af8cf26",
+      "texto_ptbr": "Nos Mundos de Jogo, você pode atribuir peças de veículo aos botões [A], [B] e [X] pressionando para baixo, para a esquerda ou para a direita no [DPAD] direcional.",
+      "lote": "401"
+    },
+    {
+      "id": "cc21",
+      "chave": "frontend__loadingtips14",
+      "hash_es": "592ccb4227af0da4",
+      "texto_ptbr": "A seleção de chassis meio prontos nos Motores do Mumbo permite criar veículos simples bem rápido. O Mumbo tem muito orgulho deles.",
+      "lote": "401"
+    },
+    {
+      "id": "cc22",
+      "chave": "frontend__loadingtips15",
+      "hash_es": "c7a6aa2c30910f6c",
+      "texto_ptbr": "Com dificuldade para montar veículos decentes? Os guias em vídeo do Banco de Dados de Veículos dos Motores do Mumbo podem ter as respostas.",
+      "lote": "401"
+    },
+    {
+      "id": "cc23",
+      "chave": "frontend__loadingtips16",
+      "hash_es": "21ef9a46070ec4cc",
+      "texto_ptbr": "Melhore seus veículos com facilidade adicionando várias versões da mesma peça. Por exemplo, um veículo com dois Motores Pequenos será mais rápido que um com apenas um.",
+      "lote": "401"
+    },
+    {
+      "id": "cc24",
+      "chave": "frontend__loadingtips17",
+      "hash_es": "1c550e9f3332d320",
+      "texto_ptbr": "Em Showdown Town, só o Carrinho pode ser usado. Não vou mudar de ideia! Todos os outros veículos podem ser usados dentro dos Mundos de Jogo.",
+      "lote": "518"
+    },
+    {
+      "id": "cc25",
+      "chave": "frontend__loadingtips18",
+      "hash_es": "e650c5a4863d863e",
+      "texto_ptbr": "Mantenha pressionado o botão [Y] a pé para chamar um veículo distante ou perdido. Isso não funciona durante um jogo de Jiggy. Seria trapaça!",
+      "lote": "401"
+    },
+    {
+      "id": "cc26",
+      "chave": "frontend__loadingtips19",
+      "hash_es": "45d00dba71c202c9",
+      "texto_ptbr": "Pressione o [LT] gatilho esquerdo e o [RT] gatilho direito juntos para fazer veículos estilo helicóptero pairarem.",
+      "lote": "401"
+    },
+    {
+      "id": "824e",
+      "chave": "frontend__loadingtips2",
+      "hash_es": "6e2d0f4cb0acb0c4",
+      "texto_ptbr": "Lembre-se: a maioria das peças de veículo da categoria Potência precisa de combustível para funcionar.",
+      "lote": "401"
+    },
+    {
+      "id": "cc3e",
+      "chave": "frontend__loadingtips20",
+      "hash_es": "7b613af27ef09ebe",
+      "texto_ptbr": "Garanta que os barcos tenham uma proa bem angulada e eles cortarão a água com mais eficiência.",
+      "lote": "401"
+    },
+    {
+      "id": "cc3f",
+      "chave": "frontend__loadingtips21",
+      "hash_es": "39ee80d80372ae9e",
+      "texto_ptbr": "Segure para cima no [DPAD] direcional fora de um jogo de Jiggy para pegar um atalho até os Motores do Mumbo, onde você pode montar ou testar veículos.",
+      "lote": "401"
+    },
+    {
+      "id": "cc40",
+      "chave": "frontend__loadingtips22",
+      "hash_es": "406b5f1d6fa09d2f",
+      "texto_ptbr": "Se você construiu um veículo pesado, precisará adicionar mais potência para ele render bem.",
+      "lote": "401"
+    },
+    {
+      "id": "cc41",
+      "chave": "frontend__loadingtips23",
+      "hash_es": "216b29ed2673ea2e",
+      "texto_ptbr": "Veículos com peças mal distribuídas têm um desempenho ruim, então evite peças penduradas para fora ou mais peças de um lado do que do outro.",
+      "lote": "401"
+    },
+    {
+      "id": "cc42",
+      "chave": "frontend__loadingtips24",
+      "hash_es": "bb99291048118a69",
+      "texto_ptbr": "Dizem por aí que assar rosbife no vulcão de Nutty Acres é considerado uma verdadeira façanha.",
+      "lote": "518"
+    },
+    {
+      "id": "cc43",
+      "chave": "frontend__loadingtips25",
+      "hash_es": "a9afb7055023c2d1",
+      "texto_ptbr": "Showdown Town é formada por seis distritos: Centro, Distrito dos Teatros, Orla, Lago, Docas e Bairro Alto.",
+      "lote": "518"
+    },
+    {
+      "id": "cc44",
+      "chave": "frontend__loadingtips26",
+      "hash_es": "61381258bf2b7edd",
+      "texto_ptbr": "Se achar que o Banjo precisa melhorar a velocidade, a resistência a dano ou a capacidade de levantar peso, vá treinar na Academia do Boggy, em Showdown Town.",
+      "lote": "518"
+    },
+    {
+      "id": "cc45",
+      "chave": "frontend__loadingtips27",
+      "hash_es": "7ed83799320a9260",
+      "texto_ptbr": "Ao modificar veículos, mantenha pressionado o botão [A] para selecionar todas as peças de um grupo. Você pode achar isso útil, mas não vou me ofender se não achar.",
+      "lote": "401"
+    },
+    {
+      "id": "cc46",
+      "chave": "frontend__loadingtips28",
+      "hash_es": "ff7cfa0b1c243e64",
+      "texto_ptbr": "Já jogou por um tempo e ainda não gosta de jogar com veículos? Talvez você deva comprar Banjo-Kazooie no Xbox LIVE Arcade.",
+      "lote": "401"
+    },
+    {
+      "id": "cc47",
+      "chave": "frontend__loadingtips29",
+      "hash_es": "2411057814f7709e",
+      "texto_ptbr": "Esta é a dica número 29, caso você queira saber. Dizem que há peças de veículo realmente incríveis escondidas bem fundo no jogo, mas eu ainda não as vi.",
+      "lote": "401"
+    },
+    {
+      "id": "824f",
+      "chave": "frontend__loadingtips3",
+      "hash_es": "243d9f86cd9d4df2",
+      "texto_ptbr": "As peças de hélice precisam ser movidas por um motor ou simplesmente não vão funcionar.",
+      "lote": "401"
+    },
+    {
+      "id": "cc5f",
+      "chave": "frontend__loadingtips30",
+      "hash_es": "e137ecd564c0b7b9",
+      "texto_ptbr": "Ler estas dicas costuma ser bem útil. Como você pode ver, esta é a exceção. Desculpe por isso.",
+      "lote": "401"
+    },
+    {
+      "id": "cc60",
+      "chave": "frontend__loadingtips31",
+      "hash_es": "82637106a7f65585",
+      "texto_ptbr": "Fique de olho nas Portas especiais dos Atos da Grunty. Superar os desafios que há além delas é a chave para chegar a novas áreas de Showdown Town.",
+      "lote": "518"
+    },
+    {
+      "id": "cc61",
+      "chave": "frontend__loadingtips32",
+      "hash_es": "dc94887ec05945da",
+      "texto_ptbr": "Lembre-se: a Kazooie pode pegar e carregar qualquer objeto móvel. Basta chegar perto o bastante para destacá-lo e segurar o [RT] gatilho direito.",
+      "lote": "401"
+    },
+    {
+      "id": "cc62",
+      "chave": "frontend__loadingtips33",
+      "hash_es": "b65061eaef2b1d40",
+      "texto_ptbr": "É fácil encontrar os anfitriões de desafios. Basta procurar o ícone dourado de Jiggy no mapa do jogo.",
+      "lote": "401"
+    },
+    {
+      "id": "cc63",
+      "chave": "frontend__loadingtips34",
+      "hash_es": "ef7ee9a9268b2558",
+      "texto_ptbr": "Um ícone no mapa cercado por uma seta azul significa que o alvo está acima de você. Uma seta vermelha significa que ele está abaixo.",
+      "lote": "401"
+    },
+    {
+      "id": "cc64",
+      "chave": "frontend__loadingtips35",
+      "hash_es": "f486cb3dae831460",
+      "texto_ptbr": "Destruiu seu veículo? Sem problema: segure o [RS] botão superior direito e as peças ao alcance voltarão ao lugar como mágica.",
+      "lote": "401"
+    },
+    {
+      "id": "cc65",
+      "chave": "frontend__loadingtips36",
+      "hash_es": "78431dcb9a67a416",
+      "texto_ptbr": "Um grande ponto de exclamação durante a construção significa que seu veículo não está bem conectado. Conserte antes de sair!",
+      "lote": "401"
+    },
+    {
+      "id": "cc66",
+      "chave": "frontend__loadingtips37",
+      "hash_es": "90fcded7d3d6cbcd",
+      "texto_ptbr": "Notas são a moeda do jogo. Use-as para comprar peças do Mumbo e projetos da Humba, ou para subornar certos moradores duvidosos de Showdown Town.",
+      "lote": "518"
+    },
+    {
+      "id": "cc67",
+      "chave": "frontend__loadingtips38",
+      "hash_es": "745037710c01664c",
+      "texto_ptbr": "Nas corridas, o checkpoint verde é sempre o próximo que você precisa atravessar, depois o amarelo e depois o vermelho.",
+      "lote": "401"
+    },
+    {
+      "id": "cc68",
+      "chave": "frontend__loadingtips39",
+      "hash_es": "4940b23cbd6a9af2",
+      "texto_ptbr": "Use a peça de veículo Giroscópio enquanto pula para fazer manobras malucas no ar.",
+      "lote": "401"
+    },
+    {
+      "id": "8250",
+      "chave": "frontend__loadingtips4",
+      "hash_es": "ba234b30f9815383",
+      "texto_ptbr": "Colete as Caixas do Mumbo por Showdown Town e leve-as aos Motores do Mumbo para adicionar novas peças de veículo à Loja de Peças da garagem.",
+      "lote": "518"
+    },
+    {
+      "id": "cc80",
+      "chave": "frontend__loadingtips40",
+      "hash_es": "52bd2d8905655c7f",
+      "texto_ptbr": "Você pode ativar armas e engenhocas mesmo que estejam em trailers sendo rebocados. Eu realmente pensei em tudo!",
+      "lote": "401"
+    },
+    {
+      "id": "cc81",
+      "chave": "frontend__loadingtips41",
+      "hash_es": "4a68b522987f290b",
+      "texto_ptbr": "Pressione o botão [BACK] BACK em qualquer lugar dos Motores do Mumbo para ir direto ao arco de saída.",
+      "lote": "401"
+    },
+    {
+      "id": "cc82",
+      "chave": "frontend__loadingtips42",
+      "hash_es": "d1c8764a8b86c4f4",
+      "texto_ptbr": "Alguns objetos podem ser recolocados no cenário depois de quebrarem. Fique atento ao aviso do botão [X] ao carregar um objeto.",
+      "lote": "401"
+    },
+    {
+      "id": "cc83",
+      "chave": "frontend__loadingtips43",
+      "hash_es": "ac107bcee50f0541",
+      "texto_ptbr": "Se o Banjo perder toda a energia durante um desafio, receio que seja Fim de Jogo! Mais uma bela tradição dos videogames que eu inventei.",
+      "lote": "401"
+    },
+    {
+      "id": "cc84",
+      "chave": "frontend__loadingtips44",
+      "hash_es": "7d0746e81622b5c5",
+      "texto_ptbr": "Use a imaginação para criar veículos cada vez mais ambiciosos. Não vai demorar para encher a garagem com uma grande variedade de peças.",
+      "lote": "401"
+    },
+    {
+      "id": "cc85",
+      "chave": "frontend__loadingtips45",
+      "hash_es": "4b9b53bfd7d739a0",
+      "texto_ptbr": "Uma breve mensagem do Klungo: Vissssite o píer, ele ssser o mehlor!",
+      "lote": "401"
+    },
+    {
+      "id": "cc86",
+      "chave": "frontend__loadingtips46",
+      "hash_es": "aec3b075c1f75bc0",
+      "texto_ptbr": "Dica número 46! Se você ainda está com dificuldade depois de todas essas dicas, é hora de seguir o velho ditado do tio Tusk e parar de ser tão ruim.",
+      "lote": "401"
+    },
+    {
+      "id": "8251",
+      "chave": "frontend__loadingtips5",
+      "hash_es": "d3217a831ef7d51c",
+      "texto_ptbr": "Visite os Motores do Mumbo em Showdown Town para construir e ajustar seus próprios veículos.",
+      "lote": "518"
+    },
+    {
+      "id": "8252",
+      "chave": "frontend__loadingtips6",
+      "hash_es": "0080f332f7a4bf01",
+      "texto_ptbr": "Ganhe quatro Troféus T.T. com bom desempenho nos jogos de Jiggy para somar mais um Jiggy à sua coleção.",
+      "lote": "401"
+    },
+    {
+      "id": "8253",
+      "chave": "frontend__loadingtips7",
+      "hash_es": "5a617ccdb60d79bb",
+      "texto_ptbr": "O mapa de Showdown Town mostra as Máquinas de Jiggies que têm Jiggies esperando para serem coletados e as Portas dos Atos que ainda têm Jiggies a conquistar.",
+      "lote": "518"
+    },
+    {
+      "id": "8254",
+      "chave": "frontend__loadingtips8",
+      "hash_es": "70abc3eed6a45802",
+      "texto_ptbr": "Está difícil achar os Jinjos nos Mundos de Jogo? A peça de veículo Óculos de Espião é a resposta.",
+      "lote": "401"
+    },
+    {
+      "id": "8255",
+      "chave": "frontend__loadingtips9",
+      "hash_es": "7e8adb00b0345cbc",
+      "texto_ptbr": "Deixe bastante espaço entre as rodas e coloque-as nos cantos dos veículos terrestres para obter o melhor desempenho.",
+      "lote": "401"
+    },
+    {
+      "id": "8f89",
+      "chave": "frontend__loadingtips_caption",
+      "hash_es": "78164e6c88f6cf6b",
+      "texto_ptbr": "Carregando...",
+      "lote": "401"
+    },
+    {
+      "id": "576a",
+      "chave": "frontend__loadingtipsmp1",
+      "hash_es": "f418cd7ce1540636",
+      "texto_ptbr": "No modo multijogador, você começa no seu próprio grupo. Se estiver conectado ao Xbox LIVE, pode entrar nos grupos dos seus amigos ou convidá-los para o seu.",
+      "lote": "401"
+    },
+    {
+      "id": "576b",
+      "chave": "frontend__loadingtipsmp2",
+      "hash_es": "a748136be8086abc",
+      "texto_ptbr": "Você pode ocultar o menu multijogador pressionando o botão [BACK] BACK se quiser apenas jogar em Test-O-Track e visitar os Motores do Mumbo.",
+      "lote": "518"
+    },
+    {
+      "id": "1ee4",
+      "chave": "frontend__mainmenu_buttoncoop",
+      "hash_es": "08e192746b4ee35a",
+      "texto_ptbr": "Modo cooperativo",
+      "lote": "001"
+    },
+    {
+      "id": "38da",
+      "chave": "frontend__mainmenu_buttoncreateandtest",
+      "hash_es": "dc1a0d967bc38f3a",
+      "texto_ptbr": "Entrar na garagem",
+      "lote": "001"
+    },
+    {
+      "id": "4790",
+      "chave": "frontend__mainmenu_buttondemolevel",
+      "hash_es": "d76bd9df37d58c25",
+      "texto_ptbr": "Jogar fase da demo",
+      "lote": "001"
+    },
+    {
+      "id": "0dee",
+      "chave": "frontend__mainmenu_buttondemomessing",
+      "hash_es": "67919db05c04aa5b",
+      "texto_ptbr": "Demo livre",
+      "lote": "001"
+    },
+    {
+      "id": "265a",
+      "chave": "frontend__mainmenu_buttongarage",
+      "hash_es": "dc1a0d967bc38f3a",
+      "texto_ptbr": "Entrar na garagem",
+      "lote": "001"
+    },
+    {
+      "id": "e722",
+      "chave": "frontend__mainmenu_buttonhighscores",
+      "hash_es": "420978d55d59fb1d",
+      "texto_ptbr": "Desbloquear jogo",
+      "lote": "001"
+    },
+    {
+      "id": "f27a",
+      "chave": "frontend__mainmenu_buttonhubworld",
+      "hash_es": "1aaa004068c2f2af",
+      "texto_ptbr": "Começar novo jogo",
+      "lote": "001"
+    },
+    {
+      "id": "f5a3",
+      "chave": "frontend__mainmenu_buttonlive",
+      "hash_es": "ba1dcf52dea370fd",
+      "texto_ptbr": "Xbox LIVE",
+      "lote": "001"
+    },
+    {
+      "id": "bb2b",
+      "chave": "frontend__mainmenu_buttonmultiplayer",
+      "hash_es": "b35db8f5fa2e9033",
+      "texto_ptbr": "Multijogador",
+      "lote": "001"
+    },
+    {
+      "id": "a2dd",
+      "chave": "frontend__mainmenu_buttonnetwork",
+      "hash_es": "b35db8f5fa2e9033",
+      "texto_ptbr": "Multijogador",
+      "lote": "001"
+    },
+    {
+      "id": "ea17",
+      "chave": "frontend__mainmenu_buttonnewgame",
+      "hash_es": "1aaa004068c2f2af",
+      "texto_ptbr": "Começar novo jogo",
+      "lote": "001"
+    },
+    {
+      "id": "719e",
+      "chave": "frontend__mainmenu_buttonresumegame",
+      "hash_es": "14a94fa3645269cf",
+      "texto_ptbr": "Continuar jogo salvo",
+      "lote": "001"
+    },
+    {
+      "id": "f926",
+      "chave": "frontend__mainmenu_buttonsystemlink",
+      "hash_es": "861f72d4fb7e7c6f",
+      "texto_ptbr": "Link de sistema",
+      "lote": "001"
+    },
+    {
+      "id": "52ea",
+      "chave": "frontend__mainmenu_buttonvideo",
+      "hash_es": "cf3f8123ab3a3be3",
+      "texto_ptbr": "Demo Nutty Acres",
+      "lote": "518"
+    },
+    {
+      "id": "0f6f",
+      "chave": "frontend__mainmenu_checkboxautoprog",
+      "hash_es": "13c68e97763433ae",
+      "texto_ptbr": "Progressão automática",
+      "lote": "001"
+    },
+    {
+      "id": "c983",
+      "chave": "frontend__mainmenu_checkboxunlockall",
+      "hash_es": "31b6274491a6ce25",
+      "texto_ptbr": "Desbloqueado",
+      "lote": "001"
+    },
+    {
+      "id": "d359",
+      "chave": "frontend__mainmenu_title",
+      "hash_es": "1e9c027c8f80a394",
+      "texto_ptbr": "Menu principal",
+      "lote": "001"
+    },
+    {
+      "id": "69de",
+      "chave": "frontend__mainmenu_titledemo",
+      "hash_es": "1fb861b46374ae37",
+      "texto_ptbr": "Menu principal - DEMO",
+      "lote": "001"
+    },
+    {
+      "id": "c16b",
+      "chave": "frontend__mainmenumultiplayer_buttoncontest",
+      "hash_es": "782bcb838439fd17",
+      "texto_ptbr": "Começar disputa",
+      "lote": "401"
+    },
+    {
+      "id": "3cfc",
+      "chave": "frontend__mainmenumultiplayer_buttoncoop",
+      "hash_es": "30c885cca492ef46",
+      "texto_ptbr": "Começar cooperativo",
+      "lote": "401"
+    },
+    {
+      "id": "4dbf",
+      "chave": "frontend__mainmenumultiplayer_live",
+      "hash_es": "ba1dcf52dea370fd",
+      "texto_ptbr": "Xbox LIVE",
+      "lote": "401"
+    },
+    {
+      "id": "f642",
+      "chave": "frontend__mainmenumultiplayer_systemlink",
+      "hash_es": "861f72d4fb7e7c6f",
+      "texto_ptbr": "Link de sistema",
+      "lote": "401"
+    },
+    {
+      "id": "3241",
+      "chave": "frontend__multiplayer_buttonlive",
+      "hash_es": "ba1dcf52dea370fd",
+      "texto_ptbr": "Xbox LIVE",
+      "lote": "401"
+    },
+    {
+      "id": "b444",
+      "chave": "frontend__multiplayer_buttonsystemlink",
+      "hash_es": "861f72d4fb7e7c6f",
+      "texto_ptbr": "Link de sistema",
+      "lote": "401"
+    },
+    {
+      "id": "37b9",
+      "chave": "frontend__multiplayer_notconnected",
+      "hash_es": "18913379fd51d228",
+      "texto_ptbr": "Para acessar os recursos do Xbox LIVE, você precisa entrar com um perfil de jogador que tenha os privilégios necessários.",
+      "lote": "401"
+    },
+    {
+      "id": "3537",
+      "chave": "frontend__multiplayer_title",
+      "hash_es": "b35db8f5fa2e9033",
+      "texto_ptbr": "Multijogador",
+      "lote": "401"
+    },
+    {
+      "id": "4fa4",
+      "chave": "frontend__multiplayercustommatch_buttonchangeteamorsolo",
+      "hash_es": "b322167924121f7b",
+      "texto_ptbr": "Alterar",
+      "lote": "401"
+    },
+    {
+      "id": "4401",
+      "chave": "frontend__multiplayercustommatch_buttonchangevehicletype",
+      "hash_es": "b322167924121f7b",
+      "texto_ptbr": "Alterar",
+      "lote": "401"
+    },
+    {
+      "id": "581f",
+      "chave": "frontend__multiplayercustommatch_buttonstartlobby",
+      "hash_es": "7391098c2cb2a9b0",
+      "texto_ptbr": "Iniciar lobby",
+      "lote": "401"
+    },
+    {
+      "id": "66e3",
+      "chave": "frontend__multiplayercustommatch_gameinfo",
+      "hash_es": "0a0b6d1f68d38a77",
+      "texto_ptbr": "Informações do jogo:",
+      "lote": "401"
+    },
+    {
+      "id": "dad8",
+      "chave": "frontend__multiplayercustommatch_gamenamelabel",
+      "hash_es": "27839f10afc228d7",
+      "texto_ptbr": "Nome do jogo",
+      "lote": "401"
+    },
+    {
+      "id": "ff73",
+      "chave": "frontend__multiplayercustommatch_maxnumplayerslabel",
+      "hash_es": "65e8df76c5d1c47e",
+      "texto_ptbr": "Máx. de jogadores",
+      "lote": "401"
+    },
+    {
+      "id": "11a2",
+      "chave": "frontend__multiplayercustommatch_teamorsololabel",
+      "hash_es": "e694a9ed8581f580",
+      "texto_ptbr": "Equipe/Solo",
+      "lote": "401"
+    },
+    {
+      "id": "419f",
+      "chave": "frontend__multiplayercustommatch_title",
+      "hash_es": "cb94cee77cb93ab5",
+      "texto_ptbr": "Opções de partida multijogador",
+      "lote": "401"
+    },
+    {
+      "id": "07df",
+      "chave": "frontend__multiplayercustommatch_vehicletypelabel",
+      "hash_es": "4a7f059eea31c155",
+      "texto_ptbr": "Tipo de veículo",
+      "lote": "401"
+    },
+    {
+      "id": "7166",
+      "chave": "frontend__multiplayercustommatch_worldnamelabel",
+      "hash_es": "af6548ac0d4b8fe0",
+      "texto_ptbr": "Nome do Mundo de Jogo",
+      "lote": "401"
+    },
+    {
+      "id": "9f56",
+      "chave": "frontend__multiplayerduringchallenge_buttoncomponentselection",
+      "hash_es": "02119a200151f26b",
+      "texto_ptbr": "Seleção de peças",
+      "lote": "401"
+    },
+    {
+      "id": "a1f5",
+      "chave": "frontend__multiplayerduringchallenge_buttonleaveseries",
+      "hash_es": "9cb9cc7bfc267bfa",
+      "texto_ptbr": "Abandonar liga",
+      "lote": "401"
+    },
+    {
+      "id": "45e0",
+      "chave": "frontend__multiplayerduringchallenge_buttonquit",
+      "hash_es": "4aae0e1a642c79bc",
+      "texto_ptbr": "Sair do jogo",
+      "lote": "401"
+    },
+    {
+      "id": "cb26",
+      "chave": "frontend__multiplayerduringchallenge_challengetitle",
+      "hash_es": "226ce938b394ca23",
+      "texto_ptbr": "Desafio atual",
+      "lote": "401"
+    },
+    {
+      "id": "7a03",
+      "chave": "frontend__multiplayerduringchallenge_title",
+      "hash_es": "0814e1cd4c7c4e11",
+      "texto_ptbr": "Desafio pausado",
+      "lote": "401"
+    },
+    {
+      "id": "2703",
+      "chave": "frontend__multiplayerduringchallenge_vehicletitle",
+      "hash_es": "60532b3aa3949ac4",
+      "texto_ptbr": "Veículo atual",
+      "lote": "401"
+    },
+    {
+      "id": "26e5",
+      "chave": "frontend__multiplayerlive_buttoncarpark",
+      "hash_es": "e7f630f5c649fac4",
+      "texto_ptbr": "Test-O-Track",
+      "lote": "518"
+    },
+    {
+      "id": "1049",
+      "chave": "frontend__multiplayerlive_buttoncustommatch",
+      "hash_es": "d52c62a4e51b1074",
+      "texto_ptbr": "Partida personalizada",
+      "lote": "401"
+    },
+    {
+      "id": "c58b",
+      "chave": "frontend__multiplayerlive_buttonquickmatch",
+      "hash_es": "ed5951fe9c2c68ab",
+      "texto_ptbr": "Partida rápida",
+      "lote": "401"
+    },
+    {
+      "id": "e7dd",
+      "chave": "frontend__multiplayerlive_currentpartytext",
+      "hash_es": "78948d779b338622",
+      "texto_ptbr": "Membros atuais do grupo",
+      "lote": "401"
+    },
+    {
+      "id": "3e2d",
+      "chave": "frontend__multiplayerlive_friendspartiestext",
+      "hash_es": "7c07ca8836bee552",
+      "texto_ptbr": "Grupos de amigos",
+      "lote": "401"
+    },
+    {
+      "id": "ab67",
+      "chave": "frontend__multiplayerlive_title",
+      "hash_es": "f68c0b78f1180e29",
+      "texto_ptbr": "Multijogador LIVE",
+      "lote": "401"
+    },
+    {
+      "id": "5b2a",
+      "chave": "frontend__multiplayerlivematchtype_buttonplayermatch",
+      "hash_es": "0ae97cb57701e1ed",
+      "texto_ptbr": "Partida de jogadores",
+      "lote": "401"
+    },
+    {
+      "id": "6932",
+      "chave": "frontend__multiplayerlivematchtype_buttonrankedmatch",
+      "hash_es": "f6bf4f36b5004994",
+      "texto_ptbr": "Partida ranqueada",
+      "lote": "401"
+    },
+    {
+      "id": "4bb6",
+      "chave": "frontend__multiplayerlivematchtype_title",
+      "hash_es": "479b31f02e99ebae",
+      "texto_ptbr": "Tipo de partida LIVE",
+      "lote": "401"
+    },
+    {
+      "id": "4f2a",
+      "chave": "frontend__multiplayerlobby_attackingteamlabel",
+      "hash_es": "3c7f36dab619be5c",
+      "texto_ptbr": "Equipe atacante",
+      "lote": "401"
+    },
+    {
+      "id": "d73e",
+      "chave": "frontend__multiplayerlobby_buttonchangeattacker",
+      "hash_es": "88f28b774300fce5",
+      "texto_ptbr": "Trocar atacante",
+      "lote": "401"
+    },
+    {
+      "id": "3d96",
+      "chave": "frontend__multiplayerlobby_buttonchangeteam",
+      "hash_es": "0cf8a85468a4fcf2",
+      "texto_ptbr": "Trocar equipe",
+      "lote": "401"
+    },
+    {
+      "id": "70b1",
+      "chave": "frontend__multiplayerlobby_buttonstartgame",
+      "hash_es": "137f18ded02b4859",
+      "texto_ptbr": "Começar partida",
+      "lote": "401"
+    },
+    {
+      "id": "beb3",
+      "chave": "frontend__multiplayerlobby_gameinfo",
+      "hash_es": "0a0b6d1f68d38a77",
+      "texto_ptbr": "Informações do jogo:",
+      "lote": "401"
+    },
+    {
+      "id": "94a8",
+      "chave": "frontend__multiplayerlobby_gamenamelabel",
+      "hash_es": "27839f10afc228d7",
+      "texto_ptbr": "Nome do jogo",
+      "lote": "401"
+    },
+    {
+      "id": "e609",
+      "chave": "frontend__multiplayerlobby_gametypelabel",
+      "hash_es": "7c602f0aa2cf6b4b",
+      "texto_ptbr": "Tipo de jogo",
+      "lote": "401"
+    },
+    {
+      "id": "5b43",
+      "chave": "frontend__multiplayerlobby_maxnumplayerslabel",
+      "hash_es": "65e8df76c5d1c47e",
+      "texto_ptbr": "Máx. de jogadores",
+      "lote": "401"
+    },
+    {
+      "id": "7f72",
+      "chave": "frontend__multiplayerlobby_teamorsololabel",
+      "hash_es": "e694a9ed8581f580",
+      "texto_ptbr": "Equipe/Solo",
+      "lote": "401"
+    },
+    {
+      "id": "2b6f",
+      "chave": "frontend__multiplayerlobby_title",
+      "hash_es": "b67d43e049202a30",
+      "texto_ptbr": "Lobby multijogador",
+      "lote": "401"
+    },
+    {
+      "id": "2faf",
+      "chave": "frontend__multiplayerlobby_vehicletypelabel",
+      "hash_es": "4a7f059eea31c155",
+      "texto_ptbr": "Tipo de veículo",
+      "lote": "401"
+    },
+    {
+      "id": "6536",
+      "chave": "frontend__multiplayerlobby_worldnamelabel",
+      "hash_es": "af6548ac0d4b8fe0",
+      "texto_ptbr": "Nome do Mundo de Jogo",
+      "lote": "401"
+    },
+    {
+      "id": "eda8",
+      "chave": "frontend__multiplayermainmenu_friendscaption",
+      "hash_es": "bead8677698a4b14",
+      "texto_ptbr": "Amigos",
+      "lote": "401"
+    },
+    {
+      "id": "16cd",
+      "chave": "frontend__multiplayermainmenu_partycaption",
+      "hash_es": "053f0755eeb3d882",
+      "texto_ptbr": "Grupos",
+      "lote": "401"
+    },
+    {
+      "id": "2053",
+      "chave": "frontend__multiplayermainmenu_startlobbyhost",
+      "hash_es": "137f18ded02b4859",
+      "texto_ptbr": "Começar partida",
+      "lote": "401"
+    },
+    {
+      "id": "e85e",
+      "chave": "frontend__multiplayermainmenu_startlobbynonhost",
+      "hash_es": "293e97f174932fc5",
+      "texto_ptbr": "Aguardando o anfitrião iniciar a partida...",
+      "lote": "401"
+    },
+    {
+      "id": "98bf",
+      "chave": "frontend__multiplayermainmenu_startlobbywaitingforparty",
+      "hash_es": "73955d095eb9bb9a",
+      "texto_ptbr": "Aguardando a entrada de outros membros do grupo...",
+      "lote": "401"
+    },
+    {
+      "id": "f9c2",
+      "chave": "frontend__multiplayermainmenu_syslinkpartiescaption",
+      "hash_es": "eb3fef6e8020ec46",
+      "texto_ptbr": "Outros grupos",
+      "lote": "401"
+    },
+    {
+      "id": "a2d4",
+      "chave": "frontend__multiplayermainmenu_tipgameoptionmode",
+      "hash_es": "dc33071e8f6292ae",
+      "texto_ptbr": "Defina se quer jogar apenas no modo solo ou em equipe.",
+      "lote": "401"
+    },
+    {
+      "id": "a8e0",
+      "chave": "frontend__multiplayermainmenu_tipgameoptionstyle",
+      "hash_es": "63f30eaf6bb2c302",
+      "texto_ptbr": "Defina se quer jogar apenas jogos de tarefas ou corridas.",
+      "lote": "401"
+    },
+    {
+      "id": "75cf",
+      "chave": "frontend__multiplayermainmenu_tipgameoptionvehicle",
+      "hash_es": "9d5b410b13636443",
+      "texto_ptbr": "Defina se quer jogar apenas com veículos personalizados ou predefinidos.",
+      "lote": "401"
+    },
+    {
+      "id": "7b80",
+      "chave": "frontend__multiplayermainmenu_tipmaincomponentoptions",
+      "hash_es": "f774671b68fc250a",
+      "texto_ptbr": "Restrinja os componentes que podem ser usados.",
+      "lote": "401"
+    },
+    {
+      "id": "6cf5",
+      "chave": "frontend__multiplayermainmenu_tipmaincreate",
+      "hash_es": "c825ba05772d0ba7",
+      "texto_ptbr": "Crie seu próprio jogo e entre no lobby pré-partida.",
+      "lote": "401"
+    },
+    {
+      "id": "ffa7",
+      "chave": "frontend__multiplayermainmenu_tipmaingameoptions",
+      "hash_es": "3b9b692e567c443c",
+      "texto_ptbr": "Selecione o modo de jogo, o estilo e as restrições de veículo.",
+      "lote": "401"
+    },
+    {
+      "id": "046b",
+      "chave": "frontend__multiplayermainmenu_tipmainnetwork",
+      "hash_es": "914ec5f0ff93c90a",
+      "texto_ptbr": "Selecione LIVE para jogar no Xbox LIVE, em Link de sistema ou em tela dividida.",
+      "lote": "401"
+    },
+    {
+      "id": "47f3",
+      "chave": "frontend__multiplayermainmenu_tipmainplaylist",
+      "hash_es": "5509c9fb12cce915",
+      "texto_ptbr": "Escolha qual playlist quer jogar, com base na rede selecionada.",
+      "lote": "401"
+    },
+    {
+      "id": "2867",
+      "chave": "frontend__multiplayermainmenu_tipmainprivateseries",
+      "hash_es": "67ffbad64eb3fead",
+      "texto_ptbr": "Monte sua própria liga privada.",
+      "lote": "401"
+    },
+    {
+      "id": "cd17",
+      "chave": "frontend__multiplayermainmenu_tipmainsearch",
+      "hash_es": "a6cdc0d7f9e0b7d6",
+      "texto_ptbr": "Procure uma partida.",
+      "lote": "401"
+    },
+    {
+      "id": "3f61",
+      "chave": "frontend__multiplayermainmenu_tipmainspecificgame",
+      "hash_es": "08f8d815b9983e82",
+      "texto_ptbr": "Escolha sua fase...",
+      "lote": "401"
+    },
+    {
+      "id": "1a34",
+      "chave": "frontend__multiplayermainmenu_tipmodechoiceany",
+      "hash_es": "f9ed8a9e86af689f",
+      "texto_ptbr": "Use esta opção se tanto faz jogar em equipe ou solo.",
+      "lote": "401"
+    },
+    {
+      "id": "4289",
+      "chave": "frontend__multiplayermainmenu_tipmodechoicesolo",
+      "hash_es": "82e1ee6f6c06aa9d",
+      "texto_ptbr": "Use esta opção se quiser jogar apenas no modo solo.",
+      "lote": "401"
+    },
+    {
+      "id": "a2f3",
+      "chave": "frontend__multiplayermainmenu_tipmodechoiceteam",
+      "hash_es": "2d1095a3763d2776",
+      "texto_ptbr": "Use esta opção se quiser jogar apenas em modos de equipe.",
+      "lote": "401"
+    },
+    {
+      "id": "a456",
+      "chave": "frontend__multiplayermainmenu_tipnetworklive",
+      "hash_es": "02c595fd7b054a1f",
+      "texto_ptbr": "No Xbox LIVE, você pode jogar partidas ranqueadas, de jogadores e privadas, ou uma liga privada.",
+      "lote": "401"
+    },
+    {
+      "id": "4a07",
+      "chave": "frontend__multiplayermainmenu_tipnetworkslink",
+      "hash_es": "82f30a92eedc1d9d",
+      "texto_ptbr": "Escolha procurar ou criar partidas em uma rede privada.",
+      "lote": "401"
+    },
+    {
+      "id": "87b2",
+      "chave": "frontend__multiplayermainmenu_tipnetworksplit",
+      "hash_es": "83393d9da2f722be",
+      "texto_ptbr": "Jogue uma partida ou liga privada em tela dividida, em uma TV e um console Xbox 360.",
+      "lote": "401"
+    },
+    {
+      "id": "a126",
+      "chave": "frontend__multiplayermainmenu_tipplaylistliveprivatematch",
+      "hash_es": "16fc1af792376a47",
+      "texto_ptbr": "Jogue uma partida privada no Xbox LIVE.",
+      "lote": "401"
+    },
+    {
+      "id": "1c84",
+      "chave": "frontend__multiplayermainmenu_tipplaylistliveprivateseries",
+      "hash_es": "0d09062f4729c321",
+      "texto_ptbr": "Jogue uma liga privada no Xbox LIVE.",
+      "lote": "401"
+    },
+    {
+      "id": "3ec0",
+      "chave": "frontend__multiplayermainmenu_tipplaylistliverankedmatch",
+      "hash_es": "0c259678f9c959f2",
+      "texto_ptbr": "Jogue uma partida ranqueada no Xbox LIVE.",
+      "lote": "401"
+    },
+    {
+      "id": "b106",
+      "chave": "frontend__multiplayermainmenu_tipplaylistlivesocialmatch",
+      "hash_es": "bf9de861b95f2291",
+      "texto_ptbr": "Jogue uma partida de jogadores no Xbox LIVE.",
+      "lote": "401"
+    },
+    {
+      "id": "b557",
+      "chave": "frontend__multiplayermainmenu_tipplaylistslinkprivatematch",
+      "hash_es": "c444aa79703d600e",
+      "texto_ptbr": "Crie uma partida privada em Link de sistema.",
+      "lote": "401"
+    },
+    {
+      "id": "b6d5",
+      "chave": "frontend__multiplayermainmenu_tipplaylistslinkprivateseries",
+      "hash_es": "06ba1e27535e02a9",
+      "texto_ptbr": "Crie uma liga privada em Link de sistema.",
+      "lote": "401"
+    },
+    {
+      "id": "db45",
+      "chave": "frontend__multiplayermainmenu_tipplaylistslinksearch",
+      "hash_es": "cfb5da36bf06174c",
+      "texto_ptbr": "Procure partidas de Link de sistema.",
+      "lote": "401"
+    },
+    {
+      "id": "cb82",
+      "chave": "frontend__multiplayermainmenu_tipplaylistsplitprivatematch",
+      "hash_es": "1f028e2641c58c93",
+      "texto_ptbr": "Jogue uma partida privada em tela dividida.",
+      "lote": "401"
+    },
+    {
+      "id": "9260",
+      "chave": "frontend__multiplayermainmenu_tipplaylistsplitprivateseries",
+      "hash_es": "902e8ffc25ad2799",
+      "texto_ptbr": "Jogue uma liga privada em tela dividida.",
+      "lote": "401"
+    },
+    {
+      "id": "cb60",
+      "chave": "frontend__multiplayermainmenu_tipstylechoiceany",
+      "hash_es": "3c6a8cbdf55a2985",
+      "texto_ptbr": "Use esta opção se tanto faz jogar corridas ou jogos de tarefas.",
+      "lote": "401"
+    },
+    {
+      "id": "52e6",
+      "chave": "frontend__multiplayermainmenu_tipstylechoiceraces",
+      "hash_es": "0e86c6bf68044464",
+      "texto_ptbr": "Use esta opção se quiser jogar apenas corridas.",
+      "lote": "401"
+    },
+    {
+      "id": "c8be",
+      "chave": "frontend__multiplayermainmenu_tipstylechoicetasks",
+      "hash_es": "0526bfaf776587e7",
+      "texto_ptbr": "Use esta opção se quiser jogar apenas jogos de tarefas.",
+      "lote": "401"
+    },
+    {
+      "id": "6c6f",
+      "chave": "frontend__multiplayermainmenu_tipvehiclechoiceany",
+      "hash_es": "785e6b37a720e978",
+      "texto_ptbr": "Use esta opção se tanto faz jogar com veículos personalizados ou predefinidos.",
+      "lote": "401"
+    },
+    {
+      "id": "78c2",
+      "chave": "frontend__multiplayermainmenu_tipvehiclechoicecustom",
+      "hash_es": "1e93688ff5ae4bda",
+      "texto_ptbr": "Use esta opção se quiser jogar apenas com veículos personalizados.",
+      "lote": "401"
+    },
+    {
+      "id": "8c9a",
+      "chave": "frontend__multiplayermainmenu_tipvehiclechoicepreset",
+      "hash_es": "43573a7dab63aafd",
+      "texto_ptbr": "Use esta opção se quiser jogar apenas com veículos predefinidos.",
+      "lote": "401"
+    },
+    {
+      "id": "4fa8",
+      "chave": "frontend__multiplayerpause_buttoncomponentselection",
+      "hash_es": "3087e3a84e44583e",
+      "texto_ptbr": "Seleção de peças do veículo",
+      "lote": "401"
+    },
+    {
+      "id": "3a2d",
+      "chave": "frontend__multiplayerpause_buttonquittolobby",
+      "hash_es": "8a9de2362a296387",
+      "texto_ptbr": "Sair para o lobby",
+      "lote": "401"
+    },
+    {
+      "id": "938f",
+      "chave": "frontend__multiplayerpause_buttonquittomainmenu",
+      "hash_es": "626393294f53c7c6",
+      "texto_ptbr": "Sair para o menu principal",
+      "lote": "401"
+    },
+    {
+      "id": "d795",
+      "chave": "frontend__multiplayerpause_title",
+      "hash_es": "c28d816de9826906",
+      "texto_ptbr": "Pausado",
+      "lote": "401"
+    },
+    {
+      "id": "d9e8",
+      "chave": "frontend__multiplayersystemlink_buttoncarpark",
+      "hash_es": "e7f630f5c649fac4",
+      "texto_ptbr": "Test-O-Track",
+      "lote": "518"
+    },
+    {
+      "id": "c965",
+      "chave": "frontend__multiplayersystemlink_buttoncreatematch",
+      "hash_es": "3fc9b7657714f210",
+      "texto_ptbr": "Criar partida",
+      "lote": "401"
+    },
+    {
+      "id": "ea5d",
+      "chave": "frontend__multiplayersystemlink_joinfailed",
+      "hash_es": "bb299244ee9dc914",
+      "texto_ptbr": "Falha ao entrar",
+      "lote": "401"
+    },
+    {
+      "id": "4cf6",
+      "chave": "frontend__multiplayersystemlink_joining",
+      "hash_es": "22322ccbdc2e44b2",
+      "texto_ptbr": "Entrando...",
+      "lote": "401"
+    },
+    {
+      "id": "0b6a",
+      "chave": "frontend__multiplayersystemlink_title",
+      "hash_es": "cd3302aebe091ba3",
+      "texto_ptbr": "Link de sistema multijogador",
+      "lote": "401"
+    },
+    {
+      "id": "e6a5",
+      "chave": "frontend__onlinenotice",
+      "hash_es": "ad994e538c4436d3",
+      "texto_ptbr": "INTERAÇÕES ON-LINE NÃO CLASSIFICADAS PELA ESRB.",
+      "lote": "508"
+    },
+    {
+      "id": "13c6",
+      "chave": "frontend__pause_assigncomponents",
+      "hash_es": "a051090a3d1a5dfb",
+      "texto_ptbr": "Atribuir componentes",
+      "lote": "401"
+    },
+    {
+      "id": "7ede",
+      "chave": "frontend__pause_audiosettings",
+      "hash_es": "19723fc0f9111cc6",
+      "texto_ptbr": "Configurações de áudio",
+      "lote": "401"
+    },
+    {
+      "id": "abab",
+      "chave": "frontend__pause_buildvehicle",
+      "hash_es": "8cb547947d387120",
+      "texto_ptbr": "Construir veículo",
+      "lote": "401"
+    },
+    {
+      "id": "a5d6",
+      "chave": "frontend__pause_buttonhub",
+      "hash_es": "8e656f48efb86f3a",
+      "texto_ptbr": "Sair para Showdown Town",
+      "lote": "518"
+    },
+    {
+      "id": "515a",
+      "chave": "frontend__pause_buttonquit",
+      "hash_es": "626393294f53c7c6",
+      "texto_ptbr": "Sair para o menu principal",
+      "lote": "401"
+    },
+    {
+      "id": "6c5e",
+      "chave": "frontend__pause_challengeselect",
+      "hash_es": "2d7f4a7b36953521",
+      "texto_ptbr": "Seleção de desafio",
+      "lote": "401"
+    },
+    {
+      "id": "b0a1",
+      "chave": "frontend__pause_changevehicle",
+      "hash_es": "3de6c6eefca484ff",
+      "texto_ptbr": "Trocar veículo",
+      "lote": "401"
+    },
+    {
+      "id": "2054",
+      "chave": "frontend__pause_componentselection",
+      "hash_es": "3087e3a84e44583e",
+      "texto_ptbr": "Seleção de peças do veículo",
+      "lote": "401"
+    },
+    {
+      "id": "ab00",
+      "chave": "frontend__pause_confirmquitjiggygame",
+      "hash_es": "6b46699968b2fae9",
+      "texto_ptbr": "Aviso: tem certeza de que quer sair? Você perderá todo o progresso neste desafio.",
+      "lote": "401"
+    },
+    {
+      "id": "73da",
+      "chave": "frontend__pause_confirmquittosdt",
+      "hash_es": "03caa45076271351",
+      "texto_ptbr": "Aviso: tem certeza de que quer sair para Showdown Town? Você perderá qualquer progresso não salvo.",
+      "lote": "518"
+    },
+    {
+      "id": "f851",
+      "chave": "frontend__pause_confirmquittotitlescreen",
+      "hash_es": "70f0418a18651819",
+      "texto_ptbr": "Aviso: tem certeza de que quer sair? Você perderá qualquer progresso não salvo.",
+      "lote": "401"
+    },
+    {
+      "id": "ad42",
+      "chave": "frontend__pause_confirmrestartjiggygame",
+      "hash_es": "5db6964ce507d81c",
+      "texto_ptbr": "Aviso: tem certeza de que quer reiniciar? Você perderá todo o progresso neste desafio.",
+      "lote": "401"
+    },
+    {
+      "id": "838d",
+      "chave": "frontend__pause_controlsettings",
+      "hash_es": "3cbce4299f374a2d",
+      "texto_ptbr": "Configurações de controle",
+      "lote": "401"
+    },
+    {
+      "id": "655d",
+      "chave": "frontend__pause_controlsettingsinvertx",
+      "hash_es": "1be95f55942c4415",
+      "texto_ptbr": "Inverter eixo X da câmera",
+      "lote": "401"
+    },
+    {
+      "id": "655e",
+      "chave": "frontend__pause_controlsettingsinverty",
+      "hash_es": "a90aeb5caf141222",
+      "texto_ptbr": "Inverter eixo Y da câmera",
+      "lote": "401"
+    },
+    {
+      "id": "f874",
+      "chave": "frontend__pause_controlsettingsrumble",
+      "hash_es": "6181cd204151777a",
+      "texto_ptbr": "Vibração",
+      "lote": "401"
+    },
+    {
+      "id": "aaea",
+      "chave": "frontend__pause_displaybrightness",
+      "hash_es": "97eba63984eab3ff",
+      "texto_ptbr": "Brilho",
+      "lote": "401"
+    },
+    {
+      "id": "b69f",
+      "chave": "frontend__pause_displaycontrast",
+      "hash_es": "7cfb945aa92e9e4f",
+      "texto_ptbr": "Contraste",
+      "lote": "401"
+    },
+    {
+      "id": "df42",
+      "chave": "frontend__pause_displaysettings",
+      "hash_es": "fb50d75787fbdab4",
+      "texto_ptbr": "Configurações de tela",
+      "lote": "401"
+    },
+    {
+      "id": "c914",
+      "chave": "frontend__pause_fakepaused",
+      "hash_es": "982e3087bbb8d5be",
+      "texto_ptbr": "PAUSADO",
+      "lote": "401"
+    },
+    {
+      "id": "c35b",
+      "chave": "frontend__pause_gameinformation",
+      "hash_es": "836b56973407eb19",
+      "texto_ptbr": "Informações do jogo",
+      "lote": "401"
+    },
+    {
+      "id": "a906",
+      "chave": "frontend__pause_gamesettings",
+      "hash_es": "e22a39d1dbd28de2",
+      "texto_ptbr": "Opções do jogo",
+      "lote": "401"
+    },
+    {
+      "id": "fecd",
+      "chave": "frontend__pause_gamestatsbanjoland",
+      "hash_es": "accb2260ef248896",
+      "texto_ptbr": "Estatísticas de Banjoland",
+      "lote": "518"
+    },
+    {
+      "id": "828c",
+      "chave": "frontend__pause_gamestatscpu",
+      "hash_es": "6afd677fa8cd350e",
+      "texto_ptbr": "Estatísticas de LOGBOX 720",
+      "lote": "518"
+    },
+    {
+      "id": "062f",
+      "chave": "frontend__pause_gamestatscratesreturned",
+      "hash_es": "d4e3e8d14f6ac242",
+      "texto_ptbr": "Caixas do Mumbo devolvidas",
+      "lote": "401"
+    },
+    {
+      "id": "f375",
+      "chave": "frontend__pause_gamestatsgametotals",
+      "hash_es": "a6a451bca1d33333",
+      "texto_ptbr": "Totais do jogo",
+      "lote": "401"
+    },
+    {
+      "id": "88d4",
+      "chave": "frontend__pause_gamestatsjdjiggies",
+      "hash_es": "85f90543dfdde11c",
+      "texto_ptbr": "Jiggies de Jolly Dodger",
+      "lote": "401"
+    },
+    {
+      "id": "eecb",
+      "chave": "frontend__pause_gamestatsjiggiesbanked",
+      "hash_es": "8725ab97093e4abb",
+      "texto_ptbr": "Jiggies no banco",
+      "lote": "401"
+    },
+    {
+      "id": "c8ba",
+      "chave": "frontend__pause_gamestatsjiggieswon",
+      "hash_es": "ded8bd09588256af",
+      "texto_ptbr": "Jiggies ganhos",
+      "lote": "401"
+    },
+    {
+      "id": "ab2e",
+      "chave": "frontend__pause_gamestatsjinjoscompleted",
+      "hash_es": "1d118424074b9745",
+      "texto_ptbr": "Desafios Jinjo concluídos",
+      "lote": "401"
+    },
+    {
+      "id": "8e76",
+      "chave": "frontend__pause_gamestatsjinjosreleased",
+      "hash_es": "29457d3bb10e3b93",
+      "texto_ptbr": "Jinjos libertados",
+      "lote": "401"
+    },
+    {
+      "id": "458e",
+      "chave": "frontend__pause_gamestatsminjosimprisoned",
+      "hash_es": "bc26d6207fdd1431",
+      "texto_ptbr": "Minjos presos",
+      "lote": "401"
+    },
+    {
+      "id": "d01c",
+      "chave": "frontend__pause_gamestatsnotescollected",
+      "hash_es": "37b714dd292f6408",
+      "texto_ptbr": "Notas coletadas",
+      "lote": "401"
+    },
+    {
+      "id": "89f6",
+      "chave": "frontend__pause_gamestatsnuttyacres",
+      "hash_es": "0bbdb0ba0229a218",
+      "texto_ptbr": "Estatísticas de Nutty Acres",
+      "lote": "518"
+    },
+    {
+      "id": "da85",
+      "chave": "frontend__pause_gamestatsshowdowntown",
+      "hash_es": "0c9fed18edac1c60",
+      "texto_ptbr": "Estatísticas de Showdown Town",
+      "lote": "518"
+    },
+    {
+      "id": "487a",
+      "chave": "frontend__pause_gamestatsspiralmountain",
+      "hash_es": "ee4bf3d61d08f7b9",
+      "texto_ptbr": "Estatísticas de Spiral Mountain",
+      "lote": "518"
+    },
+    {
+      "id": "01f8",
+      "chave": "frontend__pause_gamestatstamperedjiggies",
+      "hash_es": "0b427e9de4824a1e",
+      "texto_ptbr": "Jiggies adulterados",
+      "lote": "401"
+    },
+    {
+      "id": "e9ad",
+      "chave": "frontend__pause_gamestatsterrorium",
+      "hash_es": "2737db3cd375fbc4",
+      "texto_ptbr": "Estatísticas do Terrarium of Terror",
+      "lote": "518"
+    },
+    {
+      "id": "349d",
+      "chave": "frontend__pause_gamestatstimespent",
+      "hash_es": "42a5e493e3d408c1",
+      "texto_ptbr": "Tempo gasto",
+      "lote": "401"
+    },
+    {
+      "id": "7268",
+      "chave": "frontend__pause_gamestatstotal",
+      "hash_es": "c9b3c38247f744e1",
+      "texto_ptbr": "Total",
+      "lote": "401"
+    },
+    {
+      "id": "40ee",
+      "chave": "frontend__pause_gamestatsttjiggies",
+      "hash_es": "975c7e9d5541e341",
+      "texto_ptbr": "Jiggies do Tomás Troféu",
+      "lote": "401"
+    },
+    {
+      "id": "8514",
+      "chave": "frontend__pause_gamestatstttokenswon",
+      "hash_es": "641b8adde0cd02bc",
+      "texto_ptbr": "Troféus T.T. ganhos",
+      "lote": "401"
+    },
+    {
+      "id": "8a25",
+      "chave": "frontend__pause_gamestatsviewdetails",
+      "hash_es": "2e3ef1f0090d61f2",
+      "texto_ptbr": "Ver detalhes de todos os jogos",
+      "lote": "401"
+    },
+    {
+      "id": "b2d9",
+      "chave": "frontend__pause_gamestatsworldofsport",
+      "hash_es": "7a50bdf5b5876e1c",
+      "texto_ptbr": "Estatísticas do Jiggosseum",
+      "lote": "518"
+    },
+    {
+      "id": "06c3",
+      "chave": "frontend__pause_inputreplayboxtitle",
+      "hash_es": "9e4d054de7c186a6",
+      "texto_ptbr": "Nome do replay",
+      "lote": "401"
+    },
+    {
+      "id": "187a",
+      "chave": "frontend__pause_inputreplaytitle",
+      "hash_es": "d5029bd4b74f930a",
+      "texto_ptbr": "Digite o nome do replay",
+      "lote": "401"
+    },
+    {
+      "id": "dba3",
+      "chave": "frontend__pause_leaderboards",
+      "hash_es": "a0e10dff1a8de85c",
+      "texto_ptbr": "Placares",
+      "lote": "401"
+    },
+    {
+      "id": "1919",
+      "chave": "frontend__pause_map",
+      "hash_es": "d2f671e0a6015903",
+      "texto_ptbr": "Mapa",
+      "lote": "401"
+    },
+    {
+      "id": "2729",
+      "chave": "frontend__pause_mpleavecarpark",
+      "hash_es": "ed70ff895f9458c9",
+      "texto_ptbr": "Sair de Test-O-Track",
+      "lote": "518"
+    },
+    {
+      "id": "bf57",
+      "chave": "frontend__pause_mpleavecarparkconfirm",
+      "hash_es": "077cfc202c0960da",
+      "texto_ptbr": "Tem certeza de que quer sair de Test-O-Track?",
+      "lote": "518"
+    },
+    {
+      "id": "a0f2",
+      "chave": "frontend__pause_mpleavematch",
+      "hash_es": "33bbd3202f737f69",
+      "texto_ptbr": "Sair da partida",
+      "lote": "402"
+    },
+    {
+      "id": "3d00",
+      "chave": "frontend__pause_mpleavematchconfirm",
+      "hash_es": "2fa4c71dc3e377c9",
+      "texto_ptbr": "Tem certeza de que deseja sair da partida?",
+      "lote": "402"
+    },
+    {
+      "id": "15d0",
+      "chave": "frontend__pause_mpleaveseries",
+      "hash_es": "9cb9cc7bfc267bfa",
+      "texto_ptbr": "Sair da liga",
+      "lote": "402"
+    },
+    {
+      "id": "0001",
+      "chave": "frontend__pause_mpleaveseriesconfirm",
+      "hash_es": "8fc62603dfbc5f20",
+      "texto_ptbr": "Tem certeza de que deseja sair da liga?",
+      "lote": "402"
+    },
+    {
+      "id": "2dd4",
+      "chave": "frontend__pause_musicvolume",
+      "hash_es": "8b14fe7725376fb9",
+      "texto_ptbr": "Volume da música",
+      "lote": "402"
+    },
+    {
+      "id": "4a7a",
+      "chave": "frontend__pause_opencinema",
+      "hash_es": "577ddcf38295fa23",
+      "texto_ptbr": "Abrir cinema",
+      "lote": "402"
+    },
+    {
+      "id": "83e8",
+      "chave": "frontend__pause_openphotoalbum",
+      "hash_es": "6bebe6d632e62596",
+      "texto_ptbr": "Abrir álbum de fotos",
+      "lote": "402"
+    },
+    {
+      "id": "18a7",
+      "chave": "frontend__pause_pausecaption",
+      "hash_es": "c28d816de9826906",
+      "texto_ptbr": "Pausado",
+      "lote": "402"
+    },
+    {
+      "id": "63ea",
+      "chave": "frontend__pause_photomode",
+      "hash_es": "770e85df832e7385",
+      "texto_ptbr": "Câmera de depuração",
+      "lote": "402"
+    },
+    {
+      "id": "d195",
+      "chave": "frontend__pause_photosandvideos",
+      "hash_es": "e6fd3dea875b97a6",
+      "texto_ptbr": "Fotos e repetições",
+      "lote": "402"
+    },
+    {
+      "id": "8744",
+      "chave": "frontend__pause_playerlist",
+      "hash_es": "e1dacf539910431d",
+      "texto_ptbr": "Lista de jogadores",
+      "lote": "402"
+    },
+    {
+      "id": "ec52",
+      "chave": "frontend__pause_quitjiggygame",
+      "hash_es": "5e58a90e947dd71e",
+      "texto_ptbr": "Sair do desafio",
+      "lote": "402"
+    },
+    {
+      "id": "4554",
+      "chave": "frontend__pause_restartjiggygame",
+      "hash_es": "fb054262f1f9cc7f",
+      "texto_ptbr": "Reiniciar desafio",
+      "lote": "402"
+    },
+    {
+      "id": "71e9",
+      "chave": "frontend__pause_returntosdt",
+      "hash_es": "fd4b5876a02fd6a7",
+      "texto_ptbr": "Voltar a Showdown Town",
+      "lote": "518"
+    },
+    {
+      "id": "9560",
+      "chave": "frontend__pause_returntotitlescreen",
+      "hash_es": "fd2b0a9519d85cbe",
+      "texto_ptbr": "Voltar à tela inicial",
+      "lote": "402"
+    },
+    {
+      "id": "7801",
+      "chave": "frontend__pause_savevideo",
+      "hash_es": "6c87b1ba612fa99c",
+      "texto_ptbr": "Salvar repetição",
+      "lote": "402"
+    },
+    {
+      "id": "0f84",
+      "chave": "frontend__pause_sfxvolume",
+      "hash_es": "7dd7af4ff729f4f2",
+      "texto_ptbr": "Volume dos efeitos sonoros",
+      "lote": "402"
+    },
+    {
+      "id": "21eb",
+      "chave": "frontend__pause_speechvolume",
+      "hash_es": "6c3c57686d4a665b",
+      "texto_ptbr": "Volume dos diálogos",
+      "lote": "402"
+    },
+    {
+      "id": "5e0a",
+      "chave": "frontend__pause_takephoto",
+      "hash_es": "3a3ce14d17588fe8",
+      "texto_ptbr": "Tirar foto",
+      "lote": "402"
+    },
+    {
+      "id": "f13d",
+      "chave": "frontend__pause_title",
+      "hash_es": "c28d816de9826906",
+      "texto_ptbr": "Pausado",
+      "lote": "402"
+    },
+    {
+      "id": "0002",
+      "chave": "frontend__pause_toggleno",
+      "hash_es": "1ea442a134b2a184",
+      "texto_ptbr": "Não",
+      "lote": "402"
+    },
+    {
+      "id": "5798",
+      "chave": "frontend__pause_toggleoff",
+      "hash_es": "1ea442a134b2a184",
+      "texto_ptbr": "Não",
+      "lote": "402"
+    },
+    {
+      "id": "38fa",
+      "chave": "frontend__pause_toggleon",
+      "hash_es": "739215889580345e",
+      "texto_ptbr": "Sim",
+      "lote": "402"
+    },
+    {
+      "id": "820e",
+      "chave": "frontend__pause_toggleyes",
+      "hash_es": "739215889580345e",
+      "texto_ptbr": "Sim",
+      "lote": "402"
+    },
+    {
+      "id": "9032",
+      "chave": "frontend__pause_viewachievements",
+      "hash_es": "bf2f1a86f3def58d",
+      "texto_ptbr": "Ver conquistas",
+      "lote": "402"
+    },
+    {
+      "id": "727e",
+      "chave": "frontend__pause_viewleaderboards",
+      "hash_es": "927144f064e7a5d6",
+      "texto_ptbr": "Ver placares",
+      "lote": "402"
+    },
+    {
+      "id": "f865",
+      "chave": "frontend__pause_viewstats",
+      "hash_es": "85ab7763ee0a143a",
+      "texto_ptbr": "Ver estatísticas",
+      "lote": "402"
+    },
+    {
+      "id": "d7f9",
+      "chave": "frontend__photoalbum_confirmdelete",
+      "hash_es": "e684c901a594c87b",
+      "texto_ptbr": "Tem certeza de que deseja excluir esta foto?",
+      "lote": "402"
+    },
+    {
+      "id": "98b1",
+      "chave": "frontend__photoalbum_picturetype_airvehicle",
+      "hash_es": "922e6fc63c98ed8f",
+      "texto_ptbr": "Veículo aéreo",
+      "lote": "402"
+    },
+    {
+      "id": "c60e",
+      "chave": "frontend__photoalbum_picturetype_all",
+      "hash_es": "2e50107ac22dc0ef",
+      "texto_ptbr": "Todas as fotos",
+      "lote": "402"
+    },
+    {
+      "id": "cf74",
+      "chave": "frontend__photoalbum_picturetype_landvehicle",
+      "hash_es": "ecb65ba001a772e1",
+      "texto_ptbr": "Veículo terrestre",
+      "lote": "402"
+    },
+    {
+      "id": "57ee",
+      "chave": "frontend__photoalbum_picturetype_scenery",
+      "hash_es": "f5685160e33e2877",
+      "texto_ptbr": "Cenário",
+      "lote": "402"
+    },
+    {
+      "id": "e118",
+      "chave": "frontend__photoalbum_picturetype_watervehicle",
+      "hash_es": "704591e13554110d",
+      "texto_ptbr": "Veículo aquático",
+      "lote": "402"
+    },
+    {
+      "id": "7912",
+      "chave": "frontend__photoalbum_vehicletype_all",
+      "hash_es": "a1ee7d32262238a5",
+      "texto_ptbr": "Todos os veículos",
+      "lote": "402"
+    },
+    {
+      "id": "efc2",
+      "chave": "frontend__photoalbum_vehicletype_fighter",
+      "hash_es": "235ee130b77d575f",
+      "texto_ptbr": "Combate",
+      "lote": "402"
+    },
+    {
+      "id": "b0c4",
+      "chave": "frontend__photoalbum_vehicletype_non",
+      "hash_es": "b781f6bd9b98e43d",
+      "texto_ptbr": "Indisponível",
+      "lote": "402"
+    },
+    {
+      "id": "8526",
+      "chave": "frontend__photoalbum_vehicletype_racer",
+      "hash_es": "fbfa922ddf63fa88",
+      "texto_ptbr": "Corrida",
+      "lote": "402"
+    },
+    {
+      "id": "0539",
+      "chave": "frontend__photoalbum_vehicletype_replica",
+      "hash_es": "c0a0cf39c5dd204f",
+      "texto_ptbr": "Réplica",
+      "lote": "402"
+    },
+    {
+      "id": "127d",
+      "chave": "frontend__photoalbum_vehicletype_transporter",
+      "hash_es": "42b1efe4956b43d8",
+      "texto_ptbr": "Transporte",
+      "lote": "402"
+    },
+    {
+      "id": "4c54",
+      "chave": "frontend__photoalbum_vehicletype_weird",
+      "hash_es": "ca0bf4efbca54893",
+      "texto_ptbr": "Estranho",
+      "lote": "402"
+    },
+    {
+      "id": "c2f0",
+      "chave": "frontend__photodownload_ageoptions_allages",
+      "hash_es": "d1d3353ffb64d8db",
+      "texto_ptbr": "Todas as idades",
+      "lote": "402"
+    },
+    {
+      "id": "471b",
+      "chave": "frontend__photodownload_ageoptions_mostrecent",
+      "hash_es": "2ad7457e368813e4",
+      "texto_ptbr": "Mais recentes",
+      "lote": "402"
+    },
+    {
+      "id": "0348",
+      "chave": "frontend__photodownload_leveloption_all",
+      "hash_es": "268b96a8fa3397bf",
+      "texto_ptbr": "Todas as fases",
+      "lote": "402"
+    },
+    {
+      "id": "74d8",
+      "chave": "frontend__photodownload_leveloption_banjoland",
+      "hash_es": "f8694c750b56d05f",
+      "texto_ptbr": "Banjoland",
+      "lote": "518"
+    },
+    {
+      "id": "0c57",
+      "chave": "frontend__photodownload_leveloption_cpu",
+      "hash_es": "c792adf69c4637ae",
+      "texto_ptbr": "LOGBOX 720",
+      "lote": "518"
+    },
+    {
+      "id": "c161",
+      "chave": "frontend__photodownload_leveloption_nuttyacres",
+      "hash_es": "b92da323e95b228d",
+      "texto_ptbr": "Nutty Acres",
+      "lote": "518"
+    },
+    {
+      "id": "98b0",
+      "chave": "frontend__photodownload_leveloption_showdowntown",
+      "hash_es": "ebfaf038d77ac683",
+      "texto_ptbr": "Showdown Town",
+      "lote": "518"
+    },
+    {
+      "id": "3d65",
+      "chave": "frontend__photodownload_leveloption_spiralmountain",
+      "hash_es": "ea5b0c237897661b",
+      "texto_ptbr": "Spiral Mountain",
+      "lote": "518"
+    },
+    {
+      "id": "5fb8",
+      "chave": "frontend__photodownload_leveloption_terrorium",
+      "hash_es": "d450fc0d632332c1",
+      "texto_ptbr": "Terrarium of Terror",
+      "lote": "518"
+    },
+    {
+      "id": "7104",
+      "chave": "frontend__photodownload_leveloption_worldofsport",
+      "hash_es": "d6ff4ad2512b2f2e",
+      "texto_ptbr": "Jiggosseum",
+      "lote": "518"
+    },
+    {
+      "id": "bf1c",
+      "chave": "frontend__photodownload_ratingoptions_3star",
+      "hash_es": "0e95936f40ca8fa6",
+      "texto_ptbr": "Até 3 estrelas",
+      "lote": "402"
+    },
+    {
+      "id": "d79d",
+      "chave": "frontend__photodownload_ratingoptions_4star",
+      "hash_es": "d3eb6d72cb8853c6",
+      "texto_ptbr": "4 estrelas ou mais",
+      "lote": "402"
+    },
+    {
+      "id": "f01e",
+      "chave": "frontend__photodownload_ratingoptions_5star",
+      "hash_es": "eb89f470496237de",
+      "texto_ptbr": "Somente 5 estrelas",
+      "lote": "402"
+    },
+    {
+      "id": "d6a8",
+      "chave": "frontend__photodownload_ratingoptions_all",
+      "hash_es": "cb24e97c74b6f4cb",
+      "texto_ptbr": "Todas as avaliações",
+      "lote": "402"
+    },
+    {
+      "id": "6148",
+      "chave": "frontend__photodownload_searchwhooption_everyone",
+      "hash_es": "bd02b9a7d71dac67",
+      "texto_ptbr": "Todos",
+      "lote": "402"
+    },
+    {
+      "id": "fba6",
+      "chave": "frontend__photodownload_searchwhooption_friends",
+      "hash_es": "8924a80974151042",
+      "texto_ptbr": "Somente amigos",
+      "lote": "402"
+    },
+    {
+      "id": "79ab",
+      "chave": "frontend__photonametooshort",
+      "hash_es": "7e560c66c559dcff",
+      "texto_ptbr": "Você precisa dar um nome à foto.",
+      "lote": "402"
+    },
+    {
+      "id": "3a54",
+      "chave": "frontend__photos_ageoptions_title",
+      "hash_es": "15ce2e9ee8ac1267",
+      "texto_ptbr": "Antiguidade da foto",
+      "lote": "402"
+    },
+    {
+      "id": "2376",
+      "chave": "frontend__photos_blueprintoneatatime",
+      "hash_es": "dc8021e8e5dd7959",
+      "texto_ptbr": "Você pode baixar projetos dos amigos e vê-los um de cada vez. Pressione o botão [Y] para salvar o projeto baixado.",
+      "lote": "402"
+    },
+    {
+      "id": "2a35",
+      "chave": "frontend__photos_blueprintsfull",
+      "hash_es": "dd505f099ce2b37a",
+      "texto_ptbr": "Sua lista de projetos está cheia. Deseja substituir um projeto existente por este?",
+      "lote": "402"
+    },
+    {
+      "id": "3e71",
+      "chave": "frontend__photos_confirmoverwriteslot",
+      "hash_es": "fa887f6523973a7e",
+      "texto_ptbr": "Tem certeza de que deseja substituir esta foto?",
+      "lote": "402"
+    },
+    {
+      "id": "daca",
+      "chave": "frontend__photos_confirmselectslot",
+      "hash_es": "b9496fe8af415366",
+      "texto_ptbr": "Não há espaços vazios. Deseja escolher uma foto do álbum para substituir?",
+      "lote": "402"
+    },
+    {
+      "id": "1169",
+      "chave": "frontend__photos_corrupt",
+      "hash_es": "85c91223b4319dcd",
+      "texto_ptbr": "Foto corrompida",
+      "lote": "402"
+    },
+    {
+      "id": "d45e",
+      "chave": "frontend__photos_description",
+      "hash_es": "dfecc54797bd590f",
+      "texto_ptbr": "Descrição da foto",
+      "lote": "402"
+    },
+    {
+      "id": "0f72",
+      "chave": "frontend__photos_dlblueprintsaved",
+      "hash_es": "d45c29bfb8d649d1",
+      "texto_ptbr": "O projeto baixado foi salvo.",
+      "lote": "402"
+    },
+    {
+      "id": "6d07",
+      "chave": "frontend__photos_dlphotosaved",
+      "hash_es": "61985d6e17e0e44a",
+      "texto_ptbr": "A foto baixada foi salva.",
+      "lote": "402"
+    },
+    {
+      "id": "417c",
+      "chave": "frontend__photos_downloadphoto",
+      "hash_es": "a65a784bb8381167",
+      "texto_ptbr": "Baixar fotos de Banjo-Kazooie.com",
+      "lote": "402"
+    },
+    {
+      "id": "7124",
+      "chave": "frontend__photos_downloadsearchbutton",
+      "hash_es": "5f55edf900896012",
+      "texto_ptbr": "Buscar",
+      "lote": "402"
+    },
+    {
+      "id": "138b",
+      "chave": "frontend__photos_emptyslot",
+      "hash_es": "d22e8689353545d8",
+      "texto_ptbr": "Vazio",
+      "lote": "402"
+    },
+    {
+      "id": "6893",
+      "chave": "frontend__photos_foundphotos",
+      "hash_es": "cc8374299d321ba9",
+      "texto_ptbr": "Fotos encontradas em Banjo-Kazooie.com",
+      "lote": "402"
+    },
+    {
+      "id": "b311",
+      "chave": "frontend__photos_fulloverwriteno",
+      "hash_es": "1ea442a134b2a184",
+      "texto_ptbr": "Não",
+      "lote": "402"
+    },
+    {
+      "id": "4325",
+      "chave": "frontend__photos_fulloverwriteyes",
+      "hash_es": "739215889580345e",
+      "texto_ptbr": "Sim",
+      "lote": "402"
+    },
+    {
+      "id": "c47f",
+      "chave": "frontend__photos_leveloptions_title",
+      "hash_es": "ee50666c457d9d5f",
+      "texto_ptbr": "Fase",
+      "lote": "402"
+    },
+    {
+      "id": "b2f8",
+      "chave": "frontend__photos_loading",
+      "hash_es": "78164e6c88f6cf6b",
+      "texto_ptbr": "Carregando...",
+      "lote": "402"
+    },
+    {
+      "id": "e999",
+      "chave": "frontend__photos_myphotosbutton",
+      "hash_es": "1991e52dac2430da",
+      "texto_ptbr": "Minhas fotos",
+      "lote": "402"
+    },
+    {
+      "id": "82bb",
+      "chave": "frontend__photos_noemptyslots",
+      "hash_es": "114a695a5f7ec5b4",
+      "texto_ptbr": "Não há espaços vazios. Acesse o álbum de fotos e exclua uma foto para liberar espaço.",
+      "lote": "402"
+    },
+    {
+      "id": "d409",
+      "chave": "frontend__photos_notOwnPhoto",
+      "hash_es": "663200e208852670",
+      "texto_ptbr": "Esta foto foi baixada de Banjo-Kazooie.com. Você só pode enviar suas próprias fotos.",
+      "lote": "402"
+    },
+    {
+      "id": "2370",
+      "chave": "frontend__photos_notliveenablederror",
+      "hash_es": "d033d17f5bc70343",
+      "texto_ptbr": "É preciso estar conectado ao Xbox LIVE para acessar este conteúdo.",
+      "lote": "402"
+    },
+    {
+      "id": "3155",
+      "chave": "frontend__photos_photoalbum",
+      "hash_es": "ba37e5a44cf8481e",
+      "texto_ptbr": "Álbum de fotos",
+      "lote": "402"
+    },
+    {
+      "id": "c288",
+      "chave": "frontend__photos_photoalbumfull",
+      "hash_es": "a82b55952ba9eb88",
+      "texto_ptbr": "Seu álbum de fotos está cheio. Deseja substituir uma foto existente por esta?",
+      "lote": "402"
+    },
+    {
+      "id": "5001",
+      "chave": "frontend__photos_photokeyboardsubtitle",
+      "hash_es": "cd002db441b027a3",
+      "texto_ptbr": "Digite uma descrição para a foto.",
+      "lote": "402"
+    },
+    {
+      "id": "2d37",
+      "chave": "frontend__photos_photokeyboardtitle",
+      "hash_es": "b39a53404886ed87",
+      "texto_ptbr": "Descrição da foto",
+      "lote": "402"
+    },
+    {
+      "id": "0558",
+      "chave": "frontend__photos_picturetype",
+      "hash_es": "bff41f6d577f15f2",
+      "texto_ptbr": "Tipo de foto",
+      "lote": "402"
+    },
+    {
+      "id": "67cb",
+      "chave": "frontend__photos_privilegeerror",
+      "hash_es": "61cb92df4baec526",
+      "texto_ptbr": "Seu perfil de jogador não permite ver conteúdo criado por usuários.",
+      "lote": "402"
+    },
+    {
+      "id": "423f",
+      "chave": "frontend__photos_rating",
+      "hash_es": "773e03aa07df22d4",
+      "texto_ptbr": "Avaliação",
+      "lote": "402"
+    },
+    {
+      "id": "9b24",
+      "chave": "frontend__photos_ratingfailed",
+      "hash_es": "006453df1d3efd68",
+      "texto_ptbr": "Não foi possível enviar a avaliação. Verifique sua conexão com a internet ou tente novamente mais tarde.",
+      "lote": "402"
+    },
+    {
+      "id": "d28c",
+      "chave": "frontend__photos_ratingoptions_title",
+      "hash_es": "b60e5b48959c3be2",
+      "texto_ptbr": "Avaliação da foto",
+      "lote": "402"
+    },
+    {
+      "id": "c6b6",
+      "chave": "frontend__photos_receivedblueprint",
+      "hash_es": "1a828d36a5ab825d",
+      "texto_ptbr": "Você recebeu um projeto de um amigo!",
+      "lote": "402"
+    },
+    {
+      "id": "4fab",
+      "chave": "frontend__photos_receivedphoto",
+      "hash_es": "e4761985dcd63fa4",
+      "texto_ptbr": "Você recebeu uma foto de um amigo!",
+      "lote": "402"
+    },
+    {
+      "id": "8cd6",
+      "chave": "frontend__photos_report",
+      "hash_es": "89b9c788db489230",
+      "texto_ptbr": "Deseja denunciar esta foto como ofensiva?",
+      "lote": "402"
+    },
+    {
+      "id": "262e",
+      "chave": "frontend__photos_savefailed",
+      "hash_es": "5ea922ba04bc69dc",
+      "texto_ptbr": "Falha ao baixar. Verifique sua conexão com a internet ou tente novamente mais tarde.",
+      "lote": "402"
+    },
+    {
+      "id": "83a2",
+      "chave": "frontend__photos_saving",
+      "hash_es": "367b3cef3580052d",
+      "texto_ptbr": "Salvando...",
+      "lote": "402"
+    },
+    {
+      "id": "c6c1",
+      "chave": "frontend__photos_searchexpired",
+      "hash_es": "605d3709d3d6744c",
+      "texto_ptbr": "A busca expirou. Verifique sua conexão com a internet ou tente novamente mais tarde.",
+      "lote": "402"
+    },
+    {
+      "id": "1835",
+      "chave": "frontend__photos_searchfailed",
+      "hash_es": "b44cf001681a158c",
+      "texto_ptbr": "Falha na busca. Verifique sua conexão com a internet ou tente novamente mais tarde.",
+      "lote": "402"
+    },
+    {
+      "id": "89ce",
+      "chave": "frontend__photos_searching",
+      "hash_es": "b496fae27ce2e1f8",
+      "texto_ptbr": "Buscando...",
+      "lote": "402"
+    },
+    {
+      "id": "adb8",
+      "chave": "frontend__photos_searchwhooption_title",
+      "hash_es": "fab4e1486f157ebc",
+      "texto_ptbr": "Buscar quem?",
+      "lote": "402"
+    },
+    {
+      "id": "6e3c",
+      "chave": "frontend__photos_selectslot",
+      "hash_es": "551463ed8a8440e6",
+      "texto_ptbr": "Selecione um espaço para salvar.",
+      "lote": "402"
+    },
+    {
+      "id": "5c7b",
+      "chave": "frontend__photos_uploadbutton",
+      "hash_es": "7214d0203007a500",
+      "texto_ptbr": "Enviar",
+      "lote": "402"
+    },
+    {
+      "id": "515d",
+      "chave": "frontend__photos_uploading",
+      "hash_es": "78164e6c88f6cf6b",
+      "texto_ptbr": "Enviando...",
+      "lote": "402"
+    },
+    {
+      "id": "cfbe",
+      "chave": "frontend__photos_uploadlimit",
+      "hash_es": "70c4517b26c280fe",
+      "texto_ptbr": "Você pode enviar até 10 fotos. Se enviar mais, a mais antiga será substituída. Para ver suas fotos, procure-as em Banjo-Kazooie.com Photos.",
+      "lote": "402"
+    },
+    {
+      "id": "c653",
+      "chave": "frontend__photos_uploadmenudesc",
+      "hash_es": "fe3282bb70da9866",
+      "texto_ptbr": "Aqui você pode informar o conteúdo da foto e adicionar uma descrição detalhada. Quando terminar, selecione Enviar. Você receberá um aviso quando o envio for concluído.",
+      "lote": "402"
+    },
+    {
+      "id": "af49",
+      "chave": "frontend__photos_uploadphoto",
+      "hash_es": "7bbba078c87c6ba4",
+      "texto_ptbr": "Enviar foto para Banjo-Kazooie.com",
+      "lote": "402"
+    },
+    {
+      "id": "d65c",
+      "chave": "frontend__photos_vehicletype",
+      "hash_es": "4a7f059eea31c155",
+      "texto_ptbr": "Tipo de veículo",
+      "lote": "402"
+    },
+    {
+      "id": "475f",
+      "chave": "frontend__photos_viewphoto",
+      "hash_es": "9ecf2e8ee0de1d08",
+      "texto_ptbr": "Visualizar foto",
+      "lote": "402"
+    },
+    {
+      "id": "f844",
+      "chave": "frontend__photos_viewphotofailed",
+      "hash_es": "0a1ba23ec6015821",
+      "texto_ptbr": "Não foi possível ver a foto.",
+      "lote": "402"
+    },
+    {
+      "id": "43e4",
+      "chave": "frontend__photos_xboxlivephotosbutton",
+      "hash_es": "d1703a4d08516927",
+      "texto_ptbr": "Banjo-Kazooie.com",
+      "lote": "402"
+    },
+    {
+      "id": "2d03",
+      "chave": "frontend__profanelanguagewarning",
+      "hash_es": "f02e2fafd7a7d634",
+      "texto_ptbr": "Não foi possível enviar a foto por causa de linguagem imprópria.",
+      "lote": "402"
+    },
+    {
+      "id": "c7e6",
+      "chave": "frontend__replays_chooseoutboxslotmessage",
+      "hash_es": "281fb835ec331100",
+      "texto_ptbr": "Sua caixa de saída de repetições está cheia. Para enviar esta repetição, escolha uma já enviada para substituir; o destinatário não poderá mais baixá-la.",
+      "lote": "402"
+    },
+    {
+      "id": "c423",
+      "chave": "frontend__replays_chooseoutboxslottitle",
+      "hash_es": "15c755f5b6f1e088",
+      "texto_ptbr": "Escolha uma repetição já enviada para substituir.",
+      "lote": "402"
+    },
+    {
+      "id": "39dd",
+      "chave": "frontend__replays_cinemafull",
+      "hash_es": "d1b79ed6b38906e2",
+      "texto_ptbr": "O cinema de repetições está cheio. Deseja substituir uma repetição existente por esta?",
+      "lote": "402"
+    },
+    {
+      "id": "f11e",
+      "chave": "frontend__replays_confirmdelete",
+      "hash_es": "9537fc8dbd488cf8",
+      "texto_ptbr": "Tem certeza de que deseja excluir esta repetição?",
+      "lote": "402"
+    },
+    {
+      "id": "8003",
+      "chave": "frontend__replays_confirmdownload",
+      "hash_es": "e3e3ff2bb2fcf889",
+      "texto_ptbr": "Esta ação substituirá uma repetição baixada anteriormente. Deseja continuar?",
+      "lote": "402"
+    },
+    {
+      "id": "d474",
+      "chave": "frontend__replays_confirmoverwriteslot",
+      "hash_es": "dd30eb388dbaf0e1",
+      "texto_ptbr": "Tem certeza de que deseja substituir esta repetição?",
+      "lote": "402"
+    },
+    {
+      "id": "77ad",
+      "chave": "frontend__replays_confirmselectslot",
+      "hash_es": "475a9601da987348",
+      "texto_ptbr": "Não há espaços vazios. Deseja escolher uma repetição do álbum para substituir?",
+      "lote": "402"
+    },
+    {
+      "id": "a68c",
+      "chave": "frontend__replays_corrupt",
+      "hash_es": "f3a54e6e034d9a43",
+      "texto_ptbr": "Repetição corrompida",
+      "lote": "402"
+    },
+    {
+      "id": "518d",
+      "chave": "frontend__replays_dlreplaysaved",
+      "hash_es": "b5e1576162dc9b32",
+      "texto_ptbr": "A repetição baixada foi salva.",
+      "lote": "402"
+    },
+    {
+      "id": "d1ba",
+      "chave": "frontend__replays_downloadfailed",
+      "hash_es": "feaeabd34de193b2",
+      "texto_ptbr": "Falha ao baixar a repetição. Ela pode estar corrompida ou haver um problema com sua conexão à internet. Tente baixar outra repetição ou tente novamente mais tarde.",
+      "lote": "402"
+    },
+    {
+      "id": "2973",
+      "chave": "frontend__replays_downloading",
+      "hash_es": "f2eb5002b9d4b60e",
+      "texto_ptbr": "Baixando...",
+      "lote": "402"
+    },
+    {
+      "id": "7d6e",
+      "chave": "frontend__replays_emptyslot",
+      "hash_es": "d22e8689353545d8",
+      "texto_ptbr": "Vazio",
+      "lote": "402"
+    },
+    {
+      "id": "3868",
+      "chave": "frontend__replays_friendsreplays",
+      "hash_es": "24654d534886adb7",
+      "texto_ptbr": "Repetições dos amigos",
+      "lote": "402"
+    },
+    {
+      "id": "bb34",
+      "chave": "frontend__replays_fulloverwriteno",
+      "hash_es": "1ea442a134b2a184",
+      "texto_ptbr": "Não",
+      "lote": "402"
+    },
+    {
+      "id": "0003",
+      "chave": "frontend__replays_fulloverwriteyes",
+      "hash_es": "739215889580345e",
+      "texto_ptbr": "Sim",
+      "lote": "402"
+    },
+    {
+      "id": "997c",
+      "chave": "frontend__replays_leaderboarduploadfailed",
+      "hash_es": "5e917510a4e49b05",
+      "texto_ptbr": "Não foi possível enviar a repetição. Verifique sua conexão com a internet ou tente novamente mais tarde.",
+      "lote": "402"
+    },
+    {
+      "id": "481b",
+      "chave": "frontend__replays_loading",
+      "hash_es": "78164e6c88f6cf6b",
+      "texto_ptbr": "Carregando...",
+      "lote": "402"
+    },
+    {
+      "id": "3763",
+      "chave": "frontend__replays_myreplays",
+      "hash_es": "bf372bbc0196d53c",
+      "texto_ptbr": "Minhas repetições",
+      "lote": "402"
+    },
+    {
+      "id": "c5be",
+      "chave": "frontend__replays_noemptyslots",
+      "hash_es": "0e5e0720de1403e6",
+      "texto_ptbr": "Não há espaços vazios. Acesse o álbum de repetições e exclua uma para liberar espaço.",
+      "lote": "402"
+    },
+    {
+      "id": "c996",
+      "chave": "frontend__replays_noreplaysfound",
+      "hash_es": "daa3ddce9786194e",
+      "texto_ptbr": "Nenhuma repetição encontrada",
+      "lote": "402"
+    },
+    {
+      "id": "6444",
+      "chave": "frontend__replays_oneatatime",
+      "hash_es": "6e2e6afd798738da",
+      "texto_ptbr": "Você pode baixar e assistir às repetições dos amigos uma de cada vez. Pressione o botão [Y] para salvar a repetição baixada.",
+      "lote": "402"
+    },
+    {
+      "id": "a225",
+      "chave": "frontend__replays_playreplayfailed",
+      "hash_es": "67d1290e0bb7a4ef",
+      "texto_ptbr": "Não foi possível reproduzir esta repetição.",
+      "lote": "402"
+    },
+    {
+      "id": "89d2",
+      "chave": "frontend__replays_preparingreplay",
+      "hash_es": "3fe161284a9a44ba",
+      "texto_ptbr": "O S.J. está preparando a repetição escolhida.",
+      "lote": "402"
+    },
+    {
+      "id": "778e",
+      "chave": "frontend__replays_privilegeerror",
+      "hash_es": "61cb92df4baec526",
+      "texto_ptbr": "Seu perfil de jogador não permite ver conteúdo criado por usuários.",
+      "lote": "402"
+    },
+    {
+      "id": "c591",
+      "chave": "frontend__replays_receivedreplay",
+      "hash_es": "10134fd32a28a4b0",
+      "texto_ptbr": "Você recebeu uma repetição de um amigo!",
+      "lote": "402"
+    },
+    {
+      "id": "d05d",
+      "chave": "frontend__replays_replays",
+      "hash_es": "f79916caa78b0ee0",
+      "texto_ptbr": "Repetições",
+      "lote": "402"
+    },
+    {
+      "id": "8065",
+      "chave": "frontend__replays_saving",
+      "hash_es": "367b3cef3580052d",
+      "texto_ptbr": "Salvando...",
+      "lote": "402"
+    },
+    {
+      "id": "5b38",
+      "chave": "frontend__replays_searchfailed",
+      "hash_es": "b44cf001681a158c",
+      "texto_ptbr": "Falha na busca. Verifique sua conexão com a internet ou tente novamente mais tarde.",
+      "lote": "402"
+    },
+    {
+      "id": "f3b1",
+      "chave": "frontend__replays_searching",
+      "hash_es": "b496fae27ce2e1f8",
+      "texto_ptbr": "Buscando...",
+      "lote": "402"
+    },
+    {
+      "id": "50d2",
+      "chave": "frontend__replays_searchingoutbox",
+      "hash_es": "7fe0de02924e3965",
+      "texto_ptbr": "Buscando na caixa de saída...",
+      "lote": "402"
+    },
+    {
+      "id": "29b8",
+      "chave": "frontend__replays_searchingoutboxcancel",
+      "hash_es": "d41ab12e677e744d",
+      "texto_ptbr": "A busca na caixa de saída está em andamento. Deseja cancelar?",
+      "lote": "402"
+    },
+    {
+      "id": "1e99",
+      "chave": "frontend__replays_searchoutboxfailed",
+      "hash_es": "697350524a66d560",
+      "texto_ptbr": "Não foi possível acessar a caixa de saída. Verifique sua conexão com a internet ou tente novamente mais tarde.",
+      "lote": "402"
+    },
+    {
+      "id": "147f",
+      "chave": "frontend__replays_selectslot",
+      "hash_es": "551463ed8a8440e6",
+      "texto_ptbr": "Selecione um espaço para salvar.",
+      "lote": "402"
+    },
+    {
+      "id": "cd7d",
+      "chave": "frontend__replays_sentbyfriends",
+      "hash_es": "e2ff380274423885",
+      "texto_ptbr": "Aqui você pode ver as repetições enviadas pelos amigos. Exclua manualmente as que não quiser mais. As repetições recebidas expiram após alguns dias.",
+      "lote": "402"
+    },
+    {
+      "id": "da5e",
+      "chave": "frontend__replays_showhiddencontrols",
+      "hash_es": "19c1022051eea9af",
+      "texto_ptbr": "Você pode exibir os controles na tela a qualquer momento pressionando o botão [BACK] BACK.",
+      "lote": "402"
+    },
+    {
+      "id": "2c67",
+      "chave": "frontend__replays_uploadfailed",
+      "hash_es": "91d7b0549f143486",
+      "texto_ptbr": "Falha ao enviar a repetição. Verifique sua conexão com a internet ou tente novamente mais tarde.",
+      "lote": "402"
+    },
+    {
+      "id": "bb40",
+      "chave": "frontend__replays_uploading",
+      "hash_es": "489f599870072ff9",
+      "texto_ptbr": "Enviando...",
+      "lote": "402"
+    },
+    {
+      "id": "4c2f",
+      "chave": "frontend__replays_uploadreplay",
+      "hash_es": "ee5dd4421ad88cc9",
+      "texto_ptbr": "Enviar repetição aos amigos",
+      "lote": "402"
+    },
+    {
+      "id": "a201",
+      "chave": "frontend__sendcomplete",
+      "hash_es": "04d872cbb6120f60",
+      "texto_ptbr": "Envio concluído.",
+      "lote": "402"
+    },
+    {
+      "id": "a1f8",
+      "chave": "frontend__server_unavailable",
+      "hash_es": "1b1a66763f390f79",
+      "texto_ptbr": "O servidor de Banjo-Kazooie: Nuts & Bolts está indisponível no momento. Tente novamente mais tarde.",
+      "lote": "402"
+    },
+    {
+      "id": "cb37",
+      "chave": "frontend__starting_noprofile",
+      "hash_es": "e75f2da81569e7b5",
+      "texto_ptbr": "Você não entrou em um perfil de jogador e não poderá salvar nem carregar seu progresso. Quer jogar mesmo assim?",
+      "lote": "402"
+    },
+    {
+      "id": "b178",
+      "chave": "frontend__starting_playanyway",
+      "hash_es": "114f203971acb10f",
+      "texto_ptbr": "Jogar sem salvar",
+      "lote": "402"
+    },
+    {
+      "id": "9651",
+      "chave": "frontend__starting_signin",
+      "hash_es": "fa1f2ab2d3d4e278",
+      "texto_ptbr": "Entre primeiro",
+      "lote": "402"
+    },
+    {
+      "id": "a2c3",
+      "chave": "frontend__startmenu_audiosettings",
+      "hash_es": "19723fc0f9111cc6",
+      "texto_ptbr": "Configurações de áudio",
+      "lote": "402"
+    },
+    {
+      "id": "06ef",
+      "chave": "frontend__startmenu_confirmoverwritegame",
+      "hash_es": "fed6b45ffa884423",
+      "texto_ptbr": "Aviso: iniciar um novo jogo substituirá o jogo salvo e apagará todas as peças de veículo coletadas. Tem certeza?",
+      "lote": "402"
+    },
+    {
+      "id": "5ae0",
+      "chave": "frontend__startmenu_contest",
+      "hash_es": "ba1dcf52dea370fd",
+      "texto_ptbr": "Xbox LIVE",
+      "lote": "402"
+    },
+    {
+      "id": "8bc2",
+      "chave": "frontend__startmenu_contest_offline",
+      "hash_es": "18d157ab95cc92ec",
+      "texto_ptbr": "JOGO LOCAL",
+      "lote": "402"
+    },
+    {
+      "id": "443f",
+      "chave": "frontend__startmenu_continuegame",
+      "hash_es": "14a94fa3645269cf",
+      "texto_ptbr": "Continuar jogo salvo",
+      "lote": "402"
+    },
+    {
+      "id": "34b2",
+      "chave": "frontend__startmenu_controlsettings",
+      "hash_es": "3cbce4299f374a2d",
+      "texto_ptbr": "Configurações de controles",
+      "lote": "402"
+    },
+    {
+      "id": "4291",
+      "chave": "frontend__startmenu_coop",
+      "hash_es": "2ed0c7de277c48c5",
+      "texto_ptbr": "Cooperativo",
+      "lote": "402"
+    },
+    {
+      "id": "9067",
+      "chave": "frontend__startmenu_displaysettings",
+      "hash_es": "fb50d75787fbdab4",
+      "texto_ptbr": "Configurações de tela",
+      "lote": "402"
+    },
+    {
+      "id": "b669",
+      "chave": "frontend__startmenu_gamestats",
+      "hash_es": "c79cf7939b73f5ea",
+      "texto_ptbr": "Ver estatísticas do jogo",
+      "lote": "402"
+    },
+    {
+      "id": "5524",
+      "chave": "frontend__startmenu_gamevideos",
+      "hash_es": "3a7d5ded97a517dd",
+      "texto_ptbr": "Repetições de jogos",
+      "lote": "402"
+    },
+    {
+      "id": "96e8",
+      "chave": "frontend__startmenu_leaderboards",
+      "hash_es": "927144f064e7a5d6",
+      "texto_ptbr": "Ver placares",
+      "lote": "402"
+    },
+    {
+      "id": "5a38",
+      "chave": "frontend__startmenu_multiplayer",
+      "hash_es": "b35db8f5fa2e9033",
+      "texto_ptbr": "Multijogador",
+      "lote": "402"
+    },
+    {
+      "id": "0519",
+      "chave": "frontend__startmenu_multiplayergamesavecorrupted",
+      "hash_es": "ef37289f97358d1b",
+      "texto_ptbr": "Aviso: o jogo salvo está corrompido. Será preciso iniciar um novo jogo e substituir o arquivo danificado. Deseja continuar?",
+      "lote": "402"
+    },
+    {
+      "id": "8df9",
+      "chave": "frontend__startmenu_multiplayergamesavenonexist",
+      "hash_es": "ea65a1e2951572ba",
+      "texto_ptbr": "Aviso: não há jogo salvo. Deseja iniciar um novo jogo?",
+      "lote": "402"
+    },
+    {
+      "id": "0aa4",
+      "chave": "frontend__startmenu_newgame",
+      "hash_es": "1aaa004068c2f2af",
+      "texto_ptbr": "Iniciar novo jogo",
+      "lote": "402"
+    },
+    {
+      "id": "114c",
+      "chave": "frontend__startmenu_options",
+      "hash_es": "81db3b5709d0ba95",
+      "texto_ptbr": "Opções",
+      "lote": "402"
+    },
+    {
+      "id": "af3d",
+      "chave": "frontend__startmenu_photos",
+      "hash_es": "cbbba360eb60dd04",
+      "texto_ptbr": "Fotos",
+      "lote": "402"
+    },
+    {
+      "id": "a63a",
+      "chave": "frontend__startmenu_replaycinema",
+      "hash_es": "3a231b4ce9ee3360",
+      "texto_ptbr": "Cinema",
+      "lote": "402"
+    },
+    {
+      "id": "6e0e",
+      "chave": "frontend__startmenu_replaymusic",
+      "hash_es": "0e0cc1a93fe567a4",
+      "texto_ptbr": "Música",
+      "lote": "402"
+    },
+    {
+      "id": "74cf",
+      "chave": "frontend__startmenu_singleplayer",
+      "hash_es": "b1c8bfeb90b40782",
+      "texto_ptbr": "Um jogador",
+      "lote": "402"
+    },
+    {
+      "id": "efc9",
+      "chave": "frontend__startmenu_viewcredits",
+      "hash_es": "6041b773ab351804",
+      "texto_ptbr": "Ver créditos",
+      "lote": "402"
+    },
+    {
+      "id": "5a9a",
+      "chave": "frontend__startscreen_bootedlostconnection",
+      "hash_es": "76e98f0fabcd84f8",
+      "texto_ptbr": "Não é possível continuar nesta sessão do Xbox LIVE. Verifique sua conexão e tente novamente.",
+      "lote": "402"
+    },
+    {
+      "id": "a43a",
+      "chave": "frontend__startscreen_bootedsignedout",
+      "hash_es": "3d779000f069d6f5",
+      "texto_ptbr": "Você saiu do jogo porque encerrou a sessão do seu perfil de jogador.",
+      "lote": "402"
+    },
+    {
+      "id": "8c66",
+      "chave": "frontend__startscreen_copyrightnotice",
+      "hash_es": "866e1d12b531d65c",
+      "texto_ptbr": "© E (P) 2008 MICROSOFT CORPORATION. TODOS OS DIREITOS RESERVADOS.",
+      "lote": "508"
+    },
+    {
+      "id": "5188",
+      "chave": "frontend__startscreen_developedbyrare",
+      "hash_es": "394e581e092b6ca0",
+      "texto_ptbr": "DESENVOLVIDO PELA RARE.",
+      "lote": "508"
+    },
+    {
+      "id": "cdf9",
+      "chave": "frontend__startscreen_start",
+      "hash_es": "eafe4ea4cc69e5f5",
+      "texto_ptbr": "INICIAR",
+      "lote": "402"
+    },
+    {
+      "id": "4ff7",
+      "chave": "frontend__storage_cancelsavedevice",
+      "hash_es": "a1f1597e725441df",
+      "texto_ptbr": "Você não escolheu um local para salvar. Para continuar salvando seu progresso, escolha um novo local.",
+      "lote": "402"
+    },
+    {
+      "id": "d032",
+      "chave": "frontend__storage_cancelsavedevicecontent",
+      "hash_es": "4ecda3c94aad4412",
+      "texto_ptbr": "Você não escolheu um local para salvar. Para salvar projetos, fotos, repetições ou ligas personalizadas, escolha um novo local.",
+      "lote": "402"
+    },
+    {
+      "id": "26a2",
+      "chave": "frontend__storage_choosesave",
+      "hash_es": "c0c6861d6cc7c39a",
+      "texto_ptbr": "Escolher local para salvar",
+      "lote": "402"
+    },
+    {
+      "id": "2e9b",
+      "chave": "frontend__storage_insertedexisting",
+      "hash_es": "9a743327a64fc5f3",
+      "texto_ptbr": "Aviso: o local escolhido já contém um jogo salvo. Deseja continuar sem salvar, substituir o progresso existente ou escolher outro local?",
+      "lote": "402"
+    },
+    {
+      "id": "02ee",
+      "chave": "frontend__storage_nosavedevice",
+      "hash_es": "e56f8e928d6cf2bf",
+      "texto_ptbr": "Você está prestes a iniciar sem poder salvar ou carregar seu progresso. Deseja jogar mesmo assim?",
+      "lote": "402"
+    },
+    {
+      "id": "7e5b",
+      "chave": "frontend__storage_nospace",
+      "hash_es": "ae413e8bf6abf592",
+      "texto_ptbr": "Não há espaço suficiente para salvar novos dados no local escolhido.",
+      "lote": "402"
+    },
+    {
+      "id": "ab01",
+      "chave": "frontend__storage_playanyway",
+      "hash_es": "114f203971acb10f",
+      "texto_ptbr": "Jogar sem salvar",
+      "lote": "402"
+    },
+    {
+      "id": "1544",
+      "chave": "frontend__storage_removed",
+      "hash_es": "5968d61926748722",
+      "texto_ptbr": "A Unidade de Memória do Xbox 360 foi removida. Para continuar salvando seu progresso, escolha um novo local.",
+      "lote": "402"
+    },
+    {
+      "id": "fcdf",
+      "chave": "frontend__storage_removedcontent",
+      "hash_es": "986061888067de76",
+      "texto_ptbr": "A Unidade de Memória do Xbox 360 foi removida. Para salvar projetos, fotos, repetições ou ligas personalizadas, escolha um novo local.",
+      "lote": "402"
+    },
+    {
+      "id": "06fc",
+      "chave": "frontend__storage_sponsorchangedevice",
+      "hash_es": "ef11c094c354323e",
+      "texto_ptbr": "%s: seu convidado pediu para mudar o local de salvamento. Isso afetará vocês dois. Deseja escolher um novo local?",
+      "lote": "402"
+    },
+    {
+      "id": "06a2",
+      "chave": "frontend__storage_waitforsponsor",
+      "hash_es": "d3e08936af496d28",
+      "texto_ptbr": "Aguardando confirmação do responsável",
+      "lote": "402"
+    },
+    {
+      "id": "8d03",
+      "chave": "frontend__storage_waitforstorage",
+      "hash_es": "5afd973e8cef33db",
+      "texto_ptbr": "Procurando conteúdo",
+      "lote": "402"
+    },
+    {
+      "id": "357c",
+      "chave": "frontend__testvehicle_buttonquit",
+      "hash_es": "626393294f53c7c6",
+      "texto_ptbr": "Voltar ao menu principal",
+      "lote": "402"
+    },
+    {
+      "id": "381f",
+      "chave": "frontend__testvehicle_title",
+      "hash_es": "90419b7be9883f13",
+      "texto_ptbr": "Testar veículo",
+      "lote": "402"
+    },
+    {
+      "id": "67c6",
+      "chave": "frontend__uploadbusy",
+      "hash_es": "cc58043d9738982b",
+      "texto_ptbr": "O envio está em andamento. Deseja cancelar?",
+      "lote": "402"
+    },
+    {
+      "id": "68bc",
+      "chave": "frontend__uploadcomplete",
+      "hash_es": "a2fde86945d31f38",
+      "texto_ptbr": "Envio concluído.",
+      "lote": "402"
+    },
+    {
+      "id": "ffcd",
+      "chave": "frontend__uploaderror",
+      "hash_es": "b290ee0fb232e4fa",
+      "texto_ptbr": "Não foi possível enviar sua foto.",
+      "lote": "402"
+    },
+    {
+      "id": "1b92",
+      "chave": "frontend__uploadpleasewait",
+      "hash_es": "01e80fa933b91534",
+      "texto_ptbr": "Enviando seus dados. Aguarde.",
+      "lote": "402"
+    },
+    {
+      "id": "92cc",
+      "chave": "frontend__viewhighscores_challengetitle",
+      "hash_es": "ea48678de6b96c25",
+      "texto_ptbr": "Desafio",
+      "lote": "402"
+    },
+    {
+      "id": "cd58",
+      "chave": "frontend__viewhighscores_fifth",
+      "hash_es": "ef2d127de37b942b",
+      "texto_ptbr": "5º",
+      "lote": "402"
+    },
+    {
+      "id": "004f",
+      "chave": "frontend__viewhighscores_first",
+      "hash_es": "6b86b273ff34fce1",
+      "texto_ptbr": "1º",
+      "lote": "402"
+    },
+    {
+      "id": "3e7f",
+      "chave": "frontend__viewhighscores_fourth",
+      "hash_es": "4b227777d4dd1fc6",
+      "texto_ptbr": "4º",
+      "lote": "402"
+    },
+    {
+      "id": "7778",
+      "chave": "frontend__viewhighscores_highscorestitle",
+      "hash_es": "41314a4dc2acff1b",
+      "texto_ptbr": "Recordes",
+      "lote": "402"
+    },
+    {
+      "id": "97ca",
+      "chave": "frontend__viewhighscores_nametitle",
+      "hash_es": "562bb15757a8b593",
+      "texto_ptbr": "Nome",
+      "lote": "402"
+    },
+    {
+      "id": "3fbe",
+      "chave": "frontend__viewhighscores_positiontitle",
+      "hash_es": "f00d56c231666490",
+      "texto_ptbr": "Posição",
+      "lote": "402"
+    },
+    {
+      "id": "cf85",
+      "chave": "frontend__viewhighscores_scoretitle",
+      "hash_es": "f5f03ac15d19e8c0",
+      "texto_ptbr": "Pontuação",
+      "lote": "402"
+    },
+    {
+      "id": "6d43",
+      "chave": "frontend__viewhighscores_second",
+      "hash_es": "d4735e3a265e16ee",
+      "texto_ptbr": "2º",
+      "lote": "402"
+    },
+    {
+      "id": "a482",
+      "chave": "frontend__viewhighscores_third",
+      "hash_es": "4e07408562bedb8b",
+      "texto_ptbr": "3º",
+      "lote": "402"
+    },
+    {
+      "id": "5ee9",
+      "chave": "frontend__viewhighscores_title",
+      "hash_es": "47ef5e68464bb027",
+      "texto_ptbr": "Ver recordes",
+      "lote": "402"
+    },
+    {
+      "id": "cd29",
+      "chave": "frontend__viewhighscores_vehicletitle",
+      "hash_es": "e4579a8b1ea49f6e",
+      "texto_ptbr": "Veículo",
+      "lote": "402"
+    }
+  ]
+}

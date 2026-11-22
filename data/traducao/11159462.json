@@ -1,0 +1,195 @@
+{
+  "arquivo": "11159462",
+  "asset": "aid_loctext_banjox_showdowntown_humba",
+  "frases": [
+    {
+      "id": "b56a",
+      "chave": "dialog__humbaboughtblueprint1",
+      "hash_es": "6710519e1cc5bcd0",
+      "texto_ptbr": "Sim, esse projeto bonito. Banjo fazer progresso de verdade com ele!",
+      "lote": "505"
+    },
+    {
+      "id": "b56b",
+      "chave": "dialog__humbaboughtblueprint2",
+      "hash_es": "33d79d53fd93e1cd",
+      "texto_ptbr": "Humba quase emoldurar esse para a cabana, Banjo comprar bem a tempo!",
+      "lote": "505"
+    },
+    {
+      "id": "b56c",
+      "chave": "dialog__humbaboughtblueprint3",
+      "hash_es": "20054b9445415fe9",
+      "texto_ptbr": "Banjo não se arrepender da compra. Humba esperar que não...",
+      "lote": "505"
+    },
+    {
+      "id": "b56d",
+      "chave": "dialog__humbaboughtblueprint4",
+      "hash_es": "7d2e7c5c130eb86b",
+      "texto_ptbr": "Humba oferecer os melhores projetos, certo? Humba ter certificado de supervendas!",
+      "lote": "505"
+    },
+    {
+      "id": "d2a8",
+      "chave": "dialog__humbaboughtcomponent1",
+      "hash_es": "4c9e1705f4875b6b",
+      "texto_ptbr": "Banjo ter bom olho para peças de veículo. Notas bem gastas!",
+      "lote": "505"
+    },
+    {
+      "id": "d2a9",
+      "chave": "dialog__humbaboughtcomponent2",
+      "hash_es": "e00723cb3b0e7a9d",
+      "texto_ptbr": "Essa ter valor sentimental para Humba, Banjo cuidar bem dela!",
+      "lote": "505"
+    },
+    {
+      "id": "d2aa",
+      "chave": "dialog__humbaboughtcomponent3",
+      "hash_es": "0a30552d1e5a91d6",
+      "texto_ptbr": "Banjo escolher as melhores peças, estar no caminho certo para vencer Grunty!",
+      "lote": "505"
+    },
+    {
+      "id": "d2ab",
+      "chave": "dialog__humbaboughtcomponent4",
+      "hash_es": "27ab4fefb9350d4b",
+      "texto_ptbr": "Mais peças vendidas! Garagem do cabeça-dura Mumbo encher rápido, Humba apostar!",
+      "lote": "505"
+    },
+    {
+      "id": "68be",
+      "chave": "dialog__humbafarewell1",
+      "hash_es": "ae474de6ff4bb1ad",
+      "texto_ptbr": "Humba esperar ver urso e pássaro de volta logo! Não decepcionar Humba!",
+      "lote": "505"
+    },
+    {
+      "id": "68bf",
+      "chave": "dialog__humbafarewell2",
+      "hash_es": "6dd412c3770be400",
+      "texto_ptbr": "Voltar sempre. Contribuição para o fundo de recessão mágica sempre bem-vinda!",
+      "lote": "505"
+    },
+    {
+      "id": "68c0",
+      "chave": "dialog__humbafarewell3",
+      "hash_es": "9a7f4d453071464b",
+      "texto_ptbr": "Humba agradecer visita, estar trabalhando em cartão fidelidade...",
+      "lote": "505"
+    },
+    {
+      "id": "68c1",
+      "chave": "dialog__humbafarewell4",
+      "hash_es": "3ac7175fe8c7e617",
+      "texto_ptbr": "Gente descolada comprar na loja da Humba! Voltar na próxima vez que Banjo estar na cidade!",
+      "lote": "505"
+    },
+    {
+      "id": "68c2",
+      "chave": "dialog__humbafarewell5",
+      "hash_es": "6f403802008caeab",
+      "texto_ptbr": "Humba ser a melhor loja! Por que Banjo precisar ir a outro lugar?",
+      "lote": "505"
+    },
+    {
+      "id": "68c3",
+      "chave": "dialog__humbafarewell6",
+      "hash_es": "eac29decfe7ad592",
+      "texto_ptbr": "Voltar logo! Descontos para clientes fiéis, talvez... nossa, Humba ficar com déjà vu.",
+      "lote": "505"
+    },
+    {
+      "id": "d6c1",
+      "chave": "dialog__humbagreeting1",
+      "hash_es": "f7fdd119fee9536e",
+      "texto_ptbr": "Olá, Banjo. Vir atrás de ótimas ofertas em projetos e peças? Não haver lugar melhor para gastar notas suadas.",
+      "lote": "505"
+    },
+    {
+      "id": "d6c2",
+      "chave": "dialog__humbagreeting2",
+      "hash_es": "f2182fe3dd4f4eb2",
+      "texto_ptbr": "Humba precisar ganhar dinheiro por fora, negócio de magia em recessão. Banjo precisar de algo em especial?",
+      "lote": "505"
+    },
+    {
+      "id": "d6c3",
+      "chave": "dialog__humbagreeting3",
+      "hash_es": "35863d1940c2b818",
+      "texto_ptbr": "Bom ver Banjo de novo. Ah, e Kazooie também. Urso e pássaro ter muita coisa na lista de compras hoje?",
+      "lote": "505"
+    },
+    {
+      "id": "d6c4",
+      "chave": "dialog__humbagreeting4",
+      "hash_es": "fdc6150e828b8b19",
+      "texto_ptbr": "Bem-vindos ao principal empório de acessórios para veículos de Showdown Town. Concorrência feroz! Humba nunca mentir!",
+      "lote": "518"
+    },
+    {
+      "id": "d6c5",
+      "chave": "dialog__humbagreeting5",
+      "hash_es": "aa2e05ea1a854145",
+      "texto_ptbr": "Entrar! Humba vender peças e projetos de veículos, por favor não pedir para virar T-Rex, isso não estar neste jogo.",
+      "lote": "505"
+    },
+    {
+      "id": "d6c6",
+      "chave": "dialog__humbagreeting6",
+      "hash_es": "8fe43ebe6598bbe2",
+      "texto_ptbr": "Como Banjo hoje? Olhos brilhando, cauda peluda e pronto para gastar? Espera... Humba já ouvir isso em algum lugar.",
+      "lote": "505"
+    },
+    {
+      "id": "95e0",
+      "chave": "dialog__humbanoblueprints",
+      "hash_es": "9155ebabb6a020c2",
+      "texto_ptbr": "Banjo gastar muito, levar todos os projetos que Humba ter no estoque!",
+      "lote": "505"
+    },
+    {
+      "id": "b31e",
+      "chave": "dialog__humbanocomponents",
+      "hash_es": "d3bb83e4f9a4073b",
+      "texto_ptbr": "Humba ficar sem peças de veículo para vender. Banjo ser bom demais em juntar notas!",
+      "lote": "505"
+    },
+    {
+      "id": "beec",
+      "chave": "dialog__humbanotenoughnotes1",
+      "hash_es": "bceee589616e82d7",
+      "texto_ptbr": "Banjo precisar contar de novo, não trazer notas suficientes!",
+      "lote": "505"
+    },
+    {
+      "id": "beed",
+      "chave": "dialog__humbanotenoughnotes2",
+      "hash_es": "d62fc2efd29f085d",
+      "texto_ptbr": "Banjo não poder pagar isso! Notas musicais não render tanto hoje em dia...",
+      "lote": "505"
+    },
+    {
+      "id": "beee",
+      "chave": "dialog__humbanotenoughnotes3",
+      "hash_es": "83d518f1eaba7e25",
+      "texto_ptbr": "Sinto muito, caro demais. Banjo voltar com mais notas!",
+      "lote": "505"
+    },
+    {
+      "id": "beef",
+      "chave": "dialog__humbanotenoughnotes4",
+      "hash_es": "6738114c8063940e",
+      "texto_ptbr": "Bolsos de Banjo quase vazios? Notas insuficientes para isso!",
+      "lote": "505"
+    },
+    {
+      "id": "b201",
+      "chave": "dialog__humbanotunlocked",
+      "hash_es": "5ff2855c467273ca",
+      "texto_ptbr": "Sinto muito, Banjo, loja ainda não abrir. Voltar mais tarde com saco cheio de notas para gastar, certo?",
+      "lote": "505"
+    }
+  ]
+}

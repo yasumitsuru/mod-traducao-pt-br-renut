@@ -1,0 +1,1476 @@
+{
+  "arquivo": "1183ab14",
+  "asset": "aid_loctext_banjox_vehicles",
+  "frases": [
+    {
+      "id": "9121",
+      "chave": "dialog__humba_balloon",
+      "hash_es": "10a1dca73f9a916d",
+      "texto_ptbr": "Tão legal quanto um jato, mas também leve no combustível! Uma pechincha!",
+      "lote": "507"
+    },
+    {
+      "id": "f035",
+      "chave": "dialog__humba_bike",
+      "hash_es": "ffc02250da60469d",
+      "texto_ptbr": "Duas rodas funcionar tão bem quanto quatro! Talvez.",
+      "lote": "507"
+    },
+    {
+      "id": "18b1",
+      "chave": "dialog__humba_boat1",
+      "hash_es": "ef83a2043cc69758",
+      "texto_ptbr": "Urso pegar ondas em barco pequeno mas perfeitamente proporcionado.",
+      "lote": "507"
+    },
+    {
+      "id": "18b2",
+      "chave": "dialog__humba_boat2",
+      "hash_es": "48f36aad902912e9",
+      "texto_ptbr": "Lancha pequena com hélice dupla, em esquema de cores de bom gosto.",
+      "lote": "507"
+    },
+    {
+      "id": "18b3",
+      "chave": "dialog__humba_boat3",
+      "hash_es": "4b8fe6af0949de13",
+      "texto_ptbr": "Dois cascos e motor enorme, fazer bastante espuma!",
+      "lote": "507"
+    },
+    {
+      "id": "18b4",
+      "chave": "dialog__humba_boat4",
+      "hash_es": "6e34b05faf75201c",
+      "texto_ptbr": "Jatos no barco? Bom em mar aberto, mas cuidado com as baleias!",
+      "lote": "507"
+    },
+    {
+      "id": "0a4e",
+      "chave": "dialog__humba_boot",
+      "hash_es": "77c1a6d5ddce114f",
+      "texto_ptbr": "Urso estar com problema? Hora de pisar fundo!",
+      "lote": "507"
+    },
+    {
+      "id": "5a0a",
+      "chave": "dialog__humba_cage",
+      "hash_es": "1a7639551285af05",
+      "texto_ptbr": "Jaula... sobre rodas. Muito boa se urso usar imaginação.",
+      "lote": "507"
+    },
+    {
+      "id": "600c",
+      "chave": "dialog__humba_cargoboat",
+      "hash_es": "b385a33a52985636",
+      "texto_ptbr": "Transportar objetos pela água com facilidade, se a ideia agradar urso.",
+      "lote": "507"
+    },
+    {
+      "id": "2457",
+      "chave": "dialog__humba_cargochopper",
+      "hash_es": "ae2f12516665ecf5",
+      "texto_ptbr": "Bola grudenta fazer este veículo ideal para pegar objetos de todo formato e tamanho.",
+      "lote": "507"
+    },
+    {
+      "id": "1316",
+      "chave": "dialog__humba_cargoplane",
+      "hash_es": "4281ad6da06f3c42",
+      "texto_ptbr": "Maneira mais rápida de transportar itens. Dar um loop provavelmente não ser boa ideia.",
+      "lote": "507"
+    },
+    {
+      "id": "9062",
+      "chave": "dialog__humba_carrier",
+      "hash_es": "ba9c153376d27d02",
+      "texto_ptbr": "Precisar mover o mundo? Sem problema com a maravilha logística da Humba!",
+      "lote": "507"
+    },
+    {
+      "id": "67b8",
+      "chave": "dialog__humba_catapult",
+      "hash_es": "25ed3fbafe5b0ed7",
+      "texto_ptbr": "Veículo em forma de copo com molas. Para que serve, Humba deixar urso decidir.",
+      "lote": "507"
+    },
+    {
+      "id": "71dc",
+      "chave": "dialog__humba_chopper1",
+      "hash_es": "d49fc98552712abb",
+      "texto_ptbr": "Urso pegar ar... mas cuidado para não ficar sem combustível.",
+      "lote": "507"
+    },
+    {
+      "id": "71dd",
+      "chave": "dialog__humba_chopper2",
+      "hash_es": "b83f2f3817b541ca",
+      "texto_ptbr": "Helicóptero com bandeja de carga. O que mais alguém pedir na vida?",
+      "lote": "507"
+    },
+    {
+      "id": "71de",
+      "chave": "dialog__humba_chopper3",
+      "hash_es": "466baec4017ed4a8",
+      "texto_ptbr": "Helicóptero de ataque rápido... infelizmente sem capacidade de atacar nada.",
+      "lote": "507"
+    },
+    {
+      "id": "d67a",
+      "chave": "dialog__humba_detacher",
+      "hash_es": "63c3cf74b8dfa4c7",
+      "texto_ptbr": "Veículos ficar espertos agora. Lembrar de abrir asas antes de urso bater no chão!",
+      "lote": "507"
+    },
+    {
+      "id": "58bb",
+      "chave": "dialog__humba_doesitall",
+      "hash_es": "aa897b35b0405210",
+      "texto_ptbr": "Terra, mar, ar... até debaixo das ondas não ser problema para o faz-tudo da Humba.",
+      "lote": "507"
+    },
+    {
+      "id": "2512",
+      "chave": "dialog__humba_foldingwing",
+      "hash_es": "e99b757a19a53cac",
+      "texto_ptbr": "Ser carro? Ser avião? Bem, na verdade, este ser os dois.",
+      "lote": "507"
+    },
+    {
+      "id": "965c",
+      "chave": "dialog__humba_galleon",
+      "hash_es": "07c951c0f635c1d7",
+      "texto_ptbr": "Navegar em galeão pirata tradicional... com motor de popa por garantia.",
+      "lote": "507"
+    },
+    {
+      "id": "3077",
+      "chave": "dialog__humba_heavy",
+      "hash_es": "6e363d47d06b9802",
+      "texto_ptbr": "Este veículo que Humba gostar de chamar de bruto sem frescura.",
+      "lote": "507"
+    },
+    {
+      "id": "035e",
+      "chave": "dialog__humba_hover",
+      "hash_es": "1d3e4a3ed85d7b9b",
+      "texto_ptbr": "Terra ou mar? Enfrentar os dois na geringonça flutuante da Humba.",
+      "lote": "507"
+    },
+    {
+      "id": "6d03",
+      "chave": "dialog__humba_huge",
+      "hash_es": "13ba5b89243f20fc",
+      "texto_ptbr": "Quem dizer isso? Quem dizer que equipe Rare ser patriótica demais?",
+      "lote": "507"
+    },
+    {
+      "id": "dbb2",
+      "chave": "dialog__humba_light",
+      "hash_es": "831d07d7db086bb6",
+      "texto_ptbr": "Leve e ágil, mas não aguentar muita pancada.",
+      "lote": "507"
+    },
+    {
+      "id": "81e2",
+      "chave": "dialog__humba_monster",
+      "hash_es": "beb8ce326723e30b",
+      "texto_ptbr": "Este caminhão, e também monstro. Humba chamar de... Monstrecaminhão! Não, Caminhão Monstro!",
+      "lote": "507"
+    },
+    {
+      "id": "0b7b",
+      "chave": "dialog__humba_plane1",
+      "hash_es": "181e29edc307dcc9",
+      "texto_ptbr": "Aeronave leve, boa para pilotos aprendizes.",
+      "lote": "507"
+    },
+    {
+      "id": "0b7c",
+      "chave": "dialog__humba_plane2",
+      "hash_es": "3c5174a8b6634bf4",
+      "texto_ptbr": "Hélices usadas para empurrar em vez de puxar.",
+      "lote": "507"
+    },
+    {
+      "id": "0b7d",
+      "chave": "dialog__humba_plane3",
+      "hash_es": "60729ba8434071bc",
+      "texto_ptbr": "Leve, ágil e correr como louco!",
+      "lote": "507"
+    },
+    {
+      "id": "0b7e",
+      "chave": "dialog__humba_plane4",
+      "hash_es": "50169dac346d8308",
+      "texto_ptbr": "Não precisar de hélices com jato enorme amarrado ao avião!",
+      "lote": "507"
+    },
+    {
+      "id": "ad91",
+      "chave": "dialog__humba_pusher",
+      "hash_es": "fa7ec9febbf4b4ac",
+      "texto_ptbr": "Ideal para empurrar objetos menores para fora do caminho.",
+      "lote": "507"
+    },
+    {
+      "id": "4358",
+      "chave": "dialog__humba_racer1",
+      "hash_es": "ad671fadcd6b5c92",
+      "texto_ptbr": "Provavelmente não quebrar recorde de velocidade, mas bom o bastante para começar.",
+      "lote": "507"
+    },
+    {
+      "id": "4359",
+      "chave": "dialog__humba_racer2",
+      "hash_es": "18e0bd41ff2fac10",
+      "texto_ptbr": "Mais cavalos significar mais velocidade por notas suadas.",
+      "lote": "507"
+    },
+    {
+      "id": "435a",
+      "chave": "dialog__humba_racer3",
+      "hash_es": "5c66f27c89a2d506",
+      "texto_ptbr": "Este carro sim, usina de altas rotações!",
+      "lote": "507"
+    },
+    {
+      "id": "435b",
+      "chave": "dialog__humba_racer4",
+      "hash_es": "022c3cc8f04bdf72",
+      "texto_ptbr": "Carro a jato maluco. Urso pisar no acelerador e segurar firme!",
+      "lote": "507"
+    },
+    {
+      "id": "dfbe",
+      "chave": "dialog__humba_rammer",
+      "hash_es": "85308d741d1a6e90",
+      "texto_ptbr": "Grande, pesado e rápido, com punho para dar soco poderoso.",
+      "lote": "507"
+    },
+    {
+      "id": "b282",
+      "chave": "dialog__humba_rocket",
+      "hash_es": "9b39495f50028099",
+      "texto_ptbr": "Foguete poderoso permitir urso mirar as estrelas... ou bater no teto.",
+      "lote": "507"
+    },
+    {
+      "id": "3def",
+      "chave": "dialog__humba_spikey",
+      "hash_es": "96f4512bb797372e",
+      "texto_ptbr": "Mais espinhos que almofada de alfinetes, mas mais confortável de dirigir.",
+      "lote": "507"
+    },
+    {
+      "id": "25ed",
+      "chave": "dialog__humba_spring",
+      "hash_es": "2e077ecd144c0ddc",
+      "texto_ptbr": "Pogotástico! Não precisar de rodas ou asas quando urso ter poder de mola!",
+      "lote": "507"
+    },
+    {
+      "id": "7f16",
+      "chave": "dialog__humba_spy",
+      "hash_es": "df3bffde8a79b839",
+      "texto_ptbr": "Precisar espionar alguém ou algo? Este veículo vir preparado!",
+      "lote": "507"
+    },
+    {
+      "id": "8219",
+      "chave": "dialog__humba_squirter",
+      "hash_es": "dd3cd5ca2980db10",
+      "texto_ptbr": "Pequeno transportador de líquido, encher e borrifar.",
+      "lote": "507"
+    },
+    {
+      "id": "cbb8",
+      "chave": "dialog__humba_stunt",
+      "hash_es": "f7358511a571a8e8",
+      "texto_ptbr": "Molas e giroscópio igual a diversão séria de acrobacias!",
+      "lote": "507"
+    },
+    {
+      "id": "ad27",
+      "chave": "dialog__humba_tall",
+      "hash_es": "8771d8154aae87b7",
+      "texto_ptbr": "Quase tão alto quanto veículo conseguir. Meio legal, mas sem ideia para que servir.",
+      "lote": "507"
+    },
+    {
+      "id": "5a99",
+      "chave": "dialog__humba_tank1",
+      "hash_es": "8f0dc9d5348de740",
+      "texto_ptbr": "Pequeno e ágil com arma, mas só uma pequenina.",
+      "lote": "507"
+    },
+    {
+      "id": "5a9a",
+      "chave": "dialog__humba_tank2",
+      "hash_es": "09492e0c69b1b4cc",
+      "texto_ptbr": "Tanque robusto com poder de fogo extra de granadas.",
+      "lote": "507"
+    },
+    {
+      "id": "5a9b",
+      "chave": "dialog__humba_tank3",
+      "hash_es": "aa4103021220b96a",
+      "texto_ptbr": "Granadas e torre de ovos. O que mais urso precisar no calor da batalha?",
+      "lote": "507"
+    },
+    {
+      "id": "5a9c",
+      "chave": "dialog__humba_tank4",
+      "hash_es": "9261ab1543cd9d82",
+      "texto_ptbr": "Blindado até o limite, mais míssil teleguiado Torpedilo. Nada ficar no caminho!",
+      "lote": "513"
+    },
+    {
+      "id": "84e1",
+      "chave": "dialog__humba_taxi1",
+      "hash_es": "7bbcbb318c904614",
+      "texto_ptbr": "Táxi bem taxístico, conseguir levar um passageiro magro.",
+      "lote": "507"
+    },
+    {
+      "id": "84e2",
+      "chave": "dialog__humba_taxi2",
+      "hash_es": "a1d9631135eaab03",
+      "texto_ptbr": "Táxi com sofá, ideal para passageiro maior.",
+      "lote": "507"
+    },
+    {
+      "id": "84e3",
+      "chave": "dialog__humba_taxi3",
+      "hash_es": "4d1b58e5428fcb13",
+      "texto_ptbr": "Táxi com reboque, para ainda mais bondade no transporte de passageiros.",
+      "lote": "507"
+    },
+    {
+      "id": "84e4",
+      "chave": "dialog__humba_taxi4",
+      "hash_es": "234e212aee7efb0b",
+      "texto_ptbr": "Este táxi como ônibus. Urso sonhar em ser motorista de ônibus quando filhote?",
+      "lote": "507"
+    },
+    {
+      "id": "c8ad",
+      "chave": "dialog__humba_trailer",
+      "hash_es": "5540cb1ca9863b09",
+      "texto_ptbr": "Trator e reboque. Todo mundo querer dirigir um alguma vez!",
+      "lote": "507"
+    },
+    {
+      "id": "0a94",
+      "chave": "dialog__humba_truck1",
+      "hash_es": "5e720826e245c23c",
+      "texto_ptbr": "Pequena melhoria na capacidade de carga do Carrinho.",
+      "lote": "507"
+    },
+    {
+      "id": "0a95",
+      "chave": "dialog__humba_truck2",
+      "hash_es": "b27bed1b6a273a0a",
+      "texto_ptbr": "Equipado com bandeja enorme para mover objetos grandes, se não sacudir demais.",
+      "lote": "507"
+    },
+    {
+      "id": "0a96",
+      "chave": "dialog__humba_truck3",
+      "hash_es": "295ea328e4cc0232",
+      "texto_ptbr": "Compartimento de carga mais fundo tornar este o jeito mais seguro de transportar itens delicados.",
+      "lote": "507"
+    },
+    {
+      "id": "8644",
+      "chave": "dialog__humba_ufo",
+      "hash_es": "54dedddf139a5055",
+      "texto_ptbr": "Reviver o Disco do Perigo no próprio OVNI do urso!",
+      "lote": "507"
+    },
+    {
+      "id": "aac6",
+      "chave": "dialog__humba_wedge",
+      "hash_es": "060c222003ab92b7",
+      "texto_ptbr": "Cunha simples e direta, muita risada ao dirigir.",
+      "lote": "507"
+    },
+    {
+      "id": "7343",
+      "chave": "dialog__humba_wide",
+      "hash_es": "8d8b33159404eb26",
+      "texto_ptbr": "Largo, mas poder quebrar mais fácil que os ovos do Terry na betoneira.",
+      "lote": "507"
+    },
+    {
+      "id": "9c48",
+      "chave": "dialog__mumbo_airchassis1",
+      "hash_es": "5126bad14135dc8d",
+      "texto_ptbr": "Chassi ideal para aeronaves leves.",
+      "lote": "507"
+    },
+    {
+      "id": "9c49",
+      "chave": "dialog__mumbo_airchassis2",
+      "hash_es": "d9995e73e3cd250d",
+      "texto_ptbr": "Chassi de biplano. Bom para veículos aéreos mais complexos.",
+      "lote": "507"
+    },
+    {
+      "id": "c6d0",
+      "chave": "dialog__mumbo_hoverchassis1",
+      "hash_es": "87e59c90cccb906a",
+      "texto_ptbr": "Chassi ideal para construir o primeiro helicóptero.",
+      "lote": "507"
+    },
+    {
+      "id": "c6d1",
+      "chave": "dialog__mumbo_hoverchassis2",
+      "hash_es": "77ae10e6130fc80c",
+      "texto_ptbr": "Chassi de helicóptero avançado, funciona bem com veículos de hélice dupla.",
+      "lote": "507"
+    },
+    {
+      "id": "aa6b",
+      "chave": "dialog__mumbo_landchassis1",
+      "hash_es": "b069d67ca03ec8cc",
+      "texto_ptbr": "Chassi básico para ajudar o urso a se locomover.",
+      "lote": "507"
+    },
+    {
+      "id": "aa6c",
+      "chave": "dialog__mumbo_landchassis2",
+      "hash_es": "c8b78601d9e83ac5",
+      "texto_ptbr": "Chassi um pouco mais avançado, bom para construtores dedicados.",
+      "lote": "507"
+    },
+    {
+      "id": "aa6d",
+      "chave": "dialog__mumbo_landchassis3",
+      "hash_es": "3a883b373559d1d5",
+      "texto_ptbr": "Ótimo chassi para veículos mais avançados.",
+      "lote": "507"
+    },
+    {
+      "id": "aa6e",
+      "chave": "dialog__mumbo_landchassis4",
+      "hash_es": "56c18554dac62c15",
+      "texto_ptbr": "O chassi definitivo para veículos terrestres!",
+      "lote": "507"
+    },
+    {
+      "id": "9545",
+      "chave": "dialog__mumbo_seachassis1",
+      "hash_es": "b35e11b16d79c352",
+      "texto_ptbr": "Chassi flutuante muito simples.",
+      "lote": "507"
+    },
+    {
+      "id": "9546",
+      "chave": "dialog__mumbo_seachassis2",
+      "hash_es": "d545d853c1d17172",
+      "texto_ptbr": "Chassi de casco duplo para embarcações mais avançadas.",
+      "lote": "507"
+    },
+    {
+      "id": "e439",
+      "chave": "vehicle__custom",
+      "hash_es": "3a406cfa6cce591f",
+      "texto_ptbr": "Veículo Personalizado",
+      "lote": "507"
+    },
+    {
+      "id": "d091",
+      "chave": "vehicle__humba_balloon",
+      "hash_es": "02e26ff178a21317",
+      "texto_ptbr": "Balão Humba",
+      "lote": "507"
+    },
+    {
+      "id": "e5a5",
+      "chave": "vehicle__humba_bike",
+      "hash_es": "412155b77241649a",
+      "texto_ptbr": "Bici Humba",
+      "lote": "507"
+    },
+    {
+      "id": "bc21",
+      "chave": "vehicle__humba_boat1",
+      "hash_es": "1ce73daaa0108767",
+      "texto_ptbr": "Barco Humba 1",
+      "lote": "507"
+    },
+    {
+      "id": "bc22",
+      "chave": "vehicle__humba_boat2",
+      "hash_es": "1ce73daaa0108767",
+      "texto_ptbr": "Barco Humba 2",
+      "lote": "507"
+    },
+    {
+      "id": "bc23",
+      "chave": "vehicle__humba_boat3",
+      "hash_es": "f129b3e844ffd289",
+      "texto_ptbr": "Barco Humba 3",
+      "lote": "507"
+    },
+    {
+      "id": "bc24",
+      "chave": "vehicle__humba_boat4",
+      "hash_es": "c11ec7932fabb6f0",
+      "texto_ptbr": "Barco Humba 4",
+      "lote": "507"
+    },
+    {
+      "id": "ffbe",
+      "chave": "vehicle__humba_boot",
+      "hash_es": "077e2cb9173424d9",
+      "texto_ptbr": "Bota Grande Humba",
+      "lote": "507"
+    },
+    {
+      "id": "4f7a",
+      "chave": "vehicle__humba_cage",
+      "hash_es": "224dd6b2d4959809",
+      "texto_ptbr": "Jaula Humba",
+      "lote": "507"
+    },
+    {
+      "id": "3b7c",
+      "chave": "vehicle__humba_cargoboat",
+      "hash_es": "87bcc6c44734daae",
+      "texto_ptbr": "Barco de Carga Humba",
+      "lote": "507"
+    },
+    {
+      "id": "89c7",
+      "chave": "vehicle__humba_cargochopper",
+      "hash_es": "1e1f3373b3c83762",
+      "texto_ptbr": "Helicóptero de Carga Humba",
+      "lote": "507"
+    },
+    {
+      "id": "5c86",
+      "chave": "vehicle__humba_cargoplane",
+      "hash_es": "b89fe83a85be3d4b",
+      "texto_ptbr": "Avião de Carga Humba",
+      "lote": "507"
+    },
+    {
+      "id": "cfd2",
+      "chave": "vehicle__humba_carrier",
+      "hash_es": "216ca6e18532330b",
+      "texto_ptbr": "Humba Carga Pesada",
+      "lote": "507"
+    },
+    {
+      "id": "9528",
+      "chave": "vehicle__humba_catapult",
+      "hash_es": "f4a0649878c35e54",
+      "texto_ptbr": "Enterrada Humba",
+      "lote": "507"
+    },
+    {
+      "id": "9f4c",
+      "chave": "vehicle__humba_chopper1",
+      "hash_es": "e127ca1ede3cfe20",
+      "texto_ptbr": "Helicóptero Humba 1",
+      "lote": "507"
+    },
+    {
+      "id": "9f4d",
+      "chave": "vehicle__humba_chopper2",
+      "hash_es": "66bd92515300e791",
+      "texto_ptbr": "Helicóptero Humba 2",
+      "lote": "507"
+    },
+    {
+      "id": "9f4e",
+      "chave": "vehicle__humba_chopper3",
+      "hash_es": "9aa048eae22492bf",
+      "texto_ptbr": "Helicóptero Humba 3",
+      "lote": "507"
+    },
+    {
+      "id": "03ea",
+      "chave": "vehicle__humba_detacher",
+      "hash_es": "ac969bba6182a495",
+      "texto_ptbr": "Humba Planar e Voar",
+      "lote": "507"
+    },
+    {
+      "id": "342b",
+      "chave": "vehicle__humba_doesitall",
+      "hash_es": "967c88290ca9ebc2",
+      "texto_ptbr": "Humba Tudo-Terreno",
+      "lote": "507"
+    },
+    {
+      "id": "9c82",
+      "chave": "vehicle__humba_foldingwing",
+      "hash_es": "1a191c69f91a030a",
+      "texto_ptbr": "Humba Asas Dobráveis",
+      "lote": "507"
+    },
+    {
+      "id": "d5cc",
+      "chave": "vehicle__humba_galleon",
+      "hash_es": "05079389b39cc6b0",
+      "texto_ptbr": "Galeão Humba",
+      "lote": "507"
+    },
+    {
+      "id": "d3e7",
+      "chave": "vehicle__humba_heavy",
+      "hash_es": "8bc8d86c5dfb03c8",
+      "texto_ptbr": "Humba Pesado",
+      "lote": "507"
+    },
+    {
+      "id": "a6ce",
+      "chave": "vehicle__humba_hover",
+      "hash_es": "658d5171afbe5cdc",
+      "texto_ptbr": "Humba Planador",
+      "lote": "507"
+    },
+    {
+      "id": "6273",
+      "chave": "vehicle__humba_huge",
+      "hash_es": "dbec1c18c1b33990",
+      "texto_ptbr": "Humba Bandeira Britânica",
+      "lote": "507"
+    },
+    {
+      "id": "7f22",
+      "chave": "vehicle__humba_light",
+      "hash_es": "d656f11743d1d87b",
+      "texto_ptbr": "Humba Leve",
+      "lote": "507"
+    },
+    {
+      "id": "c152",
+      "chave": "vehicle__humba_monster",
+      "hash_es": "79f110ac828af04d",
+      "texto_ptbr": "Caminhão Monstro Humba",
+      "lote": "507"
+    },
+    {
+      "id": "1ceb",
+      "chave": "vehicle__humba_plane1",
+      "hash_es": "56f98ad00a59000a",
+      "texto_ptbr": "Avião Humba 1",
+      "lote": "507"
+    },
+    {
+      "id": "1cec",
+      "chave": "vehicle__humba_plane2",
+      "hash_es": "4e063b3dc4285f1b",
+      "texto_ptbr": "Avião Humba 2",
+      "lote": "507"
+    },
+    {
+      "id": "1ced",
+      "chave": "vehicle__humba_plane3",
+      "hash_es": "794e95d52ae6c034",
+      "texto_ptbr": "Avião Humba 3",
+      "lote": "507"
+    },
+    {
+      "id": "1cee",
+      "chave": "vehicle__humba_plane4",
+      "hash_es": "49ec88ba1bdeb466",
+      "texto_ptbr": "Avião Humba 4",
+      "lote": "507"
+    },
+    {
+      "id": "bf01",
+      "chave": "vehicle__humba_pusher",
+      "hash_es": "4c3f5fcd0d949d6e",
+      "texto_ptbr": "Humba Empurrador",
+      "lote": "507"
+    },
+    {
+      "id": "54c8",
+      "chave": "vehicle__humba_racer1",
+      "hash_es": "cf56e58cb84db9aa",
+      "texto_ptbr": "Humba Corredor 1",
+      "lote": "507"
+    },
+    {
+      "id": "54c9",
+      "chave": "vehicle__humba_racer2",
+      "hash_es": "149be3dd276b7ba2",
+      "texto_ptbr": "Humba Corredor 2",
+      "lote": "507"
+    },
+    {
+      "id": "54ca",
+      "chave": "vehicle__humba_racer3",
+      "hash_es": "b9a55c2d9810b693",
+      "texto_ptbr": "Humba Corredor 3",
+      "lote": "507"
+    },
+    {
+      "id": "54cb",
+      "chave": "vehicle__humba_racer4",
+      "hash_es": "11ec02267b4e4de7",
+      "texto_ptbr": "Humba Corredor 4",
+      "lote": "507"
+    },
+    {
+      "id": "f12e",
+      "chave": "vehicle__humba_rammer",
+      "hash_es": "f41b4ce577b74563",
+      "texto_ptbr": "Aríete Humba",
+      "lote": "507"
+    },
+    {
+      "id": "c3f2",
+      "chave": "vehicle__humba_rocket",
+      "hash_es": "8a3a6487b6d79547",
+      "texto_ptbr": "Foguete Humba",
+      "lote": "507"
+    },
+    {
+      "id": "4f5f",
+      "chave": "vehicle__humba_spikey",
+      "hash_es": "87320692810ad301",
+      "texto_ptbr": "Humba Espinhoso",
+      "lote": "507"
+    },
+    {
+      "id": "375d",
+      "chave": "vehicle__humba_spring",
+      "hash_es": "221361aae593f801",
+      "texto_ptbr": "Humba Saltador",
+      "lote": "507"
+    },
+    {
+      "id": "8686",
+      "chave": "vehicle__humba_spy",
+      "hash_es": "e7ac16096f134a00",
+      "texto_ptbr": "Humba Espião",
+      "lote": "507"
+    },
+    {
+      "id": "af89",
+      "chave": "vehicle__humba_squirter",
+      "hash_es": "ff148d3a1fa07366",
+      "texto_ptbr": "Humba Borrifador",
+      "lote": "507"
+    },
+    {
+      "id": "6f28",
+      "chave": "vehicle__humba_stunt",
+      "hash_es": "adfdbe5ee6b09333",
+      "texto_ptbr": "Humba Mestre das Acrobacias",
+      "lote": "507"
+    },
+    {
+      "id": "a297",
+      "chave": "vehicle__humba_tall",
+      "hash_es": "aba417708087b345",
+      "texto_ptbr": "Humba Altão",
+      "lote": "507"
+    },
+    {
+      "id": "fe09",
+      "chave": "vehicle__humba_tank1",
+      "hash_es": "fd868a6a57718d6f",
+      "texto_ptbr": "Tanque Humba 1",
+      "lote": "507"
+    },
+    {
+      "id": "fe0a",
+      "chave": "vehicle__humba_tank2",
+      "hash_es": "a8bb4312029e2876",
+      "texto_ptbr": "Tanque Humba 2",
+      "lote": "507"
+    },
+    {
+      "id": "fe0b",
+      "chave": "vehicle__humba_tank3",
+      "hash_es": "b80c5505626cac6c",
+      "texto_ptbr": "Tanque Humba 4",
+      "lote": "507"
+    },
+    {
+      "id": "fe0c",
+      "chave": "vehicle__humba_tank4",
+      "hash_es": "542cb615cfbff905",
+      "texto_ptbr": "Tanque Humba 3",
+      "lote": "507"
+    },
+    {
+      "id": "2851",
+      "chave": "vehicle__humba_taxi1",
+      "hash_es": "6aa6469dcb703709",
+      "texto_ptbr": "Humba Táxi 1",
+      "lote": "507"
+    },
+    {
+      "id": "2852",
+      "chave": "vehicle__humba_taxi2",
+      "hash_es": "0016d2abefceaf31",
+      "texto_ptbr": "Humba Táxi 2",
+      "lote": "507"
+    },
+    {
+      "id": "2853",
+      "chave": "vehicle__humba_taxi3",
+      "hash_es": "4c14d697738402e6",
+      "texto_ptbr": "Humba Táxi 3",
+      "lote": "507"
+    },
+    {
+      "id": "2854",
+      "chave": "vehicle__humba_taxi4",
+      "hash_es": "38904c0c1eb47e34",
+      "texto_ptbr": "Humba Táxi 4",
+      "lote": "507"
+    },
+    {
+      "id": "081d",
+      "chave": "vehicle__humba_trailer",
+      "hash_es": "fd3eeaae1eb5dbc6",
+      "texto_ptbr": "Reboque Humba",
+      "lote": "507"
+    },
+    {
+      "id": "1c04",
+      "chave": "vehicle__humba_truck1",
+      "hash_es": "d14f37b6632171e8",
+      "texto_ptbr": "Caminhão Humba 1",
+      "lote": "507"
+    },
+    {
+      "id": "1c05",
+      "chave": "vehicle__humba_truck2",
+      "hash_es": "8c927d9e36b8c1df",
+      "texto_ptbr": "Caminhão Humba 2",
+      "lote": "507"
+    },
+    {
+      "id": "1c06",
+      "chave": "vehicle__humba_truck3",
+      "hash_es": "a3935750bcfcae11",
+      "texto_ptbr": "Caminhão Humba 3",
+      "lote": "507"
+    },
+    {
+      "id": "8db4",
+      "chave": "vehicle__humba_ufo",
+      "hash_es": "ed21082ba6778227",
+      "texto_ptbr": "OVNI Humba",
+      "lote": "507"
+    },
+    {
+      "id": "4e36",
+      "chave": "vehicle__humba_wedge",
+      "hash_es": "60406a91656b60ee",
+      "texto_ptbr": "Humba Cunha",
+      "lote": "507"
+    },
+    {
+      "id": "68b3",
+      "chave": "vehicle__humba_wide",
+      "hash_es": "c80b1494310a494b",
+      "texto_ptbr": "Humba Largo",
+      "lote": "507"
+    },
+    {
+      "id": "7f2e",
+      "chave": "vehicle__jinjotaxi",
+      "hash_es": "bf6ee8ff96557b79",
+      "texto_ptbr": "Táxi Jinjo",
+      "lote": "507"
+    },
+    {
+      "id": "f029",
+      "chave": "vehicle__jinjotaxibike",
+      "hash_es": "9334350e93b60ca1",
+      "texto_ptbr": "Táxi Jinjo Bici",
+      "lote": "507"
+    },
+    {
+      "id": "0874",
+      "chave": "vehicle__jinjotaxiboat",
+      "hash_es": "ae30c9fcfedc5d2a",
+      "texto_ptbr": "Táxi Jinjo Barco",
+      "lote": "507"
+    },
+    {
+      "id": "cdcb",
+      "chave": "vehicle__jinjotaxiegggun",
+      "hash_es": "31e024f3388016b0",
+      "texto_ptbr": "Táxi Jinjo Pistola de Ovos",
+      "lote": "507"
+    },
+    {
+      "id": "6ba5",
+      "chave": "vehicle__jinjotaxifreewheel",
+      "hash_es": "466ef04fecf8a5d9",
+      "texto_ptbr": "Táxi Jinjo Roda Livre",
+      "lote": "507"
+    },
+    {
+      "id": "d11d",
+      "chave": "vehicle__jinjotaxihelicopter",
+      "hash_es": "4c99d40d9fc3e7ca",
+      "texto_ptbr": "Táxi Jinjo Helicóptero",
+      "lote": "507"
+    },
+    {
+      "id": "28d1",
+      "chave": "vehicle__jinjotaxijet",
+      "hash_es": "f0828450c8a453a9",
+      "texto_ptbr": "Táxi Jinjo Jato",
+      "lote": "507"
+    },
+    {
+      "id": "c87e",
+      "chave": "vehicle__jinjotaxiplane",
+      "hash_es": "a50f01dae5dcc2a4",
+      "texto_ptbr": "Táxi Jinjo Avião",
+      "lote": "507"
+    },
+    {
+      "id": "37fb",
+      "chave": "vehicle__jinjotaxirearsteer",
+      "hash_es": "4e2920fb2de2b936",
+      "texto_ptbr": "Táxi Jinjo Direção Traseira",
+      "lote": "507"
+    },
+    {
+      "id": "9368",
+      "chave": "vehicle__log_asightforsoreeyes3",
+      "hash_es": "ed5948e38b8b9505",
+      "texto_ptbr": "S.J. Pikelet Saltador",
+      "lote": "507"
+    },
+    {
+      "id": "bfd2",
+      "chave": "vehicle__log_checkpointcharlies",
+      "hash_es": "41d12f5a0ecc6271",
+      "texto_ptbr": "S.J. Gobi",
+      "lote": "507"
+    },
+    {
+      "id": "382c",
+      "chave": "vehicle__log_chipracerbanjo2",
+      "hash_es": "d7a62651df4ff782",
+      "texto_ptbr": "S.J. Chip Corredor",
+      "lote": "507"
+    },
+    {
+      "id": "2f98",
+      "chave": "vehicle__log_dumbanddimmer",
+      "hash_es": "ee942a51f8258336",
+      "texto_ptbr": "S.J. Helicóptero",
+      "lote": "507"
+    },
+    {
+      "id": "3625",
+      "chave": "vehicle__log_endofgame",
+      "hash_es": "48da05268fcf56bd",
+      "texto_ptbr": "S.J. Banjo",
+      "lote": "507"
+    },
+    {
+      "id": "598a",
+      "chave": "vehicle__log_flameboat",
+      "hash_es": "18938693d72b14ce",
+      "texto_ptbr": "S.J. Barco de Chamas",
+      "lote": "507"
+    },
+    {
+      "id": "0512",
+      "chave": "vehicle__log_germwarfare",
+      "hash_es": "93b344b224755400",
+      "texto_ptbr": "S.J. Balão Espinhoso",
+      "lote": "507"
+    },
+    {
+      "id": "bfb9",
+      "chave": "vehicle__log_hijinxplane",
+      "hash_es": "3869ebf5df093614",
+      "texto_ptbr": "S.J. Avião de Treino",
+      "lote": "507"
+    },
+    {
+      "id": "ee19",
+      "chave": "vehicle__log_honeycombcar",
+      "hash_es": "6feaad660ba7a1ed",
+      "texto_ptbr": "S.J. Favo de Mel",
+      "lote": "507"
+    },
+    {
+      "id": "5cf3",
+      "chave": "vehicle__log_hovercraft",
+      "hash_es": "632fdf48ac25367d",
+      "texto_ptbr": "S.J. Empurrador",
+      "lote": "507"
+    },
+    {
+      "id": "94e4",
+      "chave": "vehicle__log_landseanotair",
+      "hash_es": "c27cf640831ab698",
+      "texto_ptbr": "S.J. Gobi Aquático",
+      "lote": "507"
+    },
+    {
+      "id": "f2a1",
+      "chave": "vehicle__log_nutstogotractor",
+      "hash_es": "f2251fbbe05bf4da",
+      "texto_ptbr": "S.J. Reboque",
+      "lote": "507"
+    },
+    {
+      "id": "32b1",
+      "chave": "vehicle__log_oddball",
+      "hash_es": "9603c1a97784aa2b",
+      "texto_ptbr": "S.J. Estranho",
+      "lote": "507"
+    },
+    {
+      "id": "712d",
+      "chave": "vehicle__log_pizza",
+      "hash_es": "73ee4b4a7773e1b6",
+      "texto_ptbr": "S.J. Vagão de Pizza",
+      "lote": "507"
+    },
+    {
+      "id": "af2f",
+      "chave": "vehicle__log_snaketrain",
+      "hash_es": "8d4952eb13ff348f",
+      "texto_ptbr": "S.J. Trem Serpente",
+      "lote": "507"
+    },
+    {
+      "id": "b089",
+      "chave": "vehicle__log_spacebuggy",
+      "hash_es": "baec2e49585c4b2e",
+      "texto_ptbr": "S.J. Raio Lunar",
+      "lote": "507"
+    },
+    {
+      "id": "35f9",
+      "chave": "vehicle__log_spacehopper",
+      "hash_es": "b4f5c0ddb02e7e28",
+      "texto_ptbr": "S.J. Vela Saltadora",
+      "lote": "507"
+    },
+    {
+      "id": "d6f8",
+      "chave": "vehicle__log_starspinner",
+      "hash_es": "29d8d3b59a2f9452",
+      "texto_ptbr": "S.J. Disco do Perigo",
+      "lote": "507"
+    },
+    {
+      "id": "b828",
+      "chave": "vehicle__log_superhoneycombcar",
+      "hash_es": "7db4916c80bd559b",
+      "texto_ptbr": "S.J. Favo Acrobático",
+      "lote": "507"
+    },
+    {
+      "id": "a753",
+      "chave": "vehicle__log_supersally",
+      "hash_es": "2ebd73f5fd360613",
+      "texto_ptbr": "S.J. Super Sally",
+      "lote": "507"
+    },
+    {
+      "id": "e960",
+      "chave": "vehicle__log_systemupdaterequiredx",
+      "hash_es": "1540e8cc769e256e",
+      "texto_ptbr": "S.J. X-Móvel",
+      "lote": "507"
+    },
+    {
+      "id": "48a8",
+      "chave": "vehicle__log_taxiofterror",
+      "hash_es": "0a0e13fa46522dbd",
+      "texto_ptbr": "S.J. Ônibus Brilhante",
+      "lote": "507"
+    },
+    {
+      "id": "6759",
+      "chave": "vehicle__log_teatray",
+      "hash_es": "f28645c6cef26500",
+      "texto_ptbr": "S.J. Bandeja de Chá",
+      "lote": "507"
+    },
+    {
+      "id": "2f5e",
+      "chave": "vehicle__log_tractor",
+      "hash_es": "d57a6dc491501196",
+      "texto_ptbr": "S.J. Trator",
+      "lote": "507"
+    },
+    {
+      "id": "9a6b",
+      "chave": "vehicle__log_unstablehardware",
+      "hash_es": "234cad6dd6aa8832",
+      "texto_ptbr": "S.J. Cavaleiro Alto",
+      "lote": "507"
+    },
+    {
+      "id": "9a3b",
+      "chave": "vehicle__log_vacomatic5000",
+      "hash_es": "ca40818db53bf5ad",
+      "texto_ptbr": "S.J. Aspiracocos",
+      "lote": "507"
+    },
+    {
+      "id": "e812",
+      "chave": "vehicle__log_youlittlesquirt",
+      "hash_es": "0203fdc29e8376fa",
+      "texto_ptbr": "S.J. Borrifador Flutuante",
+      "lote": "507"
+    },
+    {
+      "id": "b399",
+      "chave": "vehicle__mpairbanjobrawl",
+      "hash_es": "66c7e945b4a67e22",
+      "texto_ptbr": "Cão Aéreo",
+      "lote": "507"
+    },
+    {
+      "id": "fafe",
+      "chave": "vehicle__mpairdragking",
+      "hash_es": "2e87b126e5d006a4",
+      "texto_ptbr": "Libélula",
+      "lote": "507"
+    },
+    {
+      "id": "542a",
+      "chave": "vehicle__mpairfootball",
+      "hash_es": "ae17a0fe0297609a",
+      "texto_ptbr": "Rei Voador",
+      "lote": "507"
+    },
+    {
+      "id": "23dd",
+      "chave": "vehicle__mpbanjobrawl",
+      "hash_es": "af7b7d961a49d548",
+      "texto_ptbr": "Tanquetup",
+      "lote": "507"
+    },
+    {
+      "id": "e450",
+      "chave": "vehicle__mpbasketball",
+      "hash_es": "d07dbc318173f9e9",
+      "texto_ptbr": "Tijolada",
+      "lote": "507"
+    },
+    {
+      "id": "3319",
+      "chave": "vehicle__mpdarts",
+      "hash_es": "8b2d7a376c51905a",
+      "texto_ptbr": "Valentão",
+      "lote": "507"
+    },
+    {
+      "id": "d2f5",
+      "chave": "vehicle__mpdragkings",
+      "hash_es": "e3e43eaa3b4594c4",
+      "texto_ptbr": "Entorta Ela",
+      "lote": "507"
+    },
+    {
+      "id": "472b",
+      "chave": "vehicle__mpeggnspoon",
+      "hash_es": "27ed75d3f9fb499e",
+      "texto_ptbr": "A Colher",
+      "lote": "507"
+    },
+    {
+      "id": "e36e",
+      "chave": "vehicle__mpfootball",
+      "hash_es": "4a32e291b828925d",
+      "texto_ptbr": "O Rei",
+      "lote": "507"
+    },
+    {
+      "id": "c9d2",
+      "chave": "vehicle__mpfreewheel",
+      "hash_es": "8ccc1198b29a2bf5",
+      "texto_ptbr": "Trirrodas",
+      "lote": "507"
+    },
+    {
+      "id": "55c3",
+      "chave": "vehicle__mpgolf",
+      "hash_es": "e53ad03856e7b1be",
+      "texto_ptbr": "Carrinho de Golfe",
+      "lote": "507"
+    },
+    {
+      "id": "a692",
+      "chave": "vehicle__mphurdles",
+      "hash_es": "07c6a69925f9a717",
+      "texto_ptbr": "Winky Pequeno",
+      "lote": "507"
+    },
+    {
+      "id": "31c7",
+      "chave": "vehicle__mplongjump",
+      "hash_es": "e945addcfc662bb8",
+      "texto_ptbr": "Winky Grande",
+      "lote": "507"
+    },
+    {
+      "id": "0595",
+      "chave": "vehicle__mplowgravbrawl",
+      "hash_es": "eaf04d6e931010d6",
+      "texto_ptbr": "Floyd",
+      "lote": "507"
+    },
+    {
+      "id": "01f8",
+      "chave": "vehicle__mplowgravrace",
+      "hash_es": "7f53648ff697a5b0",
+      "texto_ptbr": "Hiperplanador",
+      "lote": "507"
+    },
+    {
+      "id": "11bf",
+      "chave": "vehicle__mpnuttyairways",
+      "hash_es": "fba98beb16c0565d",
+      "texto_ptbr": "Von Ghoul, Mk. 2",
+      "lote": "507"
+    },
+    {
+      "id": "df1d",
+      "chave": "vehicle__mpnuttycruises",
+      "hash_es": "206f86aad15a89c5",
+      "texto_ptbr": "Barco Cavaleiro",
+      "lote": "507"
+    },
+    {
+      "id": "6578",
+      "chave": "vehicle__mppoolprix",
+      "hash_es": "914be22a005ada35",
+      "texto_ptbr": "Barco Cavaleiro Jr.",
+      "lote": "507"
+    },
+    {
+      "id": "d29a",
+      "chave": "vehicle__mpqotk",
+      "hash_es": "36bfc9afeb8e6f8b",
+      "texto_ptbr": "Lizzie",
+      "lote": "507"
+    },
+    {
+      "id": "a53e",
+      "chave": "vehicle__mpshortcircuit",
+      "hash_es": "b52f4ab36bcb4146",
+      "texto_ptbr": "Sr. Grande",
+      "lote": "507"
+    },
+    {
+      "id": "d9b2",
+      "chave": "vehicle__mpsmallspiralcircuit",
+      "hash_es": "a49d8f74b48361cc",
+      "texto_ptbr": "Cervinho",
+      "lote": "507"
+    },
+    {
+      "id": "5ebd",
+      "chave": "vehicle__mpspeedway",
+      "hash_es": "51fefae80369dafa",
+      "texto_ptbr": "Skyfall, Mk. 2",
+      "lote": "507"
+    },
+    {
+      "id": "a5ae",
+      "chave": "vehicle__mpspeedwaycoop",
+      "hash_es": "51fefae80369dafa",
+      "texto_ptbr": "Skyfall, Mk. 2",
+      "lote": "507"
+    },
+    {
+      "id": "03ff",
+      "chave": "vehicle__mpsumo",
+      "hash_es": "8fd8e33a6aeab93c",
+      "texto_ptbr": "Rikishi",
+      "lote": "507"
+    },
+    {
+      "id": "7b68",
+      "chave": "vehicle__mpsuperspiralcircuit",
+      "hash_es": "13a372bc3c1ad7d6",
+      "texto_ptbr": "Winky Voador",
+      "lote": "507"
+    },
+    {
+      "id": "1df0",
+      "chave": "vehicle__mptriathlon",
+      "hash_es": "2695e80f8a9e3b9f",
+      "texto_ptbr": "Esforçado",
+      "lote": "507"
+    },
+    {
+      "id": "e020",
+      "chave": "vehicle__mpwaterbanjobrawl",
+      "hash_es": "5f661ce7ee903c60",
+      "texto_ptbr": "Hipopótamo Salgado",
+      "lote": "507"
+    },
+    {
+      "id": "cb38",
+      "chave": "vehicle__mpwaterpolo",
+      "hash_es": "0437dcb90e17162d",
+      "texto_ptbr": "Colhe-Cerejas",
+      "lote": "507"
+    },
+    {
+      "id": "13b8",
+      "chave": "vehicle__mumbo_airchassis1",
+      "hash_es": "ddccbf8caa2f2b38",
+      "texto_ptbr": "Chassi Aéreo 1",
+      "lote": "507"
+    },
+    {
+      "id": "13b9",
+      "chave": "vehicle__mumbo_airchassis2",
+      "hash_es": "e3561527bf8473a6",
+      "texto_ptbr": "Chassi Aéreo 2",
+      "lote": "507"
+    },
+    {
+      "id": "da40",
+      "chave": "vehicle__mumbo_hoverchassis1",
+      "hash_es": "c9abe7c624f00bfc",
+      "texto_ptbr": "Chassi Flutuante 1",
+      "lote": "507"
+    },
+    {
+      "id": "da41",
+      "chave": "vehicle__mumbo_hoverchassis2",
+      "hash_es": "6a71d0a3770afdb6",
+      "texto_ptbr": "Chassi Flutuante 2",
+      "lote": "507"
+    },
+    {
+      "id": "0fdb",
+      "chave": "vehicle__mumbo_landchassis1",
+      "hash_es": "a30d1df1e8f4cf4f",
+      "texto_ptbr": "Chassi Terrestre 1",
+      "lote": "507"
+    },
+    {
+      "id": "0fdc",
+      "chave": "vehicle__mumbo_landchassis2",
+      "hash_es": "3b6d0593be8c2ab1",
+      "texto_ptbr": "Chassi Terrestre 4",
+      "lote": "507"
+    },
+    {
+      "id": "0fdd",
+      "chave": "vehicle__mumbo_landchassis3",
+      "hash_es": "3ef38a2724e686c4",
+      "texto_ptbr": "Chassi Terrestre 3",
+      "lote": "507"
+    },
+    {
+      "id": "0fde",
+      "chave": "vehicle__mumbo_landchassis4",
+      "hash_es": "6e55cd331d8efe3a",
+      "texto_ptbr": "Chassi Terrestre 2",
+      "lote": "507"
+    },
+    {
+      "id": "0cb5",
+      "chave": "vehicle__mumbo_seachassis1",
+      "hash_es": "95723f6fc73d0df6",
+      "texto_ptbr": "Chassi de Barco 1",
+      "lote": "507"
+    },
+    {
+      "id": "0cb6",
+      "chave": "vehicle__mumbo_seachassis2",
+      "hash_es": "5bc7fa54547adc5d",
+      "texto_ptbr": "Chassi de Barco 2",
+      "lote": "507"
+    },
+    {
+      "id": "011c",
+      "chave": "vehicle__noname",
+      "hash_es": "c4dc040a07c5c304",
+      "texto_ptbr": "Sem Nome",
+      "lote": "507"
+    },
+    {
+      "id": "ea13",
+      "chave": "vehicle__onfoot",
+      "hash_es": "6c3a2618c728ced9",
+      "texto_ptbr": "A Pé",
+      "lote": "507"
+    },
+    {
+      "id": "160c",
+      "chave": "vehicle__scenetest",
+      "hash_es": "ff7d8a39c2ca9c55",
+      "texto_ptbr": "Veículo de Teste",
+      "lote": "507"
+    },
+    {
+      "id": "253a",
+      "chave": "vehicle__trolley1",
+      "hash_es": "632176360bc7a192",
+      "texto_ptbr": "Carrinho Mk. 1",
+      "lote": "507"
+    },
+    {
+      "id": "253b",
+      "chave": "vehicle__trolley2",
+      "hash_es": "e2392e88def33d2e",
+      "texto_ptbr": "Carrinho Mk. 2: Alta Aderência",
+      "lote": "507"
+    },
+    {
+      "id": "253c",
+      "chave": "vehicle__trolley3",
+      "hash_es": "8dcb4ef189c3def5",
+      "texto_ptbr": "Carrinho Mk. 3: Flutuador",
+      "lote": "507"
+    },
+    {
+      "id": "253d",
+      "chave": "vehicle__trolley4",
+      "hash_es": "35a4a0d0b1640335",
+      "texto_ptbr": "Carrinho Mk. 4: Mola",
+      "lote": "507"
+    },
+    {
+      "id": "253e",
+      "chave": "vehicle__trolley5",
+      "hash_es": "3cfc94afc5c6fdc0",
+      "texto_ptbr": "Carrinho Mk. 5: Mergulho",
+      "lote": "507"
+    },
+    {
+      "id": "253f",
+      "chave": "vehicle__trolley6",
+      "hash_es": "9cae169ad1197463",
+      "texto_ptbr": "Carrinho Mk. 6: Laser",
+      "lote": "507"
+    },
+    {
+      "id": "2540",
+      "chave": "vehicle__trolley7",
+      "hash_es": "c6008b1ec023bcb1",
+      "texto_ptbr": "Carrinho Mk. 7: Buzina",
+      "lote": "507"
+    },
+    {
+      "id": "87ee",
+      "chave": "vehicle__unknown",
+      "hash_es": "2669e033a1213e64",
+      "texto_ptbr": "Desconhecido",
+      "lote": "507"
+    }
+  ]
+}

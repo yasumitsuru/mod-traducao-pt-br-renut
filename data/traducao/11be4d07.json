@@ -1,0 +1,216 @@
+{
+  "arquivo": "11be4d07",
+  "asset": "aid_loctext_banjox_banjoland_act4",
+  "frases": [
+    {
+      "id": "2347",
+      "chave": "dialog__game1_beaten",
+      "hash_es": "d6380fd06475b7d7",
+      "texto_ptbr": "Acha que me deixou com medo? Vamos brigar, desta vez estou preparada!",
+      "lote": "604"
+    },
+    {
+      "id": "b254",
+      "chave": "dialog__game1_fail",
+      "hash_es": "f8e01fcef11db388",
+      "texto_ptbr": "{MOODHAPPY}Volte para levar outra surra, antes que eu passe mal de tanto quicar!",
+      "lote": "604"
+    },
+    {
+      "id": "3451",
+      "chave": "dialog__game1_gruntyemitdialog1",
+      "hash_es": "def0caf2cb4ad910",
+      "texto_ptbr": "É divertido achatar o corpo do urso idiota, talvez eu adote isso como meu passatempo favorito!",
+      "lote": "604"
+    },
+    {
+      "id": "3452",
+      "chave": "dialog__game1_gruntyemitdialog2",
+      "hash_es": "d6b331e189d5c87b",
+      "texto_ptbr": "O urso e o pássaro mal se aguentam, e nem conseguem me atrair para perto de uma rampa!",
+      "lote": "604"
+    },
+    {
+      "id": "3453",
+      "chave": "dialog__game1_gruntyemitdialog3",
+      "hash_es": "f693b2e65ae75106",
+      "texto_ptbr": "Não dá para me parar com estas molas potentes, é preciso admirar essas coisas fabulosas!",
+      "lote": "604"
+    },
+    {
+      "id": "3454",
+      "chave": "dialog__game1_gruntyemitdialog4",
+      "hash_es": "39a463c02ce454d6",
+      "texto_ptbr": "Qual é, seus idiotas, sentindo o calor? Não vão me tirar do meu assento confortável!",
+      "lote": "604"
+    },
+    {
+      "id": "3455",
+      "chave": "dialog__game1_gruntyemitdialog5",
+      "hash_es": "027e755db5028c26",
+      "texto_ptbr": "Um inimigo um pouco mais capaz poderia atirar no meu veículo para deixá-lo instável!",
+      "lote": "604"
+    },
+    {
+      "id": "3456",
+      "chave": "dialog__game1_gruntyemitdialog6",
+      "hash_es": "2883e6761312309c",
+      "texto_ptbr": "Enquanto eu tiver espaço livre para pousar, minha destruição vai sair exatamente como planejado!",
+      "lote": "604"
+    },
+    {
+      "id": "3457",
+      "chave": "dialog__game1_gruntyemitdialog7",
+      "hash_es": "bd942e28d35026f1",
+      "texto_ptbr": "Meu Rompedor de Molas é o melhor veículo que vocês vão ver. Só vão ganhar se me derrubarem do assento!",
+      "lote": "604"
+    },
+    {
+      "id": "3458",
+      "chave": "dialog__game1_gruntyemitdialog8",
+      "hash_es": "50ba2779443e2ce3",
+      "texto_ptbr": "Corram e se escondam no campo de futebol, se são covardes demais para guerrear com a bruxa!",
+      "lote": "604"
+    },
+    {
+      "id": "622c",
+      "chave": "dialog__game1_gruntyoutofrange1",
+      "hash_es": "83370b89eb66b5ff",
+      "texto_ptbr": "Onde você está, urso? Vou te amassar, e usar o pássaro como chapéu ridículo!",
+      "lote": "608"
+    },
+    {
+      "id": "622d",
+      "chave": "dialog__game1_gruntyoutofrange2",
+      "hash_es": "db920aafd1b4d3d8",
+      "texto_ptbr": "Urso inútil, venha aqui lutar! Fiquei acordada a noite toda construindo esta coisa!",
+      "lote": "604"
+    },
+    {
+      "id": "9744",
+      "chave": "dialog__game1_intro",
+      "hash_es": "2510ee3336fd81f6",
+      "texto_ptbr": "Urso de cabeça oca e cara de plumas, sabem por que estou neste lugar sombrio?",
+      "lote": "604"
+    },
+    {
+      "id": "8026",
+      "chave": "dialog__game1_introb",
+      "hash_es": "702d2086d15b5379",
+      "texto_ptbr": "Pelas piadas espirituosas, imagino.",
+      "lote": "604"
+    },
+    {
+      "id": "8027",
+      "chave": "dialog__game1_introc",
+      "hash_es": "b6ed637b39dc3049",
+      "texto_ptbr": "Não, seus tolos, vim destruir tudo... mas já está destruído, eu devia ter vindo mais rápido!",
+      "lote": "604"
+    },
+    {
+      "id": "8028",
+      "chave": "dialog__game1_introd",
+      "hash_es": "c66efc0eea2a6594",
+      "texto_ptbr": "Na verdade, é assim que o lugar fica num bom dia.",
+      "lote": "604"
+    },
+    {
+      "id": "8029",
+      "chave": "dialog__game1_introe",
+      "hash_es": "2b62a43236de27bc",
+      "texto_ptbr": "Muito bem, aberrações, vou destruir mais um pouco! E não interrompam minha tarefa infantil!",
+      "lote": "604"
+    },
+    {
+      "id": "4006",
+      "chave": "dialog__game1_objectives",
+      "hash_es": "87b081e115d05369",
+      "texto_ptbr": "Vamos arrancar a cabeça da Grunty, Banjo! Espera, já fizemos isso. É por isso que a cabeça dela está num pote...",
+      "lote": "604"
+    },
+    {
+      "id": "4128",
+      "chave": "dialog__game1_objectivesb",
+      "hash_es": "55d2851fd5686a19",
+      "texto_ptbr": "Acho que agora temos que derrubá-la dos blocos. Vamos bolar um jeito de tirá-la dessa última engenhoca!",
+      "lote": "604"
+    },
+    {
+      "id": "d532",
+      "chave": "dialog__game1_successa",
+      "hash_es": "8a8c049a1fd7d9e1",
+      "texto_ptbr": "{MOODSAD}Parece que fui frustrada como deve ser, esta geringonça virou um fracasso saltitante!",
+      "lote": "604"
+    },
+    {
+      "id": "d534",
+      "chave": "dialog__game1_successc",
+      "hash_es": "f15fb9579a2f5eeb",
+      "texto_ptbr": "{MOODSAD}Você tirou toda a mola do meu passo... Preciso parar de perder, isso está arruinando minha reputação!",
+      "lote": "604"
+    },
+    {
+      "id": "d536",
+      "chave": "dialog__game1_successe",
+      "hash_es": "a751bdc7e09b4ab4",
+      "texto_ptbr": "Você venceu, por pouco. Foi bem fraquinho... devia considerar melhorar seu jogo!",
+      "lote": "604"
+    },
+    {
+      "id": "ca0d",
+      "chave": "dialog__jinjogreen_greeting",
+      "hash_es": "9beef254b70e2eda",
+      "texto_ptbr": "{MOODSAD}Aviso grave, equipe! Eu estava levando um barril de lixo tóxico até a lixeira para descarte seguro, mas deixei cair e ele saiu rolando por aí!",
+      "lote": "604"
+    },
+    {
+      "id": "de4b",
+      "chave": "dialog__jinjogreen_lose",
+      "hash_es": "0344ad314a5e00fd",
+      "texto_ptbr": "{MOODSAD}Quer dizer que ele ainda está lá fora... à espreita? Tente de novo, por favor! Pense nas crianças! Nas pobres crianças de seis dedos e duas cabeças!",
+      "lote": "604"
+    },
+    {
+      "id": "0ce6",
+      "chave": "dialog__jinjogreen_objectives",
+      "hash_es": "ad7ae1ee76c986d9",
+      "texto_ptbr": "{MOODSAD}Você viu? Acho que ele rolou para lá, na direção da entrada do parque. Sabe, onde todo mundo entra... então o lugar mais perigoso possível, na verdade...",
+      "lote": "604"
+    },
+    {
+      "id": "e726",
+      "chave": "dialog__jinjogreen_win",
+      "hash_es": "5bcc4d1eafb42efa",
+      "texto_ptbr": "{MOODHAPPY}Você encontrou! Estamos a salvo agora. Pegue isto pelos seus esforços... ei, não me toque! Eu sei onde suas patas andaram!",
+      "lote": "604"
+    },
+    {
+      "id": "7f77",
+      "chave": "dialog__jinjored_greeting",
+      "hash_es": "ee5970e05fee62eb",
+      "texto_ptbr": "{MOODHAPPY}O famoso urso piloto! Posso estar ficando velho, mas acho que ainda consigo cruzar a linha de chegada primeiro! O que me diz, jovem?",
+      "lote": "604"
+    },
+    {
+      "id": "6eb5",
+      "chave": "dialog__jinjored_lose",
+      "hash_es": "36c5f46346baa98c",
+      "texto_ptbr": "{MOODHAPPY}O que eu te disse? Não fazem mais como antigamente. Mais sorte na próxima!",
+      "lote": "604"
+    },
+    {
+      "id": "c4d0",
+      "chave": "dialog__jinjored_objectives",
+      "hash_es": "a5a3e3579b887bae",
+      "texto_ptbr": "{MOODHAPPY}Está aceito! A piscina é nossa pista, com um prêmio moderninho para quem me vencer!",
+      "lote": "604"
+    },
+    {
+      "id": "1250",
+      "chave": "dialog__jinjored_win",
+      "hash_es": "15e2fce712574fe5",
+      "texto_ptbr": "{MOODHAPPY}Levei uma lição! Fui dominado! Todo tipo de termo moderno! Acho que isto pertence a você, jovem!",
+      "lote": "604"
+    }
+  ]
+}
