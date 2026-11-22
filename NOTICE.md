@@ -21,6 +21,10 @@ Este repositório não contém o jogo, a ISO, atualizações, DLC, executáveis 
 áudio ou vídeo, nem qualquer arquivo original do jogo. O pacote instalável é gerado a partir dos
 arquivos que o próprio usuário possui.
 
+A Release **v0.7.0** publica um gerador local, não um `.nbpatch` pronto. O pacote do reNut carrega
+cópias dos arquivos de texto do jogo; por isso o binário não é redistribuído. O gerador lê a cópia
+legítima do usuário e recria o mesmo pacote validado, com o SHA-256 documentado no README.
+
 ## reNut
 
 O reNut é um projeto independente de [masterspike52](https://github.com/masterspike52) e mantém a

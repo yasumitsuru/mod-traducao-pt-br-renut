@@ -8,6 +8,11 @@ traduzíveis. O jogo em inglês contém 6.099 dessas entradas; as outras 11 são
 no arquivo em espanhol e ficam traduzidos no catálogo, sem entrar no pacote. O jogo continua com os
 arquivos originais intactos.
 
+> **A Release não traz um `.nbpatch` pronto para copiar.** O pacote do reNut carrega cópias dos
+> arquivos de texto do jogo; distribuí-lo exigiria autorização dos titulares. Por isso a Release
+> **v0.7.0** entrega um **gerador local**: ele monta o mesmo pacote validado a partir da sua cópia
+> legítima do jogo. Os arquivos automáticos “Source code” do GitHub não são instaláveis.
+
 ## O que o mod traduz
 
 * Menus e telas de configuração.
@@ -31,33 +36,61 @@ visualmente**; por isso não afirmamos homologação visual de todas as áreas.
 * Uma versão compatível do reNut.
 * Instalação funcional de Banjo-Kazooie: Nuts & Bolts.
 * Arquivos legítimos do jogo, fornecidos por você.
+* Python 3.11 ou mais recente, para executar o gerador.
 * Idioma do jogo configurado para **English (1)**, conforme a compatibilidade testada nesta versão.
 
 O mod **não inclui o jogo**. Nenhum arquivo original é distribuído aqui.
 
+## Como baixar o gerador
+
+1. Acesse a página da Release **v0.7.0**:
+   <https://github.com/yasumitsuru/mod-traducao-pt-br-renut/releases/tag/v0.7.0>
+2. Na seção **Assets**, baixe `reNut-Traducao-PTBR-v0.7.0-gerador.zip`.
+3. Confira o SHA-256, se quiser:
+
+```
+certutil -hashfile reNut-Traducao-PTBR-v0.7.0-gerador.zip SHA256
+```
+
+4. Extraia o ZIP em uma pasta comum, por exemplo na Área de Trabalho.
+
+O ZIP de código automático do GitHub não serve para instalar o mod.
+
+## Como gerar o mod
+
+1. Na pasta extraída, clique duas vezes em `GERAR_MOD.bat`.
+2. Quando o programa pedir, informe a pasta do reNut que contém `game\extraido`.
+3. Espere a mensagem `RESULTADO: PASS`. O gerador cria `saida\ptbr_traducao` com `mod.toml` e
+   `ptbr_traducao.nbpatch`.
+4. O SHA-256 esperado do `.nbpatch` é
+   `7cd39a34efbae21dc8d3f919e63349e15df88397080ad59dd07207da0f5b5e25`. O gerador confere esse valor
+   e avisa se a sua cópia do jogo for de outra versão.
+
+Alternativa pelo terminal:
+
+```
+python gerar_mod.py --jogo "C:\caminho\da\instalacao\do\reNut"
+```
+
 ## Como instalar
 
-O repositório não distribui arquivos do jogo. O pacote é montado no seu computador, a partir da sua
-própria instalação, com Python 3.11 ou mais recente.
-
-1. Copie `config/caminhos.exemplo.toml` para `config/caminhos.toml` e ajuste os caminhos da sua
-   instalação (o arquivo fica fora do Git).
-2. Na raiz do projeto, execute:
-
-```
-python -I tools/ptbr.py extrair
-python -I tools/ptbr.py reinserir
-python -I tools/ptbr.py empacotar --versao 0.7.0
-```
-
-3. Copie a pasta `dist/ptbr_traducao` para a pasta `mods` da sua instalação do reNut.
-4. Confira que `mod.toml` e `ptbr_traducao.nbpatch` estão dentro dessa pasta, sem uma subpasta
+1. Copie a pasta `ptbr_traducao` inteira para a pasta `mods` da sua instalação do reNut.
+2. Confira que `mod.toml` e `ptbr_traducao.nbpatch` estão dentro dessa pasta, sem uma subpasta
    duplicada.
-5. Abra o reNut.
-6. Configure o idioma do jogo para **English (1)** na interface de configuração.
-7. Abra o menu de mods com **F9** e confirme que a tradução está habilitada.
-8. Reinicie o jogo, se necessário, para aplicar os recursos do mod.
-9. Inicie o jogo normalmente.
+3. Abra o reNut.
+4. Configure o idioma do jogo para **English (1)**.
+5. Abra o menu de mods com **F9** e confirme que a tradução está habilitada.
+6. Reinicie o jogo, se necessário, para aplicar os recursos do mod.
+7. Inicie o jogo normalmente.
+
+## Por que não há um ZIP instalável pronto
+
+A auditoria do pacote 0.7.0 comparou os 107 arquivos internos com a instalação do jogo. Trinta e um
+são byte-idênticos aos originais; os outros 76 são os contêineres completos do jogo com as frases
+traduzidas. O formato do reNut não é diferencial: publicar o `.nbpatch` seria redistribuir material
+da Rare e da Microsoft. Como não há autorização documentada para isso, a Release publica o gerador
+e mantém o binário fora do GitHub. Se essa autorização existir no futuro, um ZIP pronto poderá ser
+publicado em outra versão, com o mesmo teste de hash.
 
 ## Como desativar
 
@@ -70,7 +103,7 @@ texto original em inglês. Também é possível remover a pasta `ptbr_traducao` 
   texto em português.
 * `data/lotes/` registra os lotes aplicados; `data/glossario.csv` e `data/nomes-protegidos.csv`
   definem termos e nomes que não podem mudar.
-* `tools/` contém o leitor e gravador do formato, o validador e o empacotador.
+* `tools/` contém o leitor e gravador do formato, o validador, o gerador local e o empacotador.
 * `tests/` contém os testes; rode `python -m pytest` na raiz.
 * `docs/formato-loctext.md` descreve o formato dos arquivos de texto e
   `docs/manutencao.md` resume o fluxo de trabalho.

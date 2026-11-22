@@ -14,6 +14,8 @@ do jogo, regenerável, e não entra no Git.
    protegidos.
 4. `python -I tools/ptbr.py reinserir` reconstrói os arquivos de texto.
 5. `python -I tools/ptbr.py empacotar --versao X.Y.Z` gera `dist/ptbr_traducao`.
+6. `python -I tools/gerar_mod.py --jogo CAMINHO --saida PASTA` reproduz o pacote a partir da cópia
+   do jogo; é o caminho usado pelo gerador publicado na Release e deve resultar no mesmo SHA-256.
 
 ## Regras
 
