@@ -4,8 +4,9 @@ Tradução de **Banjo-Kazooie: Nuts & Bolts** para português brasileiro, destin
 executada pelo projeto [reNut](https://github.com/masterspike52/reNut).
 
 Esta é a versão **0.7.0**, com **100% de cobertura textual do catálogo**: 6.110 de 6.110 entradas
-traduzíveis. O mod entrega os textos em português e o jogo continua com os arquivos originais
-intactos.
+traduzíveis. O jogo em inglês contém 6.099 dessas entradas; as outras 11 são créditos que só existem
+no arquivo em espanhol e ficam traduzidos no catálogo, sem entrar no pacote. O jogo continua com os
+arquivos originais intactos.
 
 ## O que o mod traduz
 

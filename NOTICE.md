@@ -8,7 +8,8 @@ A licença MIT de `LICENSE` cobre o código-fonte das ferramentas e dos testes d
 
 Os textos em português de `data/` são o trabalho de tradução do projeto, mantido por
 [@yasumitsuru](https://github.com/yasumitsuru). A tradução é derivada do texto do jogo e é
-distribuída para uso com uma cópia legítima de Banjo-Kazooie: Nuts & Bolts.
+distribuída para uso com uma cópia legítima de Banjo-Kazooie: Nuts & Bolts. A licença MIT de
+`LICENSE` cobre apenas o código; os textos de `data/` não são abrangidos por ela.
 
 ## Jogo e marcas
 

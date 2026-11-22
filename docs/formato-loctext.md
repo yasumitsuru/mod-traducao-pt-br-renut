@@ -1,6 +1,6 @@
 # Formato dos arquivos loctext (CAFF + LSBL)
 
-Documento da fase F1. Tudo aqui foi verificado por leitura somente-leitura dos arquivos do jogo
+Documento técnico. Tudo aqui foi verificado por leitura somente-leitura dos arquivos do jogo
 extraído e confirmado pelo leitor/gravador em `tools/nbptbr/` com ida e volta byte a byte.
 
 ## Onde ficam os textos
@@ -18,7 +18,7 @@ extraído e confirmado pelo leitor/gravador em `tools/nbptbr/` com ida e volta b
   xcompress, magic `0F F5 12 ED`), inclusive `spanish`. **Não se sabe** se eles sobrepõem os arquivos de
   `loctext\spanish` (ver "Pendências").
 
-Correção dos fatos iniciais do plano: **o texto é UTF-16 little-endian**, não big-endian. O contêiner
+Correção dos fatos iniciais: **o texto é UTF-16 little-endian**, não big-endian. O contêiner
 CAFF é big-endian; o asset LSBL dentro dele é little-endian. Não há compressão (LZX/zlib) nesses arquivos.
 
 ## 1. Contêiner CAFF `07.08.06.0036` (big-endian)
@@ -190,4 +190,4 @@ inglês 107/107 idênticos cada (1605 arquivos).
 * Algoritmo do checksum (não bloqueia: o cabeçalho não muda).
 * Algoritmo do hash de 16 bits das chaves (não bloqueia: as chaves não mudam).
 * Se os bundles `update\…loctext_common_spanish` sobrepõem `loctext\spanish` no jogo — só o teste no
-  jogo (F7) ou a análise desses bundles responde.
+  jogo ou a análise desses bundles responde.
