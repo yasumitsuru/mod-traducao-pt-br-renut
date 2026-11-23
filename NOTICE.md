@@ -25,6 +25,14 @@ A Release **v0.7.0** publica um gerador local, não um `.nbpatch` pronto. O paco
 cópias dos arquivos de texto do jogo; por isso o binário não é redistribuído. O gerador lê a cópia
 legítima do usuário e recria o mesmo pacote validado, com o SHA-256 documentado no README.
 
+## Launcher do reNut
+
+O código, o catálogo e a documentação da tradução do launcher são publicados para uso com uma cópia
+legítima do reNut `big-lua-energy` (0.11.21). O repositório do reNut não possui arquivo de licença
+formal; por isso os arquivos `.patch` derivados de `renut.exe`, `rexui.dll` e `rexhid.dll` **não são
+distribuídos**. O gerador cria o patch localmente e confere o SHA-256 da versão suportada. O
+`renut.exe` e as DLLs originais nunca são alterados; o patch é aplicado em cópias.
+
 ## reNut
 
 O reNut é um projeto independente de [masterspike52](https://github.com/masterspike52) e mantém a

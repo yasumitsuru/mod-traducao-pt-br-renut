@@ -1,0 +1,22 @@
+{
+ "schema": "renut-launcher-manifest/2",
+ "patch_version": "0.9.0-preview.1",
+ "status": "preview",
+ "release": "big-lua-energy",
+ "version": "0.11.21",
+ "input_size": 94151680,
+ "input_sha256": "b303e0b12598fe4e076a1d51c027674797953f252c1f5250d7313311aad03fe7",
+ "output_size": 94154752,
+ "output_sha256": "49e78d5156a0944ca96f9f1d2ab608c6ebeec9a3afdd5d65dba64033453f7f31",
+ "patch_file": "renut_launcher_ptbr.patch",
+ "catalog_file": "catalogo.json",
+ "entries": 225,
+ "edits": 280,
+ "in_place": 151,
+ "relocated": 71,
+ "blocked": 0,
+ "not_found": 2,
+ "engine_manifest": "engine/manifesto.json",
+ "game_mod_sha256": "7cd39a34efbae21dc8d3f919e63349e15df88397080ad59dd07207da0f5b5e25",
+ "game_mod_version": "0.7.0"
+}

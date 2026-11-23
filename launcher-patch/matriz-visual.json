@@ -1,0 +1,173 @@
+{
+ "schema": "renut-launcher-visual-matrix/1",
+ "date": "2026-11-23",
+ "resolution_tested": [
+  "1280x720",
+  "1920x1080"
+ ],
+ "resolution_not_tested": [
+  "3840x2160 (monitor 2560x1440)"
+ ],
+ "states": [
+  {
+   "id": "menu-720",
+   "screen": "Menu principal",
+   "state": "10 itens, seleção, caminhos",
+   "status": "PASS",
+   "evidence": "work/fotos/corretiva/09-menu.png"
+  },
+  {
+   "id": "menu-1080",
+   "screen": "Menu principal",
+   "state": "10 itens em 1920x1080",
+   "status": "PASS",
+   "evidence": "work/fotos/corretiva/45-menu-1080p.png"
+  },
+  {
+   "id": "options",
+   "screen": "AJUSTES",
+   "state": "MENU, IDIOMA, VÍDEO, CONTROLES",
+   "status": "PASS",
+   "evidence": "work/fotos/corretiva/01c-ajustes.png"
+  },
+  {
+   "id": "language",
+   "screen": "IDIOMA",
+   "state": "12 idiomas, SELECIONADO, ajuda, rolagem até Russo",
+   "status": "PASS",
+   "evidence": "work/fotos/corretiva/24-idioma.png, 24b-idioma-fim.png, 24c-idioma-fim2.png"
+  },
+  {
+   "id": "video",
+   "screen": "VÍDEO",
+   "state": "19 rótulos, descrições, rolagem, SIM/NÃO",
+   "status": "PASS",
+   "evidence": "work/fotos/corretiva/21-video-sim.png, 22-video-nao.png, 30-video-*.png, 31-video-ssao.png, 32-ssao-final.png"
+  },
+  {
+   "id": "controls",
+   "screen": "CONTROLES",
+   "state": "6 opções, ações, rolagem, espera de tecla",
+   "status": "PASS",
+   "evidence": "work/fotos/corretiva/33-controles-final.png, 35-controles.png, 36-controles-fim.png, 37-controles-fim2.png, 39-controles-top.png"
+  },
+  {
+   "id": "workshop",
+   "screen": "OFICINA",
+   "state": "cabeçalho, grade, rodapé",
+   "status": "PASS",
+   "evidence": "work/fotos/corretiva/17e-oficina.png"
+  },
+  {
+   "id": "share-empty",
+   "screen": "COMPARTILHAR",
+   "state": "sem veículo, NADA, aviso",
+   "status": "PASS",
+   "evidence": "work/fotos/corretiva/23-share-nada.png"
+  },
+  {
+   "id": "share-vehicle",
+   "screen": "COMPARTILHAR",
+   "state": "nome, descrição, captura, envio",
+   "status": "BLOCKED",
+   "reason": "save sem veículo"
+  },
+  {
+   "id": "picker-folder",
+   "screen": "Seletor de pasta",
+   "state": "título",
+   "status": "PASS",
+   "evidence": "work/fotos/corretiva/15-picker-pasta.png (título via HWND: Escolha uma pasta)"
+  },
+  {
+   "id": "picker-iso",
+   "screen": "Seletor de ISO",
+   "state": "título e filtro",
+   "status": "PASS",
+   "evidence": "work/fotos/corretiva/16-picker-iso.png (título: Escolha a imagem do disco; filtro Imagens (*.iso))"
+  },
+  {
+   "id": "picker-update",
+   "screen": "Seletor de atualização",
+   "state": "título",
+   "status": "PASS",
+   "evidence": "HWND: Escolha a Atualização #3 (TU_...)"
+  },
+  {
+   "id": "picker-dlc",
+   "screen": "Seletor de DLC",
+   "state": "título",
+   "status": "PARTIAL",
+   "reason": "abriu picker de pasta traduzido; não confirmado como DLC"
+  },
+  {
+   "id": "extract-progress",
+   "screen": "Extração",
+   "state": "progresso e conclusão",
+   "status": "PASS",
+   "evidence": "work/fotos/corretiva/43-erro-iso.png, 44-cancelado.png",
+   "note": "extração real do ISO; ver relatório §9"
+  },
+  {
+   "id": "extract-cancel",
+   "screen": "Extração",
+   "state": "cancelamento a tempo",
+   "status": "NOT_TESTED"
+  },
+  {
+   "id": "extract-error",
+   "screen": "Extração",
+   "state": "ISO/pacote inválido sintético",
+   "status": "NOT_TESTED",
+   "reason": "o seletor manteve o ISO real selecionado"
+  },
+  {
+   "id": "updater",
+   "screen": "Atualização automática",
+   "state": "download, instalação, erro",
+   "status": "NOT_TESTED",
+   "reason": "sem release nova"
+  },
+  {
+   "id": "4k",
+   "screen": "Geral",
+   "state": "3840x2160",
+   "status": "NOT_TESTED",
+   "reason": "monitor 2560x1440"
+  },
+  {
+   "id": "revert",
+   "screen": "Aplicador",
+   "state": "reversão e reaplicação",
+   "status": "PASS",
+   "evidence": "work/aplicador-cli.txt, hashes conferidos"
+  },
+  {
+   "id": "game-integration",
+   "screen": "Jogo",
+   "state": "abrir jogo PT-BR pelo launcher",
+   "status": "NOT_TESTED",
+   "reason": "jogo não iniciado nesta rodada"
+  },
+  {
+   "id": "quit",
+   "screen": "Menu principal",
+   "state": "SAIR",
+   "status": "PASS",
+   "evidence": "processo encerrou"
+  },
+  {
+   "id": "gamepad",
+   "screen": "CONTROLES",
+   "state": "navegação por controle",
+   "status": "NOT_TESTED",
+   "reason": "sem controle disponível"
+  }
+ ],
+ "totals": {
+  "pass": 14,
+  "partial": 1,
+  "blocked": 1,
+  "not_tested": 6
+ }
+}

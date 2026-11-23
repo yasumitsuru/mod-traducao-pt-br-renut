@@ -1,0 +1,24 @@
+#!/bin/sh
+# Auditoria do que seria enviado. Ative com: git config core.hooksPath .githooks
+if command -v python >/dev/null 2>&1; then
+    PY=python
+elif command -v python3 >/dev/null 2>&1; then
+    PY=python3
+else
+    echo "Python não encontrado: a auditoria de push não pode rodar." >&2
+    exit 1
+fi
+
+"$PY" -I tools/verificar_privacidade.py --push --publico || {
+    echo "Push recusado: corrija os problemas de privacidade acima." >&2
+    exit 1
+}
+
+if "$PY" -I -c "import pytest" >/dev/null 2>&1; then
+    "$PY" -I -m pytest -q || {
+        echo "Push recusado: os testes falharam." >&2
+        exit 1
+    }
+else
+    echo "pytest não instalado; rode os testes antes do push (o CI também executa)." >&2
+fi

@@ -1,0 +1,137 @@
+{
+ "schema": "renut-launcher-text-coverage/1",
+ "date": "2026-11-23",
+ "inventory": {
+  "exe_entries": 225,
+  "dll_entries": 2,
+  "total": 227
+ },
+ "translated": {
+  "exe": 223,
+  "dll": 2,
+  "total": 225
+ },
+ "absent": [
+  {
+   "id": "status.needed",
+   "en": "NEEDED",
+   "reason": "não existe como literal no binário instalado"
+  },
+  {
+   "id": "workshop.took_prefix",
+   "en": "Took ",
+   "reason": "não existe como literal no binário instalado"
+  }
+ ],
+ "blocked": [],
+ "modes": {
+  "relocate": 71,
+  "in_place": 151,
+  "not_found": 2,
+  "code_immediate": 1
+ },
+ "categories": {
+  "menu": 10,
+  "options": 3,
+  "language": 12,
+  "help": 33,
+  "setting": 25,
+  "message": 72,
+  "value": 10,
+  "label": 8,
+  "update": 6,
+  "progress": 5,
+  "workshop": 7,
+  "hint": 5,
+  "keybind": 21,
+  "picker": 8
+ },
+ "coverage": {
+  "effective_percent": 100.0,
+  "inventory_percent": 99.1
+ },
+ "exceptions": [
+  {
+   "class": "valor técnico",
+   "examples": [
+    "D3D12",
+    "4K",
+    "150%",
+    "GAME",
+    "HIGH",
+    "OFF",
+    "RESOL.",
+    "16X",
+    "8X",
+    "MAX",
+    "SMAA",
+    "SDL3",
+    "1.00"
+   ],
+   "reason": "tokens gravados em renut.toml/registro; traduzir quebra a leitura"
+  },
+  {
+   "class": "nome de tecla",
+   "examples": [
+    "W",
+    "S",
+    "A",
+    "D",
+    "Q",
+    "E",
+    "ESC",
+    "TAB",
+    "UP",
+    "DOWN",
+    "LEFT",
+    "RIGHT",
+    "SPACE",
+    "LMB",
+    "RMB"
+   ],
+   "reason": "identificador de tecla"
+  },
+  {
+   "class": "nome próprio protegido",
+   "examples": [
+    "Showdown Town",
+    "Spiral Mountain",
+    "Nutty Acres",
+    "Banjoland",
+    "LOGBOX 720",
+    "Jiggosseum",
+    "Terrarium of Terror",
+    "Test-O-Track",
+    "Klungo's Arcade"
+   ],
+   "reason": "regra do projeto"
+  },
+  {
+   "class": "conteúdo de terceiros",
+   "examples": [
+    "nomes/descrições de veículos da oficina",
+    "capturas"
+   ],
+   "reason": "dados do usuário/oficina"
+  },
+  {
+   "class": "externo ao launcher",
+   "examples": [
+    "Abrir",
+    "Cancelar",
+    "Selecionar pasta"
+   ],
+   "reason": "UI do Windows"
+  },
+  {
+   "class": "termo técnico",
+   "examples": [
+    "renut_mouse_camera",
+    "default.xex",
+    "default.xexp",
+    "TU_..."
+   ],
+   "reason": "nome de chave/arquivo"
+  }
+ ]
+}

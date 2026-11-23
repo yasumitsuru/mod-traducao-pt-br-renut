@@ -17,11 +17,26 @@ do jogo, regenerável, e não entra no Git.
 6. `python -I tools/gerar_mod.py --jogo CAMINHO --saida PASTA` reproduz o pacote a partir da cópia
    do jogo; é o caminho usado pelo gerador publicado na Release e deve resultar no mesmo SHA-256.
 
+## Launcher
+
+O patch do launcher não é distribuído. Para gerá-lo na própria cópia do reNut:
+
+1. `python -I launcher-patch/gerar_patch.py --exe "<renut>\renut.exe" --saida launcher-patch/renut_launcher_ptbr.patch`
+2. `python -I launcher-patch/gerar_engine_patch.py --renut "<renut>"`
+3. `python -I launcher-patch/aplicar.py status --renut "<renut>"`
+4. `python -I launcher-patch/aplicar.py aplicar --renut "<renut>" --saida "<pasta separada>\renut.ptbr.exe"`
+
+O aplicador recusa versões diferentes de `big-lua-energy` 0.11.21 e confere os hashes antes de
+gravar. O `renut.exe` e as DLLs originais nunca são abertos para escrita.
+
 ## Regras
 
 * Nomes de mapas e mundos listados em `data/nomes-protegidos.csv` nunca são traduzidos.
 * O validador reprova variantes traduzidas desses nomes.
 * Nenhum arquivo original do jogo, save, log ou configuração local entra no Git.
-* Antes de enviar, rode `python -m pytest` (inclui a verificação de privacidade).
-* Para bloquear o commit automaticamente, ative o gancho incluído:
+* Antes de enviar, rode `python -m pytest` e `python -I tools/verificar_privacidade.py --publico`
+  (inclui a verificação de privacidade e a política de inclusão explícita).
+* Rode o Gitleaks no histórico antes de um push: `gitleaks detect --source . --no-banner --redact`.
+* Para bloquear commits e pushes automaticamente, ative os ganchos incluídos:
   `git config core.hooksPath .githooks`.
+* A política completa está em `AGENTS.md` e `docs/politica-publicacao.md`.

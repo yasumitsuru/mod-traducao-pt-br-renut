@@ -1,0 +1,10 @@
+{
+ "rexui.dll": {
+  "input_size": 669696,
+  "input_sha256": "79d5a545db017bbda827eeb2b52a6df655e03cedfe0a1d18f57c50e5fb117a9c"
+ },
+ "rexhid.dll": {
+  "input_size": 382464,
+  "input_sha256": "f79df02a175087f22908fcb4f598d85f1e6c4d8acbe24c5cec53bb6fc4688677"
+ }
+}

@@ -1,0 +1,7362 @@
+{
+ "schema": "renut-launcher-catalog/2",
+ "launcher": {
+  "release": "big-lua-energy",
+  "version": "0.11.21",
+  "input_size": 94151680,
+  "input_sha256": "b303e0b12598fe4e076a1d51c027674797953f252c1f5250d7313311aad03fe7",
+  "output_size": 94154752,
+  "output_sha256": "49e78d5156a0944ca96f9f1d2ab608c6ebeec9a3afdd5d65dba64033453f7f31"
+ },
+ "generated_from": "entradas_launcher.json",
+ "totals": {
+  "entries": 225,
+  "in_place": 151,
+  "relocated": 71,
+  "blocked": 0,
+  "not_found": 2,
+  "code_immediate": 1,
+  "utf16": 8,
+  "by_category": {
+   "menu": 10,
+   "options": 3,
+   "language": 12,
+   "help": 33,
+   "setting": 25,
+   "message": 72,
+   "value": 10,
+   "label": 8,
+   "update": 6,
+   "progress": 5,
+   "workshop": 7,
+   "hint": 5,
+   "keybind": 21,
+   "picker": 8
+  }
+ },
+ "entries": [
+  {
+   "id": "menu.play",
+   "en": "PLAY",
+   "pt": "JOGAR",
+   "category": "menu",
+   "context": "Menu principal",
+   "screen": "Menu principal",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:175",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 4,
+   "pt_bytes": 5,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37866224,
+     "rva": 37872880,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939248,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "menu.extract_disc",
+   "en": "EXTRACT GAME DISC",
+   "pt": "EXTRAIR DISCO",
+   "category": "menu",
+   "context": "Menu principal",
+   "screen": "Menu principal",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:175",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 17,
+   "pt_bytes": 13,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37885717,
+     "rva": 37892373,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939256,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "menu.extract_title",
+   "en": "EXTRACT TITLE UPDATE",
+   "pt": "EXTRAIR ATUALIZAÇÃO",
+   "category": "menu",
+   "context": "Menu principal",
+   "screen": "Menu principal",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:175",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 20,
+   "pt_bytes": 21,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37884707,
+     "rva": 37891363,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939264,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "menu.add_dlc",
+   "en": "ADD DLC",
+   "pt": "ADICIONAR DLC",
+   "category": "menu",
+   "context": "Menu principal",
+   "screen": "Menu principal",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:175",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 7,
+   "pt_bytes": 13,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37885854,
+     "rva": 37892510,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939272,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "menu.game_folder",
+   "en": "GAME FOLDER",
+   "pt": "PASTA JOGO",
+   "category": "menu",
+   "context": "Menu principal",
+   "screen": "Menu principal",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:175",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 11,
+   "pt_bytes": 10,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37881166,
+     "rva": 37887822,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939280,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "menu.update_folder",
+   "en": "UPDATE FOLDER",
+   "pt": "PASTA UPDATE",
+   "category": "menu",
+   "context": "Menu principal",
+   "screen": "Menu principal",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:176",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 13,
+   "pt_bytes": 12,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37881152,
+     "rva": 37887808,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939288,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "menu.save_folder",
+   "en": "SAVE FOLDER",
+   "pt": "PASTA SAVE",
+   "category": "menu",
+   "context": "Menu principal",
+   "screen": "Menu principal",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:176",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 11,
+   "pt_bytes": 10,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37881140,
+     "rva": 37887796,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939296,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "menu.workshop",
+   "en": "WORKSHOP",
+   "pt": "OFICINA",
+   "category": "menu",
+   "context": "Menu principal",
+   "screen": "Menu principal",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:176",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 8,
+   "pt_bytes": 7,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37881256,
+     "rva": 37887912,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939304,
+     "addr": null
+    }
+   ],
+   "immediates": [
+    {
+     "file_off": 6172797,
+     "window": 0,
+     "size": 8
+    }
+   ]
+  },
+  {
+   "id": "menu.options",
+   "en": "OPTIONS",
+   "pt": "AJUSTES",
+   "category": "menu",
+   "context": "Menu principal",
+   "screen": "Menu principal",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:176",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 7,
+   "pt_bytes": 7,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37874987,
+     "rva": 37881643,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939312,
+     "addr": null
+    }
+   ],
+   "immediates": [
+    {
+     "file_off": 6181915,
+     "window": 0,
+     "size": 4
+    },
+    {
+     "file_off": 6181922,
+     "window": 3,
+     "size": 4
+    }
+   ]
+  },
+  {
+   "id": "menu.quit",
+   "en": "QUIT",
+   "pt": "SAIR",
+   "category": "menu",
+   "context": "Menu principal",
+   "screen": "Menu principal",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:176",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 4,
+   "pt_bytes": 4,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37874578,
+     "rva": 37881234,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939320,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "options.language",
+   "en": "LANGUAGE",
+   "pt": "IDIOMA",
+   "category": "options",
+   "context": "Página de opções",
+   "screen": "Página de opções",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:185",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 8,
+   "pt_bytes": 6,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37885017,
+     "rva": 37891673,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939424,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "options.graphics",
+   "en": "GRAPHICS",
+   "pt": "VÍDEO",
+   "category": "options",
+   "context": "Página de opções",
+   "screen": "Página de opções",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:185",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 8,
+   "pt_bytes": 6,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37875122,
+     "rva": 37881778,
+     "standalone": false
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939432,
+     "addr": null
+    }
+   ],
+   "immediates": [
+    {
+     "file_off": 4205071,
+     "window": 0,
+     "size": 8
+    },
+    {
+     "file_off": 4221209,
+     "window": 0,
+     "size": 8
+    },
+    {
+     "file_off": 4221624,
+     "window": 0,
+     "size": 8
+    },
+    {
+     "file_off": 4222010,
+     "window": 0,
+     "size": 8
+    }
+   ]
+  },
+  {
+   "id": "options.input",
+   "en": "INPUT",
+   "pt": "CONTROLES",
+   "category": "options",
+   "context": "Página de opções",
+   "screen": "Página de opções",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:185",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 5,
+   "pt_bytes": 9,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37874495,
+     "rva": 37881151,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939440,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "lang.english",
+   "en": "English",
+   "pt": "INGLÊS",
+   "category": "language",
+   "context": "Lista de idiomas",
+   "screen": "Lista de idiomas",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:197",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 7,
+   "pt_bytes": 7,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37831448,
+     "rva": 37838104,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939696,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "lang.japanese",
+   "en": "Japanese",
+   "pt": "JAPONÊS",
+   "category": "language",
+   "context": "Lista de idiomas",
+   "screen": "Lista de idiomas",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:197",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 8,
+   "pt_bytes": 8,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37840736,
+     "rva": 37847392,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939704,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "lang.german",
+   "en": "German",
+   "pt": "ALEMÃO",
+   "category": "language",
+   "context": "Lista de idiomas",
+   "screen": "Lista de idiomas",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:197",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 6,
+   "pt_bytes": 7,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37823306,
+     "rva": 37829962,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939712,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "lang.french",
+   "en": "French",
+   "pt": "FRANCÊS",
+   "category": "language",
+   "context": "Lista de idiomas",
+   "screen": "Lista de idiomas",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:197",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 6,
+   "pt_bytes": 8,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37832529,
+     "rva": 37839185,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939720,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "lang.spanish",
+   "en": "Spanish",
+   "pt": "ESPANHOL",
+   "category": "language",
+   "context": "Lista de idiomas",
+   "screen": "Lista de idiomas",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:197",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 7,
+   "pt_bytes": 8,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37831433,
+     "rva": 37838089,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939728,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "lang.italian",
+   "en": "Italian",
+   "pt": "ITALIANO",
+   "category": "language",
+   "context": "Lista de idiomas",
+   "screen": "Lista de idiomas",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:197",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 7,
+   "pt_bytes": 8,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37823335,
+     "rva": 37829991,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939736,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "lang.korean",
+   "en": "Korean",
+   "pt": "COREANO",
+   "category": "language",
+   "context": "Lista de idiomas",
+   "screen": "Lista de idiomas",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:197",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 6,
+   "pt_bytes": 7,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37823451,
+     "rva": 37830107,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939744,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "lang.traditional_chinese",
+   "en": "Traditional Chinese",
+   "pt": "CHINÊS TRADICIONAL",
+   "category": "language",
+   "context": "Lista de idiomas",
+   "screen": "Lista de idiomas",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:197",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 19,
+   "pt_bytes": 19,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37840697,
+     "rva": 37847353,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939752,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "lang.portuguese",
+   "en": "Portuguese",
+   "pt": "PORTUGUÊS",
+   "category": "language",
+   "context": "Lista de idiomas",
+   "screen": "Lista de idiomas",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:197",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 10,
+   "pt_bytes": 10,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37840686,
+     "rva": 37847342,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939760,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "lang.simplified_chinese",
+   "en": "Simplified Chinese",
+   "pt": "CHINÊS SIMPLIF.",
+   "category": "language",
+   "context": "Lista de idiomas",
+   "screen": "Lista de idiomas",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:198",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 18,
+   "pt_bytes": 16,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37840717,
+     "rva": 37847373,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939768,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "lang.polish",
+   "en": "Polish",
+   "pt": "POLONÊS",
+   "category": "language",
+   "context": "Lista de idiomas",
+   "screen": "Lista de idiomas",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:198",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 6,
+   "pt_bytes": 8,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37831441,
+     "rva": 37838097,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939776,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "lang.russian",
+   "en": "Russian",
+   "pt": "RUSSO",
+   "category": "language",
+   "context": "Lista de idiomas",
+   "screen": "Lista de idiomas",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:198",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 7,
+   "pt_bytes": 5,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37823327,
+     "rva": 37829983,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939784,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "language.about",
+   "en": "The game's language: its menus, text and subtitles. Applies when PLAY starts the game. A language the game folder has no text for shows English.",
+   "pt": "O idioma do jogo: menus, textos e legendas. Aplica-se quando JOGAR inicia o jogo. Um idioma sem texto na pasta do jogo mostra inglês.",
+   "category": "help",
+   "context": "Descrição de IDIOMA",
+   "screen": "Descrição de IDIOMA",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:200",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 144,
+   "pt_bytes": 134,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 18939488,
+     "rva": 18946144,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6194104
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "gfx.fullscreen",
+   "en": "Fullscreen",
+   "pt": "TELA CHEIA",
+   "category": "setting",
+   "context": "Vídeo",
+   "screen": "Vídeo",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:206",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 10,
+   "pt_bytes": 10,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37822838,
+     "rva": 37829494,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939800,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "gfx.renderer",
+   "en": "Renderer",
+   "pt": "RENDERIZADOR",
+   "category": "setting",
+   "context": "Vídeo",
+   "screen": "Vídeo",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:208",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 8,
+   "pt_bytes": 12,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37810951,
+     "rva": 37817607,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939816,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "gfx.resolution",
+   "en": "Resolution",
+   "pt": "RESOL.",
+   "category": "setting",
+   "context": "Vídeo",
+   "screen": "Vídeo",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:210",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 10,
+   "pt_bytes": 6,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37818266,
+     "rva": 37824922,
+     "standalone": false
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 10288564
+    },
+    {
+     "kind": "ptr",
+     "file_off": 14124664,
+     "addr": null
+    },
+    {
+     "kind": "ptr",
+     "file_off": 18939832,
+     "addr": null
+    }
+   ],
+   "immediates": [
+    {
+     "file_off": 10281580,
+     "window": 0,
+     "size": 8
+    },
+    {
+     "file_off": 10281598,
+     "window": 8,
+     "size": 2
+    },
+    {
+     "file_off": 10285468,
+     "window": 0,
+     "size": 8
+    },
+    {
+     "file_off": 10285490,
+     "window": 8,
+     "size": 2
+    }
+   ]
+  },
+  {
+   "id": "gfx.fov",
+   "en": "Field of View",
+   "pt": "CAMPO DE VISÃO",
+   "category": "setting",
+   "context": "Vídeo",
+   "screen": "Vídeo",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:211",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 13,
+   "pt_bytes": 15,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37782223,
+     "rva": 37788879,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 14124680,
+     "addr": null
+    },
+    {
+     "kind": "ptr",
+     "file_off": 18939848,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "gfx.time_of_day",
+   "en": "Time of Day",
+   "pt": "HORÁRIO",
+   "category": "setting",
+   "context": "Vídeo",
+   "screen": "Vídeo",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:212",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 11,
+   "pt_bytes": 8,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37780313,
+     "rva": 37786969,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 14124696,
+     "addr": null
+    },
+    {
+     "kind": "ptr",
+     "file_off": 18939864,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "gfx.shadow_resolution",
+   "en": "Shadow Resolution",
+   "pt": "RESOLUÇÃO SOMBRA",
+   "category": "setting",
+   "context": "Vídeo",
+   "screen": "Vídeo",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:213",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 17,
+   "pt_bytes": 18,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37818259,
+     "rva": 37824915,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 14124712,
+     "addr": null
+    },
+    {
+     "kind": "ptr",
+     "file_off": 18939880,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "gfx.shadow_softness",
+   "en": "Shadow Softness",
+   "pt": "SOMBRAS SUAVES",
+   "category": "setting",
+   "context": "Vídeo",
+   "screen": "Vídeo",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:214",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 15,
+   "pt_bytes": 14,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37796881,
+     "rva": 37803537,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 14124728,
+     "addr": null
+    },
+    {
+     "kind": "ptr",
+     "file_off": 18939896,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "gfx.anisotropic",
+   "en": "Anisotropic Filtering",
+   "pt": "FILTRO ANISO.",
+   "category": "setting",
+   "context": "Vídeo",
+   "screen": "Vídeo",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:215",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 21,
+   "pt_bytes": 13,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37834447,
+     "rva": 37841103,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 14124744,
+     "addr": null
+    },
+    {
+     "kind": "ptr",
+     "file_off": 18939912,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "gfx.ssao",
+   "en": "Ambient Occlusion",
+   "pt": "OCLUSÃO AMBIENTE",
+   "category": "setting",
+   "context": "Vídeo",
+   "screen": "Vídeo",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:216",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 17,
+   "pt_bytes": 17,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37819596,
+     "rva": 37826252,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 14124760,
+     "addr": null
+    },
+    {
+     "kind": "ptr",
+     "file_off": 18939928,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "gfx.reflections",
+   "en": "Reflections",
+   "pt": "REFLEXOS",
+   "category": "setting",
+   "context": "Vídeo",
+   "screen": "Vídeo",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:217",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 11,
+   "pt_bytes": 8,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37799351,
+     "rva": 37806007,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 14124776,
+     "addr": null
+    },
+    {
+     "kind": "ptr",
+     "file_off": 18939944,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "gfx.detail_distance",
+   "en": "Detail Distance",
+   "pt": "DIST. DETALHE",
+   "category": "setting",
+   "context": "Vídeo",
+   "screen": "Vídeo",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:218",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 15,
+   "pt_bytes": 13,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37852598,
+     "rva": 37859254,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 14124792,
+     "addr": null
+    },
+    {
+     "kind": "ptr",
+     "file_off": 18939960,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "gfx.grass_distance",
+   "en": "Grass Distance",
+   "pt": "DIST. GRAMA",
+   "category": "setting",
+   "context": "Vídeo",
+   "screen": "Vídeo",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:219",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 14,
+   "pt_bytes": 11,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37852583,
+     "rva": 37859239,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 14124808,
+     "addr": null
+    },
+    {
+     "kind": "ptr",
+     "file_off": 18939976,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "gfx.depth_of_field",
+   "en": "Depth of Field",
+   "pt": "PROFUND. CAMPO",
+   "category": "setting",
+   "context": "Vídeo",
+   "screen": "Vídeo",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:220",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 14,
+   "pt_bytes": 14,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37856300,
+     "rva": 37862956,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 14124824,
+     "addr": null
+    },
+    {
+     "kind": "ptr",
+     "file_off": 18939992,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "gfx.bloom",
+   "en": "Bloom",
+   "pt": "BLOOM",
+   "category": "setting",
+   "context": "Vídeo",
+   "screen": "Vídeo",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:221",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 5,
+   "pt_bytes": 5,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37823816,
+     "rva": 37830472,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 14124840,
+     "addr": null
+    },
+    {
+     "kind": "ptr",
+     "file_off": 18940008,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "gfx.msaa",
+   "en": "MSAA",
+   "pt": "MSAA",
+   "category": "setting",
+   "context": "Vídeo",
+   "screen": "Vídeo",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:222",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 4,
+   "pt_bytes": 4,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37886455,
+     "rva": 37893111,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 14124856,
+     "addr": null
+    },
+    {
+     "kind": "ptr",
+     "file_off": 18940024,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "gfx.cutouts",
+   "en": "Smooth Cut-Outs",
+   "pt": "CORTES SUAVES",
+   "category": "setting",
+   "context": "Vídeo",
+   "screen": "Vídeo",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:223",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 15,
+   "pt_bytes": 13,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37794268,
+     "rva": 37800924,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 14124872,
+     "addr": null
+    },
+    {
+     "kind": "ptr",
+     "file_off": 18940040,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "gfx.anti_aliasing",
+   "en": "Anti-Aliasing",
+   "pt": "ANTIALIASING",
+   "category": "setting",
+   "context": "Vídeo",
+   "screen": "Vídeo",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:224",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 13,
+   "pt_bytes": 12,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37833671,
+     "rva": 37840327,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 14124888,
+     "addr": null
+    },
+    {
+     "kind": "ptr",
+     "file_off": 18940056,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "gfx.vsync",
+   "en": "V-Sync",
+   "pt": "V-SYNC",
+   "category": "setting",
+   "context": "Vídeo",
+   "screen": "Vídeo",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:225",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 6,
+   "pt_bytes": 6,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37862704,
+     "rva": 37869360,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 14124904,
+     "addr": null
+    },
+    {
+     "kind": "ptr",
+     "file_off": 18940072,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "gfx.frame_cap",
+   "en": "Frame Cap",
+   "pt": "FPS MÁX.",
+   "category": "setting",
+   "context": "Vídeo",
+   "screen": "Vídeo",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:226",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 9,
+   "pt_bytes": 9,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37815626,
+     "rva": 37822282,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 14124920,
+     "addr": null
+    },
+    {
+     "kind": "ptr",
+     "file_off": 18940088,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "input.keyboard",
+   "en": "Keyboard Controls",
+   "pt": "CONTROLES TECLADO",
+   "category": "setting",
+   "context": "Entrada",
+   "screen": "Entrada",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:231",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 17,
+   "pt_bytes": 17,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37800172,
+     "rva": 37806828,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18940104,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "input.mouse_camera",
+   "en": "Mouse Camera",
+   "pt": "CAM. MOUSE",
+   "category": "setting",
+   "context": "Entrada",
+   "screen": "Entrada",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:232",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 12,
+   "pt_bytes": 10,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37864361,
+     "rva": 37871017,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18940120,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "input.sensitivity",
+   "en": "Mouse Sensitivity",
+   "pt": "SENSIB. MOUSE",
+   "category": "setting",
+   "context": "Entrada",
+   "screen": "Entrada",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:233",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 17,
+   "pt_bytes": 13,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37777892,
+     "rva": 37784548,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18940136,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "input.invert_y",
+   "en": "Mouse Invert Y",
+   "pt": "INVERTER Y",
+   "category": "setting",
+   "context": "Entrada",
+   "screen": "Entrada",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:234",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 14,
+   "pt_bytes": 10,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37866307,
+     "rva": 37872963,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18940152,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "input.controller",
+   "en": "Controller Input",
+   "pt": "ENTRADA CONTROLE",
+   "category": "setting",
+   "context": "Entrada",
+   "screen": "Entrada",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:236",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 16,
+   "pt_bytes": 16,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37784492,
+     "rva": 37791148,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18940168,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "input.player1",
+   "en": "Player 1 Only",
+   "pt": "SÓ JOGADOR 1",
+   "category": "setting",
+   "context": "Entrada",
+   "screen": "Entrada",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:238",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 13,
+   "pt_bytes": 13,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37779195,
+     "rva": 37785851,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18940184,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "status.disc_region",
+   "en": "That folder has another region's Nuts & Bolts: reNut runs the US (NTSC) version.",
+   "pt": "Essa pasta tem outra região de Nuts & Bolts: o reNut roda a versão US (NTSC).",
+   "category": "message",
+   "context": "Aviso ao escolher pasta",
+   "screen": "Aviso ao escolher pasta",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1123",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 80,
+   "pt_bytes": 79,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37915380,
+     "rva": 37922036,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6165821
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "status.game_files",
+   "en": "The game's files are there.",
+   "pt": "Os arquivos do jogo estão lá.",
+   "category": "message",
+   "context": "Pasta válida",
+   "screen": "Pasta válida",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1125",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 27,
+   "pt_bytes": 31,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37920453,
+     "rva": 37927109,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6165882
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "status.extract_into",
+   "en": "Extract the game disc into it.",
+   "pt": "Extraia o disco do jogo para ela.",
+   "category": "message",
+   "context": "Pasta vazia",
+   "screen": "Pasta vazia",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1125",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 30,
+   "pt_bytes": 33,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37906276,
+     "rva": 37912932,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6165889
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "status.save_restart",
+   "en": "reNut restarts with the new save folder when PLAY is pressed.",
+   "pt": "O reNut reinicia com a nova pasta de saves ao apertar JOGAR.",
+   "category": "message",
+   "context": "Pasta de saves",
+   "screen": "Pasta de saves",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1136",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 61,
+   "pt_bytes": 60,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37925367,
+     "rva": 37932023,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6165425
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "status.region_long",
+   "en": "The game folder has another region's Nuts & Bolts: reNut runs the US (NTSC) version. Extract the US disc, or choose a folder that has it.",
+   "pt": "A pasta tem outra região de Nuts & Bolts: o reNut roda a versão US (NTSC). Extraia o disco US ou escolha uma pasta com ele.",
+   "category": "message",
+   "context": "Aviso de região",
+   "screen": "Aviso de região",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1154",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 137,
+   "pt_bytes": 125,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37906138,
+     "rva": 37912794,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6155524
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "status.extract_first",
+   "en": "Extract the game disc first (or choose a game folder that has it).",
+   "pt": "Extraia o disco do jogo antes (ou escolha uma pasta que o tenha).",
+   "category": "message",
+   "context": "Jogo ausente",
+   "screen": "Jogo ausente",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1156",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 66,
+   "pt_bytes": 65,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37929137,
+     "rva": 37935793,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6155513
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "status.tu3",
+   "en": "Extract Title Update #3 first: reNut runs on it.",
+   "pt": "Extraia o Title Update #3 antes: o reNut roda sobre ele.",
+   "category": "message",
+   "context": "Update ausente",
+   "screen": "Update ausente",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1157",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 48,
+   "pt_bytes": 56,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37906430,
+     "rva": 37913086,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6155492
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "status.done",
+   "en": "DONE",
+   "pt": "OK",
+   "category": "value",
+   "context": "Estado concluído",
+   "screen": "Estado concluído",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1214",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 4,
+   "pt_bytes": 2,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37884792,
+     "rva": 37891448,
+     "standalone": false
+    }
+   ],
+   "refs": [],
+   "immediates": [
+    {
+     "file_off": 6167989,
+     "window": 0,
+     "size": 4
+    }
+   ]
+  },
+  {
+   "id": "status.wrong_region",
+   "en": "WRONG REGION",
+   "pt": "REGIÃO ERR.",
+   "category": "value",
+   "context": "Região errada",
+   "screen": "Região errada",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1217",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 12,
+   "pt_bytes": 12,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [],
+   "refs": [],
+   "immediates": [
+    {
+     "file_off": 6167763,
+     "window": 0,
+     "size": 8
+    },
+    {
+     "file_off": 6167784,
+     "window": 8,
+     "size": 4
+    }
+   ]
+  },
+  {
+   "id": "status.needed",
+   "en": "NEEDED",
+   "pt": "FALTA",
+   "category": "value",
+   "context": "Arquivo necessário",
+   "screen": "Arquivo necessário",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1220",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 6,
+   "pt_bytes": 5,
+   "mode": "not_found",
+   "status": "ausente do binário",
+   "occurrences": [],
+   "refs": [],
+   "immediates": []
+  },
+  {
+   "id": "status.added",
+   "en": "ADDED",
+   "pt": "ADICIONADO",
+   "category": "value",
+   "context": "DLC instalado",
+   "screen": "DLC instalado",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1227",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 5,
+   "pt_bytes": 10,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37885615,
+     "rva": 37892271,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6170910
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6228513
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "status.optional",
+   "en": "OPTIONAL",
+   "pt": "OPCIONAL",
+   "category": "value",
+   "context": "DLC opcional",
+   "screen": "DLC opcional",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1227",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 8,
+   "pt_bytes": 8,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37883497,
+     "rva": 37890153,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6170903
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "workshop.error_status",
+   "en": "The workshop answered {}; try again later.",
+   "pt": "A oficina respondeu {}; tente depois.",
+   "category": "message",
+   "context": "Erro da oficina",
+   "screen": "Erro da oficina",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1264",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 42,
+   "pt_bytes": 37,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37912762,
+     "rva": 37919418,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6237389
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6241036
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "workshop.no_connection",
+   "en": "Can't reach the workshop (no connection?).",
+   "pt": "Sem conexão com a oficina.",
+   "category": "message",
+   "context": "Oficina indisponível",
+   "screen": "Oficina indisponível",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1265",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 42,
+   "pt_bytes": 27,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37930772,
+     "rva": 37937428,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6237711
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6240920
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "workshop.took_prefix",
+   "en": "Took ",
+   "pt": "Saiu ",
+   "category": "message",
+   "context": "Remover veículo",
+   "screen": "Remover veículo",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1306",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 5,
+   "pt_bytes": 5,
+   "mode": "not_found",
+   "status": "ausente do binário",
+   "occurrences": [],
+   "refs": [],
+   "immediates": []
+  },
+  {
+   "id": "workshop.took_suffix",
+   "en": " back out of your vehicles.",
+   "pt": " dos seus veículos.",
+   "category": "message",
+   "context": "Remover veículo",
+   "screen": "Remover veículo",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1306",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 27,
+   "pt_bytes": 20,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37911253,
+     "rva": 37917909,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6205671
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6205744
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "workshop.in_vehicles",
+   "en": " is in your vehicles: build it from the garage's blueprints.",
+   "pt": " está nos seus veículos: crie pela garagem.",
+   "category": "message",
+   "context": "Veículo baixado",
+   "screen": "Veículo baixado",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1328",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 60,
+   "pt_bytes": 45,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37907833,
+     "rva": 37914489,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6241852
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "common.back",
+   "en": "BACK",
+   "pt": "MENU",
+   "category": "label",
+   "context": "Voltar",
+   "screen": "Voltar",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1380",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 4,
+   "pt_bytes": 4,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37883596,
+     "rva": 37890252,
+     "standalone": false
+    },
+    {
+     "offset": 37883627,
+     "rva": 37890283,
+     "standalone": false
+    },
+    {
+     "offset": 37883660,
+     "rva": 37890316,
+     "standalone": false
+    },
+    {
+     "offset": 37883676,
+     "rva": 37890332,
+     "standalone": false
+    }
+   ],
+   "refs": [],
+   "immediates": [
+    {
+     "file_off": 6172847,
+     "window": 0,
+     "size": 4
+    },
+    {
+     "file_off": 6181956,
+     "window": 0,
+     "size": 4
+    },
+    {
+     "file_off": 6184312,
+     "window": 0,
+     "size": 4
+    },
+    {
+     "file_off": 6193754,
+     "window": 0,
+     "size": 4
+    }
+   ]
+  },
+  {
+   "id": "settings.waiting_key",
+   "en": "PRESS A KEY",
+   "pt": "TECLA",
+   "category": "value",
+   "context": "Aguardando tecla",
+   "screen": "Aguardando tecla",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1424",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 11,
+   "pt_bytes": 5,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [],
+   "refs": [],
+   "immediates": [
+    {
+     "file_off": 6185050,
+     "window": 0,
+     "size": 8
+    },
+    {
+     "file_off": 6185065,
+     "window": 7,
+     "size": 4
+    }
+   ]
+  },
+  {
+   "id": "settings.selected",
+   "en": "SELECTED",
+   "pt": "SELECIONADO",
+   "category": "value",
+   "context": "Valor escolhido",
+   "screen": "Valor escolhido",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1426",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 8,
+   "pt_bytes": 11,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37885577,
+     "rva": 37892233,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6191637
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "settings.bind_help",
+   "en": "Press a key or mouse button for it. Escape (or B) cancels; Delete unbinds it.",
+   "pt": "Aperte uma tecla ou botão do mouse. Esc (ou B) cancela; Delete remove.",
+   "category": "help",
+   "context": "Mapeamento de teclas",
+   "screen": "Mapeamento de teclas",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1446",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 77,
+   "pt_bytes": 71,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37906060,
+     "rva": 37912716,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6192579
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "settings.restart_suffix",
+   "en": " Takes effect after a restart.",
+   "pt": " Aplica-se após reiniciar.",
+   "category": "help",
+   "context": "Sufixo de ajuda",
+   "screen": "Sufixo de ajuda",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1455",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 30,
+   "pt_bytes": 27,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37904554,
+     "rva": 37911210,
+     "standalone": false
+    },
+    {
+     "offset": 37904720,
+     "rva": 37911376,
+     "standalone": false
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6194451
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6194665
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "settings.restart_now",
+   "en": " Changing it restarts reNut.",
+   "pt": " Alterar reinicia o reNut.",
+   "category": "help",
+   "context": "Sufixo de ajuda",
+   "screen": "Sufixo de ajuda",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1457",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 28,
+   "pt_bytes": 26,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37903984,
+     "rva": 37910640,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6194749
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6194823
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "update.downloading",
+   "en": "DOWNLOADING ",
+   "pt": "BAIXANDO ",
+   "category": "update",
+   "context": "Atualização",
+   "screen": "Atualização",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1682",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 12,
+   "pt_bytes": 9,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37945656,
+     "rva": 37952312,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6218138
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6218223
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "update.installing",
+   "en": "INSTALLING ",
+   "pt": "INSTALANDO ",
+   "category": "update",
+   "context": "Atualização",
+   "screen": "Atualização",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1683",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 11,
+   "pt_bytes": 11,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37945644,
+     "rva": 37952300,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6218825
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6218910
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "update.installed",
+   "en": " IS INSTALLED: RESTART RENUT TO PLAY IT",
+   "pt": " INSTALADO: REINICIE O RENUT",
+   "category": "update",
+   "context": "Atualização",
+   "screen": "Atualização",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1685",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 39,
+   "pt_bytes": 28,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37874589,
+     "rva": 37881245,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6221522
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6221597
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "update.updated",
+   "en": "UPDATED TO ",
+   "pt": "ATUALIZADO ",
+   "category": "update",
+   "context": "Atualização",
+   "screen": "Atualização",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1686",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 11,
+   "pt_bytes": 11,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37945597,
+     "rva": 37952253,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6222009
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6222094
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "update.restarting",
+   "en": ": RESTARTING...",
+   "pt": ": REINICIANDO",
+   "category": "update",
+   "context": "Atualização",
+   "screen": "Atualização",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1686",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 15,
+   "pt_bytes": 13,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37928552,
+     "rva": 37935208,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6222291
+    }
+   ],
+   "immediates": [
+    {
+     "file_off": 6219296,
+     "window": 0,
+     "size": 8
+    },
+    {
+     "file_off": 6219281,
+     "window": 7,
+     "size": 8
+    }
+   ]
+  },
+  {
+   "id": "update.failed",
+   "en": "COULD NOT UPDATE: ",
+   "pt": "ERRO NO UPDATE: ",
+   "category": "update",
+   "context": "Atualização",
+   "screen": "Atualização",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1690",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 18,
+   "pt_bytes": 16,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37946056,
+     "rva": 37952712,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6215865
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6215950
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "progress.extract_disc",
+   "en": "EXTRACTING THE GAME DISC",
+   "pt": "EXTRAINDO DISCO DO JOGO",
+   "category": "progress",
+   "context": "Extração",
+   "screen": "Extração",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1746",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 24,
+   "pt_bytes": 23,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37885735,
+     "rva": 37892391,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6172259
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "progress.extract_title",
+   "en": "EXTRACTING THE TITLE UPDATE",
+   "pt": "EXTRAINDO A ATUALIZAÇÃO",
+   "category": "progress",
+   "context": "Extração",
+   "screen": "Extração",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1747",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 27,
+   "pt_bytes": 25,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37884728,
+     "rva": 37891384,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6172238
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "progress.add_dlc",
+   "en": "ADDING DLC",
+   "pt": "DLC",
+   "category": "progress",
+   "context": "DLC",
+   "screen": "DLC",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1748",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 10,
+   "pt_bytes": 3,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37885843,
+     "rva": 37892499,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6172245
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "progress.line",
+   "en": "{}  {}%  ({} of {})",
+   "pt": "{}  {}%  ({} de {})",
+   "category": "progress",
+   "context": "Progresso",
+   "screen": "Progresso",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1749",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 19,
+   "pt_bytes": 19,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37932013,
+     "rva": 37938669,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6172689
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "progress.stop",
+   "en": "ESC / B  STOP",
+   "pt": "ESC / B  PARAR",
+   "category": "progress",
+   "context": "Cancelar extração",
+   "screen": "Cancelar extração",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1755",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 13,
+   "pt_bytes": 14,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37881242,
+     "rva": 37887898,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6173504
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "workshop.share_label",
+   "en": "SHARE A VEHICLE",
+   "pt": "COMPARTILHAR",
+   "category": "label",
+   "context": "Oficina",
+   "screen": "Oficina",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1881",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 15,
+   "pt_bytes": 12,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [],
+   "refs": [],
+   "immediates": [
+    {
+     "file_off": 6173034,
+     "window": 0,
+     "size": 8
+    },
+    {
+     "file_off": 6173051,
+     "window": 7,
+     "size": 8
+    },
+    {
+     "file_off": 6193686,
+     "window": 0,
+     "size": 8
+    },
+    {
+     "file_off": 6193700,
+     "window": 7,
+     "size": 8
+    }
+   ]
+  },
+  {
+   "id": "workshop.loading",
+   "en": "LOADING THE WORKSHOP...",
+   "pt": "CARREGANDO OFICINA...",
+   "category": "workshop",
+   "context": "Carregando",
+   "screen": "Carregando",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1883",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 23,
+   "pt_bytes": 21,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37928528,
+     "rva": 37935184,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6176373
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "workshop.empty",
+   "en": "THE WORKSHOP HAS NO VEHICLES YET.",
+   "pt": "OFICINA AINDA SEM VEÍCULOS.",
+   "category": "workshop",
+   "context": "Oficina vazia",
+   "screen": "Oficina vazia",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1883",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 33,
+   "pt_bytes": 28,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37927711,
+     "rva": 37934367,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6176756
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "workshop.no_save_vehicles",
+   "en": "There are no vehicles in your save yet: build one in the game's garage first.",
+   "pt": "Ainda não há veículos no seu save: crie um na garagem do jogo.",
+   "category": "workshop",
+   "context": "Sem veículos",
+   "screen": "Sem veículos",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1943",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 77,
+   "pt_bytes": 65,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37904013,
+     "rva": 37910669,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6238202
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "workshop.bad_picture",
+   "en": "That picture could not be read: choose a PNG or JPEG.",
+   "pt": "Não foi possível ler: escolha um PNG ou JPEG.",
+   "category": "message",
+   "context": "Captura inválida",
+   "screen": "Captura inválida",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1967",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 53,
+   "pt_bytes": 47,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37927745,
+     "rva": 37934401,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6210191
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "workshop.copied",
+   "en": "Copied. On GitHub, paste it (Ctrl+V) into the form, tick the box and submit: the workshop's bot checks it and publishes it, usually within a minute.",
+   "pt": "Copiado. No GitHub, cole (Ctrl+V) no formulário, marque a caixa e envie: o bot confere e publica, geralmente em um minuto.",
+   "category": "workshop",
+   "context": "Envio",
+   "screen": "Envio",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1989",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 148,
+   "pt_bytes": 123,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37919724,
+     "rva": 37926380,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6253851
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "share.vehicle",
+   "en": "VEHICLE",
+   "pt": "CARRO",
+   "category": "label",
+   "context": "Compartilhar",
+   "screen": "Compartilhar",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:2012",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 7,
+   "pt_bytes": 5,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [],
+   "refs": [],
+   "immediates": [
+    {
+     "file_off": 6196297,
+     "window": 0,
+     "size": 4
+    },
+    {
+     "file_off": 6196307,
+     "window": 3,
+     "size": 4
+    }
+   ]
+  },
+  {
+   "id": "share.name",
+   "en": "NAME",
+   "pt": "NOME",
+   "category": "label",
+   "context": "Compartilhar",
+   "screen": "Compartilhar",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:2014",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 4,
+   "pt_bytes": 4,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37884850,
+     "rva": 37891506,
+     "standalone": false
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6199564
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "share.description",
+   "en": "DESCRIPTION",
+   "pt": "DESCRIÇÃO",
+   "category": "label",
+   "context": "Compartilhar",
+   "screen": "Compartilhar",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:2015",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 11,
+   "pt_bytes": 11,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37881682,
+     "rva": 37888338,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6199609
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "share.screenshot",
+   "en": "SCREENSHOT",
+   "pt": "CAPTURA",
+   "category": "label",
+   "context": "Compartilhar",
+   "screen": "Compartilhar",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:2016",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 10,
+   "pt_bytes": 7,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [],
+   "refs": [],
+   "immediates": [
+    {
+     "file_off": 6196708,
+     "window": 0,
+     "size": 8
+    },
+    {
+     "file_off": 6196730,
+     "window": 8,
+     "size": 2
+    }
+   ]
+  },
+  {
+   "id": "share.choose",
+   "en": "CHOOSE",
+   "pt": "SELEC.",
+   "category": "label",
+   "context": "Compartilhar",
+   "screen": "Compartilhar",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:2017",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 6,
+   "pt_bytes": 6,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [],
+   "refs": [],
+   "immediates": [
+    {
+     "file_off": 6196650,
+     "window": 0,
+     "size": 4
+    },
+    {
+     "file_off": 6196658,
+     "window": 4,
+     "size": 2
+    }
+   ]
+  },
+  {
+   "id": "share.copy_open",
+   "en": "COPY AND OPEN GITHUB",
+   "pt": "COPIAR E ABRIR GITHUB",
+   "category": "label",
+   "context": "Compartilhar",
+   "screen": "Compartilhar",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:2019",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 20,
+   "pt_bytes": 21,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37885988,
+     "rva": 37892644,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6200128
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "share.vehicle_help",
+   "en": "Left and right choose the vehicle.",
+   "pt": "Setas escolhem o veículo.",
+   "category": "help",
+   "context": "Compartilhar",
+   "screen": "Compartilhar",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:2026",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 34,
+   "pt_bytes": 26,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37921867,
+     "rva": 37928523,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18940336,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "share.name_help",
+   "en": "What the workshop lists it as (up to 31 characters). Type it on the keyboard.",
+   "pt": "Como a oficina lista o veículo (até 31 caracteres). Digite no teclado.",
+   "category": "help",
+   "context": "Compartilhar",
+   "screen": "Compartilhar",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:2027",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 77,
+   "pt_bytes": 72,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37924245,
+     "rva": 37930901,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18940344,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "share.description_help",
+   "en": "A sentence or two about it: what it does, which buttons do what.",
+   "pt": "Uma ou duas frases: o que ele faz e para que servem os botões.",
+   "category": "help",
+   "context": "Compartilhar",
+   "screen": "Compartilhar",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:2028",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 64,
+   "pt_bytes": 63,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37907288,
+     "rva": 37913944,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18940352,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "share.photo_help",
+   "en": "A PNG or JPEG of the vehicle (a screenshot from the game). reNut makes it small enough for GitHub.",
+   "pt": "Um PNG ou JPEG do veículo (captura do jogo). O reNut reduz para o GitHub.",
+   "category": "help",
+   "context": "Compartilhar",
+   "screen": "Compartilhar",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:2029",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 98,
+   "pt_bytes": 74,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37927477,
+     "rva": 37934133,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18940360,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "share.submit_help",
+   "en": "Copies the submission and opens the workshop's form on GitHub (a GitHub account is needed). At most 3 vehicles per 10 minutes.",
+   "pt": "Copia o envio e abre o formulário no GitHub (precisa de conta). Até 3 veículos a cada 10 minutos.",
+   "category": "help",
+   "context": "Compartilhar",
+   "screen": "Compartilhar",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:2031",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 126,
+   "pt_bytes": 100,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37910750,
+     "rva": 37917406,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6200466
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "share.title_help",
+   "en": "Share one of your vehicles: choose it, name it and add a screenshot. reNut copies the submission and opens the workshop's form on GitHub, where you paste it.",
+   "pt": "Compartilhe um veículo: escolha, nomeie e adicione uma captura. O reNut copia o envio e abre o formulário no GitHub.",
+   "category": "help",
+   "context": "Compartilhar",
+   "screen": "Compartilhar",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1908",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 157,
+   "pt_bytes": 118,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37906558,
+     "rva": 37913214,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6177657
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "workshop.by",
+   "en": "BY ",
+   "pt": "POR ",
+   "category": "workshop",
+   "context": "Autor do veículo",
+   "screen": "Autor do veículo",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1815",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 3,
+   "pt_bytes": 4,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37945559,
+     "rva": 37952215,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6181246
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6181324
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "workshop.parts",
+   "en": "  -  {} PARTS",
+   "pt": "  -  {} PEÇAS",
+   "category": "workshop",
+   "context": "Contagem de peças",
+   "screen": "Contagem de peças",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1816",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 13,
+   "pt_bytes": 14,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37874911,
+     "rva": 37881567,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6179789
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "workshop.needs_mods",
+   "en": "  -  NEEDS PART MODS",
+   "pt": "  -  PRECISA DE MODS",
+   "category": "workshop",
+   "context": "Aviso de mods",
+   "screen": "Aviso de mods",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1817",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 20,
+   "pt_bytes": 20,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37875093,
+     "rva": 37881749,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6181799
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6181849
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "picker.none",
+   "en": "No file picker (",
+   "pt": "Sem seletor (",
+   "category": "message",
+   "context": "Seletor indisponível",
+   "screen": "Seletor indisponível",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:1098",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 16,
+   "pt_bytes": 13,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37938108,
+     "rva": 37944764,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6164997
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "footer.back",
+   "en": "ENTER / A  BACK",
+   "pt": "ENTER / A  VOLTAR",
+   "category": "hint",
+   "context": "Rodapé",
+   "screen": "Rodapé",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 15,
+   "pt_bytes": 17,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37883665,
+     "rva": 37890321,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6177986
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6183049
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "footer.open",
+   "en": "ENTER / A  OPEN      B  BACK",
+   "pt": "ENTER / A  ABRIR      B  VOLTAR",
+   "category": "hint",
+   "context": "Rodapé",
+   "screen": "Rodapé",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 28,
+   "pt_bytes": 31,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37883572,
+     "rva": 37890228,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6177886
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6177993
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "footer.remove",
+   "en": "ENTER / A  REMOVE      B  BACK",
+   "pt": "ENTER / A  REMOVER      B  VOLTAR",
+   "category": "hint",
+   "context": "Rodapé",
+   "screen": "Rodapé",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 30,
+   "pt_bytes": 33,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37883601,
+     "rva": 37890257,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6177870
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "footer.download",
+   "en": "ENTER / A  DOWNLOAD      B  BACK",
+   "pt": "ENTER / A  BAIXAR      B  VOLTAR",
+   "category": "hint",
+   "context": "Rodapé",
+   "screen": "Rodapé",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 32,
+   "pt_bytes": 32,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37883632,
+     "rva": 37890288,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6177863
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "footer.back_only",
+   "en": "ENTER / A  BACK",
+   "pt": "ENTER / A  VOLTAR",
+   "category": "hint",
+   "context": "Rodapé",
+   "screen": "Rodapé",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 15,
+   "pt_bytes": 17,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37883665,
+     "rva": 37890321,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6177986
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6183049
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "key.walk",
+   "en": "WALK",
+   "pt": "ANDA",
+   "category": "keybind",
+   "context": "Caminhada",
+   "screen": "Caminhada",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:422",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 4,
+   "pt_bytes": 4,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [],
+   "refs": [],
+   "immediates": [
+    {
+     "file_off": 6241835,
+     "window": 0,
+     "size": 4
+    }
+   ]
+  },
+  {
+   "id": "key.forward",
+   "en": "Move forward (left stick up).",
+   "pt": "Avançar (analógico cima).",
+   "category": "keybind",
+   "context": "Frente",
+   "screen": "Frente",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 29,
+   "pt_bytes": 27,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37929323,
+     "rva": 37935979,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4298576
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "key.back",
+   "en": "Move back (left stick down).",
+   "pt": "Voltar (analógico baixo).",
+   "category": "keybind",
+   "context": "Trás",
+   "screen": "Trás",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 28,
+   "pt_bytes": 26,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37929374,
+     "rva": 37936030,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4298774
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "key.left",
+   "en": "Move left (left stick left).",
+   "pt": "Esquerda (analógico esq.).",
+   "category": "keybind",
+   "context": "Esquerda",
+   "screen": "Esquerda",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 28,
+   "pt_bytes": 27,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37929235,
+     "rva": 37935891,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4298972
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "key.right",
+   "en": "Move right (left stick right).",
+   "pt": "Direita (analógico dir.).",
+   "category": "keybind",
+   "context": "Direita",
+   "screen": "Direita",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 30,
+   "pt_bytes": 26,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37929204,
+     "rva": 37935860,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4299169
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "key.pad_up",
+   "en": "D-pad up.",
+   "pt": "Cima.",
+   "category": "keybind",
+   "context": "Direcional",
+   "screen": "Direcional",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 9,
+   "pt_bytes": 5,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37914631,
+     "rva": 37921287,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4302286
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "key.pad_down",
+   "en": "D-pad down.",
+   "pt": "Baixo.",
+   "category": "keybind",
+   "context": "Direcional",
+   "screen": "Direcional",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 11,
+   "pt_bytes": 6,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37914930,
+     "rva": 37921586,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4302505
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "key.pad_left",
+   "en": "D-pad left.",
+   "pt": "Esquerda.",
+   "category": "keybind",
+   "context": "Direcional",
+   "screen": "Direcional",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 11,
+   "pt_bytes": 9,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37906807,
+     "rva": 37913463,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4302724
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "key.pad_right",
+   "en": "D-pad right.",
+   "pt": "Direita.",
+   "category": "keybind",
+   "context": "Direcional",
+   "screen": "Direcional",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 12,
+   "pt_bytes": 8,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37906794,
+     "rva": 37913450,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4302961
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "key.a",
+   "en": "Controller A (jump).",
+   "pt": "A (pular).",
+   "category": "keybind",
+   "context": "Botão A",
+   "screen": "Botão A",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 20,
+   "pt_bytes": 10,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37929353,
+     "rva": 37936009,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4299607
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "key.b",
+   "en": "Controller B.",
+   "pt": "B.",
+   "category": "keybind",
+   "context": "Botão B",
+   "screen": "Botão B",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 13,
+   "pt_bytes": 2,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37927988,
+     "rva": 37934644,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4299826
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "key.x",
+   "en": "Controller X.",
+   "pt": "X.",
+   "category": "keybind",
+   "context": "Botão X",
+   "screen": "Botão X",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 13,
+   "pt_bytes": 2,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37927697,
+     "rva": 37934353,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4300060
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "key.y",
+   "en": "Controller Y.",
+   "pt": "Y.",
+   "category": "keybind",
+   "context": "Botão Y",
+   "screen": "Botão Y",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 13,
+   "pt_bytes": 2,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37927683,
+     "rva": 37934339,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4300276
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "key.lb",
+   "en": "Controller left bumper.",
+   "pt": "LB (bumper esquerdo).",
+   "category": "keybind",
+   "context": "Botão LB",
+   "screen": "Botão LB",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 23,
+   "pt_bytes": 21,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37912970,
+     "rva": 37919626,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4300492
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "key.rb",
+   "en": "Controller right bumper.",
+   "pt": "RB (bumper direito).",
+   "category": "keybind",
+   "context": "Botão RB",
+   "screen": "Botão RB",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 24,
+   "pt_bytes": 20,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37912945,
+     "rva": 37919601,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4300708
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "key.lt",
+   "en": "Controller left trigger.",
+   "pt": "LT (gatilho esquerdo).",
+   "category": "keybind",
+   "context": "Botão LT",
+   "screen": "Botão LT",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 24,
+   "pt_bytes": 22,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37913303,
+     "rva": 37919959,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4300945
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "key.rt",
+   "en": "Controller right trigger.",
+   "pt": "RT (gatilho direito).",
+   "category": "keybind",
+   "context": "Botão RT",
+   "screen": "Botão RT",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 25,
+   "pt_bytes": 21,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37913277,
+     "rva": 37919933,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4301161
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "key.start",
+   "en": "Controller Start (Escape also frees the mouse).",
+   "pt": "Start (Esc também libera o mouse).",
+   "category": "keybind",
+   "context": "Botão Start",
+   "screen": "Botão Start",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 47,
+   "pt_bytes": 35,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37929707,
+     "rva": 37936363,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4301399
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "key.guide",
+   "en": "Controller Guide button: opens the Guide (RexLiveless) for player 1.",
+   "pt": "Guide (abre o Guide do jogador 1).",
+   "category": "keybind",
+   "context": "Botão Guide",
+   "screen": "Botão Guide",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 68,
+   "pt_bytes": 34,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37928183,
+     "rva": 37934839,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4303177
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "key.ls",
+   "en": "Left stick click.",
+   "pt": "LS (clique).",
+   "category": "keybind",
+   "context": "Analógico esquerdo",
+   "screen": "Analógico esquerdo",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 17,
+   "pt_bytes": 12,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37917334,
+     "rva": 37923990,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4301852
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "key.rs",
+   "en": "Right stick click.",
+   "pt": "RS (clique).",
+   "category": "keybind",
+   "context": "Analógico direito",
+   "screen": "Analógico direito",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 18,
+   "pt_bytes": 12,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37917315,
+     "rva": 37923971,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4302068
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "key.mouse_camera_help",
+   "en": "The mouse turns the camera directly in every camera mode, with no deadzone or stick response curve. Click the game window to capture the mouse; Esc releases it.",
+   "pt": "O mouse gira a câmera em todos os modos, sem zona morta nem curva. Clique na janela do jogo para capturar o mouse; Esc libera.",
+   "category": "help",
+   "context": "Câmera do mouse",
+   "screen": "Câmera do mouse",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 160,
+   "pt_bytes": 127,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37905899,
+     "rva": 37912555,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4288854
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "key.bind_help",
+   "en": "Bound keys and mouse buttons (with the mouse captured) play player 1's controller: every action, alongside the controller. Binds are key names: A-Z, 0-9, F1-F24, Space, Return, Escape, Tab, Shift, Control, Alt, Left/Right/Up/Down, LMB/RMB/MMB, Numpad0-9, ... Empty unbinds.",
+   "pt": "Teclas e botões do mouse (com o mouse capturado) jogam como o controle do jogador 1: todas as ações, junto com o controle. Vazio remove a tecla.",
+   "category": "help",
+   "context": "Controles do teclado",
+   "screen": "Controles do teclado",
+   "condition": "",
+   "source": "src/renut_engine/ui/launcher_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 273,
+   "pt_bytes": 147,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37911381,
+     "rva": 37918037,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4298334
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "help.gfx.renderer",
+   "en": "Renderer backend: d3d12 or vulkan. Takes effect after a restart. Non-Windows builds always use vulkan.",
+   "pt": "Backend do renderizador: d3d12 ou vulkan. Fora do Windows, sempre vulkan.",
+   "category": "help",
+   "context": "Descrição de RENDERIZADOR",
+   "screen": "VÍDEO",
+   "condition": "linha RENDERIZADOR selecionada",
+   "source": "src/renut_engine/gpu/backend/video.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 102,
+   "pt_bytes": 73,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37916336,
+     "rva": 37922992,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 9855104
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "help.gfx.resolution",
+   "en": "Internal render resolution, by its height: 480p, 720p (the game's own), 1080p, 1440p or 4K (2160 lines). Applies from the next frame.",
+   "pt": "Resolução interna, pela altura: 480p, 720p (a do jogo), 1080p, 1440p ou 4K (2160 linhas). Aplica no próximo quadro.",
+   "category": "help",
+   "context": "Descrição de RESOLUÇÃO",
+   "screen": "VÍDEO",
+   "condition": "linha RESOLUÇÃO selecionada",
+   "source": "src/renut_engine/gpu/backend/video.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 133,
+   "pt_bytes": 118,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37921388,
+     "rva": 37928044,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 10372922
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "help.gfx.fov",
+   "en": "Field of view, as a share of the game's own: Game, or 110% to 150% (wider: more of the world on screen). Cutscenes widen too.",
+   "pt": "Campo de visão como parte do original: Jogo, ou 110% a 150% (mais largo: mostra mais do mundo). Cenas também ampliam.",
+   "category": "help",
+   "context": "Descrição de CAMPO DE VISÃO",
+   "screen": "VÍDEO",
+   "condition": "linha CAMPO DE VISÃO selecionada",
+   "source": "src/renut_engine/game/graphics_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 125,
+   "pt_bytes": 119,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37914671,
+     "rva": 37921327,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4280762
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "help.gfx.time_of_day",
+   "en": "Showdown Town's time of day: Game (as the game picks: at random once the intro is done), or always Morning, Afternoon, Evening or Night. Takes effect the next time Showdown Town loads.",
+   "pt": "Horário em Showdown Town: Jogo (sorteado após a abertura) ou sempre Manhã, Tarde, Noite ou Madrugada. Aplica na próxima carga de Showdown Town.",
+   "category": "help",
+   "context": "Descrição de HORÁRIO",
+   "screen": "VÍDEO",
+   "condition": "linha HORÁRIO selecionada",
+   "source": "src/renut_engine/game/graphics_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 184,
+   "pt_bytes": 147,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37911666,
+     "rva": 37918322,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4283114
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "help.gfx.shadow_resolution",
+   "en": "Shadow map resolution, as a multiple of the console's: Resolution follows renut_resolution; 1x is the console's; 2x, 3x and 4x are sharper.",
+   "pt": "Resolução do mapa de sombras: Resol. segue a do reNut; 1x é a do console; 2x, 3x e 4x são mais nítidas.",
+   "category": "help",
+   "context": "Descrição de RESOLUÇÃO SOMBRA",
+   "screen": "VÍDEO",
+   "condition": "linha RESOLUÇÃO SOMBRA selecionada",
+   "source": "src/renut_engine/game/graphics_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 139,
+   "pt_bytes": 108,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37912805,
+     "rva": 37919461,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 10288571
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "help.gfx.shadow_softness",
+   "en": "Shadow edges: the game's (each of its shadow taps either lit or not: hard, stepped edges), Soft (each tap filtered over the shadow map's texels), Softer or Softest (each over a wider area, the same size in the world near and far: softer edges, more GPU time).",
+   "pt": "Bordas das sombras: a do jogo (cada amostra acesa ou não: degraus duros), Suave (filtrada pelos texels), Mais suave ou Suavíssima (área maior: bordas mais suaves, mais GPU).",
+   "category": "help",
+   "context": "Descrição de SOMBRAS SUAVES",
+   "screen": "VÍDEO",
+   "condition": "linha SOMBRAS SUAVES selecionada",
+   "source": "src/renut_engine/game/graphics_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 259,
+   "pt_bytes": 176,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37929995,
+     "rva": 37936651,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 10289336
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "help.gfx.anisotropic",
+   "en": "Anisotropic texture filtering: the game's own, or at least 2x, 4x, 8x or 16x.",
+   "pt": "Filtro anisotrópico de texturas: o do jogo, ou pelo menos 2x, 4x, 8x ou 16x.",
+   "category": "help",
+   "context": "Descrição de FILTRO ANISO.",
+   "screen": "VÍDEO",
+   "condition": "linha FILTRO ANISO. selecionada",
+   "source": "src/renut_engine/game/graphics_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 77,
+   "pt_bytes": 77,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37903672,
+     "rva": 37910328,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 10289886
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "help.gfx.ssao",
+   "en": "Ambient occlusion: soft shading where surfaces meet, in corners and creases, worked out from the scene's depth (N&B's own SSAO is never drawn). Off, Low, Medium (more samples) or High (more still, at the full resolution).",
+   "pt": "Oclusão ambiente: sombra suave onde superfícies se encontram, em cantos e dobras, pela profundidade (o SSAO do jogo nunca é desenhado). Deslig., Baixa, Média (mais amostras) ou Alta (mais ainda, na resolução cheia).",
+   "category": "help",
+   "context": "Descrição de OCLUSÃO AMBIENTE",
+   "screen": "VÍDEO",
+   "condition": "linha OCLUSÃO AMBIENTE selecionada",
+   "source": "src/renut_engine/game/graphics_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 221,
+   "pt_bytes": 221,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37929403,
+     "rva": 37936059,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 10289627
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "help.gfx.reflections",
+   "en": "Resolution of the water reflections: the game's (a quarter of the screen on each axis, at the render resolution's scale) or 2x (half the screen: sharper reflections, four times the pixels to draw).",
+   "pt": "Resolução dos reflexos na água: a do jogo (um quarto da tela em cada eixo, na escala da resolução) ou 2x (metade da tela: reflexos mais nítidos, quatro vezes mais pixels).",
+   "category": "help",
+   "context": "Descrição de REFLEXOS",
+   "screen": "VÍDEO",
+   "condition": "linha REFLEXOS selecionada",
+   "source": "src/renut_engine/game/graphics_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 197,
+   "pt_bytes": 177,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37928880,
+     "rva": 37935536,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 10289089
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "help.gfx.detail_distance",
+   "en": "How far models keep their detailed meshes: 1x is the game's, 2x and 4x switch to the simpler ones that many times farther away (less pop-in), Max always draws the most detailed.",
+   "pt": "Até onde os modelos mantêm detalhe: 1x é a do jogo; 2x e 4x trocam pela simples essa quantidade de vezes mais longe (menos pop-in); Máx. sempre desenha a mais detalhada.",
+   "category": "help",
+   "context": "Descrição de DIST. DETALHE",
+   "screen": "VÍDEO",
+   "condition": "linha DIST. DETALHE selecionada",
+   "source": "src/renut_engine/game/graphics_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 177,
+   "pt_bytes": 173,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37925600,
+     "rva": 37932256,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4278074
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "help.gfx.grass_distance",
+   "en": "How far the level's grass is drawn, and its density kept: 1x is the game's, 2x, 4x and 8x draw it that many times farther away (less pop-in, more grass to draw).",
+   "pt": "Até onde o capim do nível é desenhado, e sua densidade: 1x é a do jogo; 2x, 4x e 8x desenham essa quantidade de vezes mais longe (menos pop-in, mais capim).",
+   "category": "help",
+   "context": "Descrição de DIST. GRAMA",
+   "screen": "VÍDEO",
+   "condition": "linha DIST. GRAMA selecionada",
+   "source": "src/renut_engine/game/graphics_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 161,
+   "pt_bytes": 160,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37928718,
+     "rva": 37935374,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4278290
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "help.gfx.depth_of_field",
+   "en": "Depth of field blur on what is out of focus: the game's own, Reduced (half as strong) or Off.",
+   "pt": "Desfoque do que está fora de foco: o do jogo, Reduzido (metade) ou Desligado.",
+   "category": "help",
+   "context": "Descrição de PROFUND. CAMPO",
+   "screen": "VÍDEO",
+   "condition": "linha PROFUND. CAMPO selecionada",
+   "source": "src/renut_engine/game/graphics_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 93,
+   "pt_bytes": 78,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37919066,
+     "rva": 37925722,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 10290414
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "help.gfx.bloom",
+   "en": "Glow around bright light and sky: the game's own, Reduced (half as strong) or Off.",
+   "pt": "Brilho ao redor de luz forte e céu: o do jogo, Reduzido (metade) ou Desligado.",
+   "category": "help",
+   "context": "Descrição de BLOOM",
+   "screen": "VÍDEO",
+   "condition": "linha BLOOM selecionada",
+   "source": "src/renut_engine/game/graphics_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 82,
+   "pt_bytes": 79,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37918983,
+     "rva": 37925639,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 10290668
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "help.gfx.msaa",
+   "en": "Multisample anti-aliasing of the scene: the game's own, Off, or 2x, 4x or 8x. More samples smooth edges more but cost GPU time and memory, most at high resolutions. Applies from the next frame.",
+   "pt": "Antisserrilhamento multisample da cena: o do jogo, Deslig., 2x, 4x ou 8x. Mais amostras suavizam as bordas, mas custam GPU e memória, sobretudo em alta resolução. Aplica no próximo quadro.",
+   "category": "help",
+   "context": "Descrição de MSAA",
+   "screen": "VÍDEO",
+   "condition": "linha MSAA selecionada",
+   "source": "src/renut_engine/game/graphics_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 193,
+   "pt_bytes": 192,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37921194,
+     "rva": 37927850,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 10290922
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "help.gfx.alpha_to_coverage",
+   "en": "Smooth the cut-out edges of leaves, grass, fences and other alpha-tested surfaces with the scene's multisampling (needs MSAA on: Game, 2x, 4x or 8x).",
+   "pt": "Suaviza as bordas recortadas de folhas, capim, cercas e outras superfícies com alfa pelo multisample da cena (precisa de MSAA: Jogo, 2x, 4x ou 8x).",
+   "category": "help",
+   "context": "Descrição de CORTES SUAVES",
+   "screen": "VÍDEO",
+   "condition": "linha CORTES SUAVES selecionada",
+   "source": "src/renut_engine/game/graphics_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 149,
+   "pt_bytes": 148,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37928568,
+     "rva": 37935224,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 10291411
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "help.gfx.anti_aliasing",
+   "en": "Anti-aliasing of the finished frame, on top of MSAA: Off, FXAA (fast; smooths every edge, the HUD's too, and softens the image a little) or SMAA (follows edges' shapes: smoother edges, text and textures kept sharp, a little more GPU time).",
+   "pt": "Antisserrilhamento do quadro final, além do MSAA: Deslig., FXAA (rápido; suaviza toda borda, inclusive a HUD, e amacia um pouco a imagem) ou SMAA (segue o formato das bordas: mais suaves, texto e texturas nítidos, um pouco mais de GPU).",
+   "category": "help",
+   "context": "Descrição de ANTIALIASING",
+   "screen": "VÍDEO",
+   "condition": "linha ANTIALIASING selecionada",
+   "source": "src/renut_engine/game/graphics_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 239,
+   "pt_bytes": 239,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37929755,
+     "rva": 37936411,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 10291211
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "help.gfx.vsync",
+   "en": "Show each frame at the display's refresh: no tearing, and the game runs at the refresh rate (frame_cap then only limits below it). Off shows frames at once, with tearing.",
+   "pt": "Mostra cada quadro na taxa do monitor: sem rasgos, e o jogo roda na taxa (o limite de FPS só vale abaixo dela). Deslig. mostra na hora, com rasgos.",
+   "category": "help",
+   "context": "Descrição de V-SYNC",
+   "screen": "VÍDEO",
+   "condition": "linha V-SYNC selecionada",
+   "source": "src/renut_engine/game/graphics_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 170,
+   "pt_bytes": 148,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37917935,
+     "rva": 37924591,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 9882454
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "help.gfx.frame_cap",
+   "en": "Frame-rate cap (low-overhead limiter that cuts GPU load). Off = uncapped, Display = match monitor refresh. With renut_vsync on, the display paces the game at its refresh, and only caps below it apply.",
+   "pt": "Limite de quadros por segundo (limitador leve que corta carga da GPU). Deslig. = sem limite, Tela = acompanha o monitor. Com V-Sync ligado, a tela dita a taxa e só limites menores valem.",
+   "category": "help",
+   "context": "Descrição de FPS MÁX.",
+   "screen": "VÍDEO",
+   "condition": "linha FPS MÁX. selecionada",
+   "source": "src/renut_engine/game/graphics_menu.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 200,
+   "pt_bytes": 187,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37903016,
+     "rva": 37909672,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4183775
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "help.input.sensitivity",
+   "en": "How far the camera turns per mouse movement (renut_mouse_camera).",
+   "pt": "Quanto a câmera gira com o mouse (renut_mouse_camera).",
+   "category": "help",
+   "context": "Descrição de SENSIB. MOUSE",
+   "screen": "CONTROLES",
+   "condition": "linha SENSIB. MOUSE selecionada",
+   "source": "src/renut_engine/hid/input_system.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 65,
+   "pt_bytes": 55,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37930515,
+     "rva": 37937171,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4289011
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "help.input.invert_y",
+   "en": "Moving the mouse up looks down (renut_mouse_camera).",
+   "pt": "Mouse acima olha para baixo (renut_mouse_camera).",
+   "category": "help",
+   "context": "Descrição de INVERTER Y",
+   "screen": "CONTROLES",
+   "condition": "linha INVERTER Y selecionada",
+   "source": "src/renut_engine/hid/input_system.cpp",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 52,
+   "pt_bytes": 49,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37930581,
+     "rva": 37937237,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4289259
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "help.input.player1",
+   "en": "Only player 1 (the first controller to press A) plays; the other controllers are not connected. Off: they are players 2-4, and the game asks them to sign in (only player 1 has a profile).",
+   "pt": "Só o jogador 1 (o primeiro controle a apertar A) joga; os outros controles não são conectados. Deslig.: são os jogadores 2 a 4, e o jogo pede que entrem (só o jogador 1 tem perfil).",
+   "category": "help",
+   "context": "Descrição de SÓ JOGADOR 1",
+   "screen": "CONTROLES",
+   "condition": "linha SÓ JOGADOR 1 selecionada",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:238",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 187,
+   "pt_bytes": 186,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37930255,
+     "rva": 37936911,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 4275190
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "picker.folder_title",
+   "en": "Choose a folder",
+   "pt": "Escolha uma pasta",
+   "category": "picker",
+   "context": "Título do seletor de pasta",
+   "screen": "PASTA JOGO / UPDATE / SAVE",
+   "condition": "ao escolher uma pasta",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:743",
+   "encoding": "utf-16le",
+   "file": "renut.exe",
+   "en_bytes": 30,
+   "pt_bytes": 34,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37958542,
+     "rva": 37965198,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6142994
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "picker.disc_title",
+   "en": "Choose the game disc's image",
+   "pt": "Escolha a imagem do disco",
+   "category": "picker",
+   "context": "Título do seletor de ISO",
+   "screen": "EXTRAIR DISCO",
+   "condition": "ao extrair o disco",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:744",
+   "encoding": "utf-16le",
+   "file": "renut.exe",
+   "en_bytes": 56,
+   "pt_bytes": 50,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37959468,
+     "rva": 37966124,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6143001
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "picker.update_title",
+   "en": "Choose Title Update #3 (the TU_... file)",
+   "pt": "Escolha a Atualização #3 (TU_...)",
+   "category": "picker",
+   "context": "Título do seletor de atualização",
+   "screen": "EXTRAIR TÍTULO / PASTA UPDATE",
+   "condition": "ao extrair ou escolher a atualização",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:745",
+   "encoding": "utf-16le",
+   "file": "renut.exe",
+   "en_bytes": 80,
+   "pt_bytes": 66,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37961318,
+     "rva": 37967974,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6143015
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "picker.screenshot_title",
+   "en": "Choose a screenshot of the vehicle",
+   "pt": "Escolha uma captura do veículo",
+   "category": "picker",
+   "context": "Título do seletor de captura",
+   "screen": "COMPARTILHAR",
+   "condition": "ao escolher a captura",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:746",
+   "encoding": "utf-16le",
+   "file": "renut.exe",
+   "en_bytes": 68,
+   "pt_bytes": 60,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37959386,
+     "rva": 37966042,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6142985
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "picker.dlc_title",
+   "en": "Choose the DLC package",
+   "pt": "Escolha o pacote DLC",
+   "category": "picker",
+   "context": "Título do seletor de DLC",
+   "screen": "ADICIONAR DLC",
+   "condition": "ao adicionar DLC",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:747",
+   "encoding": "utf-16le",
+   "file": "renut.exe",
+   "en_bytes": 44,
+   "pt_bytes": 40,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37959526,
+     "rva": 37966182,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6142900
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "picker.filter_discs",
+   "en": "Disc images (*.iso)",
+   "pt": "Imagens (*.iso)",
+   "category": "picker",
+   "context": "Filtro do seletor de ISO",
+   "screen": "EXTRAIR DISCO",
+   "condition": "ao extrair o disco",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:736",
+   "encoding": "utf-16le",
+   "file": "renut.exe",
+   "en_bytes": 38,
+   "pt_bytes": 30,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37961230,
+     "rva": 37967886,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939648,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "picker.filter_all",
+   "en": "All files",
+   "pt": "Todos",
+   "category": "picker",
+   "context": "Filtro do seletor",
+   "screen": "Seletores de arquivo",
+   "condition": "quando o seletor lista tudo",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:736",
+   "encoding": "utf-16le",
+   "file": "renut.exe",
+   "en_bytes": 18,
+   "pt_bytes": 10,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37958228,
+     "rva": 37964884,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939664,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "picker.filter_pictures",
+   "en": "Pictures (*.png, *.jpg)",
+   "pt": "Imagens (*.png, *.jpg)",
+   "category": "picker",
+   "context": "Filtro do seletor de captura",
+   "screen": "COMPARTILHAR",
+   "condition": "ao escolher a captura",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:740",
+   "encoding": "utf-16le",
+   "file": "renut.exe",
+   "en_bytes": 46,
+   "pt_bytes": 44,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37961270,
+     "rva": 37967926,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "ptr",
+     "file_off": 18939680,
+     "addr": null
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.write_to",
+   "en": "Can't write to ",
+   "pt": "Não foi possível gravar em ",
+   "category": "message",
+   "context": "Falha ao escrever",
+   "screen": "MENU",
+   "condition": "disco cheio ou pasta sem permissão",
+   "source": "src/renut_engine/app/game_setup.cpp:80",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 15,
+   "pt_bytes": 29,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37943644,
+     "rva": 37950300,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5802712
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.write",
+   "en": "Can't write ",
+   "pt": "Não foi possível gravar ",
+   "category": "message",
+   "context": "Falha ao escrever",
+   "screen": "MENU",
+   "condition": "disco cheio ou pasta sem permissão",
+   "source": "src/renut_engine/app/game_setup.cpp:91",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 12,
+   "pt_bytes": 26,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37944679,
+     "rva": 37951335,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5805990
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5806098
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5807426
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5814582
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5815118
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5815226
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.disk_full",
+   "en": " (is the disk full?).",
+   "pt": " (o disco está cheio?).",
+   "category": "message",
+   "context": "Sufixo de erro de escrita",
+   "screen": "MENU",
+   "condition": "disco cheio",
+   "source": "src/renut_engine/app/game_setup.cpp:91",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 21,
+   "pt_bytes": 24,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37930815,
+     "rva": 37937471,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5806124
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5807444
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5814608
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5815252
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.read",
+   "en": "Can't read ",
+   "pt": "Não foi possível ler ",
+   "category": "message",
+   "context": "Falha ao ler",
+   "screen": "MENU",
+   "condition": "arquivo danificado",
+   "source": "src/renut_engine/app/game_setup.cpp:108",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 11,
+   "pt_bytes": 23,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37945524,
+     "rva": 37952180,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5805850
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5815010
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.file_damaged",
+   "en": " (is the file damaged?).",
+   "pt": " (o arquivo está danificado?).",
+   "category": "message",
+   "context": "Sufixo de erro de leitura",
+   "screen": "MENU",
+   "condition": "arquivo danificado",
+   "source": "src/renut_engine/app/game_setup.cpp:108",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 24,
+   "pt_bytes": 31,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37930872,
+     "rva": 37937528,
+     "standalone": false
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5805876
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.make",
+   "en": "Can't make ",
+   "pt": "Não foi possível criar ",
+   "category": "message",
+   "context": "Falha ao criar pasta",
+   "screen": "MENU",
+   "condition": "pasta sem permissão",
+   "source": "src/renut_engine/app/game_setup.cpp:137",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 11,
+   "pt_bytes": 25,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37944895,
+     "rva": 37951551,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5803717
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.not_gdfx",
+   "en": "That is not an Xbox 360 game disc image.",
+   "pt": "Isso não é uma imagem de disco de jogo do Xbox 360.",
+   "category": "message",
+   "context": "ISO inválida",
+   "screen": "MENU",
+   "condition": "arquivo escolhido não é GDFX",
+   "source": "src/renut_engine/app/game_setup.cpp:202",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 40,
+   "pt_bytes": 53,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37922185,
+     "rva": 37928841,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5800540
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.no_default_xex",
+   "en": "That disc image has no default.xex.",
+   "pt": "A imagem de disco não tem default.xex.",
+   "category": "message",
+   "context": "ISO sem executável",
+   "screen": "MENU",
+   "condition": "imagem sem default.xex",
+   "source": "src/renut_engine/app/game_setup.cpp:206",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 35,
+   "pt_bytes": 39,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37903599,
+     "rva": 37910255,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5800591
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.other_game_disc",
+   "en": "That is another game's disc (title {:08X}), not Nuts & Bolts.",
+   "pt": "Esse disco é de outro jogo (título {:08X}), não de Nuts & Bolts.",
+   "category": "message",
+   "context": "Disco de outro jogo",
+   "screen": "MENU",
+   "condition": "title id diferente",
+   "source": "src/renut_engine/app/game_setup.cpp:209",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 61,
+   "pt_bytes": 67,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37908050,
+     "rva": 37914706,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5800633
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.other_region_disc",
+   "en": "That is another region's Nuts & Bolts disc: reNut runs the US (NTSC) version.",
+   "pt": "Esse disco de Nuts & Bolts é de outra região: o reNut roda a versão US (NTSC).",
+   "category": "message",
+   "context": "Disco de outra região",
+   "screen": "MENU",
+   "condition": "media id diferente",
+   "source": "src/renut_engine/app/game_setup.cpp:211",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 77,
+   "pt_bytes": 81,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37915461,
+     "rva": 37922117,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5800713
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.files_in",
+   "en": "The game's files are in ",
+   "pt": "Os arquivos do jogo estão em ",
+   "category": "message",
+   "context": "Extração concluída",
+   "screen": "MENU",
+   "condition": "após extrair o disco",
+   "source": "src/renut_engine/app/game_setup.cpp:217",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 24,
+   "pt_bytes": 30,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37943751,
+     "rva": 37950407,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5799872
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5799944
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.not_package",
+   "en": "That is not an Xbox 360 package (the title update is the file named TU_...).",
+   "pt": "Isso não é um pacote do Xbox 360 (a atualização é o arquivo chamado TU_...).",
+   "category": "message",
+   "context": "Pacote inválido",
+   "screen": "MENU",
+   "condition": "arquivo escolhido não é pacote",
+   "source": "src/renut_engine/app/game_setup.cpp:223",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 76,
+   "pt_bytes": 81,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37931039,
+     "rva": 37937695,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5809493
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.package_other_game",
+   "en": "That package is for another game.",
+   "pt": "Esse pacote é de outro jogo.",
+   "category": "message",
+   "context": "Pacote de outro jogo",
+   "screen": "MENU",
+   "condition": "title id diferente",
+   "source": "src/renut_engine/app/game_setup.cpp:225",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 33,
+   "pt_bytes": 29,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37921753,
+     "rva": 37928409,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5809530
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.not_title_update",
+   "en": "That package is not a title update.",
+   "pt": "Esse pacote não é uma atualização de título.",
+   "category": "message",
+   "context": "Pacote não é atualização",
+   "screen": "MENU",
+   "condition": "content type diferente",
+   "source": "src/renut_engine/app/game_setup.cpp:227",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 35,
+   "pt_bytes": 49,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37919873,
+     "rva": 37926529,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5809567
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.update_other_region",
+   "en": "That title update is for another region's Nuts & Bolts: reNut needs the US (NTSC) one.",
+   "pt": "Essa atualização é de outra região de Nuts & Bolts: o reNut precisa da US (NTSC).",
+   "category": "message",
+   "context": "Atualização de outra região",
+   "screen": "MENU",
+   "condition": "media id diferente",
+   "source": "src/renut_engine/app/game_setup.cpp:229",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 86,
+   "pt_bytes": 85,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37921003,
+     "rva": 37927659,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5809604
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.wrong_update_prefix",
+   "en": "That is ",
+   "pt": "Esse é o ",
+   "category": "message",
+   "context": "Atualização errada",
+   "screen": "MENU",
+   "condition": "nome de atualização diferente de #3",
+   "source": "src/renut_engine/app/game_setup.cpp:232",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 8,
+   "pt_bytes": 10,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37943074,
+     "rva": 37949730,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5809830
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.wrong_update_suffix",
+   "en": "; reNut runs on Title Update #3.",
+   "pt": "; o reNut roda na Atualização de Título #3.",
+   "category": "message",
+   "context": "Atualização errada",
+   "screen": "MENU",
+   "condition": "nome de atualização diferente de #3",
+   "source": "src/renut_engine/app/game_setup.cpp:232",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 32,
+   "pt_bytes": 46,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37928142,
+     "rva": 37934798,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5809849
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.update_folder_own",
+   "en": "The update folder has to be a folder of its own, not the game folder.",
+   "pt": "A pasta de atualização tem de ser uma pasta separada, não a pasta do jogo.",
+   "category": "message",
+   "context": "Pasta de atualização inválida",
+   "screen": "MENU",
+   "condition": "pasta de update = pasta do jogo",
+   "source": "src/renut_engine/app/game_setup.cpp:234",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 69,
+   "pt_bytes": 77,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37914370,
+     "rva": 37921026,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5809641
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.update_unreadable",
+   "en": "That title update could not be read (is the file damaged?).",
+   "pt": "Não foi possível ler essa atualização (o arquivo está danificado?).",
+   "category": "message",
+   "context": "Atualização ilegível",
+   "screen": "MENU",
+   "condition": "arquivo danificado",
+   "source": "src/renut_engine/app/game_setup.cpp:237",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 59,
+   "pt_bytes": 72,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37930837,
+     "rva": 37937493,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5809743
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.no_default_xexp",
+   "en": "That title update has no default.xexp.",
+   "pt": "Essa atualização não tem default.xexp.",
+   "category": "message",
+   "context": "Atualização sem executável",
+   "screen": "MENU",
+   "condition": "pacote sem default.xexp",
+   "source": "src/renut_engine/app/game_setup.cpp:241",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 38,
+   "pt_bytes": 41,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37914564,
+     "rva": 37921220,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5809787
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.title_update",
+   "en": "The title update",
+   "pt": "A atualização",
+   "category": "message",
+   "context": "Nome padrão da atualização",
+   "screen": "MENU",
+   "condition": "pacote sem nome interno",
+   "source": "src/renut_engine/app/game_setup.cpp:250",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 16,
+   "pt_bytes": 15,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37840245,
+     "rva": 37846901,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5809059
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.in_place",
+   "en": " is in place.",
+   "pt": " aplicada.",
+   "category": "message",
+   "context": "Atualização aplicada",
+   "screen": "MENU",
+   "condition": "após extrair a atualização",
+   "source": "src/renut_engine/app/game_setup.cpp:250",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 13,
+   "pt_bytes": 10,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37924112,
+     "rva": 37930768,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5809104
+    }
+   ],
+   "immediates": [
+    {
+     "file_off": 5805938,
+     "window": 0,
+     "size": 8
+    },
+    {
+     "file_off": 5805923,
+     "window": 5,
+     "size": 8
+    }
+   ]
+  },
+  {
+   "id": "setup.one_dlc",
+   "en": "Choose the one DLC package.",
+   "pt": "Escolha o único pacote DLC.",
+   "category": "message",
+   "context": "DLC inválido",
+   "screen": "MENU",
+   "condition": "nenhum ou mais de um pacote DLC",
+   "source": "src/renut_engine/app/game_setup.cpp:276",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 27,
+   "pt_bytes": 28,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37922226,
+     "rva": 37928882,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5815312
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.dlc_added",
+   "en": "The DLC is already added.",
+   "pt": "O DLC já foi adicionado.",
+   "category": "message",
+   "context": "DLC duplicado",
+   "screen": "MENU",
+   "condition": "DLC já presente",
+   "source": "src/renut_engine/app/game_setup.cpp:282",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 25,
+   "pt_bytes": 25,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37926459,
+     "rva": 37933115,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5814956
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.not_package_suffix",
+   "en": " is not an Xbox 360 package.",
+   "pt": " não é um pacote do Xbox 360.",
+   "category": "message",
+   "context": "Pacote inválido",
+   "screen": "MENU",
+   "condition": "arquivo escolhido não é pacote",
+   "source": "src/renut_engine/app/game_setup.cpp:289",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 28,
+   "pt_bytes": 31,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37922254,
+     "rva": 37928910,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5814897
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.other_game_suffix",
+   "en": " is for another game.",
+   "pt": " é de outro jogo.",
+   "category": "message",
+   "context": "Pacote de outro jogo",
+   "screen": "MENU",
+   "condition": "title id diferente",
+   "source": "src/renut_engine/app/game_setup.cpp:291",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 21,
+   "pt_bytes": 18,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37921765,
+     "rva": 37928421,
+     "standalone": false
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5814800
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.not_dlc_suffix",
+   "en": " is not DLC.",
+   "pt": " não é DLC.",
+   "category": "message",
+   "context": "Pacote não é DLC",
+   "screen": "MENU",
+   "condition": "content type diferente",
+   "source": "src/renut_engine/app/game_setup.cpp:293",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 12,
+   "pt_bytes": 13,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37927925,
+     "rva": 37934581,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5814703
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.dlc",
+   "en": "The DLC",
+   "pt": "O DLC",
+   "category": "message",
+   "context": "Nome padrão do DLC",
+   "screen": "MENU",
+   "condition": "pacote sem nome interno",
+   "source": "src/renut_engine/app/game_setup.cpp:307",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 7,
+   "pt_bytes": 5,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [],
+   "refs": [],
+   "immediates": [
+    {
+     "file_off": 5810661,
+     "window": 0,
+     "size": 4
+    },
+    {
+     "file_off": 5810671,
+     "window": 3,
+     "size": 4
+    }
+   ]
+  },
+  {
+   "id": "setup.installs",
+   "en": " installs when the game starts.",
+   "pt": " instala quando o jogo iniciar.",
+   "category": "message",
+   "context": "DLC copiado",
+   "screen": "MENU",
+   "condition": "após adicionar DLC",
+   "source": "src/renut_engine/app/game_setup.cpp:307",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 31,
+   "pt_bytes": 31,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37907688,
+     "rva": 37914344,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5813967
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5814035
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.dlc_count",
+   "en": "{} DLC packages install when the game starts.",
+   "pt": "{} pacotes DLC instalam quando o jogo iniciar.",
+   "category": "message",
+   "context": "Vários DLCs copiados",
+   "screen": "MENU",
+   "condition": "após adicionar mais de um DLC",
+   "source": "src/renut_engine/app/game_setup.cpp:308",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 45,
+   "pt_bytes": 46,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37907787,
+     "rva": 37914443,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5813631
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "setup.cancelled",
+   "en": "Stopped before it finished.",
+   "pt": "Parou antes de terminar.",
+   "category": "message",
+   "context": "Operação cancelada",
+   "screen": "MENU",
+   "condition": "ESC/B durante extração",
+   "source": "src/renut_engine/app/game_setup.cpp:328",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 27,
+   "pt_bytes": 24,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37926174,
+     "rva": 37932830,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5798610
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "update.github_answered",
+   "en": "GitHub answered ",
+   "pt": "O GitHub respondeu ",
+   "category": "message",
+   "context": "Falha do atualizador",
+   "screen": "MENU",
+   "condition": "resposta HTTP de erro",
+   "source": "src/renut_engine/app/updater.cpp:122",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 16,
+   "pt_bytes": 19,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37945123,
+     "rva": 37951779,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5916006
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5916319
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5926404
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "update.download_of",
+   "en": "the download of ",
+   "pt": "o download de ",
+   "category": "message",
+   "context": "Falha do atualizador",
+   "screen": "MENU",
+   "condition": "download interrompido",
+   "source": "src/renut_engine/app/updater.cpp:123",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 16,
+   "pt_bytes": 14,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37944526,
+     "rva": 37951182,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5926167
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "update.failed_paren",
+   "en": " failed (",
+   "pt": " falhou (",
+   "category": "message",
+   "context": "Falha do atualizador",
+   "screen": "MENU",
+   "condition": "download interrompido",
+   "source": "src/renut_engine/app/updater.cpp:123",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 9,
+   "pt_bytes": 9,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37938290,
+     "rva": 37944946,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5926189
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "update.not_whole",
+   "en": " did not download whole",
+   "pt": " não foi baixado por inteiro",
+   "category": "message",
+   "context": "Falha do atualizador",
+   "screen": "MENU",
+   "condition": "download incompleto",
+   "source": "src/renut_engine/app/updater.cpp:127",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 23,
+   "pt_bytes": 29,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37845221,
+     "rva": 37851877,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5926343
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "update.cant_write",
+   "en": "can't write ",
+   "pt": "não foi possível gravar ",
+   "category": "message",
+   "context": "Falha do atualizador",
+   "screen": "MENU",
+   "condition": "pasta sem permissão",
+   "source": "src/renut_engine/app/updater.cpp:137",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 12,
+   "pt_bytes": 26,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37944666,
+     "rva": 37951322,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5562844
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5562946
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5936845
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "update.zip_unreadable",
+   "en": "the release's zip can't be read (",
+   "pt": "não foi possível ler o zip da versão (",
+   "category": "message",
+   "context": "Falha do atualizador",
+   "screen": "MENU",
+   "condition": "zip danificado",
+   "source": "src/renut_engine/app/updater.cpp:148",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 33,
+   "pt_bytes": 41,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37938331,
+     "rva": 37944987,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5926272
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "update.zip_outside",
+   "en": "the release's zip has a file outside its folder (",
+   "pt": "o zip da versão tem um arquivo fora da pasta (",
+   "category": "message",
+   "context": "Falha do atualizador",
+   "screen": "MENU",
+   "condition": "zip suspeito",
+   "source": "src/renut_engine/app/updater.cpp:155",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 49,
+   "pt_bytes": 47,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37938125,
+     "rva": 37944781,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5925824
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "update.zip_damaged",
+   "en": "the release's zip is damaged (",
+   "pt": "o zip da versão está danificado (",
+   "category": "message",
+   "context": "Falha do atualizador",
+   "screen": "MENU",
+   "condition": "zip danificado",
+   "source": "src/renut_engine/app/updater.cpp:158",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 30,
+   "pt_bytes": 35,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37938300,
+     "rva": 37944956,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5926062
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "update.cant_move",
+   "en": "can't move ",
+   "pt": "não foi possível mover ",
+   "category": "message",
+   "context": "Falha do atualizador",
+   "screen": "MENU",
+   "condition": "arquivo em uso",
+   "source": "src/renut_engine/app/updater.cpp:176",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 11,
+   "pt_bytes": 25,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37944555,
+     "rva": 37951211,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5925934
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "update.aside",
+   "en": " aside (",
+   "pt": " de lado (",
+   "category": "message",
+   "context": "Falha do atualizador",
+   "screen": "MENU",
+   "condition": "arquivo em uso",
+   "source": "src/renut_engine/app/updater.cpp:176",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 8,
+   "pt_bytes": 10,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37938269,
+     "rva": 37944925,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5925960
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "update.cant_put",
+   "en": "can't put ",
+   "pt": "não foi possível colocar ",
+   "category": "message",
+   "context": "Falha do atualizador",
+   "screen": "MENU",
+   "condition": "arquivo em uso",
+   "source": "src/renut_engine/app/updater.cpp:180",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 10,
+   "pt_bytes": 27,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37942735,
+     "rva": 37949391,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5925676
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "update.in_place",
+   "en": " in place (",
+   "pt": " no lugar (",
+   "category": "message",
+   "context": "Falha do atualizador",
+   "screen": "MENU",
+   "condition": "arquivo em uso",
+   "source": "src/renut_engine/app/updater.cpp:180",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 11,
+   "pt_bytes": 11,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37938278,
+     "rva": 37944934,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5925702
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "update.no_connection",
+   "en": "no connection to GitHub",
+   "pt": "sem conexão com o GitHub",
+   "category": "message",
+   "context": "Falha do atualizador",
+   "screen": "MENU",
+   "condition": "sem rede",
+   "source": "src/renut_engine/app/updater.cpp:218",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 23,
+   "pt_bytes": 25,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37863381,
+     "rva": 37870037,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5916111
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "update.answer_unreadable",
+   "en": "GitHub's answer could not be read",
+   "pt": "não foi possível ler a resposta do GitHub",
+   "category": "message",
+   "context": "Falha do atualizador",
+   "screen": "MENU",
+   "condition": "resposta inválida",
+   "source": "src/renut_engine/app/updater.cpp:225",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 33,
+   "pt_bytes": 43,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37861944,
+     "rva": 37868600,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5927489
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "update.no_release",
+   "en": "GitHub named no release",
+   "pt": "o GitHub não indicou nenhuma versão",
+   "category": "message",
+   "context": "Falha do atualizador",
+   "screen": "MENU",
+   "condition": "nenhuma versão publicada",
+   "source": "src/renut_engine/app/updater.cpp:231",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 23,
+   "pt_bytes": 37,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37840809,
+     "rva": 37847465,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5916197
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "update.no_download",
+   "en": "the release has no download for this system",
+   "pt": "a versão não tem download para este sistema",
+   "category": "message",
+   "context": "Falha do atualizador",
+   "screen": "MENU",
+   "condition": "asset ausente",
+   "source": "src/renut_engine/app/updater.cpp:249",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 43,
+   "pt_bytes": 45,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37823855,
+     "rva": 37830511,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5926512
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "workshop.screenshot_unreadable",
+   "en": "The screenshot could not be read (it has to be a PNG or JPEG).",
+   "pt": "Não foi possível ler a captura (tem de ser PNG ou JPEG).",
+   "category": "message",
+   "context": "Captura inválida",
+   "screen": "COMPARTILHAR",
+   "condition": "arquivo de captura inválido",
+   "source": "src/renut_engine/app/workshop.cpp:166",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 62,
+   "pt_bytes": 58,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37930634,
+     "rva": 37937290,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5992788
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5992865
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "workshop.screenshot_too_big",
+   "en": "The screenshot could not be made small enough for GitHub.",
+   "pt": "Não foi possível reduzir a captura o bastante para o GitHub.",
+   "category": "message",
+   "context": "Captura grande demais",
+   "screen": "COMPARTILHAR",
+   "condition": "captura não reduz o suficiente",
+   "source": "src/renut_engine/app/workshop.cpp:186",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 57,
+   "pt_bytes": 62,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37927576,
+     "rva": 37934232,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5992550
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5994540
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "workshop.list_unreadable",
+   "en": "The workshop's list could not be read.",
+   "pt": "Não foi possível ler a lista da oficina.",
+   "category": "message",
+   "context": "Lista da oficina inválida",
+   "screen": "OFICINA",
+   "condition": "JSON da oficina inválido",
+   "source": "src/renut_engine/app/workshop.cpp:214",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 38,
+   "pt_bytes": 42,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37927148,
+     "rva": 37933804,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5945467
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "workshop.download_incomplete",
+   "en": " did not download whole; try again.",
+   "pt": " não foi baixado por inteiro; tente de novo.",
+   "category": "message",
+   "context": "Download incompleto",
+   "screen": "OFICINA",
+   "condition": "veículo baixado pela metade",
+   "source": "src/renut_engine/app/workshop.cpp:247",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 35,
+   "pt_bytes": 45,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37916036,
+     "rva": 37922692,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5949570
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "workshop.write_save_folder",
+   "en": "Can't write to the save folder: ",
+   "pt": "Não foi possível gravar na pasta de saves: ",
+   "category": "message",
+   "context": "Falha ao gravar no save",
+   "screen": "OFICINA",
+   "condition": "pasta de saves sem permissão",
+   "source": "src/renut_engine/app/workshop.cpp:251",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 32,
+   "pt_bytes": 45,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37945846,
+     "rva": 37952502,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5949475
+    },
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5950032
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "workshop.write_vehicle",
+   "en": "Can't write the vehicle into the save folder.",
+   "pt": "Não foi possível gravar o veículo na pasta de saves.",
+   "category": "message",
+   "context": "Falha ao gravar no save",
+   "screen": "OFICINA",
+   "condition": "pasta de saves sem permissão",
+   "source": "src/renut_engine/app/workshop.cpp:273",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 45,
+   "pt_bytes": 55,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37914324,
+     "rva": 37920980,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5952799
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "workshop.write_header",
+   "en": "Can't write the vehicle's header into the save folder.",
+   "pt": "Não foi possível gravar o cabeçalho do veículo na pasta de saves.",
+   "category": "message",
+   "context": "Falha ao gravar no save",
+   "screen": "OFICINA",
+   "condition": "pasta de saves sem permissão",
+   "source": "src/renut_engine/app/workshop.cpp:292",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 54,
+   "pt_bytes": 69,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37914269,
+     "rva": 37920925,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5955684
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "workshop.vehicle_damaged",
+   "en": "That vehicle's file is damaged.",
+   "pt": "O arquivo desse veículo está danificado.",
+   "category": "message",
+   "context": "Veículo danificado",
+   "screen": "COMPARTILHAR",
+   "condition": "arquivo de veículo inválido",
+   "source": "src/renut_engine/app/workshop.cpp:386",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 31,
+   "pt_bytes": 42,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37926382,
+     "rva": 37933038,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5973524
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "workshop.give_name",
+   "en": "Give the vehicle a name.",
+   "pt": "Dê um nome ao veículo.",
+   "category": "message",
+   "context": "Nome vazio",
+   "screen": "COMPARTILHAR",
+   "condition": "envio sem nome",
+   "source": "src/renut_engine/app/workshop.cpp:388",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 24,
+   "pt_bytes": 24,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37921728,
+     "rva": 37928384,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5974762
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "workshop.choose_screenshot",
+   "en": "Choose a screenshot of the vehicle.",
+   "pt": "Escolha uma captura do veículo.",
+   "category": "message",
+   "context": "Captura ausente",
+   "screen": "COMPARTILHAR",
+   "condition": "envio sem captura",
+   "source": "src/renut_engine/app/workshop.cpp:390",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 35,
+   "pt_bytes": 32,
+   "mode": "in_place",
+   "status": "traduzida no mesmo espaço",
+   "occurrences": [
+    {
+     "offset": 37921831,
+     "rva": 37928487,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5974900
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "workshop.vehicle_too_big",
+   "en": "That vehicle is too big to share through GitHub.",
+   "pt": "Esse veículo é grande demais para compartilhar pelo GitHub.",
+   "category": "message",
+   "context": "Veículo grande demais",
+   "screen": "COMPARTILHAR",
+   "condition": "arquivo acima do limite",
+   "source": "src/renut_engine/app/workshop.cpp:415",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 48,
+   "pt_bytes": 61,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37927634,
+     "rva": 37934290,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 5976742
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "share.none",
+   "en": "NONE",
+   "pt": "NADA",
+   "category": "value",
+   "context": "Valor vazio",
+   "screen": "COMPARTILHAR / valor de tecla",
+   "condition": "nenhum veículo ou tecla vazia",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:319,2013",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 4,
+   "pt_bytes": 4,
+   "mode": "code_immediate",
+   "status": "traduzida por imediato de código",
+   "occurrences": [
+    {
+     "offset": 6185405,
+     "rva": null,
+     "standalone": false
+    },
+    {
+     "offset": 6194899,
+     "rva": null,
+     "standalone": false
+    }
+   ],
+   "refs": [],
+   "immediates": []
+  },
+  {
+   "id": "value.on",
+   "en": "ON",
+   "pt": "SIM",
+   "category": "value",
+   "context": "Interruptor ligado",
+   "screen": "VÍDEO / CONTROLES",
+   "condition": "configuração booleana ligada",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:321",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 2,
+   "pt_bytes": 3,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37881838,
+     "rva": 37888494,
+     "standalone": false
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6188566
+    }
+   ],
+   "immediates": []
+  },
+  {
+   "id": "value.off",
+   "en": "OFF",
+   "pt": "NÃO",
+   "category": "value",
+   "context": "Interruptor desligado",
+   "screen": "VÍDEO / CONTROLES",
+   "condition": "configuração booleana desligada",
+   "source": "src/renut_engine/ui/launcher_menu.cpp:321",
+   "encoding": "utf-8",
+   "file": "renut.exe",
+   "en_bytes": 3,
+   "pt_bytes": 4,
+   "mode": "relocate",
+   "status": "traduzida e realocada",
+   "occurrences": [
+    {
+     "offset": 37884152,
+     "rva": 37890808,
+     "standalone": true
+    }
+   ],
+   "refs": [
+    {
+     "kind": "rip",
+     "file_off": null,
+     "addr": 6188541
+    }
+   ],
+   "immediates": []
+  }
+ ]
+}

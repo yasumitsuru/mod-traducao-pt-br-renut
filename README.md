@@ -31,6 +31,19 @@ As telas principais foram conferidas em jogo. Desafios dentro dos mundos, garage
 finais, multijogador e cenas posteriores foram validados pelo texto, mas **não foram percorridos
 visualmente**; por isso não afirmamos homologação visual de todas as áreas.
 
+## Launcher do reNut (prévia 0.9.0, não lançada)
+
+O repositório também publica o código, o catálogo e a documentação da tradução da interface do
+launcher original do reNut. O patch binário **não é distribuído**: o reNut não possui licença formal
+que autorize redistribuir binários modificados. O gerador `launcher-patch/gerar_patch.py` cria o
+patch na sua máquina a partir da sua cópia legítima do reNut `big-lua-energy` (0.11.21); o aplicador
+confere o SHA-256 antes e depois de gravar.
+
+- Cobertura textual: 225/225 entradas do executável + 2 descrições em DLLs.
+- Cobertura visual: 14 PASS, 1 PARTIAL, 1 BLOCKED e 6 NOT_TESTED; **não é 100%**.
+- O `renut.exe` e as DLLs originais nunca são alterados; o patch é aplicado em cópias.
+- Instruções: `launcher-patch/LEIA-ME.md`; limites em `docs/relatorio-launcher-0.9.0.md`.
+
 ## Requisitos
 
 * Uma versão compatível do reNut.
@@ -104,13 +117,25 @@ texto original em inglês. Também é possível remover a pasta `ptbr_traducao` 
 * `data/lotes/` registra os lotes aplicados; `data/glossario.csv` e `data/nomes-protegidos.csv`
   definem termos e nomes que não podem mudar.
 * `tools/` contém o leitor e gravador do formato, o validador, o gerador local e o empacotador.
+* `launcher-patch/` contém o catálogo, o gerador, o aplicador e a documentação do launcher; o
+  patch binário é gerado localmente e não entra no repositório.
 * `tests/` contém os testes; rode `python -m pytest` na raiz.
 * `docs/formato-loctext.md` descreve o formato dos arquivos de texto e
   `docs/manutencao.md` resume o fluxo de trabalho.
+* `AGENTS.md` fixa a política permanente; `docs/politica-publicacao.md` explica o fluxo e as
+  verificações.
 
-O teste `tests/test_privacidade.py` examina os arquivos rastreados e falha se encontrar caminhos
-pessoais, e-mails, credenciais ou arquivos do jogo. Rode-o antes de cada envio. Para que ele bloqueie
-commits automaticamente, ative o gancho com `git config core.hooksPath .githooks`.
+Os testes `tests/test_privacidade.py` e `tests/test_seguranca.py` examinam os arquivos rastreados e
+falham se encontrarem caminhos pessoais, e-mails, credenciais ou arquivos do jogo. Antes de cada
+envio, rode `python -m pytest` e `python -I tools/verificar_privacidade.py --publico`. Para bloquear
+commits e pushes automaticamente, ative os ganchos com `git config core.hooksPath .githooks`.
+
+## Sincronização e segurança
+
+A branch `main` recebe apenas conteúdo auditado. A política permanente está em `AGENTS.md`; o fluxo,
+os testes e os ganchos estão em `docs/politica-publicacao.md`. O histórico privado de desenvolvimento
+não é publicado, e Releases ou tags exigem autorização explícita. O workflow do GitHub Actions roda
+os testes e o Gitleaks em cada push e pull request.
 
 ## Créditos
 

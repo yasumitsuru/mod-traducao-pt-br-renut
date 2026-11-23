@@ -8,7 +8,7 @@ else
     echo "Python não encontrado: a verificação de privacidade não pode rodar." >&2
     exit 1
 fi
-"$PY" -I tools/verificar_privacidade.py || {
+"$PY" -I tools/verificar_privacidade.py --staged --publico || {
     echo "Commit recusado: corrija os problemas de privacidade acima." >&2
     exit 1
 }
