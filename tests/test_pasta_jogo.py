@@ -1,14 +1,18 @@
 """Destino novo e isolado para a pasta de teste do jogo."""
 
 import os
+import sys
 import tempfile
 import unittest
 from pathlib import Path
 from unittest import mock
 
-import _caminho  # noqa: F401
-from nbptbr import io_seguro, pasta_jogo
-from nbptbr.config import Caminhos
+if sys.platform != "win32":
+    raise unittest.SkipTest("pasta_jogo usa a API de junções do Windows")
+
+import _caminho  # noqa: E402
+from nbptbr import io_seguro, pasta_jogo  # noqa: E402
+from nbptbr.config import Caminhos  # noqa: E402
 
 (io_seguro.RAIZ_PROJETO / "work").mkdir(parents=True, exist_ok=True)
 

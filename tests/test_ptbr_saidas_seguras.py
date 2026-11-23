@@ -1,6 +1,7 @@
 """Contratos da CLI para saídas isoladas sem substituir destinos existentes."""
 
 import io
+import sys
 import tempfile
 import unittest
 from contextlib import redirect_stderr, redirect_stdout
@@ -37,6 +38,7 @@ class TestSaidasSeguras(unittest.TestCase):
             self.assertIn("destino ja existe", saida.lower())
             self.assertEqual(marcador.read_bytes(), b"nao sobrescrever")
 
+    @unittest.skipUnless(sys.platform == "win32", "jogo isolado usa junções do Windows")
     def test_jogo_isolado_rejeita_destino_existente_sem_alterar(self):
         with tempfile.TemporaryDirectory(dir=RAIZ_PROJETO / "work") as tmp:
             destino = Path(tmp) / "jogo_existente"
