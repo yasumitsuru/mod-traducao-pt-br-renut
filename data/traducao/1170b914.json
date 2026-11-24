@@ -370,8 +370,8 @@
       "id": "4482",
       "chave": "dialog__desc_block_googleyeyes",
       "hash_es": "a8917248d581a777",
-      "texto_ptbr": "Jogo do Banjo não ser jogo do Banjo sem olhos esbugalhados bobos. Mas Mumbo lamentar confirmar muito menos olhos esbugalhados neste jogo que antes.",
-      "lote": "503"
+      "texto_ptbr": "Jogo do Banjo não ser jogo do Banjo sem olhos saltados bobos. Mas Mumbo lamentar confirmar muito menos olhos saltados neste jogo que antes.",
+      "lote": "614"
     },
     {
       "id": "677f",
@@ -510,8 +510,8 @@
       "id": "2043",
       "chave": "dialog__desc_block_mole",
       "hash_es": "33b720ccbf63eb1a",
-      "texto_ptbr": "Xamã sem palavras, por que Sra. Bottles na ponta de haste? Mumbo simplesmente não entender ideias malucas do S.J.",
-      "lote": "503"
+      "texto_ptbr": "Xamã sem palavras, por que Sra. Bottles na ponta de poste? Mumbo simplesmente não entender ideias malucas do S.J.",
+      "lote": "614"
     },
     {
       "id": "afd3",
@@ -538,8 +538,8 @@
       "id": "8286",
       "chave": "dialog__desc_block_neon",
       "hash_es": "01f58442f9a5462e",
-      "texto_ptbr": "Turbinar veículo com luzes estilosas de rolê. Todo mundo saber que veículo andar muito mais rápido com isto.",
-      "lote": "503"
+      "texto_ptbr": "Turbinar veículo com luz de cruzeiro estilosa. Todo mundo saber que veículo andar muito mais rápido com isto.",
+      "lote": "615"
     },
     {
       "id": "9275",
@@ -566,8 +566,8 @@
       "id": "9fd5",
       "chave": "dialog__desc_block_plant",
       "hash_es": "765e4a6365a9bfd4",
-      "texto_ptbr": "Planta bonita ajudar a reduzir pegada de carbono. Permitir urso colocar outro Motor grande sem se sentir culpado.",
-      "lote": "503"
+      "texto_ptbr": "Planta bonita ajudar a reduzir pegada de carbono. Permitir urso colocar outro Motor Grande sem se sentir culpado.",
+      "lote": "614"
     },
     {
       "id": "c566",
@@ -608,8 +608,8 @@
       "id": "94fd",
       "chave": "dialog__desc_block_rustbin",
       "hash_es": "23147f912e9b677f",
-      "texto_ptbr": "Lata de lixo disparar bola de ferrugem quando urso apertar botão. Bola de ferrugem grudar no alvo e drenar energia.",
-      "lote": "503"
+      "texto_ptbr": "Lixeira disparar bola enferrujada quando urso apertar botão. Bola enferrujada grudar no alvo e drenar energia.",
+      "lote": "617"
     },
     {
       "id": "2e9f",

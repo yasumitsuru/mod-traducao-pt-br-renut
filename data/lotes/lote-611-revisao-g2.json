@@ -1,0 +1,119 @@
+{
+  "lote": "611",
+  "descricao": "revisao 0.8.0 G2: Nutty Acres e Banjoland",
+  "traducoes": {
+    "111fcbbb": {
+      "4834": "O Cacto da Força era uma atração do Mundo das Bruxas em Banjo-Tooie que rendia Jiggies, reconstruída aqui pelo S.J. para desafiar os jogadores a tocar a campainha de novo. Que conquista seria...",
+      "879e": "Lixeira",
+      "a703": "Trazido da Montanha do Mumbo, o primeiro nível de desafio de Banjo-Kazooie. O S.J. precisou aumentá-lo um pouco e aplicar texturas novas para que parecesse um pouco menos 'geração retrasada'.",
+      "e7ed": "Nuvem Cucolândia foi o último mundo de desafio de Banjo-Tooie. O S.J. teve muito trabalho para fazê-lo funcionar direito por ser tão grande e aberto, e foi lá que Banjo e Kazooie conheceram o Sr. Em Forma."
+    },
+    "11a378ff": {
+      "0396": "{MOODHAPPY}Isso! Vamos! Mais um ano, mais um troféu de &quot;Peão de Fazenda do Ano&quot; para o Sr. Em Forma!",
+      "29e8": "{MOODHAPPY}O Mumbo me contrata porque sou, sem dúvida, o melhor coletor de cocos do ramo. Chega de piadas baratas, está a fim de um desafio de verdade?",
+      "4bfc": "{MOODANGRY}Como se Mumbo não ter problemas suficientes! Urso salvar a dignidade de Mumbo!",
+      "672d": "Hã... vamos acreditar em você, Klungo. Vamos, Kazooie, vamos pôr os chapéus de chef e começar a fritar!",
+      "9744": "Por curiosidade, Bottles, qual é a história desse troféu dourado enorme no pátio da fazenda?",
+      "aad7": "{MOODHAPPY}Bum! Urso e pássaro no topo das paradas! Mr. Patch murchou e cocos ter sol de novo. No fim, nós ter colheita recorde!",
+      "fac8": "{MOODHAPPY}Sim, o Mumbo nos põe à prova todo ano e dá a um de nós o troféu de &quot;Peão de Fazenda do Ano&quot;. {PAGEBREAK}E eu ganho sempre, sem falhar nunca!"
+    },
+    "11a44869": {
+      "06aa": "{MOODHAPPY}Ah, sinta o ar! Não há nada igual! Ainda está comigo? Siga as setas e passe com cuidado por cada um dos aros.",
+      "542b": "Tá, Klungo, então você quer que a gente recolha os cocos com o Aspira-coisa. E depois?",
+      "5dac": "Sigam-me pela ilha e vejam com os próprios olhos. {PAGEBREAK}Eles só parecem atacar quando eu paro para descansar... não que eu precise descansar, entendam. {PAGEBREAK}Se vierem, é melhor você e a Kazooie estarem prontos quando eles aparecerem!",
+      "5dad": "Então vai andando, Cara de Narigão. A gente vai logo atrás!",
+      "c5cb": "Não é tão difícil, né? Só siga as setas e passe pelos aros...",
+      "d532": "{MOODSAD}Estou quase sem palavras de tão bem que você foi. Você deve estar usando código de trapaça! É isso! Pausou o jogo e fez um Stop 'n' Swop?"
+    },
+    "11aa2945": {
+      "10c6": "{MOODSAD}Estação seca deixar Klungo todo quente e suado...",
+      "2c37": "{MOODSAD}Barco partir sem os cocos de Nutty Acres! Opa, sem pagamento para os peões de fazenda de novo!",
+      "5829": "Banjo precisar levar todos os cocos a Mumbo para aprovação. {PAGEBREAK}Marido inútil provavelmente caçando caranguejos nas dunas de Nutty Acres. Quando cocos aprovados, ter que levar ao cais antes de barco partir. {PAGEBREAK}Garantir todos os cocos a bordo, senão fazenda ter grande prejuízo!",
+      "6653": "{MOODSAD}Não acredito, você foi mais longe que eu! Seu peso enorme deve ter te dado vantagem para variar! Vá, pegue seus prêmios e me deixe lamentar meu saudoso recorde mundial...",
+      "b58a": "{MOODHAPPY}Siga o percurso ao redor da ilha e não deixe de passar por todos os portões. {PAGEBREAK}Parece que o resto dos peões de fazenda está aqui, então essa vitória vai ser de saborear!",
+      "d3aa": "Confia em mim, Cara de Narigão. Se um dia fizerem um concurso de bico mais comprido, você ganha fácil.",
+      "f828": "{MOODSAD}Tá, eu já descobri. Você deve ter pegado um vento de cauda por pura sorte da última vez. Duvido seriamente que consiga de novo!"
+    },
+    "11b97d91": {
+      "0396": "Isso foi um desastre, você precisa de um driver melhor. Ha ha, pegou? 'Driver'... e você 'dirige' veículos? Não sou só 'em forma', também sou engraçado!",
+      "2c37": "{MOODSAD}Urso chamar isso de entretenimento? Klungo comer à mesa ser mais divertido de ver. Oomenacka!",
+      "4128": "Klungo construir carro especial: o Carro Favo de Mel de Banjoland. Rápido nas retasss, sabor também ser bom. Klungo organizar corrida e enfrentar todos os desafiantesss!",
+      "a4e2": "Hehe... urso arar o campo muito bem. Agora tentar acrobacias! No ar, empurrar [LSTICK] Analógico esquerdo para frente ou para trás e segurar o Botão [X] para dar uma cambalhota completa.",
+      "a4e4": "Urso pular bem, como salmão peludo! Agora fazer giro lateral completo. No ar, empurrar [LSTICK] Analógico esquerdo para a esquerda ou para a direita e segurar o Botão [X].",
+      "a4f1": "{MOODSAD}Arremesso de Jinjo, francamente. Tá bom, tá bom... me arremesse pelo menos a distância indicada para ganhar um prêmio. Vá em frente, se precisar!",
+      "a88e": "Se é assim, vão para a batalha. Deixem-nos orgulhosos, seus molengas!",
+      "aad9": "Isso deu uma lição nele! Ohhh, o Mr. Patch era péssimo e Banjo deu conta, chefes infláveis todos cheiram a...",
+      "b58a": "Solte o cabelo para variar, Quatro-Olhos! Este pode ser o último jogo em que você aparece!"
+    },
+    "11be4d07": {
+      "2347": "Acha que eu fugiria assustada? Vamos brigar, desta vez estou preparada!",
+      "3451": "Achatar o urso idiota é divertido, vai virar meu passatempo preferido!",
+      "3452": "O urso e o pássaro mal sabem lutar, nem para uma rampa conseguem me levar!",
+      "3453": "Ninguém me para com estas molas possantes, é preciso admirar coisas tão deslumbrantes!",
+      "3454": "Qual é, seus idiotas, sentindo o calor? Deste assento ninguém me tira, que conforto, que primor!",
+      "3455": "Um inimigo um pouco mais capacitado poderia atirar no meu veículo e deixá-lo desequilibrado!",
+      "3456": "Enquanto eu tiver espaço livre para pousar, minha destruição vai sair exatamente como eu planejar!",
+      "3457": "Meu Rompedor de Molas é o melhor veículo que vão ver: só ganham se do assento me fizerem descer!",
+      "3458": "Corram se esconder no campo de futebol, se são covardes demais para com a bruxa se meter!",
+      "622c": "Onde você está, urso? Vou te achatar, e o pássaro de chapéu vou usar!",
+      "622d": "Urso inútil, venha aqui lutar! Esta coisa levei a noite inteira para montar!",
+      "8027": "Não, seus tolos, vim tudo arrasar... mas já está arrasado, cheguei tarde, que azar!",
+      "8029": "Muito bem, aberrações, mais um pouco vou destruir! Não me atrapalhem, vou me divertir!",
+      "9744": "Urso de cabeça oca e cara emplumada, sabem por que estou nesta terra desolada?",
+      "b254": "{MOODHAPPY}Volte e outra surra venha levar, antes que eu passe mal de tanto quicar!",
+      "d532": "{MOODSAD}Parece que fui bem frustrada, esta geringonça saltitante deu em nada!",
+      "d534": "{MOODSAD}Você tirou a mola dos meus passos... Preciso parar de perder, minha fama vai a pedaços!",
+      "d536": "Você venceu por pouco, foi bem fraquinho... devia melhorar seu jogo um tantinho!"
+    },
+    "11c0ddca": {
+      "3453": "O urso e a ave são lerdos demais! Demoram tanto que meu bumbum não aguenta mais!",
+      "3455": "Se na próxima volta ainda estiverem na estrada, mando vocês para fora do mapa numa trombada!",
+      "6eb5": "{MOODSAD}Que azar. Coloque um pouco dessa famosa macheza de urso nisso e você vai se sair melhor na próxima!",
+      "d536": "Você deu uma surra na Grunty, isso é fato, mas com um tempo desses não leva Jiggy, seu pato!"
+    },
+    "11c67778": {
+      "33d7": "Não zombe, Kazooie! Fazer a vontade dele não custa nada...",
+      "34e6": "Linha de chegada atravessada, mas tempo de volta lento para os padrões do urssso, então sssem Jiggy! {PAGEBREAK}Urssso gostar do carro Gobi? O Modo Foto no jogo completo deixar urssso enviar fotos das próprias criações para compartilhar com amigos e a comunidade Xbox LIVE. Pelo menos isso o que dizer aqui.",
+      "4465": "Urso ir até o campo de futebol. Deixar grandes marcas de derrapagem pretas por todo o gramado novo do Sr. Em Forma!",
+      "4466": "Hehe... urso arar o campo muito bem. Agora tentar acrobacias! No ar, empurrar [LSTICK] Analógico esquerdo para frente ou para trás e segurar o Botão [X] para dar cambalhota completa.",
+      "4468": "Urso pular bem, como salmão peludo! Agora fazer giro lateral completo. No ar, empurrar [LSTICK] Analógico esquerdo para a esquerda ou para a direita e segurar o Botão [X].",
+      "446a": "Hora do grande final! Urso saltar e impressionar o público pelo tempo que ficar no ar antes de aterrissar. Show terminar quando Mumbo decidir que salto bom o bastante. Oomenacka!",
+      "53ab": "Ei, ei! Sabe, quando você jogar a versão completa e sair correndo por Showdown Town... bom, fique atento aos relatos de avistamentos de Minjos. Esses caras são maus!",
+      "8f4d": "O George não anda escorregando dormindo há um tempo, mas podemos recriar o cenário para fins de treinamento...",
+      "ba04": "Muito ssslento! Urssso deve estar carregando peso demais. Tentar de novo, mas talvez jogar pássaro na água... heh heh. {PAGEBREAK}Klungo receber kit de imprensa, dizer que amigoss poder enviar projetos pelo Xbox LIVE para ajudar a fazer veículos melhores no jogo final. Nenhuma dessculpa para ser ruim!",
+      "c4ab": "Espero que você esteja radiante de ver a gente, os Jinjos, de volta ao meio da ação! Pois é, aquela velha bruaca da Gruntilda não conseguiu nos segurar por muito tempo..."
+    },
+    "11c7ed5c": {
+      "18f3": "{MOODHAPPY}Ha! Segundo lugar é só o primeiro perdedor! {PAGEBREAK}Mais uma corrida, tente acompanhar desta vez!",
+      "1938": "{MOODSAD}Os cocos estão secando rápido! Eu bem que enfiava uns daqueles Gruntbots idiotas cano abaixo...",
+      "4006": "{MOODSAD}Parece que os Gruntbots daquela bruxa decrépita sabotaram os canos de água do pomar. {PAGEBREAK}Acho que a colheita vai murchar e morrer se não fizermos nada. Ei, não é o tipo de coisa que vocês fazem?",
+      "cd09": "{MOODHAPPY}Urso já salvar fazenda de bombardeio aleatório, mas poder jogar desafio de novo por diversão. Oomenacka!",
+      "d536": "Caramba, quanto tempo leva para consertar uns canos? Serviço feito, mas nessa velocidade você não vai ganhar grande coisa em prêmios.",
+      "f052": "{MOODSAD}Ei, você largou na frente. Meus freios devem estar travando! {PAGEBREAK}Mencionei que é melhor de três? Engula a minha poeira!",
+      "f776": "{MOODHAPPY}Tudo pronto, sem bum! Mumbo procurar tapete em outro lugar. Urso ganhar Jiggy, mas poder ganhar prêmio extra com tempo mais rápido!"
+    },
+    "11cebce6": {
+      "4128": "{MOODSAD}Dirigir carrinho pequeno e engraçado para chegar rápido à fazenda. {PAGEBREAK}Olhar seta e mapa para ver que caminho pegar!",
+      "4304": "{MOODHAPPY}Eekumbokum, quem querer linguiça? Poder estar um pouco queimada, mas pelo menos urso não passar mal.",
+      "8c59": "{MOODHAPPY}Ursso já pegar Jiggy, então poder jogar de novo para fazer tempo melhor ou voltar pelo portal para Showdown Town, sssi estiver pronto para continuar...",
+      "d536": "Ursso achar Mumbo no fim, mas demorar muito. Não bom o bastante para recompensa Jiggy desta vez, só Notas... {PAGEBREAK}Melhor tentar de novo se ursso ainda não ganhar Jiggy, senão chegar rápido a beco sem saída!"
+    },
+    "11d4b988": {
+      "1938": "Derrube cães sarnentos suficientes e o resto deve fugir!",
+      "542a": "Chefe Bottlesss não deixar a equipe correr pelo Museu. Coisas v.a.l.i.o.z.a.s. demais para quebrar.",
+      "6196": "{MOODSAD}Não acredito! Que lentidão foi essa? E lá se foi minha habilidade impecável de julgar caráter!",
+      "f778": "Urssso terminar a corrida, mas atuação não ser ótima. Precisar fazer melhor mesmo. Klungo gostar de incentivar autosssuperação.",
+      "f828": "O George não escorrega dormindo há um tempo, mas podemos recriar o cenário para fins de treinamento..."
+    },
+    "11dad8a4": {
+      "2347": "A evacuação acabou, Banjo, você foi bem. Mas como eu sempre digo, você vai se sair melhor se tentar com mais empenho!",
+      "4aa9": "Olha, bafo de inseto, você vai se acalmar se a gente acionar o sistema de segurança? Não queremos que você &quot;estrague&quot; esse belo agasalho de nylon.",
+      "f778": "Urssso e pássaro bem rápidos, mas Blubber não ser difícil de vencer. Precisar de um arranque sério de velocidade para ganhar Jiggy!"
+    },
+    "11f1d3b7": {
+      "0a16": "{MOODSAD}Isso devia me aquecer? Da próxima vez traga um casaco grande e vamos fazer agachamentos em vez disso.",
+      "8d5d": "{MOODSAD}Me leve até a bacia do Loggo, rápido! Preciso gritar para a porcelana!",
+      "fac8": "Apenas correr contra os amigosss do Klungo e tentar vencê-los. Pouco provável, urssso lento!"
+    }
+  }
+}

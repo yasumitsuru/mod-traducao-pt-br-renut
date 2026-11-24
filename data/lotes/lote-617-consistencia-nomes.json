@@ -1,0 +1,14 @@
+{
+  "lote": "617",
+  "descricao": "revisao 0.8.0: consistencia de nomes entre rotulos, explicacoes e dialogos",
+  "traducoes": {
+    "11c0ddca": {
+      "8026": "Coco Louco? Alguma ideia do que o velho saco de verrugas está falando, Kazooie?",
+      "d532": "{MOODSAD}O Coco Louco se perdeu na eternidade; só me restaram as rimas e a vaidade!"
+    },
+    "1170b914": {
+      "8286": "Turbinar veículo com estilosa luz de cruzeiro. Todo mundo saber que veículo andar muito mais rápido com isto.",
+      "94fd": "Lixeira disparar bola enferrujada quando urso apertar botão. Bola enferrujada grudar no alvo e drenar energia."
+    }
+  }
+}

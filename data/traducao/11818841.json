@@ -55,8 +55,8 @@
       "id": "d534",
       "chave": "dialog__game1_successc",
       "hash_es": "e357cfd1ac183b21",
-      "texto_ptbr": "Você não nos decepcionou, marujo! Que força na levantada! Sem dúvida ganhou sua medalha de ouro, em forma de Jiggy, é claro...",
-      "lote": "602"
+      "texto_ptbr": "Você não nos decepcionou, marujo! Que levantamento poderoso! Sem dúvida ganhou sua medalha de ouro, em forma de Jiggy, é claro...",
+      "lote": "612"
     },
     {
       "id": "d536",
@@ -132,15 +132,15 @@
       "id": "0396",
       "chave": "dialog__game3_fail",
       "hash_es": "bb2a65c87ff7a543",
-      "texto_ptbr": "{MOODHAPPY}Chama isso de salto com barreiras? Isso é mais um despencar... despencar sem controle rumo ao fracasso. T.T. ainda manda na pista!",
-      "lote": "602"
+      "texto_ptbr": "{MOODHAPPY}Chama isso de corrida com barreiras? Isso é mais um despencar... despencar sem controle rumo ao fracasso. T.T. ainda manda na pista!",
+      "lote": "612"
     },
     {
       "id": "10c6",
       "chave": "dialog__game3_intro",
       "hash_es": "f16df7e0a28b63da",
-      "texto_ptbr": "Bem-vindo de volta ao meu mundo, urso... o mundo dos esportes! Suas habilidades no salto com barreiras estão à altura das minhas? Não parece!",
-      "lote": "602"
+      "texto_ptbr": "Bem-vindo de volta ao meu mundo, urso... o mundo dos esportes! Suas habilidades na corrida com barreiras estão à altura das minhas? Não parece!",
+      "lote": "612"
     },
     {
       "id": "fac8",

@@ -104,8 +104,8 @@
       "id": "30cd",
       "chave": "challenge__banjolandact1game2summary",
       "hash_es": "dddfd7d9433fd1ce",
-      "texto_ptbr": "Localize George, o Cubo de Gelo, e leve-o para sua esposa Mildred no topo do boneco de neve. Você vai precisar de um veículo capaz de empurrar ou carregar um objeto grande e escorregadio.",
-      "lote": "511"
+      "texto_ptbr": "Localize George, o Cubo de Gelo, e leve-o para sua esposa Mildred no topo do boneco de neve. Você vai precisar de um veículo capaz de empurrar ou carregar um objeto muito grande e escorregadio.",
+      "lote": "614"
     },
     {
       "id": "1560",
@@ -251,8 +251,8 @@
       "id": "b7e5",
       "chave": "challenge__banjolandact5game4",
       "hash_es": "d2493edb5ff41f51",
-      "texto_ptbr": "Acrobacias de Mumbo",
-      "lote": "511"
+      "texto_ptbr": "Show de Acrobacias do Mumbo",
+      "lote": "614"
     },
     {
       "id": "0093",
@@ -265,8 +265,8 @@
       "id": "b7e6",
       "chave": "challenge__banjolandact5game5",
       "hash_es": "45269cd14b016eca",
-      "texto_ptbr": "Confusão Monstruosa",
-      "lote": "511"
+      "texto_ptbr": "Confusão dos Monstros Malucos",
+      "lote": "614"
     },
     {
       "id": "d574",
@@ -300,8 +300,8 @@
       "id": "9749",
       "chave": "challenge__banjolandactwwgame1summary",
       "hash_es": "1a609362e2207c87",
-      "texto_ptbr": "As ovelhas infláveis perdidas devem voltar ao vaso do Loggo. Elas andam em rebanhos, então use um veículo de transporte ou de condução para juntar o máximo possível.",
-      "lote": "511"
+      "texto_ptbr": "As ovelhas infláveis perdidas devem voltar ao vaso do Loggo. Elas andam em rebanhos, então use um veículo que carregue ou pastoreie as ovelhas para juntar o máximo possível.",
+      "lote": "615"
     },
     {
       "id": "0f5c",
@@ -426,8 +426,8 @@
       "id": "9ede",
       "chave": "challenge__cpuact2game1",
       "hash_es": "9c83db9350fb1e6f",
-      "texto_ptbr": "Pouca Luz",
-      "lote": "511"
+      "texto_ptbr": "Poucas Luzes",
+      "lote": "614"
     },
     {
       "id": "356c",
@@ -1168,15 +1168,15 @@
       "id": "0789",
       "chave": "challenge__nuttyacresact3game1",
       "hash_es": "7d6ec7dd4c01b4fa",
-      "texto_ptbr": "O Coco Loco da Grunty",
-      "lote": "511"
+      "texto_ptbr": "O Coco Louco da Grunty",
+      "lote": "614"
     },
     {
       "id": "cfb7",
       "chave": "challenge__nuttyacresact3game1summary",
       "hash_es": "227e8b0ed53a9e81",
-      "texto_ptbr": "A bruxa malvada roubou o coco Coco Loco e está fugindo. Você precisa derrubar o coco do veículo dela! Isso vai exigir um veículo grande, pesado ou potente.",
-      "lote": "511"
+      "texto_ptbr": "A bruxa malvada roubou o Coco Louco e está fugindo. Você precisa derrubar o coco do veículo dela! Isso vai exigir um veículo grande, pesado ou potente.",
+      "lote": "614"
     },
     {
       "id": "302a",
@@ -1266,8 +1266,8 @@
       "id": "58cd",
       "chave": "challenge__nuttyacresact5game3",
       "hash_es": "d889577d5e4a8145",
-      "texto_ptbr": "Lavrador do Ano",
-      "lote": "514"
+      "texto_ptbr": "Peão de Fazenda do Ano",
+      "lote": "614"
     },
     {
       "id": "8c7b",
@@ -1392,8 +1392,8 @@
       "id": "019a",
       "chave": "challenge__nuttyacresliveairrace",
       "hash_es": "39132b3c862993a2",
-      "texto_ptbr": "Corrida: Aerococo Expresso",
-      "lote": "514"
+      "texto_ptbr": "Corrida: Aerococo",
+      "lote": "614"
     },
     {
       "id": "3ea4",
@@ -1749,8 +1749,8 @@
       "id": "104d",
       "chave": "challenge__terroriumact2game1summary",
       "hash_es": "cd99858c743f85d4",
-      "texto_ptbr": "O Capitão Flash McBlubber quer provar sua habilidade de piloto numa corrida por terra e ar. Se você não tem veículos equipados para as duas superfícies, talvez ache algum pelo caminho.",
-      "lote": "511"
+      "texto_ptbr": "O Capitão Flash McBlubber quer provar sua habilidade de piloto numa corrida por terra e ar. Se você não tem nenhum veículo equipado para ambos, talvez ache algum pelo caminho.",
+      "lote": "614"
     },
     {
       "id": "64e0",
@@ -1805,8 +1805,8 @@
       "id": "63d1",
       "chave": "challenge__terroriumact2game5summary",
       "hash_es": "279ae8aa9ea3088d",
-      "texto_ptbr": "Grunty despejou um monte de lixo espacial dos anos 80 no Terrário. Junte esse lixo com um veículo de empurrar ou transporte e jogue tudo na eclusa para se livrar dele.",
-      "lote": "511"
+      "texto_ptbr": "Grunty despejou um monte de lixo espacial dos anos 80 no Terrário. Junte esse lixo com um veículo capaz de empurrar ou carregar e jogue tudo na eclusa para se livrar dele.",
+      "lote": "614"
     },
     {
       "id": "64e4",
@@ -1833,8 +1833,8 @@
       "id": "0d93",
       "chave": "challenge__terroriumact2game7summary",
       "hash_es": "3d33a6e6e0b9ea23",
-      "texto_ptbr": "Recolha os pesquisadores e leve-os às suas áreas de pesquisa. Será preciso um veículo com muitos Assentos de Passageiro para transportar essa turma de desajustados.",
-      "lote": "511"
+      "texto_ptbr": "Pegue os pesquisadores e leve-os às áreas de pesquisa que interessam a cada um. Será preciso um veículo com muitos Assentos de Passageiro para transportar essa turma de desajustados.",
+      "lote": "615"
     },
     {
       "id": "8d80",
@@ -1931,8 +1931,8 @@
       "id": "9e29",
       "chave": "challenge__terroriumactwwgame1summary",
       "hash_es": "a27d23f7443c16da",
-      "texto_ptbr": "Os Piratas Espaciais, saqueadores da galáxia, invadiram! Cerque esses bandidos esféricos com um veículo de transporte ou condução e depois expulse-os pela eclusa.",
-      "lote": "511"
+      "texto_ptbr": "Os Piratas Espaciais, saqueadores da galáxia, invadiram! Cerque esses bandidos esféricos com um veículo capaz de conduzi-los ou carregá-los e depois expulse-os pela eclusa.",
+      "lote": "614"
     },
     {
       "id": "123c",
@@ -1973,8 +1973,8 @@
       "id": "1ccc",
       "chave": "challenge__terroriumactwwgame4summary",
       "hash_es": "b17cb449e595f7f7",
-      "texto_ptbr": "Os simpáticos Monstros de Lama foram parar na água que tanto odeiam. Você vai precisar de um veículo terrestre e aquático de empurrar ou transporte para ajudá-los a voltar à terra firme.",
-      "lote": "511"
+      "texto_ptbr": "Os simpáticos Monstros de Lama foram parar na água que tanto odeiam. Você vai precisar de um veículo terrestre e aquático, capaz de empurrar ou carregar, para ajudá-los a voltar à terra firme.",
+      "lote": "614"
     },
     {
       "id": "8513",
@@ -2399,8 +2399,8 @@
       "id": "026d",
       "chave": "challenge__worldofsportact2game3",
       "hash_es": "c8f5b5ffd34034ab",
-      "texto_ptbr": "Dominó Desabando",
-      "lote": "511"
+      "texto_ptbr": "Dominós Desabando",
+      "lote": "614"
     },
     {
       "id": "221b",
@@ -2434,8 +2434,8 @@
       "id": "56bb",
       "chave": "challenge__worldofsportact3game2summary",
       "hash_es": "ad2db76d7e3ce12c",
-      "texto_ptbr": "Um favorito do Jiggosseum: o arremesso de peso. Lance a bola o mais longe possível do alvo. Um veículo rápido, com peso na traseira e capaz de bater forte é o que você procura.",
-      "lote": "518"
+      "texto_ptbr": "Um favorito do Jiggosseum: o arremesso de peso. Lance a bola o mais longe possível do alvo. Vale muito a pena considerar um veículo pesado, rápido e capaz de bater forte.",
+      "lote": "614"
     },
     {
       "id": "2b0e",
@@ -2448,8 +2448,8 @@
       "id": "2b9c",
       "chave": "challenge__worldofsportact3game3summary",
       "hash_es": "2a95765b3c9a20cd",
-      "texto_ptbr": "Uma corrida terrestre de barreiras na pista da arena. Você pode passar por cima ou através das barreiras, então escolha o veículo de acordo.",
-      "lote": "511"
+      "texto_ptbr": "Uma corrida terrestre com barreiras na pista da arena. Você pode passar por cima ou através das barreiras, então escolha o veículo de acordo.",
+      "lote": "614"
     },
     {
       "id": "2b0f",
@@ -2518,8 +2518,8 @@
       "id": "3e9e",
       "chave": "challenge__worldofsportact5game3summary",
       "hash_es": "9871a6805990f37c",
-      "texto_ptbr": "Quebre o dado para ganhar pontos. Todos são duros, mas alguns mais que outros. Seu veículo precisa ter força se você quiser demolir esses cubos... quer dizer... cubos.",
-      "lote": "511"
+      "texto_ptbr": "Quebre os dados para ganhar pontos. Todos são duros, mas alguns mais que outros. Seu veículo precisa ter força se você quiser demolir esses objetos em forma de cubo... quer dizer... cubos.",
+      "lote": "614"
     },
     {
       "id": "7c51",

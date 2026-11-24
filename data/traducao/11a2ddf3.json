@@ -118,8 +118,8 @@
       "id": "6769",
       "chave": "dialog__game2_laptop",
       "hash_es": "aab50afb8d3c9c24",
-      "texto_ptbr": "Rápido, Banjo, preciso do meu laptop! Eca! Argh! Odeio Gruntbots...",
-      "lote": "605"
+      "texto_ptbr": "Rápido, Banjo, preciso do meu laptop! Ai! Argh! Odeio Gruntbots...",
+      "lote": "612"
     },
     {
       "id": "9d67",
@@ -195,8 +195,8 @@
       "id": "7f77",
       "chave": "dialog__jinjored_greeting",
       "hash_es": "6c00ff867c6d228b",
-      "texto_ptbr": "{MOODHAPPY}Olá, quer correr comigo? Não adianta ficar de rodeios!",
-      "lote": "605"
+      "texto_ptbr": "{MOODHAPPY}Olá, quer correr comigo? Não adianta fazer rodeios!",
+      "lote": "612"
     },
     {
       "id": "6eb5",

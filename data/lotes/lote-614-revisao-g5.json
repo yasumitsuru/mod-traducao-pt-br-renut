@@ -1,0 +1,56 @@
+{
+  "lote": "614",
+  "descricao": "revisao 0.8.0 G5: desafios, veiculos, pecas e garagem",
+  "traducoes": {
+    "114c6966": {
+      "1727": "Pegue o jeito de voar pelos céus de Nutty Acres. Aviões pequenos levam vantagem na aproximação dos portões da corrida. Não escolha veículos que não voam ou você vai virar piada!",
+      "305e": "Esta é a corrida para exibir seus carros mais rápidos. As curvas em cada ponta da reta de Test-O-Track são bem fechadas, então construa algo que faça curva bem. Cuidado com o tráfego em sentido contrário!",
+      "3d88": "Esta luta acontece no Terrarium of Terror, com gravidade baixa! Veículos voadores são melhores se você quer vencer. Você ganha pontos ao reduzir o veículo do adversário a sucata.",
+      "495a": "Partes desta corrida passam por terra e água, então garanta que você encare as duas superfícies. Saber voar também ajuda! Se ainda não construiu um veículo adequado, teste o do S.J.",
+      "4dbb": "A Roda Livre em Banjoland testa o quão longe você chega quando a potência do veículo é cortada. Você só pode usar o impulso da rampa, então construa algo que role bem!",
+      "7de0": "Seu próprio companheiro %s<font color=[white]>destruiu você! Parece que não dá para confiar em ninguém hoje em dia!</font>",
+      "e890": "Este jogo, no Jiggosseum, consiste em descer a longa rampa em alta velocidade e chegar o mais longe possível. Sua pontuação após três saltos decide quem cobriu a maior distância total."
+    },
+    "1169b65d": {
+      "5187": "Robô-Conserto",
+      "6f52": "Bola Enferrujada",
+      "a307": "Vaso de Planta",
+      "ea02": "Robô-Conserto",
+      "f154": "Hélice Falsa"
+    },
+    "1170b914": {
+      "2043": "Xamã sem palavras, por que Sra. Bottles na ponta de poste? Mumbo simplesmente não entender ideias malucas do S.J.",
+      "4482": "Jogo do Banjo não ser jogo do Banjo sem olhos saltados bobos. Mas Mumbo lamentar confirmar muito menos olhos saltados neste jogo que antes.",
+      "9fd5": "Planta bonita ajudar a reduzir pegada de carbono. Permitir urso colocar outro Motor Grande sem se sentir culpado."
+    },
+    "1183ab14": {
+      "71dc": "Urso ganhar os ares... mas cuidado para não ficar sem combustível.",
+      "9121": "Legal como jato, mas também leve no combustível! Pechincha!",
+      "a6ce": "Humba Flutuante",
+      "aa6b": "Chassi básico para ajudar urso a se locomover.",
+      "c6d1": "Chassi de helicóptero avançado, funcionar bem com veículos de hélice dupla.",
+      "e5a5": "Bike Humba",
+      "f029": "Táxi Jinjo Bike"
+    },
+    "11fbc3ac": {
+      "019a": "Corrida: Aerococo",
+      "026d": "Dominós Desabando",
+      "0789": "O Coco Louco da Grunty",
+      "0d93": "Pegue os pesquisadores e leve-os às áreas de pesquisa de seu interesse. Será preciso um veículo com muitos Assentos de Passageiro para transportar essa turma de desajustados.",
+      "104d": "O Capitão Flash McBlubber quer provar sua habilidade de piloto numa corrida por terra e ar. Se você não tem nenhum veículo equipado para ambos, talvez ache algum pelo caminho.",
+      "1ccc": "Os simpáticos Monstros de Lama foram parar na água que tanto odeiam. Você vai precisar de um veículo terrestre e aquático, capaz de empurrar ou carregar, para ajudá-los a voltar à terra firme.",
+      "2b9c": "Uma corrida terrestre com barreiras na pista da arena. Você pode passar por cima ou através das barreiras, então escolha o veículo de acordo.",
+      "30cd": "Localize George, o Cubo de Gelo, e leve-o para sua esposa Mildred no topo do boneco de neve. Você vai precisar de um veículo capaz de empurrar ou carregar um objeto muito grande e escorregadio.",
+      "3e9e": "Quebre os dados para ganhar pontos. Todos são duros, mas alguns mais que outros. Seu veículo precisa ter força se você quiser demolir esses objetos em forma de cubo... quer dizer... cubos.",
+      "56bb": "Um favorito do Jiggosseum: o arremesso de peso. Lance a bola o mais longe possível do alvo. Vale muito a pena considerar um veículo pesado, rápido e capaz de bater forte.",
+      "58cd": "Peão de Fazenda do Ano",
+      "63d1": "Grunty despejou um monte de lixo espacial dos anos 80 no Terrário. Junte esse lixo com um veículo capaz de empurrar ou carregar e jogue tudo na eclusa para se livrar dele.",
+      "9749": "As ovelhas infláveis perdidas devem voltar ao vaso do Loggo. Elas andam em rebanhos, então use um veículo que carregue ou pastoreie rebanhos para juntar o máximo possível.",
+      "9e29": "Os Piratas Espaciais, saqueadores da galáxia, invadiram! Cerque esses bandidos esféricos com um veículo capaz de conduzi-los ou carregá-los e depois expulse-os pela eclusa.",
+      "9ede": "Poucas Luzes",
+      "b7e5": "Show de Acrobacias do Mumbo",
+      "b7e6": "Confusão dos Monstros Malucos",
+      "cfb7": "A bruxa malvada roubou o Coco Louco e está fugindo. Você precisa derrubar o coco do veículo dela! Isso vai exigir um veículo grande, pesado ou potente."
+    }
+  }
+}

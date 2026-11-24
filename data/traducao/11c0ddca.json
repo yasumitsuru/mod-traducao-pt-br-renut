@@ -20,8 +20,8 @@
       "id": "3453",
       "chave": "dialog__game1_gruntyemitdialog3",
       "hash_es": "7af960d2de727bc3",
-      "texto_ptbr": "O urso e a ave são uns molengas! Demoram tanto que me dão câimbras nas pernas!",
-      "lote": "603"
+      "texto_ptbr": "O urso e a ave são lerdos demais! Demoram tanto que meu bumbum não aguenta mais!",
+      "lote": "611"
     },
     {
       "id": "3454",
@@ -34,8 +34,8 @@
       "id": "3455",
       "chave": "dialog__game1_gruntyemitdialog5",
       "hash_es": "26191b4977735e14",
-      "texto_ptbr": "Se ainda estiverem aqui na próxima volta, mando vocês para fora do mapa com uma trombada!",
-      "lote": "607"
+      "texto_ptbr": "Se na próxima volta ainda estiverem na estrada, mando vocês para fora do mapa numa trombada!",
+      "lote": "611"
     },
     {
       "id": "3456",
@@ -69,8 +69,8 @@
       "id": "8026",
       "chave": "dialog__game1_introb",
       "hash_es": "00ccbf7c68b2c751",
-      "texto_ptbr": "Coco Loco? Alguma ideia do que o velho saco de verrugas está falando, Kazooie?",
-      "lote": "607"
+      "texto_ptbr": "Coco Louco? Alguma ideia do que o velho saco de verrugas está falando, Kazooie?",
+      "lote": "617"
     },
     {
       "id": "8027",
@@ -118,8 +118,8 @@
       "id": "d532",
       "chave": "dialog__game1_successa",
       "hash_es": "a44af889ceccddf1",
-      "texto_ptbr": "{MOODSAD}O Coco Loco se perdeu na eternidade; só me restaram as rimas e a vaidade!",
-      "lote": "603"
+      "texto_ptbr": "{MOODSAD}O Coco Louco se perdeu na eternidade; só me restaram as rimas e a vaidade!",
+      "lote": "617"
     },
     {
       "id": "d534",
@@ -132,8 +132,8 @@
       "id": "d536",
       "chave": "dialog__game1_successe",
       "hash_es": "e05995ef1e058d54",
-      "texto_ptbr": "Você deu uma surra na Grunty, isso é fato, mas com um tempo desses não leva Jiggy, seu pateta!",
-      "lote": "603"
+      "texto_ptbr": "Você deu uma surra na Grunty, isso é fato, mas com um tempo desses não leva Jiggy, seu pato!",
+      "lote": "611"
     },
     {
       "id": "7f77",
@@ -146,8 +146,8 @@
       "id": "6eb5",
       "chave": "dialog__jinjored_lose",
       "hash_es": "fd8f69cacc1b1c7f",
-      "texto_ptbr": "{MOODSAD}Que azar. Coloque um pouco desse famoso machismo de urso nisso e você vai se sair melhor na próxima!",
-      "lote": "603"
+      "texto_ptbr": "{MOODSAD}Que azar. Coloque um pouco dessa famosa macheza de urso nisso e você vai se sair melhor na próxima!",
+      "lote": "611"
     },
     {
       "id": "c4d0",

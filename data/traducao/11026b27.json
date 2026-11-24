@@ -321,8 +321,8 @@
       "id": "5db0",
       "chave": "dialog__game4_objectivesg",
       "hash_es": "30b386cbebbe2633",
-      "texto_ptbr": "{MOODSAD}Segundo o &quot;Guia Idiota das Plantas Alienígenas&quot;, se você levar alto o bastante, ele implode. Mas fica mais pesado quanto mais alto vai!",
-      "lote": "601"
+      "texto_ptbr": "{MOODSAD}Segundo o &quot;Guia para Idiotas de Plantas Alienígenas&quot;, se você levar alto o bastante, ele implode. Mas fica mais pesado quanto mais alto vai!",
+      "lote": "612"
     },
     {
       "id": "4bfb",
@@ -398,8 +398,8 @@
       "id": "672d",
       "chave": "dialog__game5_objectivesc",
       "hash_es": "bc1e805b02f35056",
-      "texto_ptbr": "{MOODANGRY}Ele deveria ser o &quot;Protetor do Universo&quot;. Onde ele estava quando Grunty veio despejar lixo espacial ecologicamente incorreto?",
-      "lote": "601"
+      "texto_ptbr": "{MOODANGRY}Ele dever ser &quot;Protetor do Universo&quot;. Onde ele estar quando Grunty vir aqui despejar lixo espacial ecologicamente incorreto?",
+      "lote": "612"
     },
     {
       "id": "672e",
@@ -447,22 +447,22 @@
       "id": "c9eb",
       "chave": "dialog__game5_wina",
       "hash_es": "0ba87d739e5fead1",
-      "texto_ptbr": "{MOODHAPPY}Terrarium sem lixo em menos tempo do que Grunty levou para despejar o lixo! Banjo confiável como sempre, ganhar grande recompensa!",
-      "lote": "601"
+      "texto_ptbr": "{MOODHAPPY}Terrarium sem lixo em menos tempo do que Grunty levar para despejar o lixo! Banjo confiável como sempre, ganhar grande recompensa!",
+      "lote": "612"
     },
     {
       "id": "c9ed",
       "chave": "dialog__game5_winc",
       "hash_es": "1b5d96064d073e28",
-      "texto_ptbr": "{MOODHAPPY}Bom voltar ao paraíso intocado. O Jiggy representa o agradecimento da Equipe de Ação Selvagem do Terrarium.",
-      "lote": "601"
+      "texto_ptbr": "{MOODHAPPY}Bom voltar a paraíso intocado. Jiggy representar agradecimento da Equipe de Ação Selvagem do Terrarium.",
+      "lote": "612"
     },
     {
       "id": "c9ef",
       "chave": "dialog__game5_wine",
       "hash_es": "19961ebf0db071a5",
-      "texto_ptbr": "Obrigada, Banjo. Um pouco mais lento que o normal. Jiggies serem mais difíceis nos níveis finais, não mais fáceis!",
-      "lote": "601"
+      "texto_ptbr": "Obrigada, Banjo. Um pouco mais lento que o normal. Jiggies ser mais difíceis de ganhar nos níveis finais, não mais fáceis!",
+      "lote": "612"
     },
     {
       "id": "4bac",
@@ -482,8 +482,8 @@
       "id": "0490",
       "chave": "dialog__game6_lose",
       "hash_es": "3f60231183ffa083",
-      "texto_ptbr": "{MOODSAD}Vocês deixaram eles entrarem! Cara, é como se o gancho dos Germogroides Asquerosos do episódio 99 de &quot;Star Spanners&quot; estivesse se tornando realidade!",
-      "lote": "601"
+      "texto_ptbr": "{MOODSAD}Vocês deixaram eles entrar! Cara, é como se o gancho dos Germogroides Asquerosos do episódio 99 de &quot;Star Spanners&quot; estivesse se tornando realidade!",
+      "lote": "612"
     },
     {
       "id": "70ac",
@@ -503,8 +503,8 @@
       "id": "70ae",
       "chave": "dialog__game6_objectivesc",
       "hash_es": "f5802a68ca13b87e",
-      "texto_ptbr": "{MOODANGRY}Eu teria detonado eles com meu fasador, mas vendi para pagar a nave que me trouxe até aqui. Queria não ter me dado ao trabalho agora...",
-      "lote": "601"
+      "texto_ptbr": "{MOODANGRY}Eu teria detonado eles com meu fáser, mas vendi para pagar a nave que me trouxe até aqui. Queria não ter me dado ao trabalho agora...",
+      "lote": "612"
     },
     {
       "id": "70af",
@@ -559,8 +559,8 @@
       "id": "f290",
       "chave": "dialog__game6_wine",
       "hash_es": "23b40d37baf3c949",
-      "texto_ptbr": "É, acho que no fim vocês pegaram eles. Só não larguem o emprego de dia, nem esperem ganhar prêmios sérios.",
-      "lote": "601"
+      "texto_ptbr": "É, acho que no fim vocês pegaram eles. Só não larguem o emprego fixo, nem esperem ganhar prêmios sérios.",
+      "lote": "612"
     },
     {
       "id": "208d",

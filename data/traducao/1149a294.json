@@ -993,8 +993,8 @@
       "id": "1f07",
       "chave": "buttonmenu__leaveseries",
       "hash_es": "9cb9cc7bfc267bfa",
-      "texto_ptbr": "Abandonar liga",
-      "lote": "502"
+      "texto_ptbr": "Sair da liga",
+      "lote": "613"
     },
     {
       "id": "3c26",
@@ -1014,8 +1014,8 @@
       "id": "afd9",
       "chave": "buttonmenu__movetoclipboard",
       "hash_es": "e32a75cd8064e51b",
-      "texto_ptbr": "Mover p/ área de transf.",
-      "lote": "502"
+      "texto_ptbr": "Mover à área de transf.",
+      "lote": "613"
     },
     {
       "id": "13c2",

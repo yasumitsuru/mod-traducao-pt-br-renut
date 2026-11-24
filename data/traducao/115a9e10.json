@@ -20,8 +20,8 @@
       "id": "3451",
       "chave": "dialog__game1_gruntyemitdialog1",
       "hash_es": "e23ad58a349fec43",
-      "texto_ptbr": "Mexe essa carcaça, o tempo tá voando! Bata o relógio ou vai levando!",
-      "lote": "602"
+      "texto_ptbr": "Mexe essa carcaça, o tempo tá voando! Bata o relógio ou vai apanhando!",
+      "lote": "612"
     },
     {
       "id": "3452",
@@ -111,15 +111,15 @@
       "id": "b3a0",
       "chave": "dialog__game1_gruntywin1",
       "hash_es": "55b7aef27495922d",
-      "texto_ptbr": "Esse laser me faz quase imbatível. Curve-se e beije meus pés verruguentos, urso horrível!",
-      "lote": "602"
+      "texto_ptbr": "Esse laser me faz quase imbatível. Curve-se e beije meus pés verrugosos, urso horrível!",
+      "lote": "612"
     },
     {
       "id": "b3a1",
       "chave": "dialog__game1_gruntywin2",
       "hash_es": "f7e1f89e49f2a828",
-      "texto_ptbr": "Grunty avança feito foguete e o urso marrom vai pra caçapa, seu pateta!",
-      "lote": "607"
+      "texto_ptbr": "Grunty avança feito foguete, e o urso marrom na caçapa se mete!",
+      "lote": "612"
     },
     {
       "id": "b3a2",
@@ -202,8 +202,8 @@
       "id": "0f7d",
       "chave": "dialog__jinjoblue_win",
       "hash_es": "04d7bbb31de05fa4",
-      "texto_ptbr": "{MOODSAD}O quê? Eu sou o maior perdedor do mundo? Isso é meio ruim. Toma, bola de pelos, pegue o seu prêmio!",
-      "lote": "602"
+      "texto_ptbr": "{MOODSAD}O quê? Eu sou o maior perdedor do mundo? Isso é meio ruim. Toma, bola de pelos, pega o seu prêmio!",
+      "lote": "612"
     },
     {
       "id": "ca0d",

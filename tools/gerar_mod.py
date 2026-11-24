@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Gera o mod PT-BR 0.7.0 no seu computador, a partir da sua copia do jogo.
+"""Gera o mod PT-BR no seu computador, a partir da sua copia do jogo.
 
 O pacote nao acompanha arquivos do jogo: ele e montado aqui, lendo os textos originais
 que ja existem na sua instalacao legitima do reNut. O resultado e a pasta
@@ -31,8 +31,12 @@ from nbptbr.empacotar import mod_toml, montar_portugues, verificar_pacote_portug
 from nbptbr.extrair import PASTA_TRADUCAO, carregar_traducao  # noqa: E402
 from nbptbr.reinserir import reinserir_bytes  # noqa: E402
 
-VERSAO = "0.7.0"
-SHA_ESPERADO = "7cd39a34efbae21dc8d3f919e63349e15df88397080ad59dd07207da0f5b5e25"
+# Revisao 0.8.0 (desenvolvimento, sem Release): catalogo revisado em data/traducao.
+VERSAO = "0.8.0"
+SHA_ESPERADO = "d250b5959e7f0171355f9d6a3e1ac031e8c123dfb5fbfb0423beca538e20d8db"
+# Referencia historica da Release v0.7.0 (nao muda): o pacote publicado e validado no jogo.
+VERSAO_V070 = "0.7.0"
+SHA_V070 = "7cd39a34efbae21dc8d3f919e63349e15df88397080ad59dd07207da0f5b5e25"
 ARQUIVOS_ESPERADOS = 107
 FRASES_ESPERADAS = 6099
 
@@ -170,7 +174,7 @@ def gerar(extraido: Path, saida: Path) -> dict:
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(
-        description="Gera o mod de traducao PT-BR 0.7.0 a partir da sua copia legitima do jogo."
+        description=f"Gera o mod de traducao PT-BR {VERSAO} a partir da sua copia legitima do jogo."
     )
     parser.add_argument("--jogo", help="pasta do reNut, da pasta game\\extraido ou da pasta extraido")
     parser.add_argument("--saida", default="saida", help="pasta onde criar ptbr_traducao (padrao: saida)")
@@ -199,10 +203,10 @@ def main(argv: list[str] | None = None) -> int:
 
     if resultado["sha256"] == SHA_ESPERADO and resultado["frases"] == FRASES_ESPERADAS:
         print()
-        print("RESULTADO: PASS - e exatamente o pacote 0.7.0 validado no jogo.")
+        print(f"RESULTADO: PASS - e exatamente o pacote {VERSAO} conferido pelo projeto.")
     else:
         print()
-        print("RESULTADO: ATENCAO - o pacote foi gerado, mas nao coincide com o build 0.7.0 validado.")
+        print(f"RESULTADO: ATENCAO - o pacote foi gerado, mas nao coincide com o build {VERSAO} conferido.")
         print("Sua copia do jogo pode ser de outra versao ou estar incompleta. Nao instale este pacote")
         print("sem conferir; relate a diferenca no GitHub se quiser ajuda.")
 

@@ -34,8 +34,8 @@
       "id": "4834",
       "chave": "infopoint__cactusostrengthdesc",
       "hash_es": "924b8b2d1a3660fe",
-      "texto_ptbr": "O Cacto da Força era uma atração de Mundo das Bruxas em Banjo-Tooie que rendia Jiggies, reconstruída aqui pelo S.J. para desafiar os jogadores a tocar a campainha de novo. Que conquista seria...",
-      "lote": "604"
+      "texto_ptbr": "O Cacto da Força era uma atração do Mundo das Bruxas em Banjo-Tooie que rendia Jiggies, reconstruída aqui pelo S.J. para desafiar os jogadores a tocar a campainha de novo. Que conquista seria...",
+      "lote": "611"
     },
     {
       "id": "0e17",
@@ -76,8 +76,8 @@
       "id": "e7ed",
       "chave": "infopoint__cloudcuckoolanddesc",
       "hash_es": "dbab227db1573e3f",
-      "texto_ptbr": "Nuvem Cucolândia foi o último mundo de desafio de Banjo-Tooie. O S.J. teve muito trabalho para fazê-lo funcionar direito por causa do seu tamanho e da sua abertura, e foi lá que Banjo e Kazooie conheceram o Sr. Em Forma.",
-      "lote": "604"
+      "texto_ptbr": "Nuvem Cucolândia foi o último mundo de desafio de Banjo-Tooie. O S.J. teve muito trabalho para fazê-lo funcionar direito por ser tão grande e aberto, e foi lá que Banjo e Kazooie conheceram o Sr. Em Forma.",
+      "lote": "611"
     },
     {
       "id": "a4f0",
@@ -181,8 +181,8 @@
       "id": "879e",
       "chave": "infopoint__rubbishbintitle",
       "hash_es": "6134e13fc4f9d0c5",
-      "texto_ptbr": "Lata de Lixo",
-      "lote": "604"
+      "texto_ptbr": "Lixeira",
+      "lote": "611"
     },
     {
       "id": "0bd8",
@@ -230,8 +230,8 @@
       "id": "a703",
       "chave": "infopoint__stonehengedesc",
       "hash_es": "40c114904860c501",
-      "texto_ptbr": "Trazido da Montanha do Mumbo, o primeiro nível de desafio de Banjo-Kazooie. O S.J. precisou aumentá-lo um pouco e aplicar texturas novas para que parecesse um pouco menos 'penúltima geração'.",
-      "lote": "604"
+      "texto_ptbr": "Trazido da Montanha do Mumbo, o primeiro nível de desafio de Banjo-Kazooie. O S.J. precisou aumentá-lo um pouco e aplicar texturas novas para que parecesse um pouco menos 'geração retrasada'.",
+      "lote": "611"
     },
     {
       "id": "46c6",

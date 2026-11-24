@@ -27,8 +27,8 @@
       "id": "5b16",
       "chave": "dialog__game1_info2",
       "hash_es": "72430bb751e4e10a",
-      "texto_ptbr": "Agora, a sua próxima prova. Pegue o olho da Grunty e ponha onde ele pertence! Isso mesmo, no lixo. Ah, muito bem, na 'caçamba de entulho'. Suspiro...",
-      "lote": "509"
+      "texto_ptbr": "Agora, a sua próxima prova. Pegue o olho da Grunty e ponha onde ele pertence! Isso mesmo, na caçamba. Ah, muito bem, na &quot;lixeira&quot;. Suspiro...",
+      "lote": "610"
     },
     {
       "id": "5b17",
@@ -55,8 +55,8 @@
       "id": "5b1a",
       "chave": "dialog__game1_info6",
       "hash_es": "66296997ebaa81c9",
-      "texto_ptbr": "A última etapa. Está sentindo a emoção crescer? Empurre todos os vegetais de olhos grandes e tamanho de uma mordida para fora da área marcada!",
-      "lote": "509"
+      "texto_ptbr": "A última etapa. Está sentindo a emoção crescer? Empurre todos os vegetais de olhos grandes, do tamanho de uma mordida, para fora da área marcada!",
+      "lote": "610"
     },
     {
       "id": "9744",
@@ -132,15 +132,15 @@
       "id": "9dd9",
       "chave": "dialog__grunty_challenge",
       "hash_es": "07c1ca0f2277edfa",
-      "texto_ptbr": "Seis dos Melhores? Mais parecem Seis dos Piores! Se você terminou com essa farsa, prepare-se para ser amaldiçoado!",
-      "lote": "509"
+      "texto_ptbr": "Seis dos Melhores? Mais parecem Seis dos Piores! Se você terminou essa farsa, prepare-se para maldições e horrores!",
+      "lote": "610"
     },
     {
       "id": "40d2",
       "chave": "dialog__grunty_dismiss",
       "hash_es": "d05175827b4010f0",
-      "texto_ptbr": "Volte para o desafio, o S.J. está chamando! Satisfaça-o, e depois acertaremos as contas!",
-      "lote": "509"
+      "texto_ptbr": "Volte para o desafio, o S.J. mandou chamar! Satisfaça-o, e depois as contas vamos acertar!",
+      "lote": "610"
     }
   ]
 }

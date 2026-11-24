@@ -41,8 +41,8 @@
       "id": "d532",
       "chave": "dialog__game1_successa",
       "hash_es": "e0aa3a2aa5925b56",
-      "texto_ptbr": "{MOODSAD}Estou quase sem palavras com o quão bem você foi. Você deve estar usando código de trapaça! É isso! Pausou o jogo e fez um Stop 'n' Swop?",
-      "lote": "603"
+      "texto_ptbr": "{MOODSAD}Estou quase sem palavras de tão bem que você foi. Você deve estar usando código de trapaça! É isso! Pausou o jogo e fez um Stop 'n' Swop?",
+      "lote": "611"
     },
     {
       "id": "d534",
@@ -69,15 +69,15 @@
       "id": "06aa",
       "chave": "dialog__game2_course",
       "hash_es": "9a11658fa5f25f18",
-      "texto_ptbr": "{MOODHAPPY}Ah, sinta o ar! Não há nada igual! Ainda está comigo? Siga as flechas e passe com cuidado por cada um dos aros.",
-      "lote": "603"
+      "texto_ptbr": "{MOODHAPPY}Ah, sinta o ar! Não há nada igual! Ainda está comigo? Siga as setas e passe com cuidado por cada um dos aros.",
+      "lote": "611"
     },
     {
       "id": "c5cb",
       "chave": "dialog__game2_courserepeat",
       "hash_es": "7614d95460d20630",
-      "texto_ptbr": "Não é tão difícil, né? Só siga as flechas e passe pelos aros...",
-      "lote": "607"
+      "texto_ptbr": "Não é tão difícil, né? Só siga as setas e passe pelos aros...",
+      "lote": "611"
     },
     {
       "id": "daf5",
@@ -216,15 +216,15 @@
       "id": "cd09",
       "chave": "dialog__game3_beaten",
       "hash_es": "02050324c9645492",
-      "texto_ptbr": "{MOODHAPPY}Klungo agradecido pela ajuda com Asspira-Cocosss. Ursso tentar de novo para tempo ainda melhor?",
-      "lote": "603"
+      "texto_ptbr": "{MOODHAPPY}Klungo agradecido pela ajuda com Asspira-Cocosss. Urssso tentar de novo para tempo ainda melhor?",
+      "lote": "616"
     },
     {
       "id": "0396",
       "chave": "dialog__game3_fail",
       "hash_es": "2bc60ad4cd6c091c",
-      "texto_ptbr": "{MOODSAD}Nããão! Ursso demorar muito! Mumbo furiosssso agora, então Klungo procurar novo emprego. Klungo pedir ajuda a outro na próxima vez...",
-      "lote": "603"
+      "texto_ptbr": "{MOODSAD}Nããão! Urssso demorar muito! Mumbo furiosssso agora, então Klungo procurar novo emprego. Klungo pedir ajuda a outro na próxima vez...",
+      "lote": "616"
     },
     {
       "id": "10c6",
@@ -251,50 +251,50 @@
       "id": "542b",
       "chave": "dialog__game3_objectivesc",
       "hash_es": "257d0e4d47c2d6e6",
-      "texto_ptbr": "Tá, Klungo, então você quer que a gente recolha os cocos com o Aspira-Cocos. E depois?",
-      "lote": "603"
+      "texto_ptbr": "Tá, Klungo, então você quer que a gente recolha os cocos com o Aspira-coisa. E depois?",
+      "lote": "611"
     },
     {
       "id": "542c",
       "chave": "dialog__game3_objectivesd",
       "hash_es": "c120f22723ec047a",
-      "texto_ptbr": "Ursso levar cocos de volta ao barril de cocos na fazenda. Ter que entregar o número indicado de cocos enquanto Mumbo fora!",
-      "lote": "603"
+      "texto_ptbr": "Urssso levar cocos de volta ao barril de cocos na fazenda. Ter que entregar o número indicado de cocos enquanto Mumbo fora!",
+      "lote": "616"
     },
     {
       "id": "e5ba",
       "chave": "dialog__game3_objectivesrepeat1",
       "hash_es": "d0f2e3db8c3422d0",
-      "texto_ptbr": "{MOODSAD}Ursso correr antes que chefe Mumbo voltar!",
-      "lote": "603"
+      "texto_ptbr": "{MOODSAD}Urssso correr antes que chefe Mumbo voltar!",
+      "lote": "616"
     },
     {
       "id": "e5bb",
       "chave": "dialog__game3_objectivesrepeat2",
       "hash_es": "b3878ffe9b9c14f3",
-      "texto_ptbr": "{MOODSAD}Muitos jeitos de fazer trabalho a tempo, ursso escolher um!",
-      "lote": "603"
+      "texto_ptbr": "{MOODSAD}Muitos jeitos de fazer trabalho a tempo, urssso escolher um!",
+      "lote": "616"
     },
     {
       "id": "f774",
       "chave": "dialog__game3_successa",
       "hash_es": "e83ff3ebadcfc57f",
-      "texto_ptbr": "{MOODHAPPY}Ursso aspirar muitos cocos! Chefe contente, Klungo evitar demissão por mais um dia. Ursso merecer grande recompensa!",
-      "lote": "603"
+      "texto_ptbr": "{MOODHAPPY}Urssso aspirar muitos cocos! Chefe contente, Klungo evitar demissão por mais um dia. Urssso merecer grande recompensa!",
+      "lote": "616"
     },
     {
       "id": "f776",
       "chave": "dialog__game3_successc",
       "hash_es": "de96d52fc1eb4e1c",
-      "texto_ptbr": "{MOODHAPPY}Ursso terminar bem na hora! Merecer Jiggy, mas ainda poder se esforçar mais para melhor resultado.",
-      "lote": "603"
+      "texto_ptbr": "{MOODHAPPY}Urssso terminar bem na hora! Merecer Jiggy, mas ainda poder se esforçar mais para melhor resultado.",
+      "lote": "616"
     },
     {
       "id": "f778",
       "chave": "dialog__game3_successe",
       "hash_es": "caf64468c0f0ff6a",
-      "texto_ptbr": "Ursso terminar bem na hora. Mas sem grande prêmio, ter que fazer melhor. Klungo não fazer as regras, Klungo só seguir...",
-      "lote": "603"
+      "texto_ptbr": "Urssso terminar bem na hora. Mas sem grande prêmio, ter que fazer melhor. Klungo não fazer as regras, Klungo só seguir...",
+      "lote": "616"
     },
     {
       "id": "a1ea",
@@ -342,15 +342,15 @@
       "id": "5dac",
       "chave": "dialog__game4_objectivesc",
       "hash_es": "5b3fc5c28db98b15",
-      "texto_ptbr": "Sigam-me pela ilha e vejam com os próprios olhos. {PAGEBREAK}Eles só parecem atacar quando eu paro para descansar... não que eu precise descansar, entenda. {PAGEBREAK}Se vierem, é melhor você e a Kazooie estarem prontos quando eles aparecerem!",
-      "lote": "603"
+      "texto_ptbr": "Sigam-me pela ilha e vejam com os próprios olhos. {PAGEBREAK}Eles só parecem atacar quando eu paro para descansar... não que eu precise descansar, entendam. {PAGEBREAK}Se vierem, é melhor você e a Kazooie estarem prontos quando eles aparecerem!",
+      "lote": "611"
     },
     {
       "id": "5dad",
       "chave": "dialog__game4_objectivesd",
       "hash_es": "44426adc7b2fc7da",
-      "texto_ptbr": "Então vai andando, Cara de Mocotó. A gente vai logo atrás!",
-      "lote": "603"
+      "texto_ptbr": "Então vai andando, Cara de Narigão. A gente vai logo atrás!",
+      "lote": "611"
     },
     {
       "id": "8895",

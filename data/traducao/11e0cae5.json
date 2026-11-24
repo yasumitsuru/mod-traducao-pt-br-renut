@@ -118,8 +118,8 @@
       "id": "c181",
       "chave": "dialog__13globeisdocked",
       "hash_es": "4acb181dff268381",
-      "texto_ptbr": "Maravilhoso! O primeiro Mundo de Jogo agora está ativado. Cada Mundo de Jogo tem vários Atos em que dá para ganhar Jiggies, e cada porta leva a um Ato diferente. {PAGEBREAK}Você vai notar que cada porta exige um número determinado de Jiggies para abrir. Gosto de pensar nisso como uma homenagem clássica ao Banjo. {PAGEBREAK}O total de Jiggies necessário aparece acima da porta, então você precisa desse número de Jiggies no Banco de Jiggies para abri-la. {PAGEBREAK}Como pode ver, a porta do Ato 1 deste Mundo de Jogo já está aberta, então dê uma olhada lá dentro, pois é onde fica o seu primeiro Jiggy.",
-      "lote": "505"
+      "texto_ptbr": "Maravilhoso! O primeiro Mundo de Jogo agora está ativado. Cada Mundo de Jogo tem vários Atos em que dá para ganhar Jiggies, e cada porta leva a um Ato diferente. {PAGEBREAK}Você vai notar que cada porta exige um número determinado de Jiggies para abrir. Gosto de pensar nisso como uma homenagem aos jogos clássicos do Banjo. {PAGEBREAK}O total de Jiggies necessário aparece acima da porta, então você precisa desse número de Jiggies no Banco de Jiggies para abri-la. {PAGEBREAK}Como pode ver, a porta do Ato 1 deste Mundo de Jogo já está aberta, então dê uma olhada lá dentro, pois é onde fica o seu primeiro Jiggy.",
+      "lote": "610"
     },
     {
       "id": "b842",
@@ -181,8 +181,8 @@
       "id": "9704",
       "chave": "dialog__givenkeycomponent01",
       "hash_es": "a0bb8e0d6103ab84",
-      "texto_ptbr": "Então parece que você frustrou os planos de dominação da Grunty no mundo sonolento de Nutty Acres. Eu suspeitava que conseguiria. {PAGEBREAK}Ela estava usando Rodas de Alta Aderência, então, pela sua vitória, concedi a você um conjunto igual. Farei o mesmo com qualquer componente especial que ela usar em batalha. {PAGEBREAK}O seu Carrinho foi melhorado, e as suas esplêndidas rodas novas permitirão subir as encostas verdes e escorregadias. Pode ir!",
-      "lote": "518"
+      "texto_ptbr": "Então parece que você frustrou os planos de dominação da Grunty no mundo sonolento de Nutty Acres. Eu suspeitava que você conseguiria. {PAGEBREAK}Ela estava usando Rodas de Alta Aderência, então, pela sua vitória, concedi a você um conjunto igual. Farei o mesmo com qualquer componente especial que ela usar em batalha. {PAGEBREAK}O seu Carrinho foi melhorado, e as suas esplêndidas rodas novas permitirão subir as encostas verdes e escorregadias. Pode ir!",
+      "lote": "610"
     },
     {
       "id": "9705",

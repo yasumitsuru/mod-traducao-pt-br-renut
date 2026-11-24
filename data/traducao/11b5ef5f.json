@@ -6,8 +6,8 @@
       "id": "0b94",
       "chave": "dialog__blubber_cantafford1",
       "hash_es": "567bf5bdbbca5001",
-      "texto_ptbr": "Assim não dá! Receio que vou precisar de mais do seu butim...",
-      "lote": "301"
+      "texto_ptbr": "Assim não dá! Receio que eu vá precisar de mais do seu butim...",
+      "lote": "610"
     },
     {
       "id": "0b95",
@@ -307,8 +307,8 @@
       "id": "43ae",
       "chave": "dialog__bottles_grabbingedges",
       "hash_es": "f8433786cf02378d",
-      "texto_ptbr": "Caiu de um telhado ou de um beiral de altura inconveniente? Tente se agarrar à borda apertando o botão [A] antes de despencar num impacto que drena a sua energia no chão!",
-      "lote": "301"
+      "texto_ptbr": "Caiu de um telhado ou de um beiral de altura inconveniente? Tente se agarrar à borda apertando o botão [A] antes de despencar e sofrer um impacto contra o chão capaz de drenar a sua energia!",
+      "lote": "610"
     },
     {
       "id": "5104",
@@ -552,8 +552,8 @@
       "id": "93c4",
       "chave": "dialog__jolly_jiggy4desc",
       "hash_es": "3377c9955da861bb",
-      "texto_ptbr": "Maravilha Enigmática. Caiu da traseira de um caminhão. É um enigma e tanto como uma coisa dessas aconteceu.",
-      "lote": "301"
+      "texto_ptbr": "Maravilha Enigmática. Caiu da traseira de um caminhão. É um enigma e uma maravilha como uma coisa dessas aconteceu.",
+      "lote": "610"
     },
     {
       "id": "ac45",
@@ -587,15 +587,15 @@
       "id": "a985",
       "chave": "dialog__kingjingaling_goodbye3",
       "hash_es": "eb9464dfdc0b96a9",
-      "texto_ptbr": "Fique por dentro com a turma descolada, vire um frequentador do Bingo Jinjo!",
-      "lote": "301"
+      "texto_ptbr": "Acompanhe a turma descolada e vire um frequentador do Bingo Jinjo!",
+      "lote": "610"
     },
     {
       "id": "a986",
       "chave": "dialog__kingjingaling_goodbye4",
       "hash_es": "27d02380cb8086f8",
-      "texto_ptbr": "Que emocionante foi isso? Como uma montanha-russa dentro de um furacão!",
-      "lote": "301"
+      "texto_ptbr": "Que emoção, hein? Foi como uma montanha-russa dentro de um furacão!",
+      "lote": "610"
     },
     {
       "id": "a987",
@@ -832,8 +832,8 @@
       "id": "4154",
       "chave": "dialog__pikelet_chitchat1",
       "hash_es": "5bfd47da3db640b6",
-      "texto_ptbr": "Não saia dirigindo essa coisa rápido demais pela cidade. Não tenho tempo para racha de rapaz, nem de urso, aliás!",
-      "lote": "301"
+      "texto_ptbr": "Não saia dirigindo essa coisa rápido demais pela cidade. Não tenho tempo para rapaz de racha, e muito menos para urso de racha!",
+      "lote": "610"
     },
     {
       "id": "6c04",
@@ -930,8 +930,8 @@
       "id": "fbbc",
       "chave": "dialog__temp_humbaintro",
       "hash_es": "b8cef1a687cfb899",
-      "texto_ptbr": "Bom ver Banjo de novo. Humba Wumba abrir loja do outro lado da praça, longe do xamã inútil Mumbo. Humba vender peças de veículos e projetos completos de veículos para ajudar urso ter muitos veículos!",
-      "lote": "301"
+      "texto_ptbr": "Bom ver Banjo de novo. Humba Wumba abrir loja do outro lado da praça, longe do xamã inútil Mumbo. Humba vender peças de veículos e projetos completos de veículos para ajudar urso a ter muitos veículos!",
+      "lote": "610"
     },
     {
       "id": "d1b9",
@@ -944,8 +944,8 @@
       "id": "a03f",
       "chave": "dialog__temp_klungointro",
       "hash_es": "a34fc255d4d78b53",
-      "texto_ptbr": "Saudaçõesss, ursso. Klungo finalmente abandonar Ssenhora Grunty para fazer o melhor videogame de todosss os tempos, &quot;Herói Klungo Sssalva o Mundo&quot;. Klungo ssser a ssstrela, melhor que Massster Chef. Ursso poder ganhar notasss!",
-      "lote": "301"
+      "texto_ptbr": "Saudaçõesss, urssso. Klungo finalmente abandonar Ssenhora Grunty para fazer o melhor videogame de todosss os tempos, &quot;Herói Klungo Sssalva o Mundo&quot;. Klungo ssser a ssstrela, melhor que Massster Chef. Urssso poder ganhar notasss!",
+      "lote": "616"
     },
     {
       "id": "f8d1",
@@ -1091,8 +1091,8 @@
       "id": "c6bd",
       "chave": "showdowntown__bottles_accelerating",
       "hash_es": "2828ddd99be58d5b",
-      "texto_ptbr": "Acelerar/Frear",
-      "lote": "301"
+      "texto_ptbr": "Acelerar/frear",
+      "lote": "610"
     },
     {
       "id": "2431",
@@ -1154,8 +1154,8 @@
       "id": "8b65",
       "chave": "showdowntown__bottles_getinvehicles",
       "hash_es": "59ba3cbcc1df8bb6",
-      "texto_ptbr": "Entrar/Sair de veículos",
-      "lote": "301"
+      "texto_ptbr": "Entrar/sair de veículos",
+      "lote": "610"
     },
     {
       "id": "b4b6",
@@ -1231,8 +1231,8 @@
       "id": "6dd9",
       "chave": "showdowntown__bottles_mapspeedo",
       "hash_es": "08c19f4bded80649",
-      "texto_ptbr": "Mapa do jogo/Velocímetro",
-      "lote": "301"
+      "texto_ptbr": "Mapa do jogo/velocímetro",
+      "lote": "610"
     },
     {
       "id": "6d72",

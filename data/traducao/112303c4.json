@@ -244,8 +244,8 @@
       "id": "542d",
       "chave": "dialog__game3_objectivese",
       "hash_es": "f14a70b1871053ef",
-      "texto_ptbr": "É só procurar peças pesadas para adicionar ao veículo e maximizar o peso. Rápido, estou com comichão por interruptores!",
-      "lote": "605"
+      "texto_ptbr": "É só procurar peças pesadas para adicionar ao veículo e maximizar o peso. Rápido, estou com coceira por interruptores!",
+      "lote": "612"
     },
     {
       "id": "e5ba",
@@ -286,8 +286,8 @@
       "id": "a1ea",
       "chave": "dialog__game4_beaten",
       "hash_es": "c433a4b086afd64f",
-      "texto_ptbr": "Ursso voltar para mais uma tentativa de encharcar esssponja?",
-      "lote": "605"
+      "texto_ptbr": "Urssso voltar para mais uma tentativa de encharcar esssponja?",
+      "lote": "616"
     },
     {
       "id": "2c37",
@@ -307,8 +307,8 @@
       "id": "fec9",
       "chave": "dialog__game4_introb",
       "hash_es": "3bc848c29817a154",
-      "texto_ptbr": "{MOODSAD}Klungo descuidado, derrubar esssponja de gosma enquanto limpava! Esssponja precisar pingar gosma e lubrificar o Chip Central da C.P.U.",
-      "lote": "605"
+      "texto_ptbr": "{MOODSAD}Klungo descuidado, derrubar esssponja de gosma enquanto limpar! Esssponja precisar pingar gosma e lubrificar o chip grande da C.P.U.",
+      "lote": "612"
     },
     {
       "id": "feca",
@@ -321,15 +321,15 @@
       "id": "fecb",
       "chave": "dialog__game4_introd",
       "hash_es": "0814f7668b4cf276",
-      "texto_ptbr": "{MOODSAD}Deixar sssarcasssmo pra pássaro, ursso não bom nisso. Por favor, Klungo precisar de ajuda ou provavelmente ser demitido!",
-      "lote": "605"
+      "texto_ptbr": "{MOODSAD}Deixar sssarcasssmo pra pássaro, urssso não bom nisso. Por favor, Klungo precisar de ajuda ou provavelmente ser demitido!",
+      "lote": "616"
     },
     {
       "id": "5829",
       "chave": "dialog__game4_objectives",
       "hash_es": "218a20ec5a244c91",
-      "texto_ptbr": "Ursso pegar esssponja e encharcar na gosma molhadinha! Fácil!",
-      "lote": "605"
+      "texto_ptbr": "Urssso pegar esssponja e encharcar na gosma molhadinha! Fácil!",
+      "lote": "616"
     },
     {
       "id": "5dab",
@@ -342,36 +342,36 @@
       "id": "4bfb",
       "chave": "dialog__game4_objectivesrepeat1",
       "hash_es": "93a5adf947525c2a",
-      "texto_ptbr": "Ursso dar banho grande na esssponja pra ela não secar.",
-      "lote": "605"
+      "texto_ptbr": "Urssso dar banho grande na esssponja pra ela não secar.",
+      "lote": "616"
     },
     {
       "id": "4bfc",
       "chave": "dialog__game4_objectivesrepeat2",
       "hash_es": "ecbd277491fd922a",
-      "texto_ptbr": "Ursso levar esssponja até a gosma! Ou a gosma até esssponja...",
-      "lote": "605"
+      "texto_ptbr": "Urssso levar esssponja até a gosma! Ou a gosma até esssponja...",
+      "lote": "616"
     },
     {
       "id": "8895",
       "chave": "dialog__game4_successa",
       "hash_es": "24d21db061abd8d8",
-      "texto_ptbr": "{MOODHAPPY}Ursso deixar chip grande essstável de novo, num sssegundo. Merecer prêmio máximo por manter Klungo longe da rua!",
-      "lote": "605"
+      "texto_ptbr": "{MOODHAPPY}Urssso deixar chip grande essstável de novo, num sssegundo. Merecer prêmio máximo por manter Klungo longe da rua!",
+      "lote": "616"
     },
     {
       "id": "8897",
       "chave": "dialog__game4_successc",
       "hash_es": "6961f0a02a1995ce",
-      "texto_ptbr": "Gosma agora pingar, pingar, pingar direitinho de novo. Ursso ganhar Jiggy do Klungo, Klungo não ser expulso! Ressssultado!",
-      "lote": "605"
+      "texto_ptbr": "Gosma agora pingar, pingar, pingar direitinho de novo. Urssso ganhar Jiggy do Klungo, Klungo não ser expulso! Ressssultado!",
+      "lote": "616"
     },
     {
       "id": "8899",
       "chave": "dialog__game4_successe",
       "hash_es": "54f9bfdba786a8a4",
-      "texto_ptbr": "Esssponja pingar gosma de novo, mas chip pode estar danificado porque ursso demorar muito. Klungo só dar prêmio pequeno!",
-      "lote": "605"
+      "texto_ptbr": "Esssponja pingar gosma de novo, mas chip pode estar danificado porque urssso demorar muito. Klungo só dar prêmio pequeno!",
+      "lote": "616"
     },
     {
       "id": "76cb",

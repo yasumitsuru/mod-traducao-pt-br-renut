@@ -62,15 +62,15 @@
       "id": "4465",
       "chave": "dialog__cunning_instructions1",
       "hash_es": "816380c38492aefa",
-      "texto_ptbr": "Urso ir até o campo de futebol. Deixar marcas pretas grandes por todo o gramado novo do Sr. Em Forma!",
-      "lote": "604"
+      "texto_ptbr": "Urso ir até o campo de futebol. Deixar grandes marcas de derrapagem pretas por todo o gramado novo do Sr. Em Forma!",
+      "lote": "611"
     },
     {
       "id": "4466",
       "chave": "dialog__cunning_instructions2",
       "hash_es": "47cd25e5347a8358",
-      "texto_ptbr": "Hehe... urso arar o campo muito bem. Agora tentar acrobacias! No ar, empurre [LSTICK] Analógico esquerdo para frente ou para trás e segure o Botão [X] para dar uma cambalhota completa.",
-      "lote": "604"
+      "texto_ptbr": "Hehe... urso arar o campo muito bem. Agora tentar acrobacias! No ar, empurrar [LSTICK] Analógico esquerdo para frente ou para trás e segurar o Botão [X] para dar cambalhota completa.",
+      "lote": "611"
     },
     {
       "id": "4467",
@@ -83,8 +83,8 @@
       "id": "4468",
       "chave": "dialog__cunning_instructions4",
       "hash_es": "2f0baba8095559c0",
-      "texto_ptbr": "Urso pular bem, como salmão peludo! Agora fazer giro lateral completo. No ar, empurre [LSTICK] Analógico esquerdo para a esquerda ou para a direita e segure o Botão [X].",
-      "lote": "604"
+      "texto_ptbr": "Urso pular bem, como salmão peludo! Agora fazer giro lateral completo. No ar, empurrar [LSTICK] Analógico esquerdo para a esquerda ou para a direita e segurar o Botão [X].",
+      "lote": "611"
     },
     {
       "id": "4469",
@@ -97,8 +97,8 @@
       "id": "446a",
       "chave": "dialog__cunning_instructions6",
       "hash_es": "84157e8963fcb35e",
-      "texto_ptbr": "Hora do grande final! Urso saltar e impressionar o público com quanto tempo ficar no ar antes de aterrissar. Show terminar quando Mumbo decidir que salto bom o bastante. Oomenacka!",
-      "lote": "604"
+      "texto_ptbr": "Hora do grande final! Urso saltar e impressionar o público pelo tempo que ficar no ar antes de aterrissar. Show terminar quando Mumbo decidir que salto bom o bastante. Oomenacka!",
+      "lote": "611"
     },
     {
       "id": "a90b",
@@ -146,8 +146,8 @@
       "id": "8f4d",
       "chave": "dialog__ice_beaten",
       "hash_es": "507b369ecfbd80ed",
-      "texto_ptbr": "O George não dá nenhum escorregão dormindo há um tempo, mas podemos recriar o cenário para fins de treinamento...",
-      "lote": "604"
+      "texto_ptbr": "O George não anda escorregando dormindo há um tempo, mas podemos recriar o cenário para fins de treinamento...",
+      "lote": "611"
     },
     {
       "id": "64da",
@@ -216,15 +216,15 @@
       "id": "53ab",
       "chave": "dialog__jinjo1_random2",
       "hash_es": "48ce954350c132c7",
-      "texto_ptbr": "Ei, ei! Sabe quando você jogar a versão completa e sair correndo por Showdown Town... bom, fique atento aos relatos de avistamentos de Minjos. Esses caras são maus!",
-      "lote": "604"
+      "texto_ptbr": "Ei, ei! Sabe, quando você jogar a versão completa e sair correndo por Showdown Town... bom, fique atento aos relatos de avistamentos de Minjos. Esses caras são maus!",
+      "lote": "611"
     },
     {
       "id": "c4ab",
       "chave": "dialog__jinjo2_random1",
       "hash_es": "b3bff3de55fc09c5",
-      "texto_ptbr": "Espero que você esteja radiante de ver nós, Jinjos, de volta ao meio da ação! Pois é, aquela velha bruaca da Gruntilda não conseguiu nos segurar por muito tempo...",
-      "lote": "604"
+      "texto_ptbr": "Espero que você esteja radiante de ver a gente, os Jinjos, de volta ao meio da ação! Pois é, aquela velha bruaca da Gruntilda não conseguiu nos segurar por muito tempo...",
+      "lote": "611"
     },
     {
       "id": "c4ac",
@@ -244,8 +244,8 @@
       "id": "ba04",
       "chave": "dialog__race_fail",
       "hash_es": "c4f096742bb432e5",
-      "texto_ptbr": "Muito lento! Urssso deve estar carregando peso demais. Tentar de novo, mas talvez jogar pássaro na água... heh heh. {PAGEBREAK}Klungo receber kit de imprensa, dizer que amigoss podem enviar projeto pelo Xbox LIVE para ajudar a fazer veículos melhores no jogo final. Nenhuma dessculpa para ser ruim!",
-      "lote": "604"
+      "texto_ptbr": "Muito ssslento! Urssso deve estar carregando peso demais. Tentar de novo, mas talvez jogar pássaro na água... heh heh. {PAGEBREAK}Klungo receber kit de imprensa, dizer que amigoss poder enviar projetos pelo Xbox LIVE para ajudar a fazer veículos melhores no jogo final. Nenhuma dessculpa para ser ruim!",
+      "lote": "611"
     },
     {
       "id": "94f4",
@@ -265,8 +265,8 @@
       "id": "33d7",
       "chave": "dialog__race_introc",
       "hash_es": "c9bec042ac9b09e2",
-      "texto_ptbr": "Não zombe, Kazooie! Aturar ele não custa nada...",
-      "lote": "604"
+      "texto_ptbr": "Não zombe, Kazooie! Fazer a vontade dele não custa nada...",
+      "lote": "611"
     },
     {
       "id": "4bb6",
@@ -293,8 +293,8 @@
       "id": "34e6",
       "chave": "dialog__race_successe",
       "hash_es": "487fa4bb79b678c1",
-      "texto_ptbr": "Linha de chegada atravessada, mas tempo de volta lento para os padrões do urssso, então sem Jiggy! {PAGEBREAK}Urssso gostar do carro Gobi? O Modo Foto no jogo completo deixar urssso enviar fotos das próprias criações para compartilhar com amigos e a comunidade Xbox LIVE. Pelo menos é o que dizem aqui.",
-      "lote": "608"
+      "texto_ptbr": "Linha de chegada atravessada, mas tempo de volta lento para os padrões do urssso, então sssem Jiggy! {PAGEBREAK}Urssso gostar do carro Gobi? O Modo Foto no jogo completo deixar urssso enviar fotos das próprias criações para compartilhar com amigos e a comunidade Xbox LIVE. Pelo menos isso o que dizer aqui.",
+      "lote": "611"
     },
     {
       "id": "12cc",

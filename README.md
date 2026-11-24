@@ -13,6 +13,24 @@ arquivos originais intactos.
 > **v0.7.0** entrega um **gerador local**: ele monta o mesmo pacote validado a partir da sua cópia
 > legítima do jogo. Os arquivos automáticos “Source code” do GitHub não são instaláveis.
 
+## Revisão 0.8.0 (em desenvolvimento, sem Release)
+
+A branch `main` traz a **revisão integral** da tradução do jogo: as 6.110 entradas foram auditadas e
+revisadas (sentido, gramática, voz dos personagens, rimas da Grunty, terminologia e menus), e
+**448 frases foram corrigidas**, sem alterar nomes protegidos, códigos ou a estrutura dos arquivos.
+O relatório completo, a lista de alterações e as pendências estão em `docs/revisao-0.8.0/`.
+
+A 0.8.0 ainda **não tem Release**. A Release **v0.7.0** continua sendo o pacote estável publicado. Quem
+quiser testar a revisão pode gerar o pacote a partir do código da `main`, com Python 3.11+:
+
+```
+python -I tools/gerar_mod.py --jogo "C:\caminho\da\instalacao\do\reNut"
+```
+
+O SHA-256 esperado do `.nbpatch` 0.8.0 é
+`d250b5959e7f0171355f9d6a3e1ac031e8c123dfb5fbfb0423beca538e20d8db`. A validação visual da 0.8.0 cobriu o
+menu e a abertura da história; mundos, desafios, créditos e multijogador foram conferidos pelo texto.
+
 ## O que o mod traduz
 
 * Menus e telas de configuração.
@@ -75,7 +93,7 @@ O ZIP de código automático do GitHub não serve para instalar o mod.
 2. Quando o programa pedir, informe a pasta do reNut que contém `game\extraido`.
 3. Espere a mensagem `RESULTADO: PASS`. O gerador cria `saida\ptbr_traducao` com `mod.toml` e
    `ptbr_traducao.nbpatch`.
-4. O SHA-256 esperado do `.nbpatch` é
+4. O SHA-256 esperado do `.nbpatch` gerado pela Release v0.7.0 é
    `7cd39a34efbae21dc8d3f919e63349e15df88397080ad59dd07207da0f5b5e25`. O gerador confere esse valor
    e avisa se a sua cópia do jogo for de outra versão.
 

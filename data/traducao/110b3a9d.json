@@ -20,8 +20,8 @@
       "id": "396b",
       "chave": "dialog__game1_lose",
       "hash_es": "612df554fdc86cba",
-      "texto_ptbr": "{MOODSAD}Missão de reconhecimento sem tempo! Nenhuma rota planejada, exploradores correm e pisoteiam plantas preciosas. O que plantas fizeram de errado?",
-      "lote": "601"
+      "texto_ptbr": "{MOODSAD}Missão de reconhecimento sem tempo! Nenhuma rota planejada, exploradores todos correr e pisotear plantas preciosas. O que plantas já fazer de errado?",
+      "lote": "612"
     },
     {
       "id": "4006",
@@ -76,8 +76,8 @@
       "id": "d405",
       "chave": "dialog__game2_intro",
       "hash_es": "5bdc60617d144c72",
-      "texto_ptbr": "{MOODHAPPY}Klungo grande herói botânico, encontrar sssemente de amora flutuante! Todo mundo pensar que estar extinta! Ter que plantar sssemente antes que sssseque...",
-      "lote": "601"
+      "texto_ptbr": "{MOODHAPPY}Klungo grande herói botânico, encontrar sssemente de amora flutuante! Todo mundo pensar que estar extinta! Ter que plantar sssemente antes que ssseque...",
+      "lote": "612"
     },
     {
       "id": "620c",
@@ -97,8 +97,8 @@
       "id": "7f79",
       "chave": "dialog__game2_objectivesrepeat1",
       "hash_es": "365a06ba80fef0d1",
-      "texto_ptbr": "Urssso manter sssemente úmida! Usar assspergosss e lagoasss!",
-      "lote": "607"
+      "texto_ptbr": "Urssso manter sssemente úmida! Usar assspersssoresss e lagoasss!",
+      "lote": "612"
     },
     {
       "id": "7f7a",
@@ -125,8 +125,8 @@
       "id": "500c",
       "chave": "dialog__game2_wine",
       "hash_es": "7f3081e768fc611b",
-      "texto_ptbr": "Urssso imprudente, sssemente quase morrer! Ficou perto demais do limite para ganhar grande recompensa!",
-      "lote": "601"
+      "texto_ptbr": "Urssso imprudente, sssemente quase morrer! Ficar perto demais do limite para ganhar grande recompensa!",
+      "lote": "612"
     },
     {
       "id": "4336",
@@ -160,8 +160,8 @@
       "id": "c0c4",
       "chave": "dialog__jinjoblue_greeting",
       "hash_es": "21777476d5fd6b3c",
-      "texto_ptbr": "{MOODHAPPY}Sinto a necessidade, a necessidade de... o que era mesmo? Ganância? Mato?",
-      "lote": "601"
+      "texto_ptbr": "{MOODHAPPY}Sinto a necessidade, a necessidade de... o que era mesmo? Felicidade? Vaidade?",
+      "lote": "612"
     },
     {
       "id": "1182",

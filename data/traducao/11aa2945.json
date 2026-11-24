@@ -55,8 +55,8 @@
       "id": "f828",
       "chave": "dialog__game2_beaten",
       "hash_es": "2a013a705d4793ff",
-      "texto_ptbr": "{MOODSAD}Tá, eu já descobri. Você deve ter pegado um vento de cauda de sorte da última vez. Duvido seriamente que consiga de novo!",
-      "lote": "603"
+      "texto_ptbr": "{MOODSAD}Tá, eu já descobri. Você deve ter pegado um vento de cauda por pura sorte da última vez. Duvido seriamente que consiga de novo!",
+      "lote": "611"
     },
     {
       "id": "daf5",
@@ -83,8 +83,8 @@
       "id": "6653",
       "chave": "dialog__game2_successa",
       "hash_es": "71bdc992ce91bf40",
-      "texto_ptbr": "{MOODSAD}Não acredito, você foi mais longe que eu! Seu peso enorme deve ter te dado vantagem por uma vez! Vá, pegue seus prêmios e me deixe lamentar meu saudoso recorde mundial...",
-      "lote": "603"
+      "texto_ptbr": "{MOODSAD}Não acredito, você foi mais longe que eu! Seu peso enorme deve ter te dado vantagem para variar! Vá, pegue seus prêmios e me deixe lamentar meu saudoso recorde mundial...",
+      "lote": "611"
     },
     {
       "id": "6655",
@@ -104,22 +104,22 @@
       "id": "cd09",
       "chave": "dialog__game3_beaten",
       "hash_es": "621131dd9b703f93",
-      "texto_ptbr": "{MOODHAPPY}Ursso bom na corrida da última vez, querer ir de novo?",
-      "lote": "603"
+      "texto_ptbr": "{MOODHAPPY}Urssso bom na corrida da última vez, querer ir de novo?",
+      "lote": "616"
     },
     {
       "id": "0396",
       "chave": "dialog__game3_fail",
       "hash_es": "adcef533d0e6620b",
-      "texto_ptbr": "{MOODSAD}Klungo não esperar mesmo que ursso perdesse! Sentir-se estranhamente decepcionado e desapontado...",
-      "lote": "603"
+      "texto_ptbr": "{MOODSAD}Klungo não esperar mesmo que urssso perdesse! Sentir-se estranhamente decepcionado e desapontado...",
+      "lote": "616"
     },
     {
       "id": "10c6",
       "chave": "dialog__game3_intro",
       "hash_es": "b7e1cd5ccc92e242",
-      "texto_ptbr": "{MOODSAD}Temporada seca deixar Klungo todo quente e suado...",
-      "lote": "603"
+      "texto_ptbr": "{MOODSAD}Estação seca deixar Klungo todo quente e suado...",
+      "lote": "611"
     },
     {
       "id": "29e8",
@@ -132,8 +132,8 @@
       "id": "29e9",
       "chave": "dialog__game3_introc",
       "hash_es": "c4302c21da54599d",
-      "texto_ptbr": "{MOODHAPPY}Pelo menos leito de rio seco virar boa pista de corrida com muitos choquesss! Ursso querer se juntar a Klungo para um pouco de confusão?",
-      "lote": "603"
+      "texto_ptbr": "{MOODHAPPY}Pelo menos leito de rio seco virar boa pista de corrida com muitos choquesss! Urssso querer se juntar a Klungo para um pouco de confusão?",
+      "lote": "616"
     },
     {
       "id": "fac8",
@@ -146,22 +146,22 @@
       "id": "f774",
       "chave": "dialog__game3_successa",
       "hash_es": "f34ed9586f25732c",
-      "texto_ptbr": "{MOODSAD}Ursso rápido demais para Klungo desengonçado... ursso ganhar o melhor prêmio disponível!",
-      "lote": "603"
+      "texto_ptbr": "{MOODSAD}Urssso rápido demais para Klungo desengonçado... urssso ganhar o melhor prêmio disponível!",
+      "lote": "616"
     },
     {
       "id": "f776",
       "chave": "dialog__game3_successc",
       "hash_es": "80affab671202023",
-      "texto_ptbr": "Bem rápido, mas Klungo saber que ursso pode ir mais rápido. Ursso ganhar Jiggy de qualquer jeito, mas dever tentar melhorar o tempo...",
-      "lote": "603"
+      "texto_ptbr": "Bem rápido, mas Klungo saber que urssso pode ir mais rápido. Urssso ganhar Jiggy de qualquer jeito, mas dever tentar melhorar o tempo...",
+      "lote": "616"
     },
     {
       "id": "f778",
       "chave": "dialog__game3_successe",
       "hash_es": "08b17df58deffe5f",
-      "texto_ptbr": "Ursso fazer bem, mas não rápido o bastante para Jiggy. Klungo querer emoçõesss e tombosss!",
-      "lote": "603"
+      "texto_ptbr": "Urssso fazer bem, mas não rápido o bastante para Jiggy. Klungo querer emoçõesss e tombosss!",
+      "lote": "616"
     },
     {
       "id": "a1ea",
@@ -174,8 +174,8 @@
       "id": "2c37",
       "chave": "dialog__game4_fail",
       "hash_es": "1011f3d545dddc5d",
-      "texto_ptbr": "{MOODSAD}Barco partir sem os cocos de Nutty Acres! Opa, sem pagamento para os jornaleiros de novo!",
-      "lote": "603"
+      "texto_ptbr": "{MOODSAD}Barco partir sem os cocos de Nutty Acres! Opa, sem pagamento para os peões de fazenda de novo!",
+      "lote": "611"
     },
     {
       "id": "4d87",
@@ -209,8 +209,8 @@
       "id": "5829",
       "chave": "dialog__game4_objectives",
       "hash_es": "44dfa6fb93d50cd6",
-      "texto_ptbr": "Banjo precisar levar todos os cocos ao Mumbo para aprovação. {PAGEBREAK}Marido inútil provavelmente caçando caranguejos nas dunas de Nutty Acres. Quando cocos aprovados, ter que levar ao cais antes que barco partir. {PAGEBREAK}Garantir que todos os cocos estejam a bordo, senão fazenda ter grande prejuízo!",
-      "lote": "603"
+      "texto_ptbr": "Banjo precisar levar todos os cocos a Mumbo para aprovação. {PAGEBREAK}Marido inútil provavelmente caçando caranguejos nas dunas de Nutty Acres. Quando cocos aprovados, ter que levar ao cais antes de barco partir. {PAGEBREAK}Garantir todos os cocos a bordo, senão fazenda ter grande prejuízo!",
+      "lote": "611"
     },
     {
       "id": "8895",
@@ -258,8 +258,8 @@
       "id": "d3aa",
       "chave": "dialog__game5_introb",
       "hash_es": "49580e608f541ae8",
-      "texto_ptbr": "Confia em mim, Cara de Mocotó. Se um dia fizerem um concurso de bico mais comprido, você ganha fácil.",
-      "lote": "603"
+      "texto_ptbr": "Confia em mim, Cara de Narigão. Se um dia fizerem um concurso de bico mais comprido, você ganha fácil.",
+      "lote": "611"
     },
     {
       "id": "d3ab",
@@ -272,8 +272,8 @@
       "id": "b58a",
       "chave": "dialog__game5_objectives",
       "hash_es": "a40587a9cc76109d",
-      "texto_ptbr": "{MOODHAPPY}Siga o percurso ao redor da ilha e não deixe de passar por todos os portões. {PAGEBREAK}Parece que o resto dos jornaleiros está aqui, então essa vitória vai ser de saborear!",
-      "lote": "603"
+      "texto_ptbr": "{MOODHAPPY}Siga o percurso ao redor da ilha e não deixe de passar por todos os portões. {PAGEBREAK}Parece que o resto dos peões de fazenda está aqui, então essa vitória vai ser de saborear!",
+      "lote": "611"
     },
     {
       "id": "19b6",

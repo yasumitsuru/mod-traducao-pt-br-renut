@@ -20,15 +20,15 @@
       "id": "1774",
       "chave": "dialog__instructions_objectivesbtn",
       "hash_es": "af8859f5cfd8e01b",
-      "texto_ptbr": "Ver a sequência de objetivos do jogo de novo.",
-      "lote": "503"
+      "texto_ptbr": "Veja a sequência de objetivos do jogo de novo.",
+      "lote": "613"
     },
     {
       "id": "3437",
       "chave": "dialog__instructions_startchallengebtn",
       "hash_es": "eb537af868667679",
-      "texto_ptbr": "Quando estiver pronto, pressione o botão [A] e vamos começar o jogo!",
-      "lote": "503"
+      "texto_ptbr": "Quando estiver pronto, pressione o Botão [A] e vamos começar o jogo!",
+      "lote": "613"
     },
     {
       "id": "4d57",

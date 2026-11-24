@@ -1,0 +1,140 @@
+{
+  "lote": "610",
+  "descricao": "revisao 0.8.0 G1: Showdown Town, Spiral Mountain e historia",
+  "traducoes": {
+    "1107e839": {
+      "0192": "É hora de eu partir para um ataque furtivo e me esconder. Se nem conseguem me ver, como vão se defender?",
+      "0a3b": "Tanto sigilo e não foi o bastante. Querem que eu desista com dignidade? Nem por um instante!",
+      "1da8": "Contemplem a Vassoura, nossa luta final é agora! Vou varrer vocês como baratas, lá fora!",
+      "2aba": "Você ainda está no meu caminho, que falta de delicadeza! Vou avaliar minhas opções dentro desta Fortaleza!",
+      "2d33": "Meu Galeão Pirata será mais triunfante. Alto lá, seus marujos! Vocês vão achar isso bem estressante!",
+      "3268": "Meu corpo estava parado, mas minha mente, acelerada... inventando novos veículos para dar em vocês uma surra danada! {PAGEBREAK}Meus lacaios os construíram, eu sabia que cuidariam de mim. Vou tomar este lugar enquanto vocês labutam na Fábrica sem fim!",
+      "326a": "Adeus, Spiral Mountain; olá, Grunty Acres! Vocês dois, preparem-se para conhecer seus criadores!",
+      "3451": "Estas rodas não são tão duras quanto parecem, vou confessar... o assento também é frágil, é bom ninguém notar!",
+      "3453": "Esta peça de camaleão furtivo me custou caro. É melhor eu protegê-la quando reaparecer, é claro!",
+      "3454": "Vejam estas paredes, sólidas assim! A parte de baixo é diferente, mas, francamente, quem liga, enfim?",
+      "3455": "Chega de pontos fracos, isso é fato! Estou armada, sou perigosa e carrego um gato!",
+      "4543": "Podem vencer os Mundos de Jogo e a Cidade arrasar, mas não pensem nem por um minuto que vão me parar!",
+      "4bc8": "Meu Caminhão virou sucata, mas não vou me abalar. Estamos só começando, nada de comemorar!",
+      "74bf": "Este Caminhão Monstro é demais, não dá para negar. Vou achatar vocês na encosta da montanha, podem esperar!",
+      "76b4": "Estou sem ideias, acabou, eu perdi. Pode acabar logo com isso, nem me diverti!",
+      "8565": "Subestimam minha astúcia sem entender; ouçam meu plano e comecem a correr!",
+      "86a1": "O urso e a ave caem na linha final! A derrota deles é completa, a Montanha é minha, afinal!",
+      "ae63": "A Fortaleza foi invadida, suas defesas destruídas! Minhas opções de veículo estão cada vez mais reduzidas...",
+      "c5bc": "Vocês vão andar na prancha por isso, podem crer. Que a terceira etapa desta saga épica comece a valer!",
+      "fb91": "Minha fiel Vassoura, da bruxa a melhor amiga! Quebrada e inútil... este é o fim, não me diga!"
+    },
+    "11132aff": {
+      "036d": "Um alto-falante",
+      "072b": "O S.J. plantando bananeira",
+      "108d": "O fedor de jogos reciclados",
+      "1e32": "Uma fileira enorme de espinhos que descem",
+      "2e8e": "Um alto-falante",
+      "61f9": "Pastinaca",
+      "674d": "Os melhores pratos de porcelana do S.J.",
+      "6f9b": "Uma estrada",
+      "746e": "Cheesecake de Groselha-preta",
+      "7ff6": "Ela precisa de aulas para assustar mais",
+      "93ab": "De que cor é o joystick da fábrica de videogames do S.J. em Showdown Town?",
+      "93ca": "Qual é o nome da loja do Sr. Costelas em Showdown Town?",
+      "93ee": "Qual era a função do Mumbo antes de o S.J. obrigá-lo a virar mecânico?",
+      "9491": "De que sabor é a pastilha de gosma no Mundo de Jogo LOGBOX 720?",
+      "a34a": "O Arauto do S.J.",
+      "a34b": "O Diário do S.J.",
+      "a7dd": "Feito pelo S.J.",
+      "d2fc": "Lamacento X-115 Beta",
+      "d850": "Captain Skyhawk",
+      "e3d6": "Bola de basquete",
+      "e3d7": "Bola de beisebol",
+      "e4f6": "A usina elétrica subterrânea do S.J.",
+      "e4f7": "A base secreta de foguetes do S.J.",
+      "e4f8": "O farol do S.J.",
+      "e4f9": "A fábrica de videogames do S.J.",
+      "f987": "Costelas na Brasa do Sr. Costelas"
+    },
+    "11159462": {
+      "d6c6": "Como Banjo hoje? Olhos brilhando, cauda peluda e pronto para gastar? Esperar... Humba já ouvir isso em algum lugar."
+    },
+    "111dc2ac": {
+      "ddd3": "Ela é uma figura curiosa, a sua arqui-inimiga, parada por aí se recusando a participar. Não caia na tentação de imitá-la! Concluir desafios é vital para o seu sucesso, tanto aqui quanto em casa!"
+    },
+    "113bae96": {
+      "25ff": "Eekumbokum! Mumbo não querer rachadura feia no crânio!",
+      "2600": "Urso e pássaro abusar dos serviços locais. Construir e explorar, não destruir!",
+      "3d70": "Não bater em Klungo! Grande bagunsssa se os pontosss se soltarem!",
+      "590c": "Ai! Isso não ser necessário. Injusto descontar estresse em Humba!",
+      "590d": "Chega! Mumbo sempre dizer que você ser doido, Humba nunca acreditar nele!",
+      "76c8": "Eu sei que não sou sua preferida, mas essa atitude é bem atrevida!",
+      "76c9": "Não se meta comigo, que eu revido. Vou te mostrar o bafo da Grunty, ataque temido!",
+      "854b": "Qual é, só porque eu sou melhor que você! Mau perdedor!"
+    },
+    "1163678b": {
+      "789f": "Grunty despencou da torre após uma batalha anterior e caiu de mau jeito bem aqui, mas foi trazida de volta pelas irmãs como um esqueleto ainda menos atraente."
+    },
+    "118027f3": {
+      "cf29": "Gire o [LSTICK] analógico esquerdo para rodar o Parafuso e liberar os Jiggies guardados dentro; depois leve-os ao Banco de Jiggies."
+    },
+    "11903d36": {
+      "434c": "Boa captura. Você me faz lembrar de mim mesmo no meu auge... não que eu já tenha passado dele, pirralho. Pegue as notas antes que eu mude de ideia!"
+    },
+    "119b6dc0": {
+      "66d3": "Eekumbokum! Urso com medo como menina pequena, voltar quando ser mais corajoso.",
+      "66d4": "Mumbo achar que urso amolecer de tanta pizza e televisão.",
+      "66d5": "Desafio muito difícil? Urso ser preguiçoso ou burro demais para dirigir carro.",
+      "66d7": "Urso ir chorar pela falta de plataforma no jogo. Oomenacka!",
+      "99e0": "Humba não estar acostumada a ver Banjo fugir de nada...",
+      "99e1": "Voltar, Banjo! Este desafio ser importante!",
+      "99e2": "Urso grande e forte não estar pronto para encarar desafio de Humba?",
+      "99e3": "Humba ainda estar aqui se Banjo mudar de ideia...",
+      "99e4": "Humba achar que Banjo só precisar de mais um minuto para se preparar, certo?"
+    },
+    "11a8e97b": {
+      "52ec": "Urso ir bem, mesmo usando veículos bobos.",
+      "9132": "Me deixar aqui foi um grande engano, espere o jogo malvado do meu plano!",
+      "bcea": "O tesouro de vocês espera, meus marujos!"
+    },
+    "11b5ef5f": {
+      "0b94": "Assim não dá! Receio que eu vá precisar de mais do seu butim...",
+      "4154": "Não saia dirigindo essa coisa rápido demais pela cidade. Não tenho tempo para rapaz de racha, e muito menos para urso de racha!",
+      "43ae": "Caiu de um telhado ou de um beiral de altura inconveniente? Tente se agarrar à borda apertando o botão [A] antes de despencar e sofrer um impacto contra o chão capaz de drenar a sua energia!",
+      "6dd9": "Mapa do jogo/velocímetro",
+      "8b65": "Entrar/sair de veículos",
+      "93c4": "Maravilha Enigmática. Caiu da traseira de um caminhão. É um enigma e uma maravilha como uma coisa dessas aconteceu.",
+      "a985": "Acompanhe a turma descolada e vire um frequentador do Bingo Jinjo!",
+      "a986": "Que emoção, hein? Foi como uma montanha-russa dentro de um furacão!",
+      "c6bd": "Acelerar/frear",
+      "fbbc": "Bom ver Banjo de novo. Humba Wumba abrir loja do outro lado da praça, longe do xamã inútil Mumbo. Humba vender peças de veículos e projetos completos de veículos para ajudar urso a ter muitos veículos!"
+    },
+    "11ccd2bd": {
+      "0505": "Tantos Jiggies, deve estar orgulhoso. Pena que eu não vou deixar você ser vitorioso!",
+      "87ab": "A Spiral Mountain não é nada especial, mas é da Grunty, um imóvel sensacional!",
+      "87ac": "Meus Gruntbots estão por aí causando confusão, deixando estes mundos cretinos em escombros no chão!",
+      "a7d4": "Abriu novos distritos em Showdown Town, que maravilha! Pena que só tem esquisito e desajustado, que quadrilha!"
+    },
+    "11e0cae5": {
+      "9704": "Então parece que você frustrou os planos de dominação da Grunty no mundo sonolento de Nutty Acres. Eu suspeitava que você conseguiria. {PAGEBREAK}Ela estava usando Rodas de Alta Aderência, então, pela sua vitória, concedi a você um conjunto igual. Farei o mesmo com qualquer componente especial que ela usar em batalha. {PAGEBREAK}O seu Carrinho foi melhorado, e as suas esplêndidas rodas novas permitirão subir as encostas verdes e escorregadias. Pode ir!",
+      "c181": "Maravilhoso! O primeiro Mundo de Jogo agora está ativado. Cada Mundo de Jogo tem vários Atos em que dá para ganhar Jiggies, e cada porta leva a um Ato diferente. {PAGEBREAK}Você vai notar que cada porta exige um número determinado de Jiggies para abrir. Gosto de pensar nisso como uma homenagem aos jogos clássicos do Banjo. {PAGEBREAK}O total de Jiggies necessário aparece acima da porta, então você precisa desse número de Jiggies no Banco de Jiggies para abri-la. {PAGEBREAK}Como pode ver, a porta do Ato 1 deste Mundo de Jogo já está aberta, então dê uma olhada lá dentro, pois é onde fica o seu primeiro Jiggy."
+    },
+    "11e5cfe6": {
+      "b6cb": "Ursso ver agora? Jogo de Klungo ssser o melhor do mundo! Klungo recompensar habilidadesss hardcore de plataforma com muitasss notasss!"
+    },
+    "11e92675": {
+      "40d2": "Volte para o desafio, o S.J. mandou chamar! Satisfaça-o, e depois as contas vamos acertar!",
+      "5b16": "Agora, a sua próxima prova. Pegue o olho da Grunty e ponha onde ele pertence! Isso mesmo, na caçamba. Ah, muito bem, na &quot;lixeira&quot;. Suspiro...",
+      "5b1a": "A última etapa. Está sentindo a emoção crescer? Empurre todos os vegetais de olhos grandes, do tamanho de uma mordida, para fora da área marcada!",
+      "9dd9": "Seis dos Melhores? Mais parecem Seis dos Piores! Se você terminou essa farsa, prepare-se para maldições e horrores!"
+    },
+    "11f0cc45": {
+      "05d3": "Isso parece um truque sem noção. O que fará se dissermos que não?",
+      "268a": "Tudo bem, acho que ainda consigo te carregar... por pouco. Tudo por uma vida tranquila!",
+      "52ef": "Meu corpo se foi, mas os olhos não; só vejo mentira e enganação!",
+      "6a4e": "Quando a irmã de Banjo foi sequestrada, o urso e a ave a resgataram das profundezas do covil da bruxa, superando muitos perigos e impedimentos de fala para mandar Gruntilda despencando rumo à sua perdição.",
+      "6a50": "Nossos bravos heróis se puseram de novo em seu caminho, e este segundo confronto terminou tão mal para Gruntilda quanto o primeiro; ela bem que deveria ter parado enquanto estava... na frente.",
+      "b03e": "A ave foi mal no jogo anterior, e agora está sem graça e bem pior!",
+      "b03f": "Muito lentos, perdedores, me vejam correr! Desta vez eu vou ganhar, pode crer!",
+      "b153": "Ah, isso é que é vida. Pizza, sol e nenhuma preocupação no mundo.",
+      "bd0b": "Se você estivesse em forma, podia ter nos levado voando até lá, Kazooie!",
+      "e127": "Pelo menos minha barriga não é redonda. Vamos brigar, vou morder sua bunda!"
+    }
+  }
+}

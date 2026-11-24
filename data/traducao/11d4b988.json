@@ -125,8 +125,8 @@
       "id": "1938",
       "chave": "dialog__game1_objectivesrepeat1",
       "hash_es": "6751026ff746031e",
-      "texto_ptbr": "Derrube alguns desses cães sarnentos e o resto deve fugir!",
-      "lote": "604"
+      "texto_ptbr": "Derrube cães sarnentos suficientes e o resto deve fugir!",
+      "lote": "611"
     },
     {
       "id": "1939",
@@ -160,8 +160,8 @@
       "id": "f828",
       "chave": "dialog__game2_beaten",
       "hash_es": "507b369ecfbd80ed",
-      "texto_ptbr": "O George não dá nenhum escorregão dormindo há um tempo, mas podemos recriar o cenário para fins de treinamento...",
-      "lote": "604"
+      "texto_ptbr": "O George não anda escorregando dormindo há um tempo, mas podemos recriar o cenário para fins de treinamento...",
+      "lote": "615"
     },
     {
       "id": "daf5",
@@ -265,8 +265,8 @@
       "id": "542a",
       "chave": "dialog__game3_objectivesb",
       "hash_es": "08fc44b713050b3c",
-      "texto_ptbr": "Chefe Bottlesss não deixar a equipe correr pelo Museu. Coisas v.a.l.i.o.s.a.s. demais para quebrar.",
-      "lote": "604"
+      "texto_ptbr": "Chefe Bottlesss não deixar a equipe correr pelo Museu. Coisas v.a.l.i.o.z.a.s. demais para quebrar.",
+      "lote": "611"
     },
     {
       "id": "542b",
@@ -300,8 +300,8 @@
       "id": "f778",
       "chave": "dialog__game3_successe",
       "hash_es": "1ab7e9f47895fba2",
-      "texto_ptbr": "Urssso terminar a corrida, mas atuação não ser ótima. Precisar fazer melhor mesmo. Klungo gostar de incentivar autoconsssuperação.",
-      "lote": "604"
+      "texto_ptbr": "Urssso terminar a corrida, mas atuação não ser ótima. Precisar fazer melhor mesmo. Klungo gostar de incentivar autosssuperação.",
+      "lote": "611"
     },
     {
       "id": "c0c4",
@@ -342,8 +342,8 @@
       "id": "6196",
       "chave": "dialog__jinjoorange_lose",
       "hash_es": "e79ff2eb94c7366d",
-      "texto_ptbr": "{MOODSAD}Não acredito! Quão lento foi isso? E lá se foi minha habilidade impecável de julgar caráter!",
-      "lote": "604"
+      "texto_ptbr": "{MOODSAD}Não acredito! Que lentidão foi essa? E lá se foi minha habilidade impecável de julgar caráter!",
+      "lote": "611"
     },
     {
       "id": "9c71",

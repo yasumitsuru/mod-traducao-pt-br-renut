@@ -41,15 +41,15 @@
       "id": "87ab",
       "chave": "dialog__grunty_25jiggyinsult5",
       "hash_es": "a433cf3abe808ed3",
-      "texto_ptbr": "A Spiral Mountain não é nada especial, mas é da Grunty um imóvel sensacional!",
-      "lote": "518"
+      "texto_ptbr": "A Spiral Mountain não é nada especial, mas é da Grunty, um imóvel sensacional!",
+      "lote": "610"
     },
     {
       "id": "87ac",
       "chave": "dialog__grunty_25jiggyinsult6",
       "hash_es": "e1f1d574aa1283b1",
-      "texto_ptbr": "Meus Gruntbots estão por aí fazendo bagunça, deixando estes mundos cretinos em ruínas, que graça!",
-      "lote": "505"
+      "texto_ptbr": "Meus Gruntbots estão por aí causando confusão, deixando estes mundos cretinos em escombros no chão!",
+      "lote": "610"
     },
     {
       "id": "87ad",
@@ -76,8 +76,8 @@
       "id": "0505",
       "chave": "dialog__grunty_50jiggyinsult1",
       "hash_es": "34c33801da467c06",
-      "texto_ptbr": "Tantos Jiggies, deve estar orgulhoso. Pena que sua vitória não passa de um sonho enganoso!",
-      "lote": "505"
+      "texto_ptbr": "Tantos Jiggies, deve estar orgulhoso. Pena que eu não vou deixar você ser vitorioso!",
+      "lote": "610"
     },
     {
       "id": "a5d5",
@@ -209,8 +209,8 @@
       "id": "a7d4",
       "chave": "dialog__grunty_75jiggyinsult9",
       "hash_es": "df91d420a06f75dd",
-      "texto_ptbr": "Você liberou novos distritos em Showdown Town, mas é tanto esquisito que dá pesadelo!",
-      "lote": "518"
+      "texto_ptbr": "Abriu novos distritos em Showdown Town, que maravilha! Pena que só tem esquisito e desajustado, que quadrilha!",
+      "lote": "610"
     },
     {
       "id": "fc87",

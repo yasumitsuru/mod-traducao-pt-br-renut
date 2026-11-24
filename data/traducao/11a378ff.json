@@ -20,8 +20,8 @@
       "id": "9744",
       "chave": "dialog__game1_intro",
       "hash_es": "e53f457bcacb3007",
-      "texto_ptbr": "Por curiosidade, Bottles, qual é a história desse troféu dourado enorme no curral?",
-      "lote": "603"
+      "texto_ptbr": "Por curiosidade, Bottles, qual é a história desse troféu dourado enorme no pátio da fazenda?",
+      "lote": "611"
     },
     {
       "id": "8026",
@@ -188,8 +188,8 @@
       "id": "0396",
       "chave": "dialog__game3_fail",
       "hash_es": "d4fbc30264db8e8c",
-      "texto_ptbr": "{MOODHAPPY}Isso! Vamos! Mais um ano, mais um troféu de &quot;Jornaleiro do Ano&quot; para o Sr. Em Forma!",
-      "lote": "603"
+      "texto_ptbr": "{MOODHAPPY}Isso! Vamos! Mais um ano, mais um troféu de &quot;Peão de Fazenda do Ano&quot; para o Sr. Em Forma!",
+      "lote": "611"
     },
     {
       "id": "10c6",
@@ -202,15 +202,15 @@
       "id": "29e8",
       "chave": "dialog__game3_introb",
       "hash_es": "09b040a9e264f07a",
-      "texto_ptbr": "{MOODHAPPY}O Mumbo me contrata porque sou, sem dúvida, o melhor coletor de cocos do ramo. Chega de piadas baratas, estão a fim de um desafio de verdade?",
-      "lote": "603"
+      "texto_ptbr": "{MOODHAPPY}O Mumbo me contrata porque sou, sem dúvida, o melhor coletor de cocos do ramo. Chega de piadas baratas, está a fim de um desafio de verdade?",
+      "lote": "611"
     },
     {
       "id": "fac8",
       "chave": "dialog__game3_objectives",
       "hash_es": "b53ae2da7a180b62",
-      "texto_ptbr": "{MOODHAPPY}Sim, o Mumbo nos põe à prova todo ano e dá a um de nós o troféu de &quot;Jornaleiro do Ano&quot;. {PAGEBREAK}E eu ganho sempre, sem falhar nunca!",
-      "lote": "603"
+      "texto_ptbr": "{MOODHAPPY}Sim, o Mumbo nos põe à prova todo ano e dá a um de nós o troféu de &quot;Peão de Fazenda do Ano&quot;. {PAGEBREAK}E eu ganho sempre, sem falhar nunca!",
+      "lote": "611"
     },
     {
       "id": "542a",
@@ -314,8 +314,8 @@
       "id": "4bfc",
       "chave": "dialog__game4_objectivesrepeat2",
       "hash_es": "ec716ba4dc75c141",
-      "texto_ptbr": "{MOODANGRY}Como se Mumbo não tivesse problemas suficientes! Urso salvar a dignidade de Mumbo!",
-      "lote": "603"
+      "texto_ptbr": "{MOODANGRY}Como se Mumbo não ter problemas suficientes! Urso salvar a dignidade de Mumbo!",
+      "lote": "611"
     },
     {
       "id": "8895",
@@ -342,8 +342,8 @@
       "id": "76cb",
       "chave": "dialog__game5_beaten",
       "hash_es": "dd789da17bdb43f0",
-      "texto_ptbr": "{MOODHAPPY}Nham! Ovo encher barriga de Klungo. Mas se ursso quiser tentar de novo, Klungo bem certo de que pode abrir espaço para mais...",
-      "lote": "603"
+      "texto_ptbr": "{MOODHAPPY}Nham! Ovo encher barriga de Klungo. Mas se urssso quiser tentar de novo, Klungo bem certo de que pode abrir espaço para mais...",
+      "lote": "616"
     },
     {
       "id": "1384",
@@ -356,15 +356,15 @@
       "id": "54d8",
       "chave": "dialog__game5_fail",
       "hash_es": "266cb5d4698c3463",
-      "texto_ptbr": "{MOODSAD}Buaá! Ursso quebrar ovo de Klungo. Agora só restar comida do Mumbo para comer. Melhor Klungo procurar Loggo.",
-      "lote": "603"
+      "texto_ptbr": "{MOODSAD}Buaá! Urssso quebrar ovo de Klungo. Agora só restar comida do Mumbo para comer. Melhor Klungo procurar Loggo.",
+      "lote": "616"
     },
     {
       "id": "8a48",
       "chave": "dialog__game5_intro",
       "hash_es": "fdb252f0b7379ce0",
-      "texto_ptbr": "{MOODSAD}Ugh... Klungo querer desjejum, mas ovo mole sempre dar gases ruins. Dingpot costumava cozinhar. Ursso saber cozinhar alguma coisa?",
-      "lote": "603"
+      "texto_ptbr": "{MOODSAD}Ugh... Klungo querer desjejum, mas ovo mole sempre dar gases ruins. Dingpot costumava cozinhar. Urssso saber cozinhar alguma coisa?",
+      "lote": "616"
     },
     {
       "id": "b58a",
@@ -377,22 +377,22 @@
       "id": "672c",
       "chave": "dialog__game5_objectivesb",
       "hash_es": "193fc71ddefe6945",
-      "texto_ptbr": "{MOODSAD}Por favor... ursso e pássaro cozinhar ovo bom e trazer para Klungo. {PAGEBREAK}Klungo com tanta fome, estar definhando.",
-      "lote": "603"
+      "texto_ptbr": "{MOODSAD}Por favor... urssso e pássaro cozinhar ovo bom e trazer para Klungo. {PAGEBREAK}Klungo com tanta fome, estar definhando.",
+      "lote": "616"
     },
     {
       "id": "672d",
       "chave": "dialog__game5_objectivesc",
       "hash_es": "18afc662a0c3965f",
-      "texto_ptbr": "Hã... vamos acreditar em você, Klungo. Vamos, Kazooie, põe o chapéu de chef e começa a fritar!",
-      "lote": "603"
+      "texto_ptbr": "Hã... vamos acreditar em você, Klungo. Vamos, Kazooie, vamos pôr os chapéus de chef e começar a fritar!",
+      "lote": "611"
     },
     {
       "id": "b23c",
       "chave": "dialog__game5_objectivesrepeat1",
       "hash_es": "2c82014955805ad4",
-      "texto_ptbr": "{MOODSAD}Klungo morrendo de fome! Ursso achar lugar quente o bastante para fritar ovo!",
-      "lote": "603"
+      "texto_ptbr": "{MOODSAD}Klungo morrendo de fome! Urssso achar lugar quente o bastante para fritar ovo!",
+      "lote": "616"
     },
     {
       "id": "b23d",
@@ -405,22 +405,22 @@
       "id": "19b6",
       "chave": "dialog__game5_successa",
       "hash_es": "42b3708b889d5f76",
-      "texto_ptbr": "{MOODHAPPY}Nham! Ovo feito a p.e.r.f.e.i.s.s.ã.o. Ursso ganhar prêmio máximo, Klungo continuar o resto do dia. Klungo fazer piada de ovo hilariantesss.",
-      "lote": "603"
+      "texto_ptbr": "{MOODHAPPY}Nham! Ovo feito a p.e.r.f.e.i.s.s.ã.o. Urssso ganhar prêmio máximo, Klungo continuar o resto do dia. Klungo fazer piada de ovo hilariantesss.",
+      "lote": "616"
     },
     {
       "id": "19b8",
       "chave": "dialog__game5_successc",
       "hash_es": "d36342da8a80f297",
-      "texto_ptbr": "Hmmm, ovo estranhamente borrachudo. Klungo comer de qualquer jeito! Ursso ganhar Jiggy, mas cozinhar ovo direito da próxima vez.",
-      "lote": "603"
+      "texto_ptbr": "Hmmm, ovo estranhamente borrachudo. Klungo comer de qualquer jeito! Urssso ganhar Jiggy, mas cozinhar ovo direito da próxima vez.",
+      "lote": "616"
     },
     {
       "id": "19ba",
       "chave": "dialog__game5_successe",
       "hash_es": "98f6edba1bc7f8e4",
-      "texto_ptbr": "{MOODSAD}Klungo pedir ovo frito dos dois lados, não ovo estrelado! Sem Jiggy para ursso inútil!",
-      "lote": "603"
+      "texto_ptbr": "{MOODSAD}Klungo pedir ovo frito dos dois lados, não ovo estrelado! Sem Jiggy para urssso inútil!",
+      "lote": "616"
     },
     {
       "id": "4bac",
@@ -489,8 +489,8 @@
       "id": "aad7",
       "chave": "dialog__game6_successa",
       "hash_es": "4b92bee048cf79f6",
-      "texto_ptbr": "{MOODHAPPY}Bum! Urso e pássaro no topo das paradas! Mr. Patch murchou e os cocos têm sol de novo. No fim, vamos ter colheita recorde!",
-      "lote": "603"
+      "texto_ptbr": "{MOODHAPPY}Bum! Urso e pássaro no topo das paradas! Mr. Patch murchou e cocos ter sol de novo. No fim, nós ter colheita recorde!",
+      "lote": "611"
     },
     {
       "id": "aad9",

@@ -13,8 +13,8 @@
       "id": "7de0",
       "chave": "dialog__banjobrawl_destroyedbyfriendlyfire",
       "hash_es": "8d1fd408e20dfcfd",
-      "texto_ptbr": "Seu próprio companheiro %s<font color=[white]>destruiu você! Parece que ninguém é confiável hoje em dia!</font>",
-      "lote": "512"
+      "texto_ptbr": "Seu próprio companheiro %s<font color=[white]>destruiu você! Parece que não dá para confiar em ninguém hoje em dia!</font>",
+      "lote": "614"
     },
     {
       "id": "dce4",
@@ -480,8 +480,8 @@
       "id": "1727",
       "chave": "game__airraceintroinfo",
       "hash_es": "30ed9a2f9a6713a2",
-      "texto_ptbr": "Pegue o jeito de voar pelos céus de Nutty Acres. Aviões pequenos levam vantagem na aproximação dos portões da corrida. Não escolha veículos que não voam ou vira piada!",
-      "lote": "518"
+      "texto_ptbr": "Pegue o jeito de voar pelos céus de Nutty Acres. Aviões pequenos levam vantagem na aproximação dos portões da corrida. Não escolha veículos que não voam ou você vai virar piada!",
+      "lote": "614"
     },
     {
       "id": "4de8",
@@ -746,8 +746,8 @@
       "id": "305e",
       "chave": "game__dragkingsinfo",
       "hash_es": "e3612a62a5a36e8b",
-      "texto_ptbr": "Esta é a corrida para exibir seus carros mais rápidos. As curvas em cada ponta da reta de Test-O-Track são bem fechadas, então construa algo que faça curva bem. Cuidado com o tráfego!",
-      "lote": "518"
+      "texto_ptbr": "Esta é a corrida para exibir seus carros mais rápidos. As curvas em cada ponta da reta de Test-O-Track são bem fechadas, então construa algo que faça curva bem. Cuidado com o tráfego em sentido contrário!",
+      "lote": "614"
     },
     {
       "id": "9c3f",
@@ -823,8 +823,8 @@
       "id": "4dbb",
       "chave": "game__freewheelinfo",
       "hash_es": "ae00e68314e8ecfa",
-      "texto_ptbr": "Rodar em Roda Livre em Banjoland testa o quão longe você chega quando a força do veículo é cortada. Você só pode usar o impulso da rampa, então construa algo que role bem!",
-      "lote": "518"
+      "texto_ptbr": "A Roda Livre em Banjoland testa o quão longe você chega quando a potência do veículo é cortada. Você só pode usar o impulso da rampa, então construa algo que role bem!",
+      "lote": "614"
     },
     {
       "id": "01fc",
@@ -907,8 +907,8 @@
       "id": "e890",
       "chave": "game__longjumpinfo",
       "hash_es": "492f40da813609ef",
-      "texto_ptbr": "Este jogo, no Jiggosseum, consiste em descer a rampa o mais longe possível. Sua pontuação após três saltos decide quem cobriu a maior distância total.",
-      "lote": "518"
+      "texto_ptbr": "Este jogo, no Jiggosseum, consiste em descer a longa rampa em alta velocidade e chegar o mais longe possível. Sua pontuação após três saltos decide quem cobriu a maior distância total.",
+      "lote": "614"
     },
     {
       "id": "1631",
@@ -928,8 +928,8 @@
       "id": "3d88",
       "chave": "game__lowgravbanjobrawlinfo",
       "hash_es": "0bbbe32d3e9899f5",
-      "texto_ptbr": "Esta luta acontece no Terrarium of Terror, com gravidade baixa! Veículos voadores são melhores se você quer vencer. Ganha-se pontos ao reduzir o veículo do adversário a sucata.",
-      "lote": "518"
+      "texto_ptbr": "Esta luta acontece no Terrarium of Terror, com gravidade baixa! Veículos voadores são melhores se você quer vencer. Você ganha pontos ao reduzir o veículo do adversário a sucata.",
+      "lote": "614"
     },
     {
       "id": "ac29",
@@ -1215,8 +1215,8 @@
       "id": "495a",
       "chave": "game__triathlontip",
       "hash_es": "50ffd7d8835dcadb",
-      "texto_ptbr": "Partes desta corrida passam por terra e água, então garanta que você encara as duas superfícies. Saber voar também ajuda! Se ainda não construiu um veículo adequado, teste o do S.J.",
-      "lote": "512"
+      "texto_ptbr": "Partes desta corrida passam por terra e água, então garanta que você encare as duas superfícies. Saber voar também ajuda! Se ainda não construiu um veículo adequado, teste o do S.J.",
+      "lote": "614"
     },
     {
       "id": "c4ce",

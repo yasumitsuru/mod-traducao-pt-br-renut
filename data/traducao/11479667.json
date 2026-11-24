@@ -34,15 +34,15 @@
       "id": "3454",
       "chave": "dialog__game1_gruntyemitdialog4",
       "hash_es": "963de383ecd03216",
-      "texto_ptbr": "Quando a Piddles deixar um presentinho a boiar, afundo o urso pra meu placar aumentar!",
-      "lote": "605"
+      "texto_ptbr": "Quando a Piddles deixar um presentinho boiar, afundo o urso pra meu placar aumentar!",
+      "lote": "612"
     },
     {
       "id": "3455",
       "chave": "dialog__game1_gruntyemitdialog5",
       "hash_es": "37befaaf742f7722",
-      "texto_ptbr": "Se meu estoque de munição zerar, meus Gruntbots vão martelar o herói!",
-      "lote": "608"
+      "texto_ptbr": "Se minha munição chegar a zero, meus Gruntbots martelam o herói, é o que eu quero!",
+      "lote": "612"
     },
     {
       "id": "3456",
@@ -69,8 +69,8 @@
       "id": "9744",
       "chave": "dialog__game1_intro",
       "hash_es": "e23ad58a349fec43",
-      "texto_ptbr": "O urso porcalhão tem que correr ligeiro, antes que a gosma vire areia de gato!",
-      "lote": "608"
+      "texto_ptbr": "O urso porcalhão tem que ser rápido de fato, antes que a gosma vire areia de gato!",
+      "lote": "612"
     },
     {
       "id": "8026",
@@ -97,8 +97,8 @@
       "id": "8029",
       "chave": "dialog__game1_introe",
       "hash_es": "ff7f877aaf8a10b5",
-      "texto_ptbr": "Dou uma chance, pois não sou de me gabar: corram contra mim ou a Piddles vai deixar um presente a boiar!",
-      "lote": "605"
+      "texto_ptbr": "Dou uma chance, pois não sou de me gabar: corram contra mim ou a Piddles vai deixar um presente boiar!",
+      "lote": "612"
     },
     {
       "id": "802a",
@@ -146,8 +146,8 @@
       "id": "d534",
       "chave": "dialog__game1_successc",
       "hash_es": "703dd788b5b4ae21",
-      "texto_ptbr": "Admito que o plano está desmoronando, mas eu tinha que usar a gata de algum jeito, ora!",
-      "lote": "608"
+      "texto_ptbr": "Admito que o plano agora tem defeito, mas eu tinha que usar a gata de algum jeito!",
+      "lote": "612"
     },
     {
       "id": "d536",

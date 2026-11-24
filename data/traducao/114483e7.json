@@ -48,8 +48,8 @@
       "id": "b1ea",
       "chave": "frontend__duringchallenge_buttonquittohub",
       "hash_es": "8e656f48efb86f3a",
-      "texto_ptbr": "Ir a Showdown Town",
-      "lote": "518"
+      "texto_ptbr": "Sair para Showdown Town",
+      "lote": "613"
     },
     {
       "id": "7e6d",
@@ -90,8 +90,8 @@
       "id": "b7b3",
       "chave": "frontend__finishedchallenge_buttonleave",
       "hash_es": "6cccafdcbe06bde8",
-      "texto_ptbr": "Abandonar desafio",
-      "lote": "401"
+      "texto_ptbr": "Sair do desafio",
+      "lote": "613"
     },
     {
       "id": "cd4e",
@@ -286,8 +286,8 @@
       "id": "fc4a",
       "chave": "frontend__loading_corrupt",
       "hash_es": "5817cd27960014fb",
-      "texto_ptbr": "O conteúdo parece estar corrompido. Não foi possível carregar.",
-      "lote": "401"
+      "texto_ptbr": "O conteúdo parece corrompido. Não foi possível carregar.",
+      "lote": "615"
     },
     {
       "id": "824d",
@@ -678,8 +678,8 @@
       "id": "f27a",
       "chave": "frontend__mainmenu_buttonhubworld",
       "hash_es": "1aaa004068c2f2af",
-      "texto_ptbr": "Começar novo jogo",
-      "lote": "001"
+      "texto_ptbr": "Iniciar novo jogo",
+      "lote": "613"
     },
     {
       "id": "f5a3",
@@ -706,8 +706,8 @@
       "id": "ea17",
       "chave": "frontend__mainmenu_buttonnewgame",
       "hash_es": "1aaa004068c2f2af",
-      "texto_ptbr": "Começar novo jogo",
-      "lote": "001"
+      "texto_ptbr": "Iniciar novo jogo",
+      "lote": "613"
     },
     {
       "id": "719e",
@@ -762,15 +762,15 @@
       "id": "c16b",
       "chave": "frontend__mainmenumultiplayer_buttoncontest",
       "hash_es": "782bcb838439fd17",
-      "texto_ptbr": "Começar disputa",
-      "lote": "401"
+      "texto_ptbr": "Iniciar disputa",
+      "lote": "613"
     },
     {
       "id": "3cfc",
       "chave": "frontend__mainmenumultiplayer_buttoncoop",
       "hash_es": "30c885cca492ef46",
-      "texto_ptbr": "Começar cooperativo",
-      "lote": "401"
+      "texto_ptbr": "Iniciar cooperativo",
+      "lote": "613"
     },
     {
       "id": "4dbf",
@@ -832,8 +832,8 @@
       "id": "581f",
       "chave": "frontend__multiplayercustommatch_buttonstartlobby",
       "hash_es": "7391098c2cb2a9b0",
-      "texto_ptbr": "Iniciar lobby",
-      "lote": "401"
+      "texto_ptbr": "Iniciar sala de espera",
+      "lote": "613"
     },
     {
       "id": "66e3",
@@ -895,8 +895,8 @@
       "id": "a1f5",
       "chave": "frontend__multiplayerduringchallenge_buttonleaveseries",
       "hash_es": "9cb9cc7bfc267bfa",
-      "texto_ptbr": "Abandonar liga",
-      "lote": "401"
+      "texto_ptbr": "Sair da liga",
+      "lote": "613"
     },
     {
       "id": "45e0",
@@ -1014,8 +1014,8 @@
       "id": "70b1",
       "chave": "frontend__multiplayerlobby_buttonstartgame",
       "hash_es": "137f18ded02b4859",
-      "texto_ptbr": "Começar partida",
-      "lote": "401"
+      "texto_ptbr": "Iniciar jogo",
+      "lote": "613"
     },
     {
       "id": "beb3",
@@ -1056,8 +1056,8 @@
       "id": "2b6f",
       "chave": "frontend__multiplayerlobby_title",
       "hash_es": "b67d43e049202a30",
-      "texto_ptbr": "Lobby multijogador",
-      "lote": "401"
+      "texto_ptbr": "Sala de espera multijogador",
+      "lote": "613"
     },
     {
       "id": "2faf",
@@ -1091,8 +1091,8 @@
       "id": "2053",
       "chave": "frontend__multiplayermainmenu_startlobbyhost",
       "hash_es": "137f18ded02b4859",
-      "texto_ptbr": "Começar partida",
-      "lote": "401"
+      "texto_ptbr": "Iniciar jogo",
+      "lote": "613"
     },
     {
       "id": "e85e",
@@ -1147,8 +1147,8 @@
       "id": "6cf5",
       "chave": "frontend__multiplayermainmenu_tipmaincreate",
       "hash_es": "c825ba05772d0ba7",
-      "texto_ptbr": "Crie seu próprio jogo e entre no lobby pré-partida.",
-      "lote": "401"
+      "texto_ptbr": "Crie seu próprio jogo e entre na sala de espera antes da partida.",
+      "lote": "613"
     },
     {
       "id": "ffa7",
@@ -1350,15 +1350,15 @@
       "id": "3a2d",
       "chave": "frontend__multiplayerpause_buttonquittolobby",
       "hash_es": "8a9de2362a296387",
-      "texto_ptbr": "Sair para o lobby",
-      "lote": "401"
+      "texto_ptbr": "Sair para a sala de espera",
+      "lote": "613"
     },
     {
       "id": "938f",
       "chave": "frontend__multiplayerpause_buttonquittomainmenu",
       "hash_es": "626393294f53c7c6",
       "texto_ptbr": "Sair para o menu principal",
-      "lote": "401"
+      "lote": "615"
     },
     {
       "id": "d795",
@@ -1406,8 +1406,8 @@
       "id": "e6a5",
       "chave": "frontend__onlinenotice",
       "hash_es": "ad994e538c4436d3",
-      "texto_ptbr": "INTERAÇÕES ON-LINE NÃO CLASSIFICADAS PELA ESRB.",
-      "lote": "508"
+      "texto_ptbr": "Interações on-line não classificadas pela ESRB.",
+      "lote": "613"
     },
     {
       "id": "13c6",
@@ -1442,7 +1442,7 @@
       "chave": "frontend__pause_buttonquit",
       "hash_es": "626393294f53c7c6",
       "texto_ptbr": "Sair para o menu principal",
-      "lote": "401"
+      "lote": "615"
     },
     {
       "id": "6c5e",
@@ -1721,15 +1721,15 @@
       "id": "06c3",
       "chave": "frontend__pause_inputreplayboxtitle",
       "hash_es": "9e4d054de7c186a6",
-      "texto_ptbr": "Nome do replay",
-      "lote": "401"
+      "texto_ptbr": "Nome da repetição",
+      "lote": "613"
     },
     {
       "id": "187a",
       "chave": "frontend__pause_inputreplaytitle",
       "hash_es": "d5029bd4b74f930a",
-      "texto_ptbr": "Digite o nome do replay",
-      "lote": "401"
+      "texto_ptbr": "Digite o nome da repetição",
+      "lote": "613"
     },
     {
       "id": "dba3",
@@ -2162,8 +2162,8 @@
       "id": "3a54",
       "chave": "frontend__photos_ageoptions_title",
       "hash_es": "15ce2e9ee8ac1267",
-      "texto_ptbr": "Antiguidade da foto",
-      "lote": "402"
+      "texto_ptbr": "Idade da foto",
+      "lote": "613"
     },
     {
       "id": "2376",
@@ -2848,8 +2848,8 @@
       "id": "34b2",
       "chave": "frontend__startmenu_controlsettings",
       "hash_es": "3cbce4299f374a2d",
-      "texto_ptbr": "Configurações de controles",
-      "lote": "402"
+      "texto_ptbr": "Configurações de controle",
+      "lote": "613"
     },
     {
       "id": "4291",
@@ -2974,15 +2974,15 @@
       "id": "8c66",
       "chave": "frontend__startscreen_copyrightnotice",
       "hash_es": "866e1d12b531d65c",
-      "texto_ptbr": "© E (P) 2008 MICROSOFT CORPORATION. TODOS OS DIREITOS RESERVADOS.",
-      "lote": "508"
+      "texto_ptbr": "© e (p) 2008 Microsoft Corporation. Todos os direitos reservados.",
+      "lote": "613"
     },
     {
       "id": "5188",
       "chave": "frontend__startscreen_developedbyrare",
       "hash_es": "394e581e092b6ca0",
-      "texto_ptbr": "DESENVOLVIDO PELA RARE.",
-      "lote": "508"
+      "texto_ptbr": "Desenvolvido pela Rare.",
+      "lote": "613"
     },
     {
       "id": "cdf9",
@@ -3023,8 +3023,8 @@
       "id": "02ee",
       "chave": "frontend__storage_nosavedevice",
       "hash_es": "e56f8e928d6cf2bf",
-      "texto_ptbr": "Você está prestes a iniciar sem poder salvar ou carregar seu progresso. Deseja jogar mesmo assim?",
-      "lote": "402"
+      "texto_ptbr": "Você está prestes a iniciar um jogo sem poder salvar ou carregar seu progresso. Deseja jogar mesmo assim?",
+      "lote": "613"
     },
     {
       "id": "7e5b",
@@ -3079,8 +3079,8 @@
       "id": "357c",
       "chave": "frontend__testvehicle_buttonquit",
       "hash_es": "626393294f53c7c6",
-      "texto_ptbr": "Voltar ao menu principal",
-      "lote": "402"
+      "texto_ptbr": "Sair para o menu principal",
+      "lote": "615"
     },
     {
       "id": "381f",

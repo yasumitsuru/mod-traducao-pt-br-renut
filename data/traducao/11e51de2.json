@@ -6,15 +6,15 @@
       "id": "2347",
       "chave": "dialog__game1_beaten",
       "hash_es": "bbc3357bd72ad60b",
-      "texto_ptbr": "Eu sabia que você voltaria pra outro teste. Vou virar o jogo e provar que sou a melhor!",
-      "lote": "602"
+      "texto_ptbr": "Eu sabia que você voltaria pra outro teste: vou virar o jogo e provar que sou a melhor, seu peste!",
+      "lote": "612"
     },
     {
       "id": "b254",
       "chave": "dialog__game1_fail",
       "hash_es": "24dc3952a4401ea5",
-      "texto_ptbr": "Agora ficou de mau humor, sua lesma inútil? Perdedor rancoroso sempre fica emburrado!",
-      "lote": "602"
+      "texto_ptbr": "Emburrou agora, sua lesma inútil? Mau perdedor faz birra fútil!",
+      "lote": "612"
     },
     {
       "id": "3451",
@@ -83,8 +83,8 @@
       "id": "4127",
       "chave": "dialog__game1_objectivesa",
       "hash_es": "da010a7486767668",
-      "texto_ptbr": "Marquei todos esses gols na primeira tentativa. Supera isso? Não consegue! E não vem chorar!",
-      "lote": "602"
+      "texto_ptbr": "Marquei todos esses gols de primeira, sem demora. Supera isso? Não consegue! Nem vem chorar agora!",
+      "lote": "612"
     },
     {
       "id": "4128",
@@ -97,8 +97,8 @@
       "id": "d532",
       "chave": "dialog__game1_successa",
       "hash_es": "0228e84aaeca7153",
-      "texto_ptbr": "Para com essa cara de superior, seu urso sem miolo! Me esmagou, e daí? Eu nem ligo!",
-      "lote": "602"
+      "texto_ptbr": "Para com essa cara de superior, seu urso sem miolo! Me esmagou, e daí? Eu nem me amolo!",
+      "lote": "612"
     },
     {
       "id": "d534",
@@ -111,8 +111,8 @@
       "id": "d536",
       "chave": "dialog__game1_successe",
       "hash_es": "6bb885b079d1227b",
-      "texto_ptbr": "Você ganhou o jogo, está molhado e eu estou mais. Mas nada de prêmio suculento até você jogar melhor!",
-      "lote": "609"
+      "texto_ptbr": "Você ganhou o jogo, está molhado e eu estou ensopada. Mas nada de prêmio suculento até jogar melhor, camarada!",
+      "lote": "612"
     },
     {
       "id": "fad8",

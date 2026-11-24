@@ -13,8 +13,8 @@
       "id": "3451",
       "chave": "dialog__game1_gruntyemitdialog1",
       "hash_es": "741641fbba6dfc92",
-      "texto_ptbr": "Estas rodas não são tão duras quanto parecem, sabem... o assento também é frágil, é melhor que não descubram!",
-      "lote": "509"
+      "texto_ptbr": "Estas rodas não são tão duras quanto parecem, vou confessar... o assento também é frágil, é bom ninguém notar!",
+      "lote": "610"
     },
     {
       "id": "3452",
@@ -27,78 +27,78 @@
       "id": "3453",
       "chave": "dialog__game1_gruntyemitdialog3",
       "hash_es": "6529e82c9dfbda6c",
-      "texto_ptbr": "Esta peça de camaleão furtivo me custou caro. É melhor eu protegê-la quando reaparecer!",
-      "lote": "509"
+      "texto_ptbr": "Esta peça de camaleão furtivo me custou caro. É melhor eu protegê-la quando reaparecer, é claro!",
+      "lote": "610"
     },
     {
       "id": "3454",
       "chave": "dialog__game1_gruntyemitdialog4",
       "hash_es": "a3e889043081f745",
-      "texto_ptbr": "Vejam estas paredes, que coisa sólida! A parte de baixo é diferente, mas, francamente, quem se importa?",
-      "lote": "509"
+      "texto_ptbr": "Vejam estas paredes, sólidas assim! A parte de baixo é diferente, mas, francamente, quem liga, enfim?",
+      "lote": "610"
     },
     {
       "id": "3455",
       "chave": "dialog__game1_gruntyemitdialog5",
       "hash_es": "20ff1ffdb2d273cb",
-      "texto_ptbr": "Chega de pontos fracos, já resolvi isso! Estou armada, sou perigosa e carrego um gato!",
-      "lote": "509"
+      "texto_ptbr": "Chega de pontos fracos, isso é fato! Estou armada, sou perigosa e carrego um gato!",
+      "lote": "610"
     },
     {
       "id": "76b4",
       "chave": "dialog__gruntycompleted",
       "hash_es": "d6d6f003fe2277a1",
-      "texto_ptbr": "Estou sem ideias, acabou, terminei. Pode acabar logo com isso, nem me diverti!",
-      "lote": "509"
+      "texto_ptbr": "Estou sem ideias, acabou, eu perdi. Pode acabar logo com isso, nem me diverti!",
+      "lote": "610"
     },
     {
       "id": "fb91",
       "chave": "dialog__gruntyfifthdefeat",
       "hash_es": "f29c2f257b4f7488",
-      "texto_ptbr": "Minha fiel Vassoura, a melhor amiga da bruxa! Quebrada e inútil... é este o fim?",
-      "lote": "509"
+      "texto_ptbr": "Minha fiel Vassoura, da bruxa a melhor amiga! Quebrada e inútil... será que é o fim, me diga?",
+      "lote": "618"
     },
     {
       "id": "1da8",
       "chave": "dialog__gruntyfifthvehicle",
       "hash_es": "308fa9acc9b19068",
-      "texto_ptbr": "Contemplem a Vassoura, nossa última luta se aproxima! Vou varrer vocês como baratas incômodas!",
-      "lote": "509"
+      "texto_ptbr": "Contemplem a Vassoura, nossa luta final é agora! Vou varrer vocês como baratas, lá fora!",
+      "lote": "610"
     },
     {
       "id": "4bc8",
       "chave": "dialog__gruntyfirstdefeat",
       "hash_es": "6fae83622ed0c5ed",
-      "texto_ptbr": "Meu Caminhão virou sucata, mas não me abalo. Estamos só começando, não celebrem ainda!",
-      "lote": "509"
+      "texto_ptbr": "Meu Caminhão virou sucata, mas não vou me abalar. Estamos só começando, nada de comemorar!",
+      "lote": "610"
     },
     {
       "id": "74bf",
       "chave": "dialog__gruntyfirstvehicle",
       "hash_es": "dd39069fc614938a",
-      "texto_ptbr": "Este Caminhão Monstro é demais, não dá para negar. Vou achatar vocês na encosta da montanha!",
-      "lote": "509"
+      "texto_ptbr": "Este Caminhão Monstro é demais, não dá para negar. Vou achatar vocês na encosta da montanha, podem esperar!",
+      "lote": "610"
     },
     {
       "id": "ae63",
       "chave": "dialog__gruntyforthdefeat",
       "hash_es": "7db51249a7a955a8",
-      "texto_ptbr": "A Fortaleza foi invadida, suas defesas destruídas! Minhas opções de veículo estão acabando rápido...",
-      "lote": "509"
+      "texto_ptbr": "A Fortaleza foi invadida, suas defesas destruídas! Minhas opções de veículo estão cada vez mais reduzidas...",
+      "lote": "610"
     },
     {
       "id": "2aba",
       "chave": "dialog__gruntyforthvehicle",
       "hash_es": "02477edfea370fd7",
-      "texto_ptbr": "Você ainda está no meu caminho, típico de quem não pensa. Vou avaliar minhas opções dentro desta Fortaleza!",
-      "lote": "509"
+      "texto_ptbr": "Você ainda está no meu caminho, que falta de delicadeza! Vou avaliar minhas opções dentro desta Fortaleza!",
+      "lote": "610"
     },
     {
       "id": "4543",
       "chave": "dialog__gruntyintro",
       "hash_es": "5a13f35b5e5871a2",
-      "texto_ptbr": "Podem vencer os Mundos de Jogo e arrasar na Cidade, mas não pensem nem por um minuto que vão me deter!",
-      "lote": "509"
+      "texto_ptbr": "Podem vencer os Mundos de Jogo e a Cidade arrasar, mas não pensem nem por um minuto que vão me parar!",
+      "lote": "610"
     },
     {
       "id": "ee05",
@@ -111,8 +111,8 @@
       "id": "8565",
       "chave": "dialog__gruntyobjectives",
       "hash_es": "dcb71f9141cd12ac",
-      "texto_ptbr": "Subestimam minha astúcia; ouçam meu plano e comecem a correr!",
-      "lote": "509"
+      "texto_ptbr": "Subestimam minha astúcia sem entender; ouçam meu plano e comecem a correr!",
+      "lote": "610"
     },
     {
       "id": "3267",
@@ -125,8 +125,8 @@
       "id": "3268",
       "chave": "dialog__gruntyobjectivesc",
       "hash_es": "b2d4ec13dc68c302",
-      "texto_ptbr": "Meu corpo estava parado, mas minha mente corria... inventando novos veículos para acabar com vocês! {PAGEBREAK}Meus lacaios os construíram, eu sabia que eles cuidariam de mim. Vou tomar este lugar enquanto vocês trabalham como escravos na Fábrica!",
-      "lote": "509"
+      "texto_ptbr": "Meu corpo estava parado, mas minha mente, acelerada... inventando novos veículos para dar em vocês uma surra danada! {PAGEBREAK}Meus lacaios os construíram, eu sabia que cuidariam de mim. Vou tomar este lugar enquanto vocês labutam na Fábrica sem fim!",
+      "lote": "610"
     },
     {
       "id": "3269",
@@ -139,43 +139,43 @@
       "id": "326a",
       "chave": "dialog__gruntyobjectivese",
       "hash_es": "f889bb770993c208",
-      "texto_ptbr": "Adeus, Spiral Mountain; olá, Bosques da Grunty! Vocês dois, preparem-se para conhecer seus criadores!",
-      "lote": "518"
+      "texto_ptbr": "Adeus, Spiral Mountain; olá, Grunty Acres! Vocês dois, preparem-se para conhecer seus criadores!",
+      "lote": "610"
     },
     {
       "id": "c5bc",
       "chave": "dialog__gruntyseconddefeat",
       "hash_es": "ed3fc799f111b734",
-      "texto_ptbr": "Você vai pagar por isso, eu juro. Que venha a terceira etapa desta saga épica!",
-      "lote": "513"
+      "texto_ptbr": "Vocês vão andar na prancha por isso, podem crer. Que a terceira etapa desta saga épica comece a valer!",
+      "lote": "610"
     },
     {
       "id": "2d33",
       "chave": "dialog__gruntysecondvehicle",
       "hash_es": "a85078a1dd543c6b",
-      "texto_ptbr": "Meu Galeão Pirata deve dar mais certo. Alto lá, seus marujos! Vocês vão achar isso bem estressante!",
-      "lote": "513"
+      "texto_ptbr": "Meu Galeão Pirata será mais triunfante. Alto lá, seus marujos! Vocês vão achar isso bem estressante!",
+      "lote": "610"
     },
     {
       "id": "0a3b",
       "chave": "dialog__gruntythirddefeat",
       "hash_es": "64e3606c2a04fc6a",
-      "texto_ptbr": "Tanto sigilo não foi suficiente. Querem que eu desista com dignidade? Nem pensar!",
-      "lote": "513"
+      "texto_ptbr": "Tanto sigilo e não foi o bastante. Querem que eu desista com dignidade? Nem por um instante!",
+      "lote": "610"
     },
     {
       "id": "0192",
       "chave": "dialog__gruntythirdvehicle",
       "hash_es": "a0ae90b867444d56",
-      "texto_ptbr": "É hora de eu partir para um ataque furtivo. Se nem conseguem me ver, como vão revidar?",
-      "lote": "509"
+      "texto_ptbr": "É hora de eu partir para um ataque furtivo e me esconder. Se nem conseguem me ver, como vão se defender?",
+      "lote": "610"
     },
     {
       "id": "86a1",
       "chave": "dialog__lose",
       "hash_es": "6b1ecee81ae084b4",
-      "texto_ptbr": "O urso e a ave caem na linha de chegada! A derrota deles está completa, a Montanha é minha!",
-      "lote": "509"
+      "texto_ptbr": "O urso e a ave caem na linha final! A derrota deles é completa, a Montanha é minha, afinal!",
+      "lote": "610"
     },
     {
       "id": "dcbc",

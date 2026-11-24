@@ -482,8 +482,8 @@
       "id": "0c45",
       "chave": "credits__msdubipe",
       "hash_es": "52759136735dce2a",
-      "texto_ptbr": "Dublin IPE – Testes",
-      "lote": "516"
+      "texto_ptbr": "IPE de Dublin – Testes",
+      "lote": "613"
     },
     {
       "id": "da71",
@@ -671,8 +671,8 @@
       "id": "4cec",
       "chave": "credits__msgtoshareddev",
       "hash_es": "7481ec2a8bdbebdc",
-      "texto_ptbr": "Desenvolvimento Compartilhado GTO",
-      "lote": "516"
+      "texto_ptbr": "Desenvolvimento Compartilhado da GTO",
+      "lote": "613"
     },
     {
       "id": "c557",
@@ -2897,8 +2897,8 @@
       "id": "ef08",
       "chave": "credits__teamscript",
       "hash_es": "37e754b51b3fdaeb",
-      "texto_ptbr": "Os Caras das Palavras",
-      "lote": "516"
+      "texto_ptbr": "O Pessoal das Palavras",
+      "lote": "613"
     },
     {
       "id": "3d1e",
@@ -3198,8 +3198,8 @@
       "id": "1a22",
       "chave": "credits__voice",
       "hash_es": "ea58fef598b9ae69",
-      "texto_ptbr": "Resmungos, Guinchados e Grunhidos Variados",
-      "lote": "516"
+      "texto_ptbr": "Resmungos, Guinchos e Grunhidos Variados",
+      "lote": "613"
     },
     {
       "id": "a76e",
@@ -3247,8 +3247,8 @@
       "id": "7e17",
       "chave": "dialog__aag",
       "hash_es": "6a1370ba0b8bd9e8",
-      "texto_ptbr": "Olha, ainda mais artistas. Alguém de vocês pode me pintar de roxo? Vermelho é muito anos 1990.",
-      "lote": "516"
+      "texto_ptbr": "Olha, ainda mais artistas. Alguém de vocês pode me pintar de roxo? Vermelho é tãããão anos 1990.",
+      "lote": "613"
     },
     {
       "id": "8055",

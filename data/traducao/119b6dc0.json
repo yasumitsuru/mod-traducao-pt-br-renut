@@ -146,36 +146,36 @@
       "id": "99e0",
       "chave": "dialog__wimpout_humba1",
       "hash_es": "f242a26bfe258259",
-      "texto_ptbr": "Humba não está acostumada a ver Banjo fugir de nada...",
-      "lote": "606"
+      "texto_ptbr": "Humba não estar acostumada a ver Banjo fugir de nada...",
+      "lote": "610"
     },
     {
       "id": "99e1",
       "chave": "dialog__wimpout_humba2",
       "hash_es": "bd75fa48435d7858",
-      "texto_ptbr": "Volte, Banjo! Este desafio ser importante!",
-      "lote": "606"
+      "texto_ptbr": "Voltar, Banjo! Este desafio ser importante!",
+      "lote": "610"
     },
     {
       "id": "99e2",
       "chave": "dialog__wimpout_humba3",
       "hash_es": "7079a42d96bd3c0f",
-      "texto_ptbr": "Urso grande e forte não está pronto para encarar o desafio da Humba?",
-      "lote": "606"
+      "texto_ptbr": "Urso grande e forte não estar pronto para encarar desafio de Humba?",
+      "lote": "610"
     },
     {
       "id": "99e3",
       "chave": "dialog__wimpout_humba4",
       "hash_es": "b34ca7c4a5ce5eb3",
-      "texto_ptbr": "Humba ainda vai estar aqui se Banjo mudar de ideia...",
-      "lote": "606"
+      "texto_ptbr": "Humba ainda estar aqui se Banjo mudar de ideia...",
+      "lote": "610"
     },
     {
       "id": "99e4",
       "chave": "dialog__wimpout_humba5",
       "hash_es": "566ae09c3a6fba30",
-      "texto_ptbr": "Humba acha que Banjo só precisa de mais um minuto para se preparar, sim?",
-      "lote": "606"
+      "texto_ptbr": "Humba achar que Banjo só precisar de mais um minuto para se preparar, certo?",
+      "lote": "610"
     },
     {
       "id": "f95d",
@@ -321,22 +321,22 @@
       "id": "66d3",
       "chave": "dialog__wimpout_mumbo1",
       "hash_es": "e2ad5277765fb7da",
-      "texto_ptbr": "Eekumbokum! Urso com medo como menina pequena, volte quando for mais corajoso.",
-      "lote": "606"
+      "texto_ptbr": "Eekumbokum! Urso com medo como menina pequena, voltar quando ser mais corajoso.",
+      "lote": "610"
     },
     {
       "id": "66d4",
       "chave": "dialog__wimpout_mumbo2",
       "hash_es": "f1a102ef402705ff",
-      "texto_ptbr": "Mumbo acha que urso amoleceu de tanta pizza e televisão.",
-      "lote": "606"
+      "texto_ptbr": "Mumbo achar que urso amolecer de tanta pizza e televisão.",
+      "lote": "610"
     },
     {
       "id": "66d5",
       "chave": "dialog__wimpout_mumbo3",
       "hash_es": "44fbebc96e8afd22",
-      "texto_ptbr": "Desafio muito difícil? Urso ou é preguiçoso ou burro demais para dirigir carro.",
-      "lote": "606"
+      "texto_ptbr": "Desafio muito difícil? Urso ser preguiçoso ou burro demais para dirigir carro.",
+      "lote": "610"
     },
     {
       "id": "66d6",
@@ -349,8 +349,8 @@
       "id": "66d7",
       "chave": "dialog__wimpout_mumbo5",
       "hash_es": "0fd3740e9efb2520",
-      "texto_ptbr": "Urso vai chorar pela falta de plataforma no jogo. Oomenacka!",
-      "lote": "606"
+      "texto_ptbr": "Urso ir chorar pela falta de plataforma no jogo. Oomenacka!",
+      "lote": "610"
     },
     {
       "id": "4ca1",

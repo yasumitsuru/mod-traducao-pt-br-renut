@@ -104,8 +104,8 @@
       "id": "f828",
       "chave": "dialog__game2_beaten",
       "hash_es": "c24139be1695a43c",
-      "texto_ptbr": "{MOODHAPPY}Klungo entupido de pedidosss de Suco de Fruta Flutuante. Sssempre precisar de mais fruta se urssso quiser ajudar!",
-      "lote": "601"
+      "texto_ptbr": "{MOODHAPPY}Klungo entupido de pedidosss de Suco de Fruta Flutuante. Sssempre precisar de mais fruta se urssso querer ajudar!",
+      "lote": "612"
     },
     {
       "id": "d405",
@@ -426,8 +426,8 @@
       "id": "c9ef",
       "chave": "dialog__game5_wine",
       "hash_es": "54c084a262b435a7",
-      "texto_ptbr": "Meio sem graça, não acha? Para prêmio grande e gratidão, tem que mostrar a esses caras quem manda!",
-      "lote": "601"
+      "texto_ptbr": "Meio sem graça, não acha? Se quiser um prêmio grande e gratidão, tem que mostrar a esses caras quem manda!",
+      "lote": "612"
     },
     {
       "id": "bfca",

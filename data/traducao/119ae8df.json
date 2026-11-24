@@ -195,8 +195,8 @@
       "id": "fac8",
       "chave": "dialog__game3_objectives",
       "hash_es": "00773b18f7e46ebd",
-      "texto_ptbr": "{MOODSAD}Humba voltar do curso de abraçar árvores em outro mundo e descobrir que Blubber não trancou as portas da eclusa. Bandidos espaciais voltar e fazer a maior bagunça! {PAGEBREAK}Banjo cuidar dos bandidos da última vez, achar que ele consegue de novo?",
-      "lote": "601"
+      "texto_ptbr": "{MOODSAD}Humba voltar do curso de abraçar árvores em outro mundo e descobrir que Blubber não trancar as portas da eclusa. Bandidos espaciais voltar e fazer a maior bagunça! {PAGEBREAK}Banjo cuidar dos bandidos da última vez, achar que ele consegue de novo?",
+      "lote": "612"
     },
     {
       "id": "e5ba",
@@ -230,8 +230,8 @@
       "id": "78ad",
       "chave": "dialog__game3_wine",
       "hash_es": "1a252a3422d9ff98",
-      "texto_ptbr": "Banjo terminar o trabalho bem a tempo. Salvar McBlubber da prancha depois de tudo, mas não esperar grande recompensa também.",
-      "lote": "601"
+      "texto_ptbr": "Banjo terminar o trabalho bem a tempo. Salvar McBlubber da prancha no fim das contas, mas não esperar grande recompensa também.",
+      "lote": "612"
     },
     {
       "id": "a1ea",
@@ -293,8 +293,8 @@
       "id": "a14a",
       "chave": "dialog__game4_wina",
       "hash_es": "726a33bc49112c8c",
-      "texto_ptbr": "{MOODHAPPY}Obrigadoss, urssso! Muito rápido. Uma pilha de prêmiosss é pouco pela ssssegurança dos amigosss de Klungo!",
-      "lote": "607"
+      "texto_ptbr": "{MOODHAPPY}Obrigadoss, urssso! Muito rápido. Uma pilha de prêmiosss ser preço pequeno a pagar pela sssegurança dos amigosss de Klungo!",
+      "lote": "615"
     },
     {
       "id": "a14c",
@@ -307,8 +307,8 @@
       "id": "a14e",
       "chave": "dialog__game4_wine",
       "hash_es": "cc93a55c297f84d9",
-      "texto_ptbr": "Os novosss amigosss de Klungo ser mais burros que Klungo, e não têm culpa. Urssso proteger melhor ou Klungo não dar melhores prêmiosss!",
-      "lote": "601"
+      "texto_ptbr": "Os novosss amigosss de Klungo ser mais burros que Klungo, e não ter culpa. Urssso proteger melhor ou Klungo não dar melhores prêmiosss!",
+      "lote": "612"
     },
     {
       "id": "9fae",

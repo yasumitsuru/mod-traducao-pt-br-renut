@@ -4,7 +4,7 @@ Kazooie,Kazooie,Kazooie,personagem,sim,manter,nome próprio
 Banjo-Kazooie,Banjo-Kazooie,Banjo-Kazooie,titulo,sim,manter,título da série
 Mumbo,Mumbo,Mumbo,personagem,sim,manter,nome próprio
 Humba,Humba,Humba,personagem,sim,manter,Humba Wumba
-Klungo,Klungo,Klungo,personagem,sim,manter,fala sibilando: Bear -> Ossso (es) -> Ursso (pt)
+Klungo,Klungo,Klungo,personagem,sim,manter,fala sibilando: Bear -> Ossso (es) -> Urssso (pt; unificado na revisão 0.8.0)
 Grunty,Grunty,Grunty,personagem,sim,manter,apelido de Gruntilda
 Gruntilda,Gruntilda,Gruntilda,personagem,sim,manter,nome próprio
 Bottles,Bottles,Bottles,personagem,sim,manter,nome próprio (o espanhol também manteve)
@@ -20,7 +20,7 @@ Captain Blubber,Capitán Blubber,Capitão Blubber,personagem,sim,traduzir,só o 
 Trophy Thomas,Tomás Trofeo,Tomás Troféu,personagem,sim,traduzir,trocadilho; segue o espanhol
 Mr. Fit,Sr. Enforma,Sr. Em Forma,personagem,sim,traduzir,trocadilho com estar em forma
 Master Banjo,Maestro Banjo,Mestre Banjo,tratamento,sim,traduzir,
-Bear,Oso,Urso,tratamento,não,traduzir,como vocativo; Klungo diz Ursso
+Bear,Oso,Urso,tratamento,não,traduzir,como vocativo; Klungo diz Urssso
 L.O.G.,S.J.,S.J.,personagem,sim,traduzir,Senhor dos Jogos; sigla igual à do espanhol (sem nome oficial em PT-BR)
 Lord of Games,Señor de los Juegos,Senhor dos Jogos,personagem,sim,traduzir,
 LOGBOX 720,SJBOX 720,LOGBOX 720,lugar,sim,manter,nome oficial preservado (regra 2026-11-21)
@@ -107,3 +107,13 @@ High Grip Wheel,Rueda adherente,Roda de Alta Aderência,veiculo,não,traduzir,pe
 Tag Plate,Matrícula,Placa,veiculo,não,traduzir,rótulo curto; lote 510
 Panel,Chapa,Painel,veiculo,não,traduzir,peça estrutural; o tutorial usa Painel (lote 513)
 Klungo's Arcade,,Klungo's Arcade,lugar,sim,manter,minijogo do Klungo; preservado (regra 2026-11-21)
+Farmhand,,Peão de Fazenda,personagem,não,traduzir,revisão 0.8.0 ("jornaleiro" é vendedor de jornal); Farmhand of the Year = Peão de Fazenda do Ano
+Mr. Ribs,,Sr. Costelas,personagem,não,traduzir,revisão 0.8.0; segue Sr. Em Forma
+Snozz Face,cara nariz,Cara de Narigão,tratamento,não,traduzir,apelido do Sr. Em Forma; revisão 0.8.0
+Arrow,,Seta,interface,não,traduzir,setas de direção e do mapa (não "flecha"); revisão 0.8.0
+Loco Coco,,Coco Louco,item,não,traduzir,"placa de Banjoland, desafios e falas; revisão 0.8.0"
+Hurdles,,corrida com barreiras,interface,não,traduzir,termo do atletismo; revisão 0.8.0
+Plant Pot,,Vaso de Planta,veiculo,não,traduzir,rótulo e grupo da peça; revisão 0.8.0
+Dummy Propeller,,Hélice Falsa,veiculo,não,traduzir,dummy = falso; revisão 0.8.0
+Hover,Planeador,Flutuante,veiculo,não,traduzir,Humba Hover = Humba Flutuante (planador seria glider); revisão 0.8.0
+Bike,Bici,Bike,veiculo,não,traduzir,"Bici" é espanholismo; revisão 0.8.0

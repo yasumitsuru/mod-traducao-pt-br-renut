@@ -6,92 +6,92 @@
       "id": "2347",
       "chave": "dialog__game1_beaten",
       "hash_es": "d6380fd06475b7d7",
-      "texto_ptbr": "Acha que me deixou com medo? Vamos brigar, desta vez estou preparada!",
-      "lote": "604"
+      "texto_ptbr": "Acha que eu fugiria assustada? Vamos brigar, desta vez estou preparada!",
+      "lote": "611"
     },
     {
       "id": "b254",
       "chave": "dialog__game1_fail",
       "hash_es": "f8e01fcef11db388",
-      "texto_ptbr": "{MOODHAPPY}Volte para levar outra surra, antes que eu passe mal de tanto quicar!",
-      "lote": "604"
+      "texto_ptbr": "{MOODHAPPY}Volte para levar outra surra e se humilhar, antes que eu passe mal de tanto quicar!",
+      "lote": "615"
     },
     {
       "id": "3451",
       "chave": "dialog__game1_gruntyemitdialog1",
       "hash_es": "def0caf2cb4ad910",
-      "texto_ptbr": "É divertido achatar o corpo do urso idiota, talvez eu adote isso como meu passatempo favorito!",
-      "lote": "604"
+      "texto_ptbr": "Achatar o urso idiota é divertido, vai virar meu passatempo preferido!",
+      "lote": "611"
     },
     {
       "id": "3452",
       "chave": "dialog__game1_gruntyemitdialog2",
       "hash_es": "d6b331e189d5c87b",
-      "texto_ptbr": "O urso e o pássaro mal se aguentam, e nem conseguem me atrair para perto de uma rampa!",
-      "lote": "604"
+      "texto_ptbr": "O urso e o pássaro mal sabem lutar, nem para uma rampa conseguem me levar!",
+      "lote": "611"
     },
     {
       "id": "3453",
       "chave": "dialog__game1_gruntyemitdialog3",
       "hash_es": "f693b2e65ae75106",
-      "texto_ptbr": "Não dá para me parar com estas molas potentes, é preciso admirar essas coisas fabulosas!",
-      "lote": "604"
+      "texto_ptbr": "Ninguém me para com estas molas possantes, é preciso admirar coisas tão deslumbrantes!",
+      "lote": "611"
     },
     {
       "id": "3454",
       "chave": "dialog__game1_gruntyemitdialog4",
       "hash_es": "39a463c02ce454d6",
-      "texto_ptbr": "Qual é, seus idiotas, sentindo o calor? Não vão me tirar do meu assento confortável!",
-      "lote": "604"
+      "texto_ptbr": "Qual é, seus idiotas, sentindo o calor? Deste assento ninguém me tira, que conforto, que primor!",
+      "lote": "611"
     },
     {
       "id": "3455",
       "chave": "dialog__game1_gruntyemitdialog5",
       "hash_es": "027e755db5028c26",
-      "texto_ptbr": "Um inimigo um pouco mais capaz poderia atirar no meu veículo para deixá-lo instável!",
-      "lote": "604"
+      "texto_ptbr": "Um inimigo um pouco mais capacitado poderia atirar no meu veículo e deixá-lo desequilibrado!",
+      "lote": "611"
     },
     {
       "id": "3456",
       "chave": "dialog__game1_gruntyemitdialog6",
       "hash_es": "2883e6761312309c",
-      "texto_ptbr": "Enquanto eu tiver espaço livre para pousar, minha destruição vai sair exatamente como planejado!",
-      "lote": "604"
+      "texto_ptbr": "Enquanto eu tiver espaço livre para pousar, minha destruição vai sair exatamente como eu planejar!",
+      "lote": "611"
     },
     {
       "id": "3457",
       "chave": "dialog__game1_gruntyemitdialog7",
       "hash_es": "bd942e28d35026f1",
-      "texto_ptbr": "Meu Rompedor de Molas é o melhor veículo que vocês vão ver. Só vão ganhar se me derrubarem do assento!",
-      "lote": "604"
+      "texto_ptbr": "Meu Rompedor de Molas é o melhor veículo que vão ver: só ganham se me derrubarem do assento, pode crer!",
+      "lote": "615"
     },
     {
       "id": "3458",
       "chave": "dialog__game1_gruntyemitdialog8",
       "hash_es": "50ba2779443e2ce3",
-      "texto_ptbr": "Corram e se escondam no campo de futebol, se são covardes demais para guerrear com a bruxa!",
-      "lote": "604"
+      "texto_ptbr": "Corram para o campo de futebol se esconder, se são covardes demais para me enfrentar e perder!",
+      "lote": "615"
     },
     {
       "id": "622c",
       "chave": "dialog__game1_gruntyoutofrange1",
       "hash_es": "83370b89eb66b5ff",
-      "texto_ptbr": "Onde você está, urso? Vou te amassar, e usar o pássaro como chapéu ridículo!",
-      "lote": "608"
+      "texto_ptbr": "Onde você está, urso? Vou te achatar, e o pássaro de chapéu vou usar!",
+      "lote": "611"
     },
     {
       "id": "622d",
       "chave": "dialog__game1_gruntyoutofrange2",
       "hash_es": "db920aafd1b4d3d8",
-      "texto_ptbr": "Urso inútil, venha aqui lutar! Fiquei acordada a noite toda construindo esta coisa!",
-      "lote": "604"
+      "texto_ptbr": "Urso inútil, venha aqui lutar! Esta coisa levei a noite inteira para montar!",
+      "lote": "611"
     },
     {
       "id": "9744",
       "chave": "dialog__game1_intro",
       "hash_es": "2510ee3336fd81f6",
-      "texto_ptbr": "Urso de cabeça oca e cara de plumas, sabem por que estou neste lugar sombrio?",
-      "lote": "604"
+      "texto_ptbr": "Urso de cabeça oca e cara emplumada, sabem por que estou nesta terra desolada?",
+      "lote": "611"
     },
     {
       "id": "8026",
@@ -104,8 +104,8 @@
       "id": "8027",
       "chave": "dialog__game1_introc",
       "hash_es": "b6ed637b39dc3049",
-      "texto_ptbr": "Não, seus tolos, vim destruir tudo... mas já está destruído, eu devia ter vindo mais rápido!",
-      "lote": "604"
+      "texto_ptbr": "Não, seus tolos, vim tudo arrasar... mas já está arrasado, cheguei tarde, que azar!",
+      "lote": "611"
     },
     {
       "id": "8028",
@@ -118,8 +118,8 @@
       "id": "8029",
       "chave": "dialog__game1_introe",
       "hash_es": "2b62a43236de27bc",
-      "texto_ptbr": "Muito bem, aberrações, vou destruir mais um pouco! E não interrompam minha tarefa infantil!",
-      "lote": "604"
+      "texto_ptbr": "Muito bem, aberrações, mais um pouco vou destruir! Não me atrapalhem, vou me divertir!",
+      "lote": "611"
     },
     {
       "id": "4006",
@@ -139,22 +139,22 @@
       "id": "d532",
       "chave": "dialog__game1_successa",
       "hash_es": "8a8c049a1fd7d9e1",
-      "texto_ptbr": "{MOODSAD}Parece que fui frustrada como deve ser, esta geringonça virou um fracasso saltitante!",
-      "lote": "604"
+      "texto_ptbr": "{MOODSAD}Parece que fui bem frustrada, esta geringonça saltitante deu em nada!",
+      "lote": "611"
     },
     {
       "id": "d534",
       "chave": "dialog__game1_successc",
       "hash_es": "f15fb9579a2f5eeb",
-      "texto_ptbr": "{MOODSAD}Você tirou toda a mola do meu passo... Preciso parar de perder, isso está arruinando minha reputação!",
-      "lote": "604"
+      "texto_ptbr": "{MOODSAD}Você tirou a mola dos meus passos... Preciso parar de perder, minha fama vai a pedaços!",
+      "lote": "611"
     },
     {
       "id": "d536",
       "chave": "dialog__game1_successe",
       "hash_es": "a751bdc7e09b4ab4",
-      "texto_ptbr": "Você venceu, por pouco. Foi bem fraquinho... devia considerar melhorar seu jogo!",
-      "lote": "604"
+      "texto_ptbr": "Você venceu por pouco, foi bem fraquinho... devia melhorar seu jogo um tantinho!",
+      "lote": "611"
     },
     {
       "id": "ca0d",

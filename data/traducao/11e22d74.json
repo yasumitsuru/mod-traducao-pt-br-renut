@@ -153,8 +153,8 @@
       "id": "6657",
       "chave": "dialog__game2_successe",
       "hash_es": "5eef77ffb949e95c",
-      "texto_ptbr": "Hmmm, errou o alvo uma ou duas vezes... não foi de todo ruim, mas vou guardar os troféus pra um profissional de verdade dos dardos!",
-      "lote": "602"
+      "texto_ptbr": "Hmmm, errou o alvo uma ou duas vezes... não foi de todo ruim, mas vou guardar os troféus pra um profissional de dardos de verdade!",
+      "lote": "612"
     },
     {
       "id": "cd09",
@@ -265,15 +265,15 @@
       "id": "8899",
       "chave": "dialog__game4_successe",
       "hash_es": "0f565fd5a9beb5a7",
-      "texto_ptbr": "Viu, tecnicamente você terminou o desafio, mas com tão pouco estilo e vigor que eu não posso deixar você levar um prêmio importante. Essa é a diferença entre você e eu!",
-      "lote": "602"
+      "texto_ptbr": "Veja bem, tecnicamente você terminou o desafio, mas com tão pouco estilo e vigor que eu não posso deixar você levar um prêmio importante. Essa é a diferença entre você e eu!",
+      "lote": "612"
     },
     {
       "id": "b3a9",
       "chave": "dialog__game4_wrongsteering",
       "hash_es": "cb1a491038ff7183",
-      "texto_ptbr": "Fácil demais, foi o que você disse! A reviravolta na direção deste jogo pode muito bem mudar a sua ideia. Ha, ha!",
-      "lote": "607"
+      "texto_ptbr": "Fácil demais, foi o que você disse! A reviravolta na direção deste jogo pode muito bem fazer você mudar de ideia. Ha, ha!",
+      "lote": "612"
     },
     {
       "id": "76cb",
@@ -293,8 +293,8 @@
       "id": "7156",
       "chave": "dialog__game5_grunty1",
       "hash_es": "6f8bea245a43738f",
-      "texto_ptbr": "Estou me esforçando pra te causar sofrimento, agora larga a tocha, seu ladrão de Jiggy!",
-      "lote": "602"
+      "texto_ptbr": "Me esforço pra te dar dor de cabeça: larga a tocha, ladrão de Jiggy, depressa!",
+      "lote": "612"
     },
     {
       "id": "7157",
@@ -307,8 +307,8 @@
       "id": "7158",
       "chave": "dialog__game5_grunty3",
       "hash_es": "e3ab5855557cdf57",
-      "texto_ptbr": "Vejo que você está dando o último arranque: tente desviar do respingo gigante!",
-      "lote": "602"
+      "texto_ptbr": "Vejo que o último arranque você está dando: desvia do respingo gigante que vem chegando!",
+      "lote": "612"
     },
     {
       "id": "8a48",
@@ -321,8 +321,8 @@
       "id": "b58a",
       "chave": "dialog__game5_objectives",
       "hash_es": "56ddfb882059d569",
-      "texto_ptbr": "Avante, pegue a tocha e acenda a chama. Faça o que fizer, não deixe a tocha apagar!",
-      "lote": "602"
+      "texto_ptbr": "Ouça bem, marujo: pegue a tocha e acenda a chama. Faça o que fizer, não deixe a tocha apagar!",
+      "lote": "612"
     },
     {
       "id": "b23c",
@@ -335,8 +335,8 @@
       "id": "b23d",
       "chave": "dialog__game5_objectivesrepeat2",
       "hash_es": "206e4782fec0a55a",
-      "texto_ptbr": "Firme no leme, rapaz! Mantenha a tocha no alto e seca!",
-      "lote": "602"
+      "texto_ptbr": "Firme no leme, rapaz! Mantenha a tocha erguida e seca!",
+      "lote": "612"
     },
     {
       "id": "19b6",
@@ -405,15 +405,15 @@
       "id": "0ce6",
       "chave": "dialog__jinjogreen_objectives",
       "hash_es": "8a43146865c2445f",
-      "texto_ptbr": "{MOODSAD}Eu derrubei meu doce! Bala, sei lá. Tenho certeza que estava com ele perto daquela estátua dourada gigante do T.T. antes de eu subir pra olhar de perto!",
-      "lote": "602"
+      "texto_ptbr": "{MOODSAD}Eu derrubei meu doce! Bala, sei lá. Tenho certeza de que estava com ele perto daquela estátua dourada gigante do T.T. antes de eu subir pra olhar de perto!",
+      "lote": "612"
     },
     {
       "id": "e726",
       "chave": "dialog__jinjogreen_win",
       "hash_es": "3aacee8edb9216c9",
-      "texto_ptbr": "{MOODHAPPY}Ah, uma guloseima deliciosa... e olha só, sem dentes pra apodrecer! É ótimo ser Jinjo! Aceite esta ficha como agradecimento.",
-      "lote": "602"
+      "texto_ptbr": "{MOODHAPPY}Ah, uma guloseima deliciosa... e olha só, sem dentes pra apodrecer! É ótimo ser Jinjo! Aceite este pequeno presente como agradecimento.",
+      "lote": "612"
     },
     {
       "id": "e358",

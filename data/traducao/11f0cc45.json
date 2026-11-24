@@ -20,8 +20,8 @@
       "id": "b153",
       "chave": "dialog__banjocontent",
       "hash_es": "a4805fa75076d86a",
-      "texto_ptbr": "Ah, isto é que é vida. Pizza, sol e nenhuma preocupação no mundo.",
-      "lote": "509"
+      "texto_ptbr": "Ah, isso é que é vida. Pizza, sol e nenhuma preocupação no mundo.",
+      "lote": "610"
     },
     {
       "id": "17ba",
@@ -34,8 +34,8 @@
       "id": "268a",
       "chave": "dialog__banjoreluctant",
       "hash_es": "72b9d075c44be11b",
-      "texto_ptbr": "Tudo bem, acho que ainda consigo te carregar... quase. Tudo por uma vida tranquila!",
-      "lote": "509"
+      "texto_ptbr": "Tudo bem, acho que ainda consigo te carregar... por pouco. Tudo por uma vida tranquila!",
+      "lote": "610"
     },
     {
       "id": "ca29",
@@ -69,15 +69,15 @@
       "id": "e127",
       "chave": "dialog__gruntyaggressive",
       "hash_es": "40720155f0155957",
-      "texto_ptbr": "Pelo menos não tenho pança. Vamos brigar agora, vou morder seu traseiro!",
-      "lote": "513"
+      "texto_ptbr": "Pelo menos minha barriga não é redonda. Vamos brigar, vou morder sua bunda!",
+      "lote": "610"
     },
     {
       "id": "05d3",
       "chave": "dialog__gruntychallenging",
       "hash_es": "f3ca635d6472016a",
-      "texto_ptbr": "Isso parece um plano sem noção. O que vai fazer se a gente recusar?",
-      "lote": "509"
+      "texto_ptbr": "Isso parece um truque sem noção. O que fará se dissermos que não?",
+      "lote": "610"
     },
     {
       "id": "b686",
@@ -104,22 +104,22 @@
       "id": "b03e",
       "chave": "dialog__gruntygloating2",
       "hash_es": "97d804237ae08749",
-      "texto_ptbr": "A ave era ruim no nosso último jogo, agora parece que está ainda mais sem graça!",
-      "lote": "509"
+      "texto_ptbr": "A ave foi mal no jogo anterior, e agora está sem graça e bem pior!",
+      "lote": "610"
     },
     {
       "id": "b03f",
       "chave": "dialog__gruntygloating3",
       "hash_es": "362cc55b951bf7ed",
-      "texto_ptbr": "Muito lentos, perdedores, vejam só! Desta vez a vitória é minha, eu sei!",
-      "lote": "509"
+      "texto_ptbr": "Muito lentos, perdedores, me vejam correr! Desta vez eu vou ganhar, pode crer!",
+      "lote": "610"
     },
     {
       "id": "52ef",
       "chave": "dialog__gruntysceptical",
       "hash_es": "6ba09f45cb5046cc",
-      "texto_ptbr": "Meu corpo sumiu, mas não meus olhos; só vejo um monte de mentiras!",
-      "lote": "509"
+      "texto_ptbr": "Meu corpo se foi, mas os olhos não; só vejo mentira e enganação!",
+      "lote": "610"
     },
     {
       "id": "52e3",
@@ -286,8 +286,8 @@
       "id": "6a4e",
       "chave": "dialog__narration2",
       "hash_es": "a8f27841e52b20f6",
-      "texto_ptbr": "Quando a irmã de Banjo foi sequestrada, o urso e a ave a resgataram das profundezas do covil da bruxa, superando muitos perigos e impedimentos de fala para mandar Gruntilda por água abaixo.",
-      "lote": "509"
+      "texto_ptbr": "Quando a irmã de Banjo foi sequestrada, o urso e a ave a resgataram das profundezas do covil da bruxa, superando muitos perigos e impedimentos de fala para mandar Gruntilda despencando rumo à sua perdição.",
+      "lote": "610"
     },
     {
       "id": "6a4f",
@@ -300,8 +300,8 @@
       "id": "6a50",
       "chave": "dialog__narration4",
       "hash_es": "1fb31ea38576f3ec",
-      "texto_ptbr": "Nossos bravos heróis ficaram de novo em seu caminho, e o segundo confronto terminou tão mal para Gruntilda quanto o primeiro, quando ela deveria ter parado enquanto estava... na frente.",
-      "lote": "509"
+      "texto_ptbr": "Nossos bravos heróis se puseram de novo em seu caminho, e este segundo confronto terminou tão mal para Gruntilda quanto o primeiro; ela bem que deveria ter parado enquanto estava... na frente.",
+      "lote": "610"
     },
     {
       "id": "6a51",
@@ -328,8 +328,8 @@
       "id": "bd0b",
       "chave": "dialog__randombanjo2",
       "hash_es": "6f86cde31b77f985",
-      "texto_ptbr": "Se você estivesse em forma, podia ter nos levado voando até aqui, Kazooie!",
-      "lote": "513"
+      "texto_ptbr": "Se você estivesse em forma, podia ter nos levado voando até lá, Kazooie!",
+      "lote": "610"
     },
     {
       "id": "00f2",

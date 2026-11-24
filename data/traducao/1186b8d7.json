@@ -20,8 +20,8 @@
       "id": "9744",
       "chave": "dialog__game1_intro",
       "hash_es": "027454e341029ae9",
-      "texto_ptbr": "Eu sinto a necessidade... a necessidade de detonar numa corrida de resistência. O seu está disponível pra chute, urso?",
-      "lote": "607"
+      "texto_ptbr": "Eu sinto a necessidade... a necessidade de chutar traseiros numa corrida de resistência. O seu está disponível pra chute, urso?",
+      "lote": "612"
     },
     {
       "id": "4006",
@@ -34,8 +34,8 @@
       "id": "4128",
       "chave": "dialog__game1_objectivesb",
       "hash_es": "9b29760ac971cbd0",
-      "texto_ptbr": "Sabe o que eu gosto em você, T.T.? Nada, na verdade. Vamos logo, acaba com isso de uma vez!",
-      "lote": "602"
+      "texto_ptbr": "Sabe do que eu gosto em você, T.T.? Nada, na verdade. Vamos acabar logo com isso!",
+      "lote": "612"
     },
     {
       "id": "4129",
@@ -125,8 +125,8 @@
       "id": "d405",
       "chave": "dialog__game2_intro",
       "hash_es": "d3ae0b2e97b2ee02",
-      "texto_ptbr": "Peguem aqui os lanches quentinhos e gostosos do intervalo! Ah, Banjo, justo o urso. Você deve ter experiência no comércio...",
-      "lote": "602"
+      "texto_ptbr": "Peguem aqui os lanches quentinhos e gostosos do intervalo! Ah, Banjo, o urso ideal. Você deve ter experiência no comércio...",
+      "lote": "612"
     },
     {
       "id": "9d67",
@@ -223,8 +223,8 @@
       "id": "fac8",
       "chave": "dialog__game3_objectives",
       "hash_es": "1a06b30f479ed63b",
-      "texto_ptbr": "Ufa. Quais são as regras, Porco Polar?",
-      "lote": "602"
+      "texto_ptbr": "Ai, ai. Quais são as regras, Porco Polar?",
+      "lote": "612"
     },
     {
       "id": "542a",

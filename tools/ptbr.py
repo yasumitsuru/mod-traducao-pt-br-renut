@@ -27,7 +27,15 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from nbptbr import config, loctext  # noqa: E402
-from nbptbr.io_seguro import EscritaForaDaRaiz, RAIZ_PROJETO, caminho_gravavel, gravar_json_atomico, ler_binario, sha256  # noqa: E402
+from nbptbr.io_seguro import (  # noqa: E402
+    EscritaForaDaRaiz,
+    RAIZ_PROJETO,
+    caminho_gravavel,
+    gravar_json_atomico,
+    gravar_texto_atomico,
+    ler_binario,
+    sha256,
+)
 
 
 def _destino_novo(valor: str | Path) -> Path:
@@ -172,6 +180,41 @@ def cmd_corrigir_nomes(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_auditar(args: argparse.Namespace) -> int:
+    """Auditoria de qualidade (somente leitura sobre data/; saída em work/revisao)."""
+    from nbptbr import auditoria
+
+    r = auditoria.executar()
+    saida = auditoria.PASTA_SAIDA
+    gravar_json_atomico(saida / "auditoria.json", r["entradas"])
+    gravar_json_atomico(saida / "integridade.json", r["integridade"])
+    gravar_json_atomico(saida / "inconsistencias.json", r["inconsistencias"])
+    gravar_json_atomico(saida / "resumo.json", r["resumo"])
+    if args.planilhas:
+        for g in auditoria.GRUPOS:
+            gravar_texto_atomico(saida / "grupos" / f"{g}.md", auditoria.planilha(r["entradas"], g))
+    res = r["resumo"]
+    print(f"auditadas={res['entradas_auditadas']} traduzidas={res['traduzidas']} com_achado={res['com_achado']} "
+          f"integridade={res['problemas_integridade']} inconsistencias={res['originais_com_traducoes_diferentes']}")
+    print("por gravidade: " + ", ".join(f"{k}={v}" for k, v in res["por_gravidade"].items()))
+    print("por regra: " + ", ".join(f"{k}={v}" for k, v in res["por_regra"].items()))
+    print(f"Saída em {saida}")
+    return 0 if res["problemas_integridade"] == 0 else 1
+
+
+def cmd_checar_propostas(args: argparse.Namespace) -> int:
+    """Confere um JSON de propostas de revisão contra o catálogo e o validador (somente leitura)."""
+    from nbptbr import revisao
+
+    r = revisao.checar(revisao.carregar(args.propostas))
+    print(f"{r['estado']}: alteracoes={r['alteracoes']} problemas={len(r['problemas'])} avisos={len(r['avisos'])}")
+    for p in r["problemas"]:
+        print(f"  PROBLEMA {p['onde']}: {p['problema']}")
+    for a in r["avisos"][: args.max_avisos]:
+        print(f"  aviso    {a['onde']}: {a['aviso']}")
+    return 0 if r["estado"] == "PASS" else 1
+
+
 def cmd_reinserir(args: argparse.Namespace) -> int:
     from nbptbr import reinserir, validar
 
@@ -302,6 +345,15 @@ def main(argv: list[str] | None = None) -> int:
     s.add_argument("--lote", required=True, help="arquivo novo do lote, dentro da raiz do projeto")
     s.add_argument("--numero", default="519", help="número do lote (padrão 519)")
     s.set_defaults(fn=cmd_corrigir_nomes)
+
+    s = sub.add_parser("auditar", help="auditoria de qualidade das traduções (somente leitura; saída em work/revisao)")
+    s.add_argument("--planilhas", action="store_true", help="gravar também as planilhas de revisão por frente")
+    s.set_defaults(fn=cmd_auditar)
+
+    s = sub.add_parser("checar-propostas", help="conferir propostas de revisão (somente leitura)")
+    s.add_argument("propostas")
+    s.add_argument("--max-avisos", type=int, default=200)
+    s.set_defaults(fn=cmd_checar_propostas)
 
     s = sub.add_parser("reinserir", help="F5: gerar os textos ingleses com o PT-BR em build/loctext/english")
     s.add_argument("--relatorio", help="gravar a validação em um arquivo novo dentro da raiz do projeto")

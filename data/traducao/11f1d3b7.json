@@ -195,8 +195,8 @@
       "id": "fac8",
       "chave": "dialog__game3_objectives",
       "hash_es": "9e625f8fade4ddaf",
-      "texto_ptbr": "Apenas correr contra os amigoss do Klungo e tentar vencê-los. Pouco provável, urssso lento!",
-      "lote": "608"
+      "texto_ptbr": "Apenas correr contra os amigosss do Klungo e tentar vencê-los. Pouco provável, urssso lento!",
+      "lote": "611"
     },
     {
       "id": "f774",
@@ -237,8 +237,8 @@
       "id": "8d5d",
       "chave": "dialog__jinjoblue_objectives",
       "hash_es": "5320026c813c9723",
-      "texto_ptbr": "{MOODSAD}Me leve até a tigela do Loggo, rápido! Preciso gritar para a porcelana!",
-      "lote": "604"
+      "texto_ptbr": "{MOODSAD}Me leve até a bacia do Loggo, rápido! Preciso gritar para a porcelana!",
+      "lote": "611"
     },
     {
       "id": "0f7d",
@@ -286,8 +286,8 @@
       "id": "0a16",
       "chave": "dialog__jinjoyellow_lose",
       "hash_es": "d0c9a0c83fe0b835",
-      "texto_ptbr": "{MOODSAD}Isso devia me aquecer? Da próxima vez traga um casaco grande e vamos fazer agachamentos no lugar.",
-      "lote": "604"
+      "texto_ptbr": "{MOODSAD}Isso devia me aquecer? Da próxima vez traga um casaco grande e vamos fazer agachamentos em vez disso.",
+      "lote": "611"
     },
     {
       "id": "a4f1",

@@ -13,8 +13,8 @@
       "id": "8c59",
       "chave": "dialog__game1_beaten2",
       "hash_es": "a9c1c3bff7d00a00",
-      "texto_ptbr": "{MOODHAPPY}Ursso já pegar Jiggy, então poder jogar de novo para fazer tempo melhor ou voltar de portal para Showdown Town, sssi estiver pronto para continuar...",
-      "lote": "603"
+      "texto_ptbr": "{MOODHAPPY}Urssso já pegar Jiggy, então poder jogar de novo para fazer tempo melhor ou voltar pelo portal para Showdown Town, sssi estiver pronto para continuar...",
+      "lote": "616"
     },
     {
       "id": "7ff5",
@@ -83,8 +83,8 @@
       "id": "7f1a",
       "chave": "dialog__game1_intro2d",
       "hash_es": "8c72596ff1f18d05",
-      "texto_ptbr": "{MOODHAPPY}Issso significar que Klungo ter desafio! Vencer desafio de Klungo e ele dar ao ursso um Jiggy dourado bonito.",
-      "lote": "603"
+      "texto_ptbr": "{MOODHAPPY}Issso significar que Klungo ter desafio! Vencer desafio de Klungo e ele dar ao urssso um Jiggy dourado bonito.",
+      "lote": "616"
     },
     {
       "id": "64d1",
@@ -104,8 +104,8 @@
       "id": "4304",
       "chave": "dialog__game1_mumbotalk",
       "hash_es": "8116d4683763e5ea",
-      "texto_ptbr": "{MOODHAPPY}Eekumbokum, quem quer linguiça? Pode estar um pouco queimada, mas pelo menos urso não passar mal.",
-      "lote": "603"
+      "texto_ptbr": "{MOODHAPPY}Eekumbokum, quem querer linguiça? Poder estar um pouco queimada, mas pelo menos urso não passar mal.",
+      "lote": "611"
     },
     {
       "id": "a3e6",
@@ -125,8 +125,8 @@
       "id": "4006",
       "chave": "dialog__game1_objectives",
       "hash_es": "65ff58086e78a44a",
-      "texto_ptbr": "{MOODSAD}Grande fogo na fazenda e cocos queimar fácil! {PAGEBREAK}Ursso chegar rápido à fazenda antes que colheita virar fumaça!",
-      "lote": "603"
+      "texto_ptbr": "{MOODSAD}Grande fogo na fazenda e cocos queimar fácil! {PAGEBREAK}Urssso chegar rápido à fazenda antes que colheita virar fumaça!",
+      "lote": "616"
     },
     {
       "id": "4127",
@@ -139,29 +139,29 @@
       "id": "4128",
       "chave": "dialog__game1_objectivesb",
       "hash_es": "fba7237f2341ddfd",
-      "texto_ptbr": "{MOODSAD}Dirigir carrinho pequeno e engraçado para chegar rápido à fazenda. {PAGEBREAK}Olhar flecha e mapa para ver que caminho pegar!",
-      "lote": "603"
+      "texto_ptbr": "{MOODSAD}Dirigir carrinho pequeno e engraçado para chegar rápido à fazenda. {PAGEBREAK}Olhar seta e mapa para ver que caminho pegar!",
+      "lote": "611"
     },
     {
       "id": "4129",
       "chave": "dialog__game1_objectivesc",
       "hash_es": "39142ddf5a38f28e",
-      "texto_ptbr": "{MOODSAD}Rápido! Klungo não querer levar surra, já basta a da bruxa! Ursso salvar fazenda, Klungo entregar Jiggy...",
-      "lote": "603"
+      "texto_ptbr": "{MOODSAD}Rápido! Klungo não querer levar surra, já basta a da bruxa! Urssso salvar fazenda, Klungo entregar Jiggy...",
+      "lote": "616"
     },
     {
       "id": "1938",
       "chave": "dialog__game1_objectivesrepeat1",
       "hash_es": "7967e99ef5c2bf4e",
-      "texto_ptbr": "{MOODSAD}Ursso parar de perder tempo! Correr para fazenda, salvar cocos!",
-      "lote": "603"
+      "texto_ptbr": "{MOODSAD}Urssso parar de perder tempo! Correr para fazenda, salvar cocos!",
+      "lote": "616"
     },
     {
       "id": "1939",
       "chave": "dialog__game1_objectivesrepeat2",
       "hash_es": "7a87e9bde63fd4f2",
-      "texto_ptbr": "{MOODSAD}Ursso achar issso muito difícil, pouca esperança para o resssto do jogo...",
-      "lote": "603"
+      "texto_ptbr": "{MOODSAD}Urssso achar issso muito difícil, pouca esperança para o resssto do jogo...",
+      "lote": "616"
     },
     {
       "id": "4044",
@@ -174,22 +174,22 @@
       "id": "d532",
       "chave": "dialog__game1_successa",
       "hash_es": "11f2630358fa6905",
-      "texto_ptbr": "{MOODHAPPY}Essstupendo! Como ursso chegar ao Mumbo tão rápido? Ursso ganhar tudo! Notas, Jiggy, até Troféu T.T.! {PAGEBREAK}Usar portal para voltar a Showdown Town, achar prêmio brilhante na Máquina de Jiggies se ainda não tiver pegado...",
-      "lote": "603"
+      "texto_ptbr": "{MOODHAPPY}Essstupendo! Como urssso chegar ao Mumbo tão rápido? Urssso ganhar tudo! Notas, Jiggy, até Troféu T.T.! {PAGEBREAK}Usar portal para voltar a Showdown Town, achar prêmio brilhante na Máquina de Jiggies se ainda não tiver pegado...",
+      "lote": "616"
     },
     {
       "id": "d534",
       "chave": "dialog__game1_successc",
       "hash_es": "ba8ff91df1387689",
-      "texto_ptbr": "{MOODHAPPY}Ursso fazer bom trabalho e ganhar primeiro Jiggy. Só não rápido o bastante para o Troféu T.T. também! {PAGEBREAK}Desafio jogável de novo quando quiser. Ursso pegar portal para Showdown Town e já buscar primeiro Jiggy na Máquina de Jiggies? Melhor fazer issso primeiro...",
-      "lote": "603"
+      "texto_ptbr": "{MOODHAPPY}Urssso fazer bom trabalho e ganhar primeiro Jiggy. Só não rápido o bastante para o Troféu T.T. também! {PAGEBREAK}Desafio jogável de novo quando quiser. Urssso pegar portal para Showdown Town e já buscar primeiro Jiggy na Máquina de Jiggies? Melhor fazer issso primeiro...",
+      "lote": "616"
     },
     {
       "id": "d536",
       "chave": "dialog__game1_successe",
       "hash_es": "6bddf3e066d7abba",
-      "texto_ptbr": "Ursso achar Mumbo no fim, mas demorar muito. Não bom o bastante para recompensa Jiggy desta vez, só Notas... {PAGEBREAK}Melhor tentar de novo se ursso ainda não ganhou Jiggy, senão chegar rápido a beco sem saída!",
-      "lote": "603"
+      "texto_ptbr": "Urssso achar Mumbo no fim, mas demorar muito. Não bom o bastante para recompensa Jiggy desta vez, só Notas... {PAGEBREAK}Melhor tentar de novo se urssso ainda não ganhar Jiggy, senão chegar rápido a beco sem saída!",
+      "lote": "616"
     },
     {
       "id": "ca0d",

@@ -48,29 +48,29 @@
       "id": "76c8",
       "chave": "dialog__grunty1",
       "hash_es": "418fd74cf1b2109d",
-      "texto_ptbr": "Eu sei que você não é meu fã, mas essa atitude passou dos limites!",
-      "lote": "606"
+      "texto_ptbr": "Eu sei que não sou sua preferida, mas essa atitude é bem atrevida!",
+      "lote": "610"
     },
     {
       "id": "76c9",
       "chave": "dialog__grunty2",
       "hash_es": "073a723d05f5b73c",
-      "texto_ptbr": "Não se meta comigo, que eu revido. Vou te mostrar o ataque de bafo da Grunty!",
-      "lote": "608"
+      "texto_ptbr": "Não se meta comigo, que eu revido. Vou te mostrar o bafo da Grunty, ataque temido!",
+      "lote": "610"
     },
     {
       "id": "590c",
       "chave": "dialog__humba1",
       "hash_es": "59399aa8d0e86bf9",
-      "texto_ptbr": "Ai! Isso não se faz. É injusto descontar o estresse na Humba!",
-      "lote": "606"
+      "texto_ptbr": "Ai! Isso não ser necessário. Injusto descontar estresse em Humba!",
+      "lote": "610"
     },
     {
       "id": "590d",
       "chave": "dialog__humba2",
       "hash_es": "a1a088e378fdef94",
-      "texto_ptbr": "Pare! Mumbo diz que você é doido, mas Humba nunca acreditou!",
-      "lote": "606"
+      "texto_ptbr": "Chega! Mumbo sempre dizer que você ser doido, Humba nunca acreditar nele!",
+      "lote": "610"
     },
     {
       "id": "3479",
@@ -125,8 +125,8 @@
       "id": "3d70",
       "chave": "dialog__klungo2",
       "hash_es": "b7361bf32a02abd6",
-      "texto_ptbr": "Não bata no Klungo! Grande bagunsssa se os pontosss se soltarem!",
-      "lote": "608"
+      "texto_ptbr": "Não bater em Klungo! Grande bagunsssa se os pontosss se soltarem!",
+      "lote": "610"
     },
     {
       "id": "84e1",
@@ -160,15 +160,15 @@
       "id": "25ff",
       "chave": "dialog__mumbo1",
       "hash_es": "8dd5b5bba4a8fcb8",
-      "texto_ptbr": "Eekumbokum! Mumbo não quer rachadura feia no crânio!",
-      "lote": "606"
+      "texto_ptbr": "Eekumbokum! Mumbo não querer rachadura feia no crânio!",
+      "lote": "610"
     },
     {
       "id": "2600",
       "chave": "dialog__mumbo2",
       "hash_es": "c94ffac3bc89b38a",
-      "texto_ptbr": "Urso e pássaro abusam dos serviços locais. Construir e explorar, não destruir!",
-      "lote": "606"
+      "texto_ptbr": "Urso e pássaro abusar dos serviços locais. Construir e explorar, não destruir!",
+      "lote": "610"
     },
     {
       "id": "3e55",
@@ -258,8 +258,8 @@
       "id": "854b",
       "chave": "dialog__thomas1",
       "hash_es": "ed8f52bd3bff4e2b",
-      "texto_ptbr": "Qual é, só porque eu sou melhor que você! Perdedor!",
-      "lote": "606"
+      "texto_ptbr": "Qual é, só porque eu sou melhor que você! Mau perdedor!",
+      "lote": "610"
     },
     {
       "id": "854c",

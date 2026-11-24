@@ -1,4 +1,4 @@
-"""Testes do gerador local que reproduz o pacote 0.7.0 a partir do jogo do usuário."""
+"""Testes do gerador local que reproduz o pacote conferido (revisão 0.8.0) a partir do jogo do usuário."""
 
 from __future__ import annotations
 
@@ -54,7 +54,21 @@ class TestGeracaoReal(unittest.TestCase):
             self.assertTrue(patch.is_file())
             self.assertEqual(gerar_mod._hash(patch.read_bytes()), gerar_mod.SHA_ESPERADO)
             mod = (Path(pasta) / "ptbr_traducao" / "mod.toml").read_text("utf-8")
-            self.assertIn('version = "0.7.0"', mod)
+            self.assertIn(f'version = "{gerar_mod.VERSAO}"', mod)
+
+
+class TestReferenciaHistorica(unittest.TestCase):
+    """A revisão 0.8.0 muda o pacote; o valor da Release v0.7.0 fica registrado e não muda."""
+
+    def test_sha_da_release_070_preservado(self):
+        self.assertEqual(gerar_mod.VERSAO_V070, "0.7.0")
+        self.assertEqual(gerar_mod.SHA_V070, "7cd39a34efbae21dc8d3f919e63349e15df88397080ad59dd07207da0f5b5e25")
+
+    def test_versao_de_desenvolvimento_tem_sha_proprio(self):
+        self.assertEqual(gerar_mod.VERSAO, "0.8.0")
+        self.assertRegex(gerar_mod.SHA_ESPERADO, r"^[0-9a-f]{64}$")
+        self.assertNotEqual(gerar_mod.SHA_ESPERADO, gerar_mod.SHA_V070)
+        self.assertEqual(gerar_mod.FRASES_ESPERADAS, 6099)
 
 
 class TestPacoteGerador(unittest.TestCase):

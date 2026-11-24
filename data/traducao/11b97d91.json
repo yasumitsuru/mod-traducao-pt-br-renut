@@ -34,8 +34,8 @@
       "id": "4128",
       "chave": "dialog__game1_objectivesb",
       "hash_es": "b4869ecef20d6c02",
-      "texto_ptbr": "Klungo construir carro especial: o Carro Favo de Mel de Banjoland. Rápido nas retasss, e o sabor também é bom. Klungo organizar corrida e enfrentar todos os desafiantesss!",
-      "lote": "604"
+      "texto_ptbr": "Klungo construir carro especial: o Carro Favo de Mel de Banjoland. Rápido nas retasss, sabor também ser bom. Klungo organizar corrida e enfrentar todos os desafiantesss!",
+      "lote": "611"
     },
     {
       "id": "4129",
@@ -160,8 +160,8 @@
       "id": "0396",
       "chave": "dialog__game3_fail",
       "hash_es": "af1b6ece73756b56",
-      "texto_ptbr": "Isso foi um desastre, você precisa de um piloto melhor. Ha ha, pegou? 'Piloto'... e você 'pilota' veículos? Não sou só 'em forma', também sou engraçado!",
-      "lote": "604"
+      "texto_ptbr": "Isso foi um desastre, você precisa de um driver melhor. Ha ha, pegou? 'Driver'... e você 'dirige' veículos? Não sou só 'em forma', também sou engraçado!",
+      "lote": "611"
     },
     {
       "id": "10c6",
@@ -244,8 +244,8 @@
       "id": "2c37",
       "chave": "dialog__game4_fail",
       "hash_es": "203dcc61abc8dd2f",
-      "texto_ptbr": "{MOODSAD}Urso chamar isso de entretenimento? Klungo comendo é mais engraçado de ver. Oomenacka!",
-      "lote": "604"
+      "texto_ptbr": "{MOODSAD}Urso chamar isso de entretenimento? Klungo comer à mesa ser mais divertido de ver. Oomenacka!",
+      "lote": "611"
     },
     {
       "id": "a4e1",
@@ -258,8 +258,8 @@
       "id": "a4e2",
       "chave": "dialog__game4_instructions2",
       "hash_es": "47cd25e5347a8358",
-      "texto_ptbr": "Hehe... urso arar o campo muito bem. Agora tentar acrobacias! No ar, empurre [LSTICK] Analógico esquerdo para frente ou para trás e segure o Botão [X] para dar uma cambalhota completa.",
-      "lote": "604"
+      "texto_ptbr": "Hehe... urso arar o campo muito bem. Agora tentar acrobacias! No ar, empurrar [LSTICK] Analógico esquerdo para frente ou para trás e segurar o Botão [X] para dar uma cambalhota completa.",
+      "lote": "611"
     },
     {
       "id": "a4e3",
@@ -272,8 +272,8 @@
       "id": "a4e4",
       "chave": "dialog__game4_instructions4",
       "hash_es": "2f0baba8095559c0",
-      "texto_ptbr": "Urso pular bem, como salmão peludo! Agora fazer giro lateral completo. No ar, empurre [LSTICK] Analógico esquerdo para a esquerda ou para a direita e segure o Botão [X].",
-      "lote": "604"
+      "texto_ptbr": "Urso pular bem, como salmão peludo! Agora fazer giro lateral completo. No ar, empurrar [LSTICK] Analógico esquerdo para a esquerda ou para a direita e segurar o Botão [X].",
+      "lote": "611"
     },
     {
       "id": "a4e5",
@@ -377,8 +377,8 @@
       "id": "b58a",
       "chave": "dialog__game5_objectives",
       "hash_es": "6d642e9dfbe801c8",
-      "texto_ptbr": "Solte o cabelo de uma vez, Quatro-Olhos! Este pode ser o último jogo em que você aparece!",
-      "lote": "604"
+      "texto_ptbr": "Solte o cabelo para variar, Quatro-Olhos! Este pode ser o último jogo em que você aparece!",
+      "lote": "611"
     },
     {
       "id": "672c",
@@ -454,8 +454,8 @@
       "id": "a88e",
       "chave": "dialog__game6_introe",
       "hash_es": "e2e28081141e9ee8",
-      "texto_ptbr": "Se é assim, vão para a batalha. Nos deem orgulho, seus molengas!",
-      "lote": "604"
+      "texto_ptbr": "Se é assim, vão para a batalha. Deixem-nos orgulhosos, seus molengas!",
+      "lote": "611"
     },
     {
       "id": "12eb",
@@ -489,8 +489,8 @@
       "id": "aad9",
       "chave": "dialog__game6_successc",
       "hash_es": "45f746a7cd12280c",
-      "texto_ptbr": "Isso vai ensinar uma lição a ele! Ohhh, o Mr. Patch era péssimo e Banjo deu conta, chefes infláveis todos cheiram a...",
-      "lote": "608"
+      "texto_ptbr": "Isso deu uma lição nele! Ohhh, o Mr. Patch era péssimo e Banjo deu conta, chefes infláveis todos cheiram a...",
+      "lote": "611"
     },
     {
       "id": "aadb",
@@ -545,8 +545,8 @@
       "id": "a4f1",
       "chave": "dialog__jinjoyellow_objectives",
       "hash_es": "eed47a14b50b7763",
-      "texto_ptbr": "{MOODSAD}Arremesso de Jinjo, veja só. Tá bom, tá bom... me arremesse pelo menos a distância indicada para ganhar um prêmio. Vá em frente, se precisar!",
-      "lote": "604"
+      "texto_ptbr": "{MOODSAD}Arremesso de Jinjo, francamente. Tá bom, tá bom... me arremesse pelo menos a distância indicada para ganhar um prêmio. Vá em frente, se precisar!",
+      "lote": "611"
     },
     {
       "id": "4591",

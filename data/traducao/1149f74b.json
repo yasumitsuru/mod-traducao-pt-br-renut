@@ -6,15 +6,15 @@
       "id": "2347",
       "chave": "dialog__game1_beaten",
       "hash_es": "bf43827764bc7d30",
-      "texto_ptbr": "Conexão da internetinha toda boa, graçasss ao ursso. Klungo quebrar de novo para ursso tentar consertar mais rápidossso?",
-      "lote": "605"
+      "texto_ptbr": "Conexão da internetinha toda boa, graçasss ao urssso. Klungo quebrar de novo para urssso tentar consertar mais rápidossso?",
+      "lote": "616"
     },
     {
       "id": "b254",
       "chave": "dialog__game1_fail",
       "hash_es": "34be47823f8ed0da",
-      "texto_ptbr": "{MOODANGRY}Ursso não ajudar. Klungo ter que consertar do jeito antigão: bater na antena com martelo até alguma cosssa acontecer.",
-      "lote": "605"
+      "texto_ptbr": "{MOODANGRY}Urssso não ajudar. Klungo ter que consertar do jeito antigão: bater na antena com martelo até alguma cosssa acontecer.",
+      "lote": "616"
     },
     {
       "id": "7ff5",
@@ -34,50 +34,50 @@
       "id": "4006",
       "chave": "dialog__game1_objectives",
       "hash_es": "9db47feabba751ab",
-      "texto_ptbr": "Obrigadossso pela oferta. Ver antena pesada? Ursso issar até um lugar bem alto. Por favor, Klungo pedir com jeitinho!",
-      "lote": "605"
+      "texto_ptbr": "Obrigadossso pela oferta. Ver antena pesada? Urssso issar até um lugar bem alto. Por favor, Klungo pedir com jeitinho!",
+      "lote": "616"
     },
     {
       "id": "4128",
       "chave": "dialog__game1_objectivesb",
       "hash_es": "4aecef4d892d8d15",
-      "texto_ptbr": "Sssinal passar e consssole conectar na internetinha de novo quando antena ficar alta o bastante. Fácil para ursso!",
-      "lote": "605"
+      "texto_ptbr": "Sssinal passar e consssole conectar na internetinha de novo quando antena ficar alta o bastante. Fácil para urssso!",
+      "lote": "616"
     },
     {
       "id": "1938",
       "chave": "dialog__game1_objectivesrepeat1",
       "hash_es": "10074440f8b7dd22",
-      "texto_ptbr": "Ainda sssem sssinal! Por que tão difícil trocar antena, ursso?",
-      "lote": "605"
+      "texto_ptbr": "Ainda sssem sssinal! Por que tão difícil trocar antena, urssso?",
+      "lote": "616"
     },
     {
       "id": "1939",
       "chave": "dialog__game1_objectivesrepeat2",
       "hash_es": "b76d5a82ef77fbdc",
-      "texto_ptbr": "Ursso subir mais! Aqui não ter sssinal de internetinha!",
-      "lote": "605"
+      "texto_ptbr": "Urssso subir mais! Aqui não ter sssinal de internetinha!",
+      "lote": "616"
     },
     {
       "id": "d532",
       "chave": "dialog__game1_successa",
       "hash_es": "efb8b1b3b01ea4c6",
-      "texto_ptbr": "{MOODHAPPY}Internetinha de volta em tempo sssuper-rápido! Ursso provavelmente bater recorde da informática. Ganhar montão de prêmiosss!",
-      "lote": "605"
+      "texto_ptbr": "{MOODHAPPY}Internetinha de volta em tempo sssuper-rápido! Urssso provavelmente bater recorde da informática. Ganhar montão de prêmiosss!",
+      "lote": "616"
     },
     {
       "id": "d534",
       "chave": "dialog__game1_successc",
       "hash_es": "46700364060b4454",
-      "texto_ptbr": "Klungo voltar pra internetinha agora, fazer treinamento online pra não quebrar mais nada. Ursso ganhar recompensa Jiggy.",
-      "lote": "605"
+      "texto_ptbr": "Klungo voltar pra internetinha agora, fazer treinamento online pra não quebrar mais nada. Urssso ganhar recompensa Jiggy.",
+      "lote": "616"
     },
     {
       "id": "d536",
       "chave": "dialog__game1_successe",
       "hash_es": "ab41d0ac9149a184",
-      "texto_ptbr": "Internetinha de volta enfim, mas Klungo sofrer com sssintomas de abssstinência. Sem Jiggy se ursso demorar uma eternidade!",
-      "lote": "605"
+      "texto_ptbr": "Internetinha de volta enfim, mas Klungo sofrer com sssintomas de abssstinência. Sem Jiggy se urssso demorar uma eternidade!",
+      "lote": "616"
     },
     {
       "id": "f828",
@@ -188,8 +188,8 @@
       "id": "8d5d",
       "chave": "dialog__jinjoblue_objectives",
       "hash_es": "0c03ea3077b93077",
-      "texto_ptbr": "{MOODSAD}Eu estava sentado no Nível 4, perto daquela coisa com giz de cera grudado, quando cheguei numa parte aterrorizante do livro e me tremi tanto que ele voou da minha mão! Por favor, encontre ele!",
-      "lote": "605"
+      "texto_ptbr": "{MOODSAD}Eu estava sentado no Nível 4, perto daquela coisa com giz de cera grudado, quando cheguei numa parte aterrorizante do livro e tremi tanto que ele voou da minha mão! Por favor, encontre ele!",
+      "lote": "612"
     },
     {
       "id": "0f7d",

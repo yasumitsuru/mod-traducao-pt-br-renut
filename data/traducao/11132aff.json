@@ -223,8 +223,8 @@
       "id": "93ab",
       "chave": "dialog__question14",
       "hash_es": "ae79c6f071690192",
-      "texto_ptbr": "De que cor é o joystick da fábrica de videogames do L.O.G. em Showdown Town?",
-      "lote": "515"
+      "texto_ptbr": "De que cor é o joystick da fábrica de videogames do S.J. em Showdown Town?",
+      "lote": "610"
     },
     {
       "id": "093c",
@@ -286,8 +286,8 @@
       "id": "93ca",
       "chave": "dialog__question22",
       "hash_es": "64f37979f331094c",
-      "texto_ptbr": "Qual é o nome da loja do Mr. Ribs em Showdown Town?",
-      "lote": "515"
+      "texto_ptbr": "Qual é o nome da loja do Sr. Costelas em Showdown Town?",
+      "lote": "610"
     },
     {
       "id": "93cb",
@@ -349,8 +349,8 @@
       "id": "93ee",
       "chave": "dialog__question35",
       "hash_es": "916da1e34fff6136",
-      "texto_ptbr": "Qual era a função do Mumbo antes de o L.O.G. obrigá-lo a virar mecânico?",
-      "lote": "515"
+      "texto_ptbr": "Qual era a função do Mumbo antes de o S.J. obrigá-lo a virar mecânico?",
+      "lote": "610"
     },
     {
       "id": "809a",
@@ -524,8 +524,8 @@
       "id": "9491",
       "chave": "dialog__question83",
       "hash_es": "2973fc6a4715f49f",
-      "texto_ptbr": "De que sabor é a pastilha de sabor no Mundo de Jogo LOGBOX 720?",
-      "lote": "609"
+      "texto_ptbr": "De que sabor é a pastilha de gosma no Mundo de Jogo LOGBOX 720?",
+      "lote": "610"
     },
     {
       "id": "9492",
@@ -685,15 +685,15 @@
       "id": "e3d6",
       "chave": "logquiz__question103answer1",
       "hash_es": "20b1369f8440429c",
-      "texto_ptbr": "Basquete",
-      "lote": "515"
+      "texto_ptbr": "Bola de basquete",
+      "lote": "610"
     },
     {
       "id": "e3d7",
       "chave": "logquiz__question103answer2",
       "hash_es": "d8fd7622a37109ad",
-      "texto_ptbr": "Beisebol",
-      "lote": "515"
+      "texto_ptbr": "Bola de beisebol",
+      "lote": "610"
     },
     {
       "id": "e3d8",
@@ -797,8 +797,8 @@
       "id": "7ff6",
       "chave": "logquiz__question112answer1",
       "hash_es": "8117d2409d4da16c",
-      "texto_ptbr": "Ela precisa de terapia para perder o medo",
-      "lote": "515"
+      "texto_ptbr": "Ela precisa de aulas para assustar mais",
+      "lote": "610"
     },
     {
       "id": "7ff7",
@@ -1056,8 +1056,8 @@
       "id": "6f9b",
       "chave": "logquiz__question125answer2",
       "hash_es": "447fa82abbb2753d",
-      "texto_ptbr": "Estrada",
-      "lote": "515"
+      "texto_ptbr": "Uma estrada",
+      "lote": "610"
     },
     {
       "id": "6f9c",
@@ -1140,8 +1140,8 @@
       "id": "61f9",
       "chave": "logquiz__question132answer2",
       "hash_es": "55bc08ee1bef7dc8",
-      "texto_ptbr": "Chirivia",
-      "lote": "515"
+      "texto_ptbr": "Pastinaca",
+      "lote": "610"
     },
     {
       "id": "61fa",
@@ -1322,8 +1322,8 @@
       "id": "d2fc",
       "chave": "logquiz__question142answer4",
       "hash_es": "e39596d05884a8ce",
-      "texto_ptbr": "Muddy X-115 Beta",
-      "lote": "515"
+      "texto_ptbr": "Lamacento X-115 Beta",
+      "lote": "610"
     },
     {
       "id": "a7da",
@@ -1350,8 +1350,8 @@
       "id": "a7dd",
       "chave": "logquiz__question143answer4",
       "hash_es": "a6632a279ff1062c",
-      "texto_ptbr": "Feito pelo L.O.G.",
-      "lote": "515"
+      "texto_ptbr": "Feito pelo S.J.",
+      "lote": "610"
     },
     {
       "id": "7cbb",
@@ -1462,8 +1462,8 @@
       "id": "072b",
       "chave": "logquiz__question15answer4",
       "hash_es": "77174bd2c61a6e45",
-      "texto_ptbr": "O L.O.G. plantando bananeira",
-      "lote": "515"
+      "texto_ptbr": "O S.J. plantando bananeira",
+      "lote": "610"
     },
     {
       "id": "6653",
@@ -1532,8 +1532,8 @@
       "id": "f987",
       "chave": "logquiz__question22answer2",
       "hash_es": "cdd701c8c7c96364",
-      "texto_ptbr": "Costelas na Brasa do Mr. Ribs",
-      "lote": "515"
+      "texto_ptbr": "Costelas na Brasa do Sr. Costelas",
+      "lote": "610"
     },
     {
       "id": "f988",
@@ -1595,15 +1595,15 @@
       "id": "a34a",
       "chave": "logquiz__question24answer3",
       "hash_es": "4d98fad078cd3212",
-      "texto_ptbr": "O Arauto do L.O.G.",
-      "lote": "515"
+      "texto_ptbr": "O Arauto do S.J.",
+      "lote": "610"
     },
     {
       "id": "a34b",
       "chave": "logquiz__question24answer4",
       "hash_es": "4a21b72f0dc2432e",
-      "texto_ptbr": "O Diário do L.O.G.",
-      "lote": "515"
+      "texto_ptbr": "O Diário do S.J.",
+      "lote": "610"
     },
     {
       "id": "7829",
@@ -1973,29 +1973,29 @@
       "id": "e4f6",
       "chave": "logquiz__question4answer1",
       "hash_es": "a113701e16f6d8cb",
-      "texto_ptbr": "A usina elétrica subterrânea do L.O.G.",
-      "lote": "515"
+      "texto_ptbr": "A usina elétrica subterrânea do S.J.",
+      "lote": "610"
     },
     {
       "id": "e4f7",
       "chave": "logquiz__question4answer2",
       "hash_es": "5725557b809cb020",
-      "texto_ptbr": "A base secreta de foguetes do L.O.G.",
-      "lote": "515"
+      "texto_ptbr": "A base secreta de foguetes do S.J.",
+      "lote": "610"
     },
     {
       "id": "e4f8",
       "chave": "logquiz__question4answer3",
       "hash_es": "7d268322ead81bc0",
-      "texto_ptbr": "O farol do L.O.G.",
-      "lote": "515"
+      "texto_ptbr": "O farol do S.J.",
+      "lote": "610"
     },
     {
       "id": "e4f9",
       "chave": "logquiz__question4answer4",
       "hash_es": "d05d9038f6873da7",
-      "texto_ptbr": "A fábrica de videogames do L.O.G.",
-      "lote": "515"
+      "texto_ptbr": "A fábrica de videogames do S.J.",
+      "lote": "610"
     },
     {
       "id": "77a8",
@@ -2260,8 +2260,8 @@
       "id": "674d",
       "chave": "logquiz__question64answer2",
       "hash_es": "7d28ac002c570545",
-      "texto_ptbr": "A melhor porcelana do L.O.G.",
-      "lote": "515"
+      "texto_ptbr": "Os melhores pratos de porcelana do S.J.",
+      "lote": "610"
     },
     {
       "id": "674e",
@@ -2358,8 +2358,8 @@
       "id": "2e8e",
       "chave": "logquiz__question72answer4",
       "hash_es": "6f9c8798c9c134a4",
-      "texto_ptbr": "Alto-falante",
-      "lote": "515"
+      "texto_ptbr": "Um alto-falante",
+      "lote": "610"
     },
     {
       "id": "036c",
@@ -2372,8 +2372,8 @@
       "id": "036d",
       "chave": "logquiz__question73answer2",
       "hash_es": "6f9c8798c9c134a4",
-      "texto_ptbr": "Alto-falante",
-      "lote": "515"
+      "texto_ptbr": "Um alto-falante",
+      "lote": "610"
     },
     {
       "id": "036e",
@@ -2414,8 +2414,8 @@
       "id": "d850",
       "chave": "logquiz__question74answer4",
       "hash_es": "ab20ad69a4bac34e",
-      "texto_ptbr": "Capitão Skyhawk",
-      "lote": "515"
+      "texto_ptbr": "Captain Skyhawk",
+      "lote": "610"
     },
     {
       "id": "ad2e",
@@ -2512,8 +2512,8 @@
       "id": "746e",
       "chave": "logquiz__question83answer2",
       "hash_es": "35889952ade36157",
-      "texto_ptbr": "Cheesecake de Groselha",
-      "lote": "515"
+      "texto_ptbr": "Cheesecake de Groselha-preta",
+      "lote": "610"
     },
     {
       "id": "746f",
@@ -2582,8 +2582,8 @@
       "id": "1e32",
       "chave": "logquiz__question85answer4",
       "hash_es": "73ea1444a9ca8a5b",
-      "texto_ptbr": "Uma fileira enorme de espinhos",
-      "lote": "515"
+      "texto_ptbr": "Uma fileira enorme de espinhos que descem",
+      "lote": "610"
     },
     {
       "id": "3bac",
@@ -2617,8 +2617,8 @@
       "id": "108d",
       "chave": "logquiz__question92answer1",
       "hash_es": "78329fe5f4ab0990",
-      "texto_ptbr": "O cheiro de jogos reciclados",
-      "lote": "515"
+      "texto_ptbr": "O fedor de jogos reciclados",
+      "lote": "610"
     },
     {
       "id": "108e",

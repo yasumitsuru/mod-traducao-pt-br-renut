@@ -6,8 +6,8 @@
       "id": "9121",
       "chave": "dialog__humba_balloon",
       "hash_es": "10a1dca73f9a916d",
-      "texto_ptbr": "Tão legal quanto um jato, mas também leve no combustível! Uma pechincha!",
-      "lote": "507"
+      "texto_ptbr": "Legal como jato, mas também leve no combustível! Pechincha!",
+      "lote": "614"
     },
     {
       "id": "f035",
@@ -97,8 +97,8 @@
       "id": "71dc",
       "chave": "dialog__humba_chopper1",
       "hash_es": "d49fc98552712abb",
-      "texto_ptbr": "Urso pegar ar... mas cuidado para não ficar sem combustível.",
-      "lote": "507"
+      "texto_ptbr": "Urso ganhar os ares... mas cuidado para não ficar sem combustível.",
+      "lote": "614"
     },
     {
       "id": "71dd",
@@ -426,15 +426,15 @@
       "id": "c6d1",
       "chave": "dialog__mumbo_hoverchassis2",
       "hash_es": "77ae10e6130fc80c",
-      "texto_ptbr": "Chassi de helicóptero avançado, funciona bem com veículos de hélice dupla.",
-      "lote": "507"
+      "texto_ptbr": "Chassi de helicóptero avançado, funcionar bem com veículos de hélice dupla.",
+      "lote": "614"
     },
     {
       "id": "aa6b",
       "chave": "dialog__mumbo_landchassis1",
       "hash_es": "b069d67ca03ec8cc",
-      "texto_ptbr": "Chassi básico para ajudar o urso a se locomover.",
-      "lote": "507"
+      "texto_ptbr": "Chassi básico para ajudar urso a se locomover.",
+      "lote": "614"
     },
     {
       "id": "aa6c",
@@ -489,8 +489,8 @@
       "id": "e5a5",
       "chave": "vehicle__humba_bike",
       "hash_es": "412155b77241649a",
-      "texto_ptbr": "Bici Humba",
-      "lote": "507"
+      "texto_ptbr": "Bike Humba",
+      "lote": "614"
     },
     {
       "id": "bc21",
@@ -629,8 +629,8 @@
       "id": "a6ce",
       "chave": "vehicle__humba_hover",
       "hash_es": "658d5171afbe5cdc",
-      "texto_ptbr": "Humba Planador",
-      "lote": "507"
+      "texto_ptbr": "Humba Flutuante",
+      "lote": "614"
     },
     {
       "id": "6273",
@@ -888,8 +888,8 @@
       "id": "f029",
       "chave": "vehicle__jinjotaxibike",
       "hash_es": "9334350e93b60ca1",
-      "texto_ptbr": "Táxi Jinjo Bici",
-      "lote": "507"
+      "texto_ptbr": "Táxi Jinjo Bike",
+      "lote": "614"
     },
     {
       "id": "0874",

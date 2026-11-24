@@ -27,8 +27,8 @@
       "id": "4006",
       "chave": "dialog__game1_objectives",
       "hash_es": "4ec1df5c1452f194",
-      "texto_ptbr": "{MOODSAD}Parece que os Gruntbots daquela bruxa decrépita sabotaram os canos da plantação. {PAGEBREAK}Acho que a colheita vai murchar e morrer se não fizermos nada. Ei, não é o tipo de coisa que vocês fazem?",
-      "lote": "603"
+      "texto_ptbr": "{MOODSAD}Parece que os Gruntbots daquela bruxa decrépita sabotaram os canos de água do pomar. {PAGEBREAK}Acho que a colheita vai murchar e morrer se não fizermos nada. Ei, não é o tipo de coisa que vocês fazem?",
+      "lote": "611"
     },
     {
       "id": "4128",
@@ -48,8 +48,8 @@
       "id": "1938",
       "chave": "dialog__game1_objectivesrepeat1",
       "hash_es": "a3e2390f5d793a0a",
-      "texto_ptbr": "{MOODSAD}Os cocos estão secando rápido! Eu bem que enfiava uns Gruntbots idiotas desses cano abaixo...",
-      "lote": "603"
+      "texto_ptbr": "{MOODSAD}Os cocos estão secando rápido! Eu bem que enfiava uns daqueles Gruntbots idiotas cano abaixo...",
+      "lote": "611"
     },
     {
       "id": "1939",
@@ -76,8 +76,8 @@
       "id": "d536",
       "chave": "dialog__game1_successe",
       "hash_es": "fd7b9726232a9e6f",
-      "texto_ptbr": "Caramba, quanto tempo leva para consertar uns canos? Serviço feito, mas nessa velocidade você não vai ganhar lá grandes prêmios.",
-      "lote": "603"
+      "texto_ptbr": "Caramba, quanto tempo leva para consertar uns canos? Serviço feito, mas nessa velocidade você não vai ganhar grande coisa em prêmios.",
+      "lote": "611"
     },
     {
       "id": "ba67",
@@ -146,22 +146,22 @@
       "id": "f052",
       "chave": "dialog__game2_race2intro",
       "hash_es": "e26e70df28e1b537",
-      "texto_ptbr": "{MOODSAD}Ei, você largou na frente. Meus freios devem estar travando! {PAGEBREAK}Mencionei que é melhor de três? Engole a minha poeira!",
-      "lote": "603"
+      "texto_ptbr": "{MOODSAD}Ei, você largou na frente. Meus freios devem estar travando! {PAGEBREAK}Mencionei que é melhor de três? Engula a minha poeira!",
+      "lote": "611"
     },
     {
       "id": "18f3",
       "chave": "dialog__game2_race3intro",
       "hash_es": "397b9ae4509800dc",
-      "texto_ptbr": "{MOODHAPPY}Ha! Segundo lugar é só o primeiro perdedor! {PAGEBREAK}Mais uma corrida, tenta acompanhar desta vez!",
-      "lote": "603"
+      "texto_ptbr": "{MOODHAPPY}Ha! Segundo lugar é só o primeiro perdedor! {PAGEBREAK}Mais uma corrida, tente acompanhar desta vez!",
+      "lote": "611"
     },
     {
       "id": "cd09",
       "chave": "dialog__game3_beaten",
       "hash_es": "86fd0a69d949d410",
-      "texto_ptbr": "{MOODHAPPY}Urso já salvar fazenda de bombardeio aleatório, mas pode jogar desafio de novo por diversão. Oomenacka!",
-      "lote": "603"
+      "texto_ptbr": "{MOODHAPPY}Urso já salvar fazenda de bombardeio aleatório, mas poder jogar desafio de novo por diversão. Oomenacka!",
+      "lote": "611"
     },
     {
       "id": "0396",
@@ -251,8 +251,8 @@
       "id": "f776",
       "chave": "dialog__game3_successc",
       "hash_es": "32279a21ef3a9fe6",
-      "texto_ptbr": "{MOODHAPPY}Tudo pronto, sem bum! Mumbo procurar tapete em outro lugar. Urso ganhar Jiggy, mas poderia ganhar prêmio extra com tempo mais rápido!",
-      "lote": "603"
+      "texto_ptbr": "{MOODHAPPY}Tudo pronto, sem bum! Mumbo procurar tapete em outro lugar. Urso ganhar Jiggy, mas poder ganhar prêmio extra com tempo mais rápido!",
+      "lote": "611"
     },
     {
       "id": "f778",

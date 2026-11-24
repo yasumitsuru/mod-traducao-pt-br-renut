@@ -27,8 +27,8 @@
       "id": "bcea",
       "chave": "dialog__blubberpleased",
       "hash_es": "060d08bd71125308",
-      "texto_ptbr": "O tesouro de vocês espera, meus camaradas!",
-      "lote": "509"
+      "texto_ptbr": "O tesouro de vocês espera, meus marujos!",
+      "lote": "610"
     },
     {
       "id": "bac9",
@@ -41,8 +41,8 @@
       "id": "9132",
       "chave": "dialog__gruntydefiant",
       "hash_es": "c7d47e256fbe0a0b",
-      "texto_ptbr": "Me deixar aqui foi um grande erro, espere pelo jogo malvado que eu vou criar!",
-      "lote": "509"
+      "texto_ptbr": "Me deixar aqui foi um grande engano, espere o jogo malvado do meu plano!",
+      "lote": "610"
     },
     {
       "id": "d404",
@@ -167,8 +167,8 @@
       "id": "52ec",
       "chave": "dialog__mumbopleased",
       "hash_es": "d2094f82344b51de",
-      "texto_ptbr": "Urso fazer bem, mesmo usando veículos bobos.",
-      "lote": "509"
+      "texto_ptbr": "Urso ir bem, mesmo usando veículos bobos.",
+      "lote": "610"
     },
     {
       "id": "52cc",

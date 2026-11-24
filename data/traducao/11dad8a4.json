@@ -6,8 +6,8 @@
       "id": "2347",
       "chave": "dialog__game1_beaten",
       "hash_es": "1a3e9e45ab0c93f0",
-      "texto_ptbr": "A evacuação acabou, Banjo, você foi bem. Mas como eu sempre digo, você vai fazer melhor se se esforçar mais!",
-      "lote": "604"
+      "texto_ptbr": "A evacuação acabou, Banjo, você foi bem. Mas como eu sempre digo, você vai se sair melhor se tentar com mais empenho!",
+      "lote": "611"
     },
     {
       "id": "b254",
@@ -111,8 +111,8 @@
       "id": "4aa9",
       "chave": "dialog__game2_objectivesb",
       "hash_es": "e37c1ef4569ea516",
-      "texto_ptbr": "Olha, bafo de inseto, você vai se acalmar se a gente acionar o sistema de segurança? Não queremos que você &quot;estrague&quot; esse belo traje de concha.",
-      "lote": "604"
+      "texto_ptbr": "Olha, bafo de inseto, você vai se acalmar se a gente acionar o sistema de segurança? Não queremos que você &quot;estrague&quot; esse belo agasalho de náilon.",
+      "lote": "615"
     },
     {
       "id": "7f79",
@@ -209,8 +209,8 @@
       "id": "f778",
       "chave": "dialog__game3_successe",
       "hash_es": "058e1d40993262fe",
-      "texto_ptbr": "Urssso e pássaro bem rápidos, mas Blubber não é difícil de vencer. Precisa de um arranque sério de velocidade para ganhar Jiggy!",
-      "lote": "604"
+      "texto_ptbr": "Urssso e pássaro bem rápidos, mas Blubber não ser difícil de vencer. Precisar de um arranque sério de velocidade para ganhar Jiggy!",
+      "lote": "611"
     },
     {
       "id": "c0c4",

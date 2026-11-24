@@ -755,8 +755,8 @@
       "id": "a307",
       "chave": "block__group_plantpot",
       "hash_es": "13cab9f1d3b6b136",
-      "texto_ptbr": "Vaso",
-      "lote": "510"
+      "texto_ptbr": "Vaso de Planta",
+      "lote": "614"
     },
     {
       "id": "3a05",
@@ -804,8 +804,8 @@
       "id": "5187",
       "chave": "block__group_robo",
       "hash_es": "1ecb642f06f6f60a",
-      "texto_ptbr": "Robo-Conserto",
-      "lote": "510"
+      "texto_ptbr": "Robô-Conserto",
+      "lote": "614"
     },
     {
       "id": "6d43",
@@ -1350,8 +1350,8 @@
       "id": "f154",
       "chave": "block__propnopower",
       "hash_es": "cdcbd53a7cc090d4",
-      "texto_ptbr": "Hélice de Teste",
-      "lote": "510"
+      "texto_ptbr": "Hélice Falsa",
+      "lote": "614"
     },
     {
       "id": "6a23",
@@ -1385,15 +1385,15 @@
       "id": "ea02",
       "chave": "block__robofix",
       "hash_es": "1ecb642f06f6f60a",
-      "texto_ptbr": "Robo-Conserto",
-      "lote": "510"
+      "texto_ptbr": "Robô-Conserto",
+      "lote": "614"
     },
     {
       "id": "6f52",
       "chave": "block__rustball",
       "hash_es": "246571c16c71d0f5",
-      "texto_ptbr": "Bola Oxidada",
-      "lote": "510"
+      "texto_ptbr": "Bola Enferrujada",
+      "lote": "614"
     },
     {
       "id": "2b30",

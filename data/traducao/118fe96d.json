@@ -20,8 +20,8 @@
       "id": "9744",
       "chave": "dialog__game1_intro",
       "hash_es": "54f2d58aa3a3eb27",
-      "texto_ptbr": "Não tenho tempo pra joguinhos de fresco. Aqui é força bruta, e nada mais. Pronto pra suar a camisa, moleque?",
-      "lote": "602"
+      "texto_ptbr": "Não tenho tempo pra joguinhos de frescura. Aqui é força bruta, e nada mais. Pronto pra suar a camisa, moleque?",
+      "lote": "612"
     },
     {
       "id": "8026",
@@ -34,8 +34,8 @@
       "id": "4006",
       "chave": "dialog__game1_objectives",
       "hash_es": "777e0f02b39c807e",
-      "texto_ptbr": "Pode rir, passarinha. Ter ossos grandes quer dizer que eu posso arremessar esses caras como bolinhas de pingue-pongue. E você, hein? {PAGEBREAK}Tire eles do ringue num tempo que chegue perto de respeitável e você leva um Jiggy.",
-      "lote": "602"
+      "texto_ptbr": "Pode rir, passarinha. Ter ossos grandes quer dizer que eu posso arremessar esses caras como bolinhas de pingue-pongue. E você, hein? {PAGEBREAK}Empurre eles pra fora do ringue num tempo que chegue perto de respeitável e você leva um Jiggy.",
+      "lote": "612"
     },
     {
       "id": "1938",
@@ -48,8 +48,8 @@
       "id": "1939",
       "chave": "dialog__game1_objectivesrepeat2",
       "hash_es": "537cf8397f6e886d",
-      "texto_ptbr": "Se ficar de brincadeira, isso não é desafio nenhum!",
-      "lote": "602"
+      "texto_ptbr": "Isso não é desafio nenhum se você parar de enrolar!",
+      "lote": "612"
     },
     {
       "id": "d532",
@@ -104,8 +104,8 @@
       "id": "6653",
       "chave": "dialog__game2_successa",
       "hash_es": "c702c65aa41ca709",
-      "texto_ptbr": "{MOODHAPPY}Minha nossa, que salto! Você tirou o Tomás Troféu do topo da classificação! Salve o novo General dos Saltos!",
-      "lote": "602"
+      "texto_ptbr": "{MOODHAPPY}Minha nossa, que salto! Você tirou o Tomás Troféu do topo da classificação! Salve, o novo General dos Saltos!",
+      "lote": "612"
     },
     {
       "id": "6655",
