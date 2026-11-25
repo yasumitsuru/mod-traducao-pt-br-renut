@@ -10,9 +10,11 @@ $cargoHome = Join-Path $env:USERPROFILE '.cargo'
 $destino = Join-Path $raiz 'dist\instalador'
 
 # Os caminhos absolutos sao remapeados em tempo de compilacao: o binario nao publica
-# o nome do usuario nem a pasta do projeto.
+# o nome do usuario nem a pasta do projeto. O /Brepro troca a data e o GUID do PE por
+# valores derivados do conteudo: duas compilacoes do mesmo codigo geram o mesmo SHA-256.
 $flags = @(
     "-C", "target-feature=+crt-static",
+    "-C", "link-arg=/Brepro",
     "--remap-path-prefix=$raiz=projeto",
     "--remap-path-prefix=$cargoHome=registro",
     "--remap-path-prefix=$env:USERPROFILE=usuario"
