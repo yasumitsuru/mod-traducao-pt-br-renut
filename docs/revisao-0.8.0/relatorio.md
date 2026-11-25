@@ -81,7 +81,7 @@ duas voltaram ao texto 0.7.0 por decisão da revisão independente).
 | 18 | SHA-256 do pacote corrigido | **`d250b5959e7f0171355f9d6a3e1ac031e8c123dfb5fbfb0423beca538e20d8db`** (0.7.0: `7cd39a34efbae21dc8d3f919e63349e15df88397080ad59dd07207da0f5b5e25`) |
 | 19 | Validação visual | **PARTIAL** — ver abaixo |
 | 20 | Pendências e bloqueios | ver abaixo e `pendencias.md` |
-| 21 | Revisão independente | 414 correções revisadas: 401 ok, 11 ajustar, 2 reverter; todos os achados aplicados (lote 615) |
+| 21 | Revisão independente | **448 de 448** correções revisadas: 414 nas rodadas R1/R2 (401 ok, 11 ajustar, 2 reverter; achados aplicados no lote 615) + 36 na reconferência R3, que também revalidou os 14 ajustes aplicados depois (50/50 ok) — ver "Auditoria da contagem" |
 | 22 | Commits sincronizados com o GitHub | registrados em `docs/progresso.md` após a publicação |
 | 23 | Launcher e instalador | **não modificados** (hashes de `launcher-patch/`, `installer/`, `app/` e do instalador conferidos antes e depois) |
 | 24 | Release | **nenhuma Release ou tag criada**; v0.7.0 intacta |
@@ -151,3 +151,42 @@ validador e comparação de pacotes).
   cortada à força e nenhum temporizador foi alterado.
 * **Rótulos que cresceram** (a conferir na tela): "Confusão dos Monstros Malucos", "Iniciar sala de
   espera", "Vaso de Planta", "Bola Enferrujada", "Jogando uma partida privada do grupo".
+
+## Auditoria da contagem 448 × 414 (2026-11-25)
+
+A diferença de 34 entre as 448 entradas corrigidas e as 414 da revisão independente vem de:
+
+* **36 entradas que não estavam nas planilhas R1/R2**: 35 frases do Klungo cuja única mudança foi a
+  unificação mecânica "Ursso" → "Urssso" (lote 616) e o rótulo `114483e7[357c]`, incluído pela
+  própria revisão independente no lote 615 para unificar "Sair para o menu principal";
+* **2 entradas revisadas que voltaram ao texto 0.7.0** (`114483e7[938f]` e `[515a]`, revertidas pelo
+  revisor R2) e por isso não contam como corrigidas.
+
+412 + 36 = 448. A reconferência independente **R3** revisou essas 36 entradas e revalidou, depois de
+aplicados, os 13 ajustes pedidos pelos revisores (lote 615), o rótulo 357c e o ajuste final do lote
+618 (50 entradas): **50 ok, 0 ajustar, 0 reverter**. Um script confirmou que nas 35 frases do Klungo a
+única diferença é a grafia, sem alteração acidental, e que os códigos batem com o original. Nenhuma
+tradução aprovada foi alterada nesta etapa.
+
+## Integração ao instalador (2026-11-25)
+
+* O instalador gráfico passou a gerar e conferir o pacote **0.8.0** (`d250b595…d8db`), byte a byte
+  igual ao do `empacotar` e do `tools/gerar_mod.py` (conferido contra a cópia real do jogo).
+* Reconhece a **0.7.0** instalada (pelo SHA histórico `7cd39a34…5e25` e pelo manifesto que ele mesmo
+  grava) e atualiza para a 0.8.0 sem remoção manual, numa transação que restaura a anterior se algo
+  falhar.
+* **Defeito encontrado e corrigido:** o launcher traduzido roda de `launcher-ptbr/` e o reNut procurava
+  os mods nessa pasta; aberto pelo atalho, o jogo ficava em inglês. A cópia do launcher agora recebe
+  `[renut] renut_mods_folder` apontando para a pasta `mods` da instalação, e instalar só a tradução do
+  jogo repara instalações antigas. Confirmado na cópia isolada: "2 of 2 mods enabled in …\reNut\mods"
+  e o jogo em PT-BR 0.8.0 pelo atalho.
+
+## Validação visual (atualização de 2026-11-25)
+
+| Tela | Estado |
+|---|---|
+| Abertura pelo atalho criado pelo instalador (launcher traduzido + mod 0.8.0) | PASS |
+| Título com os textos legais corrigidos na 0.8.0, menu, abertura em sépia, diálogos de Banjo, Kazooie, Jamjars e Grunty, HUD/minimapa de Spiral Mountain | PASS — sem corte, acentos corretos |
+| Mundos, desafios, garagem em uso, tutoriais avançados, créditos finais, multijogador | **NOT_TESTED** — os saves disponíveis são só um perfil, sem progresso; a jogabilidade não é automatizável com segurança |
+
+A homologação visual **não** é integral.
