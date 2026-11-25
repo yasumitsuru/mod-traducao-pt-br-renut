@@ -53,7 +53,7 @@ PASTAS_PROIBIDAS_PUBLICO = {
 
 SUFIXOS_PERMITIDOS_PUBLICO = {
     ".md", ".py", ".json", ".csv", ".toml", ".txt", ".yml", ".yaml", ".sh",
-    ".cmd", ".ps1", ".ini",
+    ".cmd", ".ps1", ".ini", ".rs", ".lock",
 }
 
 NOMES_PERMITIDOS_PUBLICO = {
@@ -106,7 +106,7 @@ REMOTOS_PERMITIDOS = {
     "https://github.com/yasumitsuru/mod-traducao-pt-br-renut",
 }
 EMAIL_PUBLICO = "yasumitsuru@users.noreply.github.com"
-TAGS_PERMITIDAS = {"v0.7.0"}
+TAGS_PERMITIDAS = {"v0.7.0", "v1.0.0"}  # v1.0.0 autorizada pela pessoa em 2026-11-25
 
 
 @dataclass(frozen=True)

@@ -1,0 +1,39 @@
+[package]
+name = "instalador-renut-ptbr"
+version = "1.0.0"
+edition = "2024"
+description = "Instalador grafico portatil da traducao PT-BR para o reNut"
+build = "build.rs"
+
+[lib]
+name = "instalador_renut_ptbr"
+path = "src/lib.rs"
+
+[[bin]]
+name = "instalador-renut-ptbr"
+path = "src/main.rs"
+
+[[bin]]
+name = "renut-instalador-checar"
+path = "src/bin/checar.rs"
+
+[dependencies]
+eframe = { version = "0.36.2", default-features = false, features = ["default_fonts", "glow"] }
+iced-x86 = { version = "1.22.0", default-features = false, features = ["std", "decoder"] }
+memchr = "2.8.3"
+rfd = "0.17.2"
+serde_json = { version = "1.0.154", features = ["preserve_order"] }
+
+[build-dependencies]
+serde_json = "1.0.154"
+
+[target.'cfg(windows)'.dependencies]
+windows-sys = { version = "0.61.2", features = [
+    "Win32_Foundation",
+    "Win32_Storage_FileSystem",
+    "Win32_System_Com",
+    "Win32_UI_Shell",
+] }
+
+[dev-dependencies]
+tempfile = "3.27.0"

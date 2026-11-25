@@ -1,0 +1,146 @@
+# Licenças de terceiros do instalador
+
+Resumo das bibliotecas compiladas no instalador gráfico. Os textos completos das licenças
+(com os avisos de direitos autorais de cada pacote) acompanham a Release como
+`LICENCAS-TERCEIROS.txt` e são gerados a partir do `cargo metadata` do build.
+
+```
+LICENÇAS DE TERCEIROS — Instalador de Tradução PT-BR para reNut
+
+O instalador é código autoral do projeto (licença MIT, ver LICENSE do repositório) e é
+compilado em Rust com as bibliotecas abaixo, todas sob licenças permissivas. As fontes da
+interface vêm do pacote epaint_default_fonts (Ubuntu Font Licence 1.0 e SIL Open Font
+License 1.1). Onde um pacote oferece licenças alternativas ("OU"), o projeto usa a licença
+permissiva (MIT ou Apache-2.0). O instalador não inclui arquivos do jogo nem do reNut: o
+pacote do jogo e a tradução do launcher são gerados no computador do usuário, a partir da
+cópia legítima dele.
+
+Pacotes (114):
+  accesskit 0.24.1 — MIT OR Apache-2.0 — https://github.com/AccessKit/accesskit
+  adler2 2.0.1 — 0BSD OR MIT OR Apache-2.0 — https://github.com/oyvindln/adler2
+  ahash 0.8.12 — MIT OR Apache-2.0 — https://github.com/tkaitchuck/ahash
+  arboard 3.7.0 — MIT OR Apache-2.0 — https://github.com/1Password/arboard
+  arrayvec 0.7.8 — MIT OR Apache-2.0 — https://github.com/bluss/arrayvec
+  bitflags 2.13.2 — MIT OR Apache-2.0 — https://github.com/bitflags/bitflags
+  bytemuck 1.25.2 — Zlib OR Apache-2.0 OR MIT — https://github.com/Lokathor/bytemuck
+  bytemuck_derive 1.12.1 — Zlib OR Apache-2.0 OR MIT — https://github.com/Lokathor/bytemuck
+  byteorder-lite 0.1.0 — Unlicense OR MIT — https://github.com/image-rs/byteorder-lite
+  cfg-if 1.0.5 — MIT OR Apache-2.0 — https://github.com/rust-lang/cfg-if
+  clipboard-win 5.4.3 — BSL-1.0 — https://github.com/DoumanAsh/clipboard-win
+  color 0.3.3 — Apache-2.0 OR MIT — https://github.com/linebender/color
+  crc32fast 1.5.4 — MIT OR Apache-2.0 — https://github.com/srijs/rust-crc32fast
+  cursor-icon 1.2.0 — MIT OR Apache-2.0 OR Zlib — https://github.com/rust-windowing/cursor-icon
+  document-features 0.2.12 — MIT OR Apache-2.0 — https://github.com/slint-ui/document-features
+  dpi 0.1.2 — Apache-2.0 AND MIT — https://github.com/rust-windowing/winit
+  ecolor 0.36.2 — MIT OR Apache-2.0 — https://github.com/emilk/egui
+  eframe 0.36.2 — MIT OR Apache-2.0 — https://github.com/emilk/egui/tree/main/crates/eframe
+  egui 0.36.2 — MIT OR Apache-2.0 — https://github.com/emilk/egui
+  egui-winit 0.36.2 — MIT OR Apache-2.0 — https://github.com/emilk/egui/tree/main/crates/egui-winit
+  egui_glow 0.36.2 — MIT OR Apache-2.0 — https://github.com/emilk/egui/tree/main/crates/egui_glow
+  either 1.19.0 — MIT OR Apache-2.0 — https://github.com/rayon-rs/either
+  emath 0.36.2 — MIT OR Apache-2.0 — https://github.com/emilk/egui/tree/main/crates/emath
+  epaint 0.36.2 — MIT OR Apache-2.0 — https://github.com/emilk/egui/tree/main/crates/epaint
+  epaint_default_fonts 0.36.2 — (MIT OR Apache-2.0) AND OFL-1.1 AND Ubuntu-font-1.0 — https://github.com/emilk/egui/tree/main/crates/epaint_default_fonts
+  equivalent 1.0.2 — Apache-2.0 OR MIT — https://github.com/indexmap-rs/equivalent
+  error-code 3.4.0 — BSL-1.0 — https://github.com/DoumanAsh/error-code
+  euclid 0.22.14 — MIT OR Apache-2.0 — https://github.com/servo/euclid
+  fax 0.2.7 — MIT — https://github.com/pdf-rs/fax
+  fdeflate 0.3.7 — MIT OR Apache-2.0 — https://github.com/image-rs/fdeflate
+  fearless_simd 0.4.1 — Apache-2.0 OR MIT — https://github.com/linebender/fearless_simd
+  flate2 1.1.11 — MIT OR Apache-2.0 — https://github.com/rust-lang/flate2-rs
+  foldhash 0.2.0 — Zlib — https://github.com/orlp/foldhash
+  font-types 0.12.7 — MIT OR Apache-2.0 — https://github.com/googlefonts/fontations
+  glifo 0.2.0 — Apache-2.0 OR MIT — https://github.com/linebender/vello
+  glow 0.17.0 — MIT OR Apache-2.0 OR Zlib — https://github.com/grovesNL/glow
+  glutin 0.32.3 — Apache-2.0 — https://github.com/rust-windowing/glutin
+  glutin-winit 0.5.0 — MIT — https://github.com/rust-windowing/glutin
+  glutin_egl_sys 0.7.1 — Apache-2.0 — https://github.com/rust-windowing/glutin
+  glutin_wgl_sys 0.6.1 — Apache-2.0 — https://github.com/rust-windowing/glutin
+  guillotiere 0.7.0 — MIT/Apache-2.0 — https://github.com/nical/guillotiere
+  half 2.7.1 — MIT OR Apache-2.0 — https://github.com/VoidStarKat/half-rs
+  harfrust 0.12.0 — MIT — https://github.com/harfbuzz/harfrust
+  hashbrown 0.17.1 — MIT OR Apache-2.0 — https://github.com/rust-lang/hashbrown
+  iced-x86 1.22.0 — MIT — https://github.com/icedland/iced
+  image 0.25.10 — MIT OR Apache-2.0 — https://github.com/image-rs/image
+  indexmap 2.14.2 — Apache-2.0 OR MIT — https://github.com/indexmap-rs/indexmap
+  itertools 0.15.0 — MIT OR Apache-2.0 — https://github.com/rust-itertools/itertools
+  itoa 1.0.18 — MIT OR Apache-2.0 — https://github.com/dtolnay/itoa
+  kurbo 0.13.1 — Apache-2.0 OR MIT — https://github.com/linebender/kurbo
+  lazy_static 1.5.1 — MIT OR Apache-2.0 — https://github.com/rust-lang-nursery/lazy-static.rs
+  libloading 0.8.9 — ISC — https://github.com/nagisa/rust_libloading/
+  linebender_resource_handle 0.1.1 — Apache-2.0 OR MIT — https://github.com/linebender/raw_resource_handle
+  litrs 1.0.1 — MIT OR Apache-2.0 — https://github.com/LukasKalbertodt/litrs
+  lock_api 0.4.14 — MIT OR Apache-2.0 — https://github.com/Amanieu/parking_lot
+  log 0.4.35 — MIT OR Apache-2.0 — https://github.com/rust-lang/log
+  memchr 2.8.3 — Unlicense OR MIT — https://github.com/BurntSushi/memchr
+  miniz_oxide 0.8.9 — MIT OR Zlib OR Apache-2.0 — https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide
+  miniz_oxide 0.9.1 — MIT OR Zlib OR Apache-2.0 — https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide
+  moxcms 0.8.1 — BSD-3-Clause OR Apache-2.0 — https://github.com/awxkee/moxcms.git
+  nohash-hasher 0.2.0 — Apache-2.0 OR MIT — https://github.com/paritytech/nohash-hasher
+  num-traits 0.2.19 — MIT OR Apache-2.0 — https://github.com/rust-num/num-traits
+  once_cell 1.21.4 — MIT OR Apache-2.0 — https://github.com/matklad/once_cell
+  parking_lot 0.12.5 — MIT OR Apache-2.0 — https://github.com/Amanieu/parking_lot
+  parking_lot_core 0.9.12 — MIT OR Apache-2.0 — https://github.com/Amanieu/parking_lot
+  peniko 0.6.1 — Apache-2.0 OR MIT — https://github.com/linebender/peniko
+  pin-project-lite 0.2.17 — Apache-2.0 OR MIT — https://github.com/taiki-e/pin-project-lite
+  png 0.18.1 — MIT OR Apache-2.0 — https://github.com/image-rs/image-png
+  polycool 0.4.0 — MIT OR Apache-2.0 — https://github.com/linebender/kurbo
+  proc-macro2 1.0.107 — MIT OR Apache-2.0 — https://github.com/dtolnay/proc-macro2
+  profiling 1.0.18 — MIT OR Apache-2.0 — https://github.com/aclysma/profiling
+  pxfm 0.1.30 — BSD-3-Clause OR Apache-2.0 — https://github.com/awxkee/pxfm
+  quick-error 2.0.1 — MIT/Apache-2.0 — http://github.com/tailhook/quick-error
+  quote 1.0.47 — MIT OR Apache-2.0 — https://github.com/dtolnay/quote
+  raw-window-handle 0.6.2 — MIT OR Apache-2.0 OR Zlib — https://github.com/rust-windowing/raw-window-handle
+  read-fonts 0.41.0 — MIT OR Apache-2.0 — https://github.com/googlefonts/fontations
+  rfd 0.17.2 — MIT — https://github.com/PolyMeilex/rfd
+  scopeguard 1.2.0 — MIT OR Apache-2.0 — https://github.com/bluss/scopeguard
+  self_cell 1.3.0 — Apache-2.0 OR GPL-2.0-only — https://github.com/Voultapher/self_cell
+  serde 1.0.229 — MIT OR Apache-2.0 — https://github.com/serde-rs/serde
+  serde_core 1.0.229 — MIT OR Apache-2.0 — https://github.com/serde-rs/serde
+  serde_json 1.0.154 — MIT OR Apache-2.0 — https://github.com/serde-rs/json
+  simd-adler32 0.3.10 — MIT — https://github.com/mcountryman/simd-adler32
+  skrifa 0.44.0 — MIT OR Apache-2.0 — https://github.com/googlefonts/fontations
+  smallvec 1.16.4 — MIT OR Apache-2.0 — https://github.com/servo/rust-smallvec
+  smol_str 0.2.2 — MIT OR Apache-2.0 — https://github.com/rust-analyzer/smol_str
+  static_assertions 1.1.0 — MIT OR Apache-2.0 — https://github.com/nvzqz/static-assertions-rs
+  syn 2.0.119 — MIT OR Apache-2.0 — https://github.com/dtolnay/syn
+  syn 3.0.9 — MIT OR Apache-2.0 — https://github.com/dtolnay/syn
+  thiserror 2.0.21 — MIT OR Apache-2.0 — https://github.com/dtolnay/thiserror
+  thiserror-impl 2.0.21 — MIT OR Apache-2.0 — https://github.com/dtolnay/thiserror
+  tiff 0.11.3 — MIT — https://github.com/image-rs/image-tiff
+  tracing 0.1.44 — MIT — https://github.com/tokio-rs/tracing
+  tracing-core 0.1.36 — MIT — https://github.com/tokio-rs/tracing
+  unicode-general-category 1.1.0 — Apache-2.0 — https://github.com/yeslogic/unicode-general-category
+  unicode-ident 1.0.27 — (MIT OR Apache-2.0) AND Unicode-3.0 — https://github.com/dtolnay/unicode-ident
+  unicode-segmentation 1.13.3 — MIT OR Apache-2.0 — https://github.com/unicode-rs/unicode-segmentation
+  uuid 1.29.0 — Apache-2.0 OR MIT — https://github.com/uuid-rs/uuid
+  vello_common 0.1.0 — Apache-2.0 OR MIT — https://github.com/linebender/vello
+  vello_cpu 0.1.0 — Apache-2.0 OR MIT — https://github.com/linebender/vello
+  web-time 1.1.0 — MIT OR Apache-2.0 — https://github.com/daxpedda/web-time
+  weezl 0.1.12 — MIT OR Apache-2.0 — https://github.com/image-rs/weezl
+  windows-link 0.2.1 — MIT OR Apache-2.0 — https://github.com/microsoft/windows-rs
+  windows-sys 0.52.0 — MIT OR Apache-2.0 — https://github.com/microsoft/windows-rs
+  windows-sys 0.61.2 — MIT OR Apache-2.0 — https://github.com/microsoft/windows-rs
+  windows-targets 0.52.6 — MIT OR Apache-2.0 — https://github.com/microsoft/windows-rs
+  windows_x86_64_msvc 0.52.6 — MIT OR Apache-2.0 — https://github.com/microsoft/windows-rs
+  winit 0.30.13 — Apache-2.0 — https://github.com/rust-windowing/winit
+  zerocopy 0.8.63 — BSD-2-Clause OR Apache-2.0 OR MIT — https://github.com/google/zerocopy
+  zerocopy-derive 0.8.63 — BSD-2-Clause OR Apache-2.0 OR MIT — https://github.com/google/zerocopy
+  zlib-rs 0.6.8 — Zlib — https://github.com/trifectatechfoundation/zlib-rs
+  zmij 1.0.23 — MIT — https://github.com/dtolnay/zmij
+  zune-core 0.5.3 — MIT OR Apache-2.0 OR Zlib — https://github.com/etemesi254/zune-image
+  zune-jpeg 0.5.15 — MIT OR Apache-2.0 OR Zlib — https://github.com/etemesi254/zune-image/tree/dev/crates/zune-jpeg
+
+Pacotes sem arquivo de licença no código-fonte publicado (licença declarada entre parênteses):
+  accesskit 0.24.1 (MIT OR Apache-2.0)
+  clipboard-win 5.4.3 (BSL-1.0)
+  ecolor 0.36.2 (MIT OR Apache-2.0)
+  eframe 0.36.2 (MIT OR Apache-2.0)
+  egui 0.36.2 (MIT OR Apache-2.0)
+  egui-winit 0.36.2 (MIT OR Apache-2.0)
+  egui_glow 0.36.2 (MIT OR Apache-2.0)
+  emath 0.36.2 (MIT OR Apache-2.0)
+  epaint 0.36.2 (MIT OR Apache-2.0)
+  iced-x86 1.22.0 (MIT)
+  profiling 1.0.18 (MIT OR Apache-2.0)
+```

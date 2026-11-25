@@ -4,6 +4,7 @@
 !/.gitignore
 !/.gitattributes
 !/README.md
+!/CHANGELOG.md
 !/LICENSE
 !/NOTICE.md
 !/AGENTS.md
@@ -24,6 +25,10 @@
 !/.github/**
 !/.githooks/
 !/.githooks/**
+!/Cargo.toml
+!/Cargo.lock
+!/installer/
+!/installer/**
 
 # Dentro das pastas liberadas, estes padrões continuam proibidos.
 data/strings/
@@ -31,6 +36,7 @@ app/
 dist/
 build/
 target/
+installer/LICENCAS-TERCEIROS.txt
 work/
 **/__pycache__/
 *.pyc

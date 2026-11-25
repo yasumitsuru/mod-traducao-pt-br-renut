@@ -1,0 +1,45 @@
+TRADUÇÃO PT-BR PARA RENUT — v1.0.0 (instalador integrado)
+Banjo-Kazooie: Nuts & Bolts no reNut
+
+Componentes: tradução do jogo 0.8.0 · tradução do launcher 0.9.0 · instalador 1.0.0
+
+COMO INSTALAR
+1. Execute Instalador-reNut-PTBR-v1.0.0.exe (não precisa de administrador).
+2. Clique em PROCURAR... e escolha a pasta raiz do reNut (a que contém o renut.exe).
+3. Marque a tradução do jogo, a tradução do launcher e o atalho, como preferir.
+4. Clique em INSTALAR COMPONENTES SELECIONADOS.
+5. Use o atalho "Banjo-Kazooie Nuts & Bolts — PT-BR" da área de trabalho e clique em JOGAR.
+
+O mod já fica habilitado; não é preciso usar o F9. Se abrir o jogo pelo renut.exe original,
+escolha English (1) nas opções (é o idioma interno usado pela tradução).
+
+REMOVER
+Abra o instalador, escolha a pasta do reNut, marque o que quer remover e clique em
+REMOVER SELECIONADOS. Saves, perfis, outros mods e os arquivos originais não são alterados.
+
+COMPATIBILIDADE
+- Tradução do jogo: gerada a partir da sua cópia extraída do jogo; o pacote precisa ter o SHA-256
+  d250b5959e7f0171355f9d6a3e1ac031e8c123dfb5fbfb0423beca538e20d8db.
+- Tradução do launcher: somente reNut big-lua-energy 0.11.21.
+- Windows 10/11 de 64 bits.
+
+SEGURANÇA
+Os arquivos da tradução são gerados no seu computador a partir da sua instalação legítima e
+conferidos por SHA-256. Esta distribuição não inclui o jogo, o reNut, executáveis ou DLLs
+traduzidos, nem o pacote .nbpatch. O instalador não baixa nada e não envia dados.
+Confira os arquivos com SHA256SUMS.txt:
+  Get-FileHash .\Instalador-reNut-PTBR-v1.0.0.exe -Algorithm SHA256
+
+LIMITAÇÕES
+- Cobertura visual parcial (mundos, desafios, garagem, créditos e multijogador não foram percorridos
+  na tela).
+- Algumas falas avançam rápido para a leitura; o avanço manual pelo botão A não existe nesta versão.
+- O instalador não tem assinatura digital; o Windows SmartScreen pode avisar.
+
+CRÉDITOS
+Tradução PT-BR: https://github.com/yasumitsuru
+Projeto reNut original: https://github.com/masterspike52/reNut
+Projeto comunitário independente e não oficial, sem afiliação com a Rare, a Microsoft ou os
+desenvolvedores do reNut. Banjo-Kazooie e seus personagens pertencem aos seus titulares.
+Licenças das bibliotecas do instalador: LICENCAS-TERCEIROS.txt.
+Código-fonte: https://github.com/yasumitsuru/mod-traducao-pt-br-renut

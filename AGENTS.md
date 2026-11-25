@@ -104,22 +104,25 @@ dos comandos, não a intenção de rodá-los.
 
 ## Estado do launcher
 
-A tradução do launcher do reNut está na prévia **0.9.0**, não lançada. A cobertura textual é completa
-(225/225 entradas do executável + 2 descrições em DLLs), mas a cobertura visual tem estados PASS,
-PARTIAL, BLOCKED e NOT_TESTED e **não** é 100%. O `renut.exe` e as DLLs originais nunca são
-alterados; o patch é aplicado em cópias.
+A tradução do launcher do reNut (**0.9.0**) é distribuída pelo instalador da **v1.0.0**. A cobertura
+textual é completa (225/225 entradas do executável + 2 descrições em DLLs), mas a cobertura visual tem
+estados PASS, PARTIAL, BLOCKED e NOT_TESTED e **não** é 100%. O `renut.exe` e as DLLs originais nunca
+são alterados; a tradução é aplicada em cópias.
 
 O patch binário não é distribuído porque o reNut não possui licença formal que autorize redistribuir
-binários modificados. O repositório publica o catálogo, o gerador, o aplicador e a documentação; cada
-usuário gera o patch na própria cópia. Não publique executáveis completos, DLLs modificadas ou
-capturas de terceiros.
+binários modificados. O instalador gera o patch **no computador do usuário**, a partir do `renut.exe`
+e das DLLs dele e do catálogo público; o repositório publica o catálogo, os geradores, o aplicador, o
+código do instalador e a documentação. Não publique executáveis completos, DLLs modificadas, patches
+binários ou capturas de terceiros.
 
-O mod do jogo permanece na **v0.7.0** e não deve ser alterado por esta política.
+A tradução do jogo está na **0.8.0** (revisão integral); o pacote `.nbpatch` também é gerado
+localmente e nunca é distribuído.
 
 ## Releases e tags
 
 Não crie Release, tag de versão, asset de Release ou binário de distribuição sem autorização
-explícita do usuário. A Release e a tag **v0.7.0** existentes devem permanecer intactas. Commits
+explícita do usuário. As Releases e as tags **v0.7.0** e **v1.0.0** existentes devem permanecer
+intactas (a v1.0.0 foi autorizada pelo usuário em 2026-11-25, com o instalador como asset). Commits
 normais na `main` são permitidos depois das verificações.
 
 ## Critérios de conclusão

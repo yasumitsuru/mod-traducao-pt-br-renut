@@ -3,152 +3,167 @@
 Tradução de **Banjo-Kazooie: Nuts & Bolts** para português brasileiro, destinada à versão de PC
 executada pelo projeto [reNut](https://github.com/masterspike52/reNut).
 
-Esta é a versão **0.7.0**, com **100% de cobertura textual do catálogo**: 6.110 de 6.110 entradas
-traduzíveis. O jogo em inglês contém 6.099 dessas entradas; as outras 11 são créditos que só existem
-no arquivo em espanhol e ficam traduzidos no catálogo, sem entrar no pacote. O jogo continua com os
-arquivos originais intactos.
+A **distribuição v1.0.0** reúne num único **instalador gráfico portátil**:
 
-> **A Release não traz um `.nbpatch` pronto para copiar.** O pacote do reNut carrega cópias dos
-> arquivos de texto do jogo; distribuí-lo exigiria autorização dos titulares. Por isso a Release
-> **v0.7.0** entrega um **gerador local**: ele monta o mesmo pacote validado a partir da sua cópia
-> legítima do jogo. Os arquivos automáticos “Source code” do GitHub não são instaláveis.
+| Componente | Versão |
+|---|---|
+| Distribuição integrada | 1.0.0 |
+| Tradução PT-BR do jogo | 0.8.0 (revisão integral das 6.110 entradas) |
+| Tradução PT-BR do launcher original do reNut | 0.9.0 |
+| Instalador gráfico | 1.0.0 |
 
-## Revisão 0.8.0 (em desenvolvimento, sem Release)
+> **Nada do jogo nem do reNut acompanha o instalador.** O pacote da tradução do jogo e a cópia
+> traduzida do launcher são **gerados no seu computador**, a partir da sua instalação legítima, e
+> conferidos por SHA-256 antes de serem gravados. Os arquivos originais nunca são alterados.
 
-A branch `main` traz a **revisão integral** da tradução do jogo: as 6.110 entradas foram auditadas e
-revisadas (sentido, gramática, voz dos personagens, rimas da Grunty, terminologia e menus), e
-**448 frases foram corrigidas**, sem alterar nomes protegidos, códigos ou a estrutura dos arquivos.
-O relatório completo, a lista de alterações e as pendências estão em `docs/revisao-0.8.0/`.
+## Funcionalidades
 
-A 0.8.0 ainda **não tem Release**. A Release **v0.7.0** continua sendo o pacote estável publicado. Quem
-quiser testar a revisão pode gerar o pacote a partir do código da `main`, com Python 3.11+:
+* Tradução de menus, diálogos, legendas, desafios, objetivos, tutoriais, HUD, peças de veículos e
+  créditos do jogo (cobertura textual de 100% do catálogo: 6.110 de 6.110 entradas).
+* Revisão 0.8.0: 448 frases corrigidas em relação à v0.7.0 (sentido, gramática, rimas da Gruntilda,
+  fala de Humba, Mumbo e Klungo, terminologia e menus), com revisão independente.
+* Tradução da interface do launcher original do reNut (menus, opções, descrições e mensagens),
+  aplicada numa **cópia** do executável e de duas DLLs.
+* Instalador em português, sem Python nem Rust, funcionando offline: escolhe a pasta do reNut, detecta
+  o que está instalado, instala ou remove cada componente, cria o atalho na área de trabalho, atualiza
+  a v0.7.0 automaticamente e desfaz tudo se algo falhar.
 
-```
-python -I tools/gerar_mod.py --jogo "C:\caminho\da\instalacao\do\reNut"
-```
+Os **nomes oficiais dos mapas e mundos permanecem no idioma original** (Showdown Town, Spiral
+Mountain, Nutty Acres, Banjoland, LOGBOX 720, Jiggosseum, Terrarium of Terror, Test-O-Track e
+Klungo's Arcade).
 
-O SHA-256 esperado do `.nbpatch` 0.8.0 é
-`d250b5959e7f0171355f9d6a3e1ac031e8c123dfb5fbfb0423beca538e20d8db`. A validação visual da 0.8.0 cobriu o
-menu e a abertura da história; mundos, desafios, créditos e multijogador foram conferidos pelo texto.
+## Download
 
-## O que o mod traduz
+Página da Release: <https://github.com/yasumitsuru/mod-traducao-pt-br-renut/releases/tag/v1.0.0>
 
-* Menus e telas de configuração.
-* Diálogos e falas dos personagens.
-* Legendas e textos de apoio.
-* Desafios, objetivos e tutoriais.
-* HUD, avisos e mensagens do jogo.
-* Nomes de peças e descrições de veículos.
-* Créditos e demais textos traduzíveis do catálogo.
+Baixe na seção **Assets**:
 
-A cobertura de 100% se refere ao catálogo de textos traduzíveis. Os **nomes oficiais dos mapas e
-mundos permanecem no idioma original** (Showdown Town, Spiral Mountain, Nutty Acres, Banjoland,
-LOGBOX 720, Jiggosseum, Terrarium of Terror, Test-O-Track e Klungo's Arcade).
+* `Instalador-reNut-PTBR-v1.0.0.exe` — o instalador.
+* `SHA256SUMS.txt` — os hashes para conferência.
+* `LEIA-ME.txt` e `LICENCAS-TERCEIROS.txt` — instruções e licenças das bibliotecas usadas.
 
-As telas principais foram conferidas em jogo. Desafios dentro dos mundos, garagem em uso, créditos
-finais, multijogador e cenas posteriores foram validados pelo texto, mas **não foram percorridos
-visualmente**; por isso não afirmamos homologação visual de todas as áreas.
-
-## Launcher do reNut (prévia 0.9.0, não lançada)
-
-O repositório também publica o código, o catálogo e a documentação da tradução da interface do
-launcher original do reNut. O patch binário **não é distribuído**: o reNut não possui licença formal
-que autorize redistribuir binários modificados. O gerador `launcher-patch/gerar_patch.py` cria o
-patch na sua máquina a partir da sua cópia legítima do reNut `big-lua-energy` (0.11.21); o aplicador
-confere o SHA-256 antes e depois de gravar.
-
-- Cobertura textual: 225/225 entradas do executável + 2 descrições em DLLs.
-- Cobertura visual: 14 PASS, 1 PARTIAL, 1 BLOCKED e 6 NOT_TESTED; **não é 100%**.
-- O `renut.exe` e as DLLs originais nunca são alterados; o patch é aplicado em cópias.
-- Instruções: `launcher-patch/LEIA-ME.md`; limites em `docs/relatorio-launcher-0.9.0.md`.
+Os arquivos automáticos “Source code (zip/tar.gz)” do GitHub são o código-fonte do projeto e **não**
+instalam a tradução.
 
 ## Requisitos
 
-* Uma versão compatível do reNut.
-* Instalação funcional de Banjo-Kazooie: Nuts & Bolts.
-* Arquivos legítimos do jogo, fornecidos por você.
-* Python 3.11 ou mais recente, para executar o gerador.
-* Idioma do jogo configurado para **English (1)**, conforme a compatibilidade testada nesta versão.
+* Windows 10 ou 11, 64 bits (x86-64).
+* reNut instalado e com o jogo **já extraído** (a pasta que contém o `renut.exe`).
+* Para a tradução do launcher: reNut **`big-lua-energy` 0.11.21**, com o `renut.exe`, a `rexui.dll`
+  e a `rexhid.dll` originais dessa versão (conferidos por SHA-256).
+* Sua cópia legítima de Banjo-Kazooie: Nuts & Bolts. O instalador **não inclui o jogo**.
 
-O mod **não inclui o jogo**. Nenhum arquivo original é distribuído aqui.
+## Instalação passo a passo
 
-## Como baixar o gerador
+1. Baixe `Instalador-reNut-PTBR-v1.0.0.exe`.
+2. Execute o instalador (não precisa de administrador; se o Windows SmartScreen avisar que o
+   arquivo é desconhecido, confira o SHA-256 e escolha **Mais informações → Executar assim mesmo**).
+3. Clique em **PROCURAR...**.
+4. Selecione a **pasta raiz do reNut** (a que contém o `renut.exe`).
+5. Escolha os componentes: **tradução do jogo**, **tradução do launcher** e **atalho**.
+6. Clique em **INSTALAR COMPONENTES SELECIONADOS** e aguarde a conferência dos hashes.
+7. Use o atalho **Banjo-Kazooie Nuts & Bolts — PT-BR** criado na área de trabalho, clique em
+   **JOGAR** e jogue.
 
-1. Acesse a página da Release **v0.7.0**:
-   <https://github.com/yasumitsuru/mod-traducao-pt-br-renut/releases/tag/v0.7.0>
-2. Na seção **Assets**, baixe `reNut-Traducao-PTBR-v0.7.0-gerador.zip`.
-3. Confira o SHA-256, se quiser:
+O instalador já habilita o mod em `mods.json`; não é preciso ativá-lo pelo menu **F9**. O launcher
+traduzido define o idioma interno do jogo como **English (1)**, que é o idioma usado pela tradução.
+Se você abrir o jogo pelo `renut.exe` original (sem o launcher traduzido), escolha **English (1)**
+nas opções.
+
+## Opções do instalador
+
+| Opção | O que faz |
+|---|---|
+| Tradução do jogo | Gera o pacote 0.8.0 a partir da sua cópia do jogo e instala em `mods/ptbr_traducao`. |
+| Tradução do launcher | Cria `launcher-ptbr/` com uma cópia traduzida do `renut.exe`, da `rexui.dll` e da `rexhid.dll` e aponta essa cópia para a pasta `mods` da instalação. |
+| Atalho | Cria o atalho na área de trabalho (para o launcher traduzido, ou para o `renut.exe` original se só o mod estiver instalado). |
+
+As três opções são independentes. A remoção também pode ser feita por componente.
+
+## Compatibilidade com o reNut
+
+* **Tradução do jogo:** é gerada a partir dos textos da sua cópia extraída; o instalador só instala
+  o pacote se ele bater exatamente com o SHA-256 conferido
+  (`d250b5959e7f0171355f9d6a3e1ac031e8c123dfb5fbfb0423beca538e20d8db`).
+* **Tradução do launcher:** é um patch binário gerado localmente para **uma única versão** do reNut,
+  `big-lua-energy` 0.11.21 (`renut.exe` com SHA-256 `b303e0b1…3fe7`). Com outra versão, a opção fica
+  bloqueada e nada é aplicado à força.
+
+## Atualização de versões anteriores
+
+Se a tradução v0.7.0 estiver instalada, o instalador a reconhece e oferece atualizar para a 0.8.0
+sem remover nada à mão: a pasta antiga é substituída de uma vez e volta se algo falhar. Instalações
+anteriores do launcher traduzido recebem também a correção que faz o launcher carregar a tradução
+(antes ele procurava os mods na própria pasta).
+
+## Desinstalação
+
+Abra o instalador, escolha a pasta do reNut, marque o que quer remover e clique em
+**REMOVER SELECIONADOS**.
+O instalador só apaga o que ele mesmo criou e conferiu: saves, perfis, outros mods, o `renut.exe` e
+as DLLs originais ficam intactos.
+
+## Limitações conhecidas
+
+* **Cobertura visual parcial.** Foram conferidos na tela: título, menu, abertura, diálogos e HUD de
+  Spiral Mountain, inclusive pelo atalho do launcher traduzido. Mundos, desafios, garagem em uso,
+  créditos finais e multijogador foram revisados pelo texto, mas **não foram percorridos
+  visualmente**. O launcher tem estados visuais PASS, PARTIAL, BLOCKED e NOT_TESTED.
+* **Diálogos que avançam sozinhos.** Algumas falas passam rápido para a leitura em português; o
+  avanço manual pelo botão A **não** faz parte desta versão.
+* O launcher traduzido só existe para o reNut `big-lua-energy` 0.11.21.
+* O instalador não tem assinatura digital; o Windows pode mostrar o aviso do SmartScreen.
+* Onze entradas dos créditos existem só no arquivo em espanhol do jogo; estão traduzidas no
+  catálogo, mas não aparecem no arquivo inglês usado pela tradução.
+
+## Solução de problemas
+
+* **“Não encontrei o renut.exe nesta pasta.”** Escolha a pasta que contém o `renut.exe`, não as
+  pastas `game` ou `mods`.
+* **A tradução do jogo está indisponível.** Termine a extração do disco e da atualização no reNut e
+  abra o instalador de novo.
+* **O launcher está bloqueado.** Sua versão do reNut não é a `big-lua-energy` 0.11.21; o mod do jogo
+  continua instalável.
+* **O jogo abriu em inglês.** Use o atalho criado pelo instalador; se abrir pelo `renut.exe`
+  original, escolha **English (1)** nas opções. Se você tinha o launcher traduzido de uma versão
+  anterior do instalador, reinstale a tradução do jogo com esta versão.
+* **A instalação falhou.** Nada fica pela metade: o instalador restaura o estado anterior. Feche o
+  jogo e o reNut e tente de novo.
+
+## Segurança
+
+* Os arquivos da tradução são gerados localmente a partir da sua instalação legítima; a distribuição
+  não acompanha o jogo, o reNut, executáveis traduzidos, DLLs nem o pacote `.nbpatch`.
+* O instalador não baixa nada, não envia dados e funciona offline.
+* Antes de gravar, cada arquivo gerado é conferido por SHA-256; os originais nunca são escritos.
+
+## Verificação de SHA-256
+
+No PowerShell, na pasta onde você baixou os arquivos:
 
 ```
-certutil -hashfile reNut-Traducao-PTBR-v0.7.0-gerador.zip SHA256
+Get-FileHash .\Instalador-reNut-PTBR-v1.0.0.exe -Algorithm SHA256
 ```
 
-4. Extraia o ZIP em uma pasta comum, por exemplo na Área de Trabalho.
+O valor deve ser igual ao listado em `SHA256SUMS.txt` da Release.
 
-O ZIP de código automático do GitHub não serve para instalar o mod.
+## Código-fonte e compilação
 
-## Como gerar o mod
-
-1. Na pasta extraída, clique duas vezes em `GERAR_MOD.bat`.
-2. Quando o programa pedir, informe a pasta do reNut que contém `game\extraido`.
-3. Espere a mensagem `RESULTADO: PASS`. O gerador cria `saida\ptbr_traducao` com `mod.toml` e
-   `ptbr_traducao.nbpatch`.
-4. O SHA-256 esperado do `.nbpatch` gerado pela Release v0.7.0 é
-   `7cd39a34efbae21dc8d3f919e63349e15df88397080ad59dd07207da0f5b5e25`. O gerador confere esse valor
-   e avisa se a sua cópia do jogo for de outra versão.
-
-Alternativa pelo terminal:
+O código do instalador está em `installer/` (Rust). Para compilar o mesmo executável:
 
 ```
-python gerar_mod.py --jogo "C:\caminho\da\instalacao\do\reNut"
+powershell -ExecutionPolicy Bypass -File installer\build-portatil.ps1 -Versao 1.0.0
 ```
 
-## Como instalar
+O catálogo da tradução fica em `data/traducao/`, os lotes de revisão em `data/lotes/`, o glossário
+em `data/glossario.csv` e os nomes protegidos em `data/nomes-protegidos.csv`. O gerador em Python
+(`tools/gerar_mod.py`) produz o mesmo pacote 0.8.0 que o instalador. O relatório da revisão está em
+`docs/revisao-0.8.0/` e o histórico de versões em `CHANGELOG.md`.
 
-1. Copie a pasta `ptbr_traducao` inteira para a pasta `mods` da sua instalação do reNut.
-2. Confira que `mod.toml` e `ptbr_traducao.nbpatch` estão dentro dessa pasta, sem uma subpasta
-   duplicada.
-3. Abra o reNut.
-4. Configure o idioma do jogo para **English (1)**.
-5. Abra o menu de mods com **F9** e confirme que a tradução está habilitada.
-6. Reinicie o jogo, se necessário, para aplicar os recursos do mod.
-7. Inicie o jogo normalmente.
+A Release **v0.7.0** continua disponível com o gerador da versão anterior:
+<https://github.com/yasumitsuru/mod-traducao-pt-br-renut/releases/tag/v0.7.0>
 
-## Por que não há um ZIP instalável pronto
-
-A auditoria do pacote 0.7.0 comparou os 107 arquivos internos com a instalação do jogo. Trinta e um
-são byte-idênticos aos originais; os outros 76 são os contêineres completos do jogo com as frases
-traduzidas. O formato do reNut não é diferencial: publicar o `.nbpatch` seria redistribuir material
-da Rare e da Microsoft. Como não há autorização documentada para isso, a Release publica o gerador
-e mantém o binário fora do GitHub. Se essa autorização existir no futuro, um ZIP pronto poderá ser
-publicado em outra versão, com o mesmo teste de hash.
-
-## Como desativar
-
-Abra o menu de mods com **F9**, desabilite a tradução e reinicie o jogo. Sem o mod, o jogo volta ao
-texto original em inglês. Também é possível remover a pasta `ptbr_traducao` da pasta `mods`.
-
-## Manutenção
-
-* `data/traducao/` guarda a fonte da verdade da tradução: identificador, chave, hash do original e
-  texto em português.
-* `data/lotes/` registra os lotes aplicados; `data/glossario.csv` e `data/nomes-protegidos.csv`
-  definem termos e nomes que não podem mudar.
-* `tools/` contém o leitor e gravador do formato, o validador, o gerador local e o empacotador.
-* `launcher-patch/` contém o catálogo, o gerador, o aplicador e a documentação do launcher; o
-  patch binário é gerado localmente e não entra no repositório.
-* `tests/` contém os testes; rode `python -m pytest` na raiz.
-* `docs/formato-loctext.md` descreve o formato dos arquivos de texto e
-  `docs/manutencao.md` resume o fluxo de trabalho.
-* `AGENTS.md` fixa a política permanente; `docs/politica-publicacao.md` explica o fluxo e as
-  verificações.
-
-Os testes `tests/test_privacidade.py` e `tests/test_seguranca.py` examinam os arquivos rastreados e
-falham se encontrarem caminhos pessoais, e-mails, credenciais ou arquivos do jogo. Antes de cada
-envio, rode `python -m pytest` e `python -I tools/verificar_privacidade.py --publico`. Para bloquear
-commits e pushes automaticamente, ative os ganchos com `git config core.hooksPath .githooks`.
-
-## Sincronização e segurança
+## Sincronização e segurança do repositório
 
 A branch `main` recebe apenas conteúdo auditado. A política permanente está em `AGENTS.md`; o fluxo,
 os testes e os ganchos estão em `docs/politica-publicacao.md`. O histórico privado de desenvolvimento
@@ -161,9 +176,13 @@ os testes e o Gitleaks em cada push e pull request.
 
 **Projeto reNut original:** [masterspike52/reNut](https://github.com/masterspike52/reNut)
 
-Este é um projeto comunitário independente e não oficial, sem afiliação com a Rare, a Microsoft ou
-os desenvolvedores do reNut. Banjo-Kazooie e seus personagens pertencem aos seus respectivos
-titulares. O repositório não distribui arquivos do jogo.
+## Direitos autorais
 
-O código-fonte das ferramentas e dos testes é distribuído sob a licença MIT. A tradução e o jogo
-têm avisos próprios em `NOTICE.md`.
+Este é um projeto comunitário independente e **não oficial**, sem afiliação com a Rare, a Microsoft
+ou os desenvolvedores do reNut, e não é endossado por eles. Banjo-Kazooie, seus personagens e o jogo
+pertencem aos seus respectivos titulares. O repositório e a Release não distribuem arquivos do jogo
+nem do reNut.
+
+O código-fonte das ferramentas, dos testes e do instalador é distribuído sob a licença MIT. A
+tradução e o jogo têm avisos próprios em `NOTICE.md`; as licenças das bibliotecas do instalador
+estão em `LICENCAS-TERCEIROS.txt` (Release) e resumidas em `installer/LICENCAS-TERCEIROS.md`.
