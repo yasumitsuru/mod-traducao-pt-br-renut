@@ -1217,7 +1217,10 @@ impl eframe::App for App {
             visuals.panel_fill = FUNDO;
             visuals.window_fill = CARTAO;
             visuals.window_stroke = egui::Stroke::new(1.0, BORDA);
-            visuals.widgets.inactive.bg_fill = CARTAO_CLARO;
+            // As caixas de marcar usam o fundo de widget inativo: escuro e com contorno claro, para
+            // aparecerem sobre os cartões das opções (com a cor do cartão elas ficavam invisíveis).
+            visuals.widgets.inactive.bg_fill = FUNDO;
+            visuals.widgets.inactive.bg_stroke = egui::Stroke::new(1.5, egui::Color32::from_rgb(132, 152, 186));
             visuals.widgets.hovered.bg_fill = egui::Color32::from_rgb(48, 68, 104);
             visuals.widgets.active.bg_fill = AZUL;
             visuals.selection.bg_fill = AZUL;
