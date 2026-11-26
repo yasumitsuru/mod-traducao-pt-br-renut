@@ -61,7 +61,7 @@ fn executar(script: &str) -> Result<String, String> {
     if !saida.status.success() {
         let erro = String::from_utf8_lossy(&saida.stderr);
         return Err(format!(
-            "O Windows recusou a criacao do atalho: {}",
+            "O Windows recusou a criação do atalho: {}",
             erro.trim()
         ));
     }
@@ -144,7 +144,7 @@ pub fn criar_em(
         ));
     }
     if !saida.contains("OK") {
-        return Err("O Windows não confirmou a criacao do atalho.".into());
+        return Err("O Windows não confirmou a criação do atalho.".into());
     }
     Ok(destino)
 }

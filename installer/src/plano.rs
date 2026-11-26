@@ -213,6 +213,93 @@ fn launcher_parece_nosso(dir: &Path) -> bool {
     exe.is_file() && patch::sha256_arquivo(&exe).map(|s| s == m.output_sha256).unwrap_or(false)
 }
 
+/// Pastas que o próprio reNut cria ao rodar o launcher traduzido (perfil do guia com conquistas,
+/// relatórios de falha, logs, saves relativos). Não são do instalador: nunca entram no manifesto,
+/// sobrevivem à reinstalação e ficam na pasta depois da remoção.
+const DADOS_DE_USO: [&str; 6] = ["guide", "crashdumps", "logs", "save", "user", "sentry"];
+/// Configurações que o instalador grava na cópia e que o launcher pode reescrever.
+const CONFIGS_LAUNCHER: [&str; 3] = ["renut.toml", "renut.cfg", "launcher.cfg"];
+
+fn eh_dado_de_uso(rel: &str) -> bool {
+    let primeiro = rel.split(['/', '\\']).next().unwrap_or("");
+    DADOS_DE_USO.iter().any(|d| d.eq_ignore_ascii_case(primeiro))
+}
+
+/// Sobra de uma remoção anterior: sem o executável traduzido, só com dados de uso do launcher e
+/// configurações. Pode ser reaproveitada pela reinstalação sem perder o perfil.
+fn launcher_so_tem_dados_de_uso(dir: &Path) -> bool {
+    if dir.join(patch::NOME_EXE_TRADUZIDO).exists() {
+        return false;
+    }
+    let Ok(itens) = fs::read_dir(dir) else {
+        return false;
+    };
+    for item in itens.flatten() {
+        let nome = item.file_name().to_string_lossy().to_string();
+        let aceito = if item.path().is_dir() {
+            DADOS_DE_USO.iter().any(|d| d.eq_ignore_ascii_case(&nome))
+        } else {
+            CONFIGS_LAUNCHER.iter().any(|c| c.eq_ignore_ascii_case(&nome))
+        };
+        if !aceito {
+            return false;
+        }
+    }
+    true
+}
+
+fn copiar_arvore(de: &Path, para: &Path) -> Result<(), String> {
+    fs::create_dir_all(para).map_err(|e| format!("Não criei {}: {e}", para.display()))?;
+    let itens = fs::read_dir(de).map_err(|e| format!("Não li {}: {e}", de.display()))?;
+    for item in itens.flatten() {
+        let origem = item.path();
+        let alvo = para.join(item.file_name());
+        if origem.is_dir() {
+            copiar_arvore(&origem, &alvo)?;
+        } else if origem.is_file() {
+            fs::copy(&origem, &alvo)
+                .map_err(|e| format!("Não copiei {}: {e}", origem.display()))?;
+        }
+    }
+    Ok(())
+}
+
+/// Leva os dados de uso da cópia anterior do launcher para a nova. Copia (não move): se a
+/// instalação falhar, a cópia anterior volta inteira.
+fn levar_dados_de_uso(anterior: &Path, nova: &Path) -> Result<Vec<String>, String> {
+    let mut levados = Vec::new();
+    for nome in DADOS_DE_USO {
+        let de = anterior.join(nome);
+        let para = nova.join(nome);
+        if de.is_dir() && !para.exists() {
+            copiar_arvore(&de, &para)?;
+            levados.push(nome.to_string());
+        }
+    }
+    Ok(levados)
+}
+
+/// Confere se a pasta pode ser apagada agora: no Windows, renomear uma pasta falha enquanto um
+/// arquivo dela está aberto (o launcher traduzido rodando, por exemplo). Assim a remoção não
+/// começa e para no meio, deixando o launcher incompleto.
+fn pasta_livre(pasta: &Path) -> bool {
+    let teste = pasta.with_file_name(format!(
+        "{}.conferindo-{}",
+        pasta.file_name().map(|n| n.to_string_lossy().to_string()).unwrap_or_default(),
+        std::process::id()
+    ));
+    if fs::rename(pasta, &teste).is_err() {
+        return false;
+    }
+    for _ in 0..20 {
+        if fs::rename(&teste, pasta).is_ok() {
+            return true;
+        }
+        std::thread::sleep(std::time::Duration::from_millis(100));
+    }
+    false
+}
+
 fn atualizar_mods_json(mods_json: &Path, ativar: bool) -> Result<(), String> {
     let original = if mods_json.is_file() {
         Some(fs::read(mods_json).map_err(|e| format!("Não li {}: {e}", mods_json.display()))?)
@@ -560,17 +647,30 @@ pub fn instalar_com<F: FnMut(Evento)>(
         // Launcher
         if opcoes.launcher {
             let destino = raiz.join(PASTA_LAUNCHER);
+            let mut anterior = None;
             if destino.exists() {
-                if !launcher_parece_nosso(&destino) {
+                if !launcher_parece_nosso(&destino) && !launcher_so_tem_dados_de_uso(&destino) {
                     return Err(format!(
-                        "Já existe a pasta {} com arquivos que não sao deste instalador. \
+                        "Já existe a pasta {} com arquivos que não são deste instalador. \
                          Renomeie-a e tente de novo; nada foi alterado.",
                         destino.display()
                     ));
                 }
-                tx.backup(&destino)?;
+                tx.backup(&destino).map_err(|e| {
+                    format!("{e}. Feche o launcher traduzido e o jogo e tente de novo; nada foi alterado.")
+                })?;
+                anterior = tx.backups.last().map(|(_, b)| b.clone());
             }
             tx.publicar(&pasta_launcher_nova, &destino)?;
+            if let Some(antiga) = &anterior {
+                let levados = levar_dados_de_uso(antiga, &destino)?;
+                if !levados.is_empty() {
+                    resultado.mensagens.push(format!(
+                        "Perfil e dados de uso do launcher traduzido preservados ({}).",
+                        levados.join(", ")
+                    ));
+                }
+            }
             let m = patch::manifesto()?;
             if patch::sha256_arquivo(&destino.join(patch::NOME_EXE_TRADUZIDO))? != m.output_sha256 {
                 return Err("O launcher publicado não passou na conferência.".into());
@@ -595,13 +695,13 @@ pub fn instalar_com<F: FnMut(Evento)>(
                 (
                     pasta.join(patch::NOME_EXE_TRADUZIDO),
                     pasta,
-                    "Banjo-Kazooie: Nuts & Bolts em portugues do Brasil (launcher reNut traduzido)",
+                    "Banjo-Kazooie: Nuts & Bolts em português do Brasil (launcher reNut traduzido)",
                 )
             } else {
                 (
                     raiz.join("renut.exe"),
                     raiz.clone(),
-                    "Banjo-Kazooie: Nuts & Bolts em portugues do Brasil (mod PT-BR)",
+                    "Banjo-Kazooie: Nuts & Bolts em português do Brasil (mod PT-BR)",
                 )
             };
             if !alvo.is_file() {
@@ -657,7 +757,12 @@ pub fn instalar_com<F: FnMut(Evento)>(
         if resultado.launcher_ok {
             let destino = raiz.join(PASTA_LAUNCHER);
             let m = patch::manifesto()?;
-            let arquivos = listar_arquivos(&destino);
+            // Os dados de uso (perfil do guia, logs...) não são do instalador: ficam fora do
+            // manifesto para que a remoção nunca os apague.
+            let arquivos: Vec<(String, String)> = listar_arquivos(&destino)
+                .into_iter()
+                .filter(|(rel, _)| !eh_dado_de_uso(rel))
+                .collect();
             let dlls = patch::componentes()?
                 .iter()
                 .map(|c| (c.file.clone(), c.output_sha256.clone()))
@@ -708,6 +813,26 @@ pub fn remover<F: FnMut(Evento)>(
     let mut mensagens = Vec::new();
     let mut manifesto = det.manifesto.clone().unwrap_or_default();
     manifesto.raiz = raiz.to_string_lossy().to_string();
+
+    // Antes de mudar qualquer coisa: nada do que vai sair pode estar aberto (jogo ou launcher
+    // rodando). Sem isso a remoção pararia no meio e deixaria o launcher incompleto.
+    let mut ocupadas = Vec::new();
+    for (pedido, pasta) in [
+        (remocao.mod_jogo, &det.mod_pasta),
+        (remocao.launcher, &det.launcher_pasta),
+    ] {
+        if let (true, Some(p)) = (pedido, pasta) {
+            if p.exists() && !pasta_livre(p) {
+                ocupadas.push(p.display().to_string());
+            }
+        }
+    }
+    if !ocupadas.is_empty() {
+        return Err(format!(
+            "Feche o jogo e o launcher traduzido e tente de novo: {} está em uso. Nada foi removido.",
+            ocupadas.join(" e ")
+        ));
+    }
 
     if remocao.mod_jogo {
         etapa(emitir, 1, "Removendo tradução do jogo");
@@ -766,7 +891,7 @@ pub fn remover<F: FnMut(Evento)>(
         etapa(emitir, 2, "Removendo launcher traduzido");
         if let Some(pasta) = &det.launcher_pasta {
             if pasta.exists() {
-                if !launcher_parece_nosso(pasta) {
+                if !launcher_parece_nosso(pasta) && !launcher_so_tem_dados_de_uso(pasta) {
                     return Err(format!(
                         "A pasta {} não é o launcher criado por este instalador; nada foi removido.",
                         pasta.display()
@@ -790,8 +915,15 @@ pub fn remover<F: FnMut(Evento)>(
                     Ok(_) => mensagens.push("Launcher traduzido removido; originais intactos.".into()),
                     Err(e) => mensagens.push(e),
                 }
-                if !pasta.exists() {
+                if !pasta.join(patch::NOME_EXE_TRADUZIDO).exists() {
                     manifesto.launcher = None;
+                }
+                if pasta.exists() && launcher_so_tem_dados_de_uso(pasta) {
+                    mensagens.push(format!(
+                        "A pasta {} ficou só com o perfil e os dados de uso do launcher traduzido; \
+                         eles voltam a ser usados se você reinstalar o launcher.",
+                        pasta.display()
+                    ));
                 }
             } else {
                 manifesto.launcher = None;
@@ -799,7 +931,7 @@ pub fn remover<F: FnMut(Evento)>(
         }
     }
 
-    // Se o launcher saiu é o atalho era nosso, ele não pode continuar apontando para um
+    // Se o launcher saiu e o atalho era nosso, ele não pode continuar apontando para um
     // executável que não existe: volta para o reNut original (mod continua) ou é removido.
     if remocao.launcher && !remocao.atalho {
         if let Some(a) = det.manifesto.as_ref().and_then(|m| m.atalho.clone()) {
@@ -808,7 +940,7 @@ pub fn remover<F: FnMut(Evento)>(
                 if manifesto.mod_jogo.is_some() {
                     let alvo = raiz.join("renut.exe");
                     if alvo.is_file() {
-                        atalho::criar(&alvo, &raiz, "Banjo-Kazooie: Nuts & Bolts em portugues do Brasil (mod PT-BR)")?;
+                        atalho::criar(&alvo, &raiz, "Banjo-Kazooie: Nuts & Bolts em português do Brasil (mod PT-BR)")?;
                         manifesto.atalho = Some(a);
                         mensagens.push(
                             "O atalho agora aponta para o reNut original, porque o launcher traduzido foi removido."
@@ -892,6 +1024,70 @@ mod tests {
         assert!(!mod_habilitado(&p));
         let v: Value = serde_json::from_slice(&fs::read(&p).unwrap()).unwrap();
         assert_eq!(v["load_order"].as_array().unwrap().len(), 1);
+        let _ = fs::remove_dir_all(&dir);
+    }
+
+    fn pasta_de_teste(nome: &str) -> PathBuf {
+        let dir = std::env::temp_dir().join(format!("{nome}-{}", std::process::id()));
+        let _ = fs::remove_dir_all(&dir);
+        fs::create_dir_all(&dir).unwrap();
+        dir
+    }
+
+    #[test]
+    fn sobra_com_perfil_do_launcher_pode_ser_reaproveitada() {
+        let dir = pasta_de_teste("launcher-sobra");
+        fs::create_dir_all(dir.join("guide").join("gamerpics")).unwrap();
+        fs::write(dir.join("guide").join("achievements.json"), b"{}").unwrap();
+        fs::write(dir.join("guide").join("gamerpics").join("1.png"), b"png").unwrap();
+        fs::write(dir.join("renut.cfg"), b"# alterado pelo reNut").unwrap();
+        assert!(launcher_so_tem_dados_de_uso(&dir));
+        assert!(eh_dado_de_uso("guide/achievements.json"));
+        assert!(!eh_dado_de_uso("rexui.dll"));
+
+        // Qualquer arquivo desconhecido (uma DLL, outro executável) mantém a recusa.
+        fs::write(dir.join("outra.dll"), b"x").unwrap();
+        assert!(!launcher_so_tem_dados_de_uso(&dir));
+        fs::remove_file(dir.join("outra.dll")).unwrap();
+        // Com o executável traduzido presente, a pasta é um launcher, não uma sobra.
+        fs::write(dir.join(patch::NOME_EXE_TRADUZIDO), b"x").unwrap();
+        assert!(!launcher_so_tem_dados_de_uso(&dir));
+        let _ = fs::remove_dir_all(&dir);
+    }
+
+    #[test]
+    fn dados_de_uso_vao_para_a_copia_nova_sem_sair_da_antiga() {
+        let antiga = pasta_de_teste("launcher-antiga");
+        let nova = pasta_de_teste("launcher-nova");
+        fs::create_dir_all(antiga.join("guide").join("titles")).unwrap();
+        fs::write(antiga.join("guide").join("titles").join("t.json"), b"conquistas").unwrap();
+        fs::create_dir_all(antiga.join("crashdumps")).unwrap();
+        fs::write(antiga.join("renut.toml"), b"antigo").unwrap();
+        let levados = levar_dados_de_uso(&antiga, &nova).unwrap();
+        assert_eq!(levados, vec!["guide".to_string(), "crashdumps".to_string()]);
+        assert_eq!(fs::read(nova.join("guide").join("titles").join("t.json")).unwrap(), b"conquistas");
+        assert!(antiga.join("guide").join("titles").join("t.json").is_file(), "copia, não move");
+        assert!(!nova.join("renut.toml").exists(), "configurações vêm da instalação, não da sobra");
+        let _ = fs::remove_dir_all(&antiga);
+        let _ = fs::remove_dir_all(&nova);
+    }
+
+    #[test]
+    fn pasta_com_arquivo_aberto_nao_esta_livre() {
+        let dir = pasta_de_teste("launcher-aberto");
+        let arq = dir.join("renut.ptbr.exe");
+        fs::write(&arq, b"x").unwrap();
+        assert!(pasta_livre(&dir));
+        assert!(arq.is_file(), "a conferência devolve a pasta ao nome original");
+        #[cfg(windows)]
+        {
+            use std::os::windows::fs::OpenOptionsExt;
+            let aberto = fs::OpenOptions::new().read(true).share_mode(0).open(&arq).unwrap();
+            assert!(!pasta_livre(&dir));
+            drop(aberto);
+            assert!(pasta_livre(&dir));
+        }
+        assert!(dir.is_dir());
         let _ = fs::remove_dir_all(&dir);
     }
 }
