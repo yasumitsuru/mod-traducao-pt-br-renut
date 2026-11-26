@@ -42,6 +42,12 @@ launcher **0.9.0** e instalador **1.0.0**.
 - Reinstalação e remoção por componente, preservando saves, perfis, outros mods e originais.
 - Rollback: se algo falha, o estado anterior é restaurado.
 - Correção do carregamento de mods pelo launcher traduzido (ele procurava os mods na própria pasta).
+- Perfil do guia do launcher traduzido (conta e conquistas em `launcher-ptbr/guide`) preservado na
+  reinstalação e na remoção.
+- Com o jogo ou o launcher aberto, instalação e remoção recusam antes de mudar qualquer coisa.
+- Atalho gravado pela interface nativa do Windows: funciona em caminhos com qualquer caractere.
+- Caixas de marcar visíveis no tema escuro.
+- Compilação reproduzível (o mesmo código gera o mesmo SHA-256).
 - Correções ortográficas nas mensagens do instalador.
 
 ## v0.7.0 (2026-11-22)

@@ -16,6 +16,7 @@ escolha English (1) nas opções (é o idioma interno usado pela tradução).
 REMOVER
 Abra o instalador, escolha a pasta do reNut, marque o que quer remover e clique em
 REMOVER SELECIONADOS. Saves, perfis, outros mods e os arquivos originais não são alterados.
+Feche o jogo e o launcher antes de instalar ou remover.
 
 COMPATIBILIDADE
 - Tradução do jogo: gerada a partir da sua cópia extraída do jogo; o pacote precisa ter o SHA-256
@@ -35,6 +36,8 @@ LIMITAÇÕES
   na tela).
 - Algumas falas avançam rápido para a leitura; o avanço manual pelo botão A não existe nesta versão.
 - O instalador não tem assinatura digital; o Windows SmartScreen pode avisar.
+- O launcher traduzido tem perfil do guia próprio (conta e conquistas) em launcher-ptbr\guide;
+  os saves são os mesmos do reNut original.
 
 CRÉDITOS
 Tradução PT-BR: https://github.com/yasumitsuru

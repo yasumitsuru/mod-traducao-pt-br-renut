@@ -113,6 +113,9 @@ as DLLs originais ficam intactos.
   avanço manual pelo botão A **não** faz parte desta versão.
 * O launcher traduzido só existe para o reNut `big-lua-energy` 0.11.21.
 * O instalador não tem assinatura digital; o Windows pode mostrar o aviso do SmartScreen.
+* O launcher traduzido guarda um perfil do guia próprio (conta e conquistas) em
+  `launcher-ptbr/guide`, separado do perfil do `renut.exe` original; os saves são os mesmos. Esse
+  perfil é preservado na reinstalação e na remoção.
 * Onze entradas dos créditos existem só no arquivo em espanhol do jogo; estão traduzidas no
   catálogo, mas não aparecem no arquivo inglês usado pela tradução.
 
@@ -129,6 +132,8 @@ as DLLs originais ficam intactos.
   anterior do instalador, reinstale a tradução do jogo com esta versão.
 * **A instalação falhou.** Nada fica pela metade: o instalador restaura o estado anterior. Feche o
   jogo e o reNut e tente de novo.
+* **“... está em uso. Nada foi alterado.”** O jogo ou o launcher traduzido está aberto. Feche-o e
+  repita a instalação ou a remoção.
 
 ## Segurança
 

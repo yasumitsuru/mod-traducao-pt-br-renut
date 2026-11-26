@@ -9,6 +9,8 @@
 - **Atualização automática** de instalações anteriores (tradução v0.7.0).
 - **Atalho na área de trabalho** que abre o launcher traduzido com a tradução do jogo carregada.
 - **Instalação e remoção independentes** de cada componente, com verificação de SHA-256 e rollback.
+- **Perfil do launcher traduzido preservado** na reinstalação e na remoção; instalação e remoção
+  recusam com segurança se o jogo ou o launcher estiver aberto.
 
 ## Como instalar
 
@@ -40,6 +42,8 @@ O mod já fica habilitado (não é preciso usar o F9). Se abrir o jogo pelo `ren
   manual pelo botão A ainda **não** existe e está planejado para uma versão futura.
 - O launcher tem estados visuais ainda PARTIAL, BLOCKED e NOT_TESTED em algumas telas.
 - O instalador não tem assinatura digital; o Windows SmartScreen pode avisar.
+- O launcher traduzido tem um perfil do guia próprio (conta e conquistas) em
+  `launcher-ptbr/guide`, separado do perfil do `renut.exe` original. Os saves são os mesmos.
 - Onze entradas dos créditos existem só no arquivo em espanhol do jogo e não aparecem no inglês.
 
 ## Segurança

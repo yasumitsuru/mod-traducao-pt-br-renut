@@ -34,16 +34,18 @@ installer/
     lsbl.rs           porte de tools/nbptbr/lsbl.py
     loctext.rs        leitura/escrita de um texto do jogo
     zipw.rs           ZIP byte a byte igual ao do gerador Python
-    patch.rs          patch do launcher com verificação total (exe + 2 DLLs)
-    atalho.rs         atalho .lnk pela API do Windows (WScript.Shell)
+    patch.rs          conferência do launcher (exe + 2 DLLs) e remoção segura
+    gerador_launcher.rs  gera a cópia traduzida a partir do renut.exe e das DLLs do usuário
+    atalho.rs         atalho .lnk pela interface nativa do Windows (IShellLinkW, Unicode)
     manifesto.rs      manifesto privado da instalação
     toml_min.rs       leitura/edição pontual do renut.toml
     sistema.rs        espaço livre, DPI, prefixos de caminho
   tests/              fluxo sintético e teste com a cópia real (opcional)
 ```
 
-Os patches do launcher e os manifestos são lidos em tempo de compilação de `launcher-patch/`
-(`include_str!`): existe uma única fonte da verdade, sem cópias. O catálogo de tradução vem de
+O catálogo público do launcher (`launcher-patch/entradas_launcher.json`) e os manifestos (só
+hashes) são lidos em tempo de compilação de `launcher-patch/` (`include_str!`): existe uma única
+fonte da verdade, sem cópias. Nenhum patch binário é embutido. O catálogo de tradução vem de
 `data/traducao/` pelo `build.rs`.
 
 ## Integração com o reNut
@@ -63,6 +65,12 @@ preservadas linha a linha.
 Se o launcher traduzido for removido e o mod continuar instalado, o atalho é recriado apontando
 para o `renut.exe` original. Se nada mais estiver instalado, o atalho é removido.
 
+O reNut grava o perfil do guia (conta, conquistas, imagens do jogador) ao lado do executável que
+está rodando. Por isso o launcher traduzido tem um perfil próprio em `launcher-ptbr/guide`. Esses
+dados de uso (`guide`, `crashdumps`, `logs`, `save`, `user`, `sentry`) não são do instalador:
+ficam fora do manifesto, são levados para a cópia nova na reinstalação e continuam na pasta
+depois da remoção. Os saves continuam na pasta `save` da instalação (`user_root`).
+
 ## Segurança
 
 * Recusa executáveis e DLLs com hash diferente do manifesto; nunca aplica patch à força.
@@ -74,7 +82,10 @@ para o `renut.exe` original. Se nada mais estiver instalado, o atalho é removid
 * Não sobrescreve pasta de mod, pasta de launcher ou atalho que não sejam comprovadamente do
   instalador.
 * Nada é baixado; nenhuma conexão de rede é usada.
-* Não pede privilégios administrativos.
+* Não pede privilégios administrativos e não abre outros programas (nem PowerShell): o atalho é
+  gravado pela interface COM do próprio Windows.
+* Com o jogo ou o launcher traduzido aberto, instalação e remoção recusam antes de mudar
+  qualquer coisa (a pasta em uso é detectada), em vez de parar no meio.
 
 ## Testes
 
@@ -85,8 +96,9 @@ cargo test -p instalador-renut-ptbr
 Cobre: CAFF/LSBL ida e volta, ZIP byte a byte contra o `zipfile` do Python, catálogo de 107
 arquivos, manifesto, edição do `renut.toml`, detecção de pasta vazia/inexistente, instalação e
 reinstalação do mod em pasta com espaços e acentos, recusa de pasta estranha, cancelamento,
-hash divergente, remoção preservando outros mods, remoção que recusa arquivo alterado e criação
-real de atalho `.lnk` (Windows).
+hash divergente, remoção preservando outros mods, remoção que recusa arquivo alterado, criação
+real de atalho `.lnk` (inclusive em caminho com japonês), perfil do launcher preservado na
+reinstalação e pasta em uso detectada (Windows).
 
 Teste com a cópia real do jogo (opcional, não roda por padrão):
 
@@ -115,7 +127,7 @@ renut-instalador-checar remover  "<pasta do reNut>" --jogo --launcher --atalho
 cargo build --release -p instalador-renut-ptbr
 ```
 
-O executável fica em `target/release/instalador-renut-ptbr.exe` (cerca de 8,7 MB). Copie-o como
+O executável fica em `target/release/instalador-renut-ptbr.exe` (cerca de 8,6 MB). Copie-o como
 `Instalador-reNut-PTBR.exe`; é um único arquivo, sem Python, Rust, instalador ou runtime
 adicional. Windows 10/11 x86-64, com o runtime C embutido (não exige o pacote VC++).
 
@@ -125,7 +137,8 @@ Para gerar o build **sanitizado** (sem caminhos da máquina de desenvolvimento n
 powershell -ExecutionPolicy Bypass -File installer\build-portatil.ps1 -Versao 1.0.0
 ```
 
-O script liga o runtime C estaticamente e remapeia os caminhos em tempo de compilação, compila com o
+O script liga o runtime C estaticamente, remapeia os caminhos em tempo de compilação, usa `/Brepro`
+(data e GUID do PE derivados do conteúdo: o mesmo código gera o mesmo SHA-256), compila com o
 `Cargo.lock` travado (`--locked`), copia o executável para
 `dist/instalador/Instalador-reNut-PTBR-v1.0.0.exe` (sem `-Versao`, `Instalador-reNut-PTBR.exe`) e
 grava `SHA256SUMS.txt`. Ele falha se algum caminho local sobrar no binário.
