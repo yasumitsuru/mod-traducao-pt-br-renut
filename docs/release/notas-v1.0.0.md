@@ -41,6 +41,12 @@ O mod já fica habilitado (não é preciso usar o F9). Se abrir o jogo pelo `ren
 - **Diálogos que avançam sozinhos:** algumas falas podem passar rápido para a leitura. O avanço
   manual pelo botão A ainda **não** existe e está planejado para uma versão futura.
 - O launcher tem estados visuais ainda PARTIAL, BLOCKED e NOT_TESTED em algumas telas.
+- **Atualização automática do reNut:** ao abrir, o reNut 0.11.21 instala sozinho a versão nova
+  publicada no GitHub. Nos testes, a cópia traduzida recebeu as DLLs novas e continuou abrindo em
+  PT-BR, com o jogo carregando a tradução 0.8.0, mas essa combinação não é homologada e as duas
+  descrições das DLLs voltam ao inglês. Se o `renut.exe` original se atualizar, a tradução do
+  launcher fica bloqueada no instalador (a tradução do jogo continua instalável, sem teste com a
+  versão nova do reNut).
 - O instalador não tem assinatura digital; o Windows SmartScreen pode avisar.
 - O launcher traduzido tem um perfil do guia próprio (conta e conquistas) em
   `launcher-ptbr/guide`, separado do perfil do `renut.exe` original. Os saves são os mesmos.

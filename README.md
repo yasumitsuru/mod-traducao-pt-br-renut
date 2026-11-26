@@ -112,6 +112,14 @@ as DLLs originais ficam intactos.
 * **Diálogos que avançam sozinhos.** Algumas falas passam rápido para a leitura em português; o
   avanço manual pelo botão A **não** faz parte desta versão.
 * O launcher traduzido só existe para o reNut `big-lua-energy` 0.11.21.
+* **Atualização automática do reNut.** Ao abrir, o reNut 0.11.21 procura uma versão nova no GitHub
+  e a instala sozinho. Nos testes de 2026-11-26 isso aconteceu com a cópia traduzida: a pasta
+  `launcher-ptbr` recebeu as DLLs da versão nova e um `renut.exe` novo (sem tradução), e o atalho
+  continuou abrindo o `renut.ptbr.exe` traduzido. A interface seguiu em PT-BR e o jogo abriu com a
+  tradução 0.8.0 carregada, mas essa combinação **não é homologada** e as duas descrições traduzidas
+  das DLLs voltam ao inglês. Depois disso o instalador mostra a cópia do launcher como incompleta.
+  Se o `renut.exe` original também se atualizar, a opção de traduzir o launcher fica bloqueada; a
+  tradução do jogo continua instalável, mas não foi testada com a versão nova do reNut.
 * O instalador não tem assinatura digital; o Windows pode mostrar o aviso do SmartScreen.
 * O launcher traduzido guarda um perfil do guia próprio (conta e conquistas) em
   `launcher-ptbr/guide`, separado do perfil do `renut.exe` original; os saves são os mesmos. Esse
@@ -130,6 +138,9 @@ as DLLs originais ficam intactos.
 * **O jogo abriu em inglês.** Use o atalho criado pelo instalador; se abrir pelo `renut.exe`
   original, escolha **English (1)** nas opções. Se você tinha o launcher traduzido de uma versão
   anterior do instalador, reinstale a tradução do jogo com esta versão.
+* **“Existe uma cópia do launcher, mas ela não está completa.”** O reNut atualizou sozinho a cópia
+  traduzida. Se o `renut.exe` original ainda for o 0.11.21, marque a tradução do launcher e instale
+  de novo para restaurar a cópia (o perfil é preservado); o reNut pode atualizá-la outra vez ao abrir.
 * **A instalação falhou.** Nada fica pela metade: o instalador restaura o estado anterior. Feche o
   jogo e o reNut e tente de novo.
 * **“... está em uso. Nada foi alterado.”** O jogo ou o launcher traduzido está aberto. Feche-o e
