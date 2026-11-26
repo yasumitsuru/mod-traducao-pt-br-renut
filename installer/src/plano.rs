@@ -458,6 +458,25 @@ pub fn instalar_com<F: FnMut(Evento)>(
             det.problemas.first().cloned().unwrap_or_default()
         ));
     }
+    // As pastas que serão substituídas não podem estar em uso (jogo ou launcher abertos).
+    let mut ocupadas = Vec::new();
+    let launcher_atual = raiz.join(PASTA_LAUNCHER);
+    for (pedido, pasta) in [
+        (opcoes.mod_jogo, det.mod_pasta.as_ref()),
+        (opcoes.launcher, Some(&launcher_atual)),
+    ] {
+        if let (true, Some(p)) = (pedido, pasta) {
+            if p.exists() && !pasta_livre(p) {
+                ocupadas.push(p.display().to_string());
+            }
+        }
+    }
+    if !ocupadas.is_empty() {
+        return Err(format!(
+            "Feche o jogo e o launcher traduzido e tente de novo: {} está em uso. Nada foi alterado.",
+            ocupadas.join(" e ")
+        ));
+    }
 
     etapa(emitir, 2, "Validando arquivos");
     let necessario = if opcoes.mod_jogo { 3 * 1024 * 1024 } else { 0 }
